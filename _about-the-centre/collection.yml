@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff and Officers/.keep
-      - Our Staff and Officers.md
       - MLCS Logo/.keep
       - MLCS Logo/MLCS Logo.md
       - MLCS Logo/MLCS Logo in English.md
