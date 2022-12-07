@@ -481,7 +481,56 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h4 style="color:black">2015</h4></label>
     <div>
-      LMAOOO
+      <h3 id="sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu">Sekitar 270 pelajar uji penguasaan kosa kata bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">31/7/2015</td>
+    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="hawazi-jangkaan-ke-atas-pusat-bahasa-terus-meningkat">Hawazi: Jangkaan ke atas Pusat Bahasa terus meningkat</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">15/2/2015</td>
+    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/setempat/hawazi-jangkaan-ke-atas-pusat-bahasa-terus-meningkat"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/hawazi-jangkaan-ke-atas-pusat-bahasa-terus-meningkat</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
