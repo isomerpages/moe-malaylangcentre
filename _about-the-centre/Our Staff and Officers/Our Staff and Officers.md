@@ -31,7 +31,7 @@ Guru Pakar <br>
 [muhamad\_rafi\_abu\_bakar@schools.gov.sg](mailto:muhamad_rafi_abu_bakar@schools.gov.sg) <br>
 [6354 6953](tel:6354 6953)
 
-![20220106-EDIT10](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220106-edit10.jpg?sfvrsn=36a8449e_0)
+![20220106-EDIT10](/images/20220106-edit10.jpeg)
 
 #### [Cikgu Arshid Abdullah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-arshid-abdullah)
 
@@ -39,7 +39,7 @@ Guru Pakar <br>
 [arshid\_abdullah@schools.gov.sg](mailto:arshid_abdullah@schools.gov.sg) <br>
 [6354 6956](tel:6354 6956)
 
-![20220104-EDIT6](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit6.jpg?sfvrsn=844a2f31_0)
+![20220104-EDIT6](/images/20220104-edit6.jpeg)
 
 #### [Cikgu Siti Faridah Omar](/mlcs/about-the-centre/our-staff-officers/staff-officers/puan-siti-faridah-omar)
 
@@ -47,7 +47,7 @@ Guru Pakar <br>
 [siti\_faridah\_omar@schools.gov.sg](mailto:siti_faridah_omar@schools.gov.sg) <br>
 [6354 6952](tel:6354 6952)
 
-![20220107-EDIT14](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220107-edit14.jpg?sfvrsn=3f55d5f7_0)
+![20220107-EDIT14](/images/20220107-edit14.jpeg)
 
 #### [Cikgu Haryati Surana](/mlcs/about-the-centre/our-staff-officers/staff-officers/puan-haryati-surana)
 
@@ -55,7 +55,7 @@ Guru Pakar <br>
 [haryati\_surana@schools.gov.sg](mailto:haryati_surana@schools.gov.sg) <br>
 [6354 6954](tel:6354 6954)
 
-![WhatsApp Image 2022-01-18 at 9.56.35 AM](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/whatsapp-image-2022-01-18-at-9-56-35-am.jpeg?sfvrsn=86219caf_0)
+![WhatsApp Image 2022-01-18 at 9.56.35 AM](/images/whatsapp-image-2022-01-18-at-9-56-35-am.jpeg)
 
 #### [Cikgu Salina Hussin](/mlcs/about-the-centre/our-staff-officers/staff-officers/puan-salina-hussin)
 
@@ -63,7 +63,7 @@ Guru Pakar <br>
 [salina\_hussin@schools.gov.sg](mailto:salina_hussin@schools.gov.sg) <br>
 [6354 6957](tel:6354 6957)
 
-![WhatsApp Image 2022-01-18 at 1.12.41 PM (1)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/whatsapp-image-2022-01-18-at-1-12-41-pm-(1).jpeg?sfvrsn=a44332b2_0)
+![WhatsApp Image 2022-01-18 at 1.12.41 PM (1)](/images/whatsapp-image-2022-01-18-at-1-12-41-pm-(1).jpeg)
 
 #### [Cikgu Muslim Hanafiah](/mlcs/about-the-centre/our-staff-officers/staff-officers/cikgu-muslim-hanafiah)
 
@@ -71,7 +71,7 @@ Guru Pakar <br>
 [Muslim\_Hanafiah@schools.gov.sg](mailto:Muslim_Hanafiah@schools.gov.sg) <br>
 [6354 0235](tel:6354 0235)
 
-![20220104-EDIT5](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit5.jpg?sfvrsn=9f9c065f_0)
+![20220104-EDIT5](/images/20220104-edit5.jpeg)
 
 #### Cikgu Elyyah Kamsin 
 Jurulatih Pusat <br>
