@@ -208,7 +208,56 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h4 style="color:black">2018</h4></label>
     <div>
-      LMAOOO
+      <h3 id="seminar-bahasa-melayu">Seminar Bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">14/3/2018</td>
+    <td class="tg-dewj"><a href="https://berita.mediacorp.sg/mobilem/singapore/kaedah-inovatif-kreatif-perlu-jadi-kemahiran-asas-bagi-setiap/3980924.html"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapore/kaedah-inovatif-kreatif-perlu-jadi-kemahiran-asas-bagi-setiap/3980924.html</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="app-pemacu-pembelajaran-bahasa-melayu">&#39;App&#39; pemacu pembelajaran bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m"> 5/3/2018</td>
+    <td class="tg-dewj"><a href="http://www.beritaharian.sg/bahasa-budaya/app-pemacu-pembelajaran-bahasa-melayu"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/app-pemacu-pembelajaran-bahasa-melayu</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
