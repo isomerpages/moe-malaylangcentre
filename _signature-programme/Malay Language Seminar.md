@@ -32,3 +32,19 @@ Berikut merupakan maklumat berkaitan seminar sebagai rujukan guru:
 Sila kirimkan Kertas Cadangan Kajian menggunakan google form dengan mengklik pautan yang disediakan: [https://forms.gle/ynFsevhe4SuoTJLk7](https://forms.gle/ynFsevhe4SuoTJLk7) 
 
 **Rakaman Zoom: Taklimat Seminar Bahasa Melayu 2022**
+
+### Bahagian 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5u70RM--VsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Bahagian 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lVggEllS8J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Sesi Tanya Jawab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0NXkCByt7dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Sekiranya Cikgu ada pertanyaan, sila hubungi Cikgu Salina Hussin, Guru Pakar menerusi alamat e-mel berikut: salina_hussin@schools.gov.sg 
+
+Terima kasih.
