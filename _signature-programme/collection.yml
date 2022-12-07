@@ -2,5 +2,6 @@ collections:
   signature-programme:
     output: true
     order:
+      - Ceramah Arif Budiman.md
       - Immersion Programme.md
       - Regional Conference.md
