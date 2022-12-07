@@ -264,7 +264,111 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><h4 style="color:black">2017</h4></label>
     <div>
-      LMAOOO
+      <h3 id="pendidik-artis-bergabung-hasil-lagu-spura-bagi-pelajar">Pendidik, artis bergabung hasil lagu S&#39;pura bagi pelajar</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m"> 6/11/2017</td>
+    <td class="tg-dewj"><a href="http://www.beritaharian.sg/setempat/pendidik-artis-bergabung-hasil-lagu-spura-bagi-pelajar"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/pendidik-artis-bergabung-hasil-lagu-spura-bagi-pelajar</span></a> </td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="bahasa-budaya">Bahasa Budaya</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-h2pf{background-color:#D4D4D4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">7/8/2017 </td>
+    <td class="tg-l3jn"><span style="font-weight:600">Jadi juara setelah dua kali sertai pertandingan</span><br><br><a href="http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng"></td>
+    <td class="tg-h2pf"><span style="font-weight:600">Kuiz Pintar Kata mampu perkaya kosa kata murid</span><br><br><a href="http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="seminar-bahasa-melayu">Seminar Bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pfff{color:#330001;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pfff"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-pfff"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">15/3/2017</td>
+    <td class="tg-l3jn"><br><span style="font-weight:600">Pastikan kaedah pengajaran di bilik darjah berkesan </span><br><br><a href="http://www.beritaharian.sg/setempat/pastikan-kaedah-pengajaran-di-bilik-darjah-berkesan" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/pastikan-kaedah-pengajaran-di-bilik-darjah-berkesan</span></a><br></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="4-bahan-pembelajaran-bahasa-melayu-termasuk-sebuah-app-baru-dilancarkan">4 bahan pembelajaran bahasa Melayu termasuk sebuah App baru dilancarkan</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">14/3/2017</td>
+    <td class="tg-ag2m"><br><a href="https://berita.mediacorp.sg/mobilem/singapore/4-bahan-pembelajaran-bahasa-melayu-termasuk-sebuah-app-baru/3594634.html?cid=berita-fb" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapore/4-bahan-pembelajaran-bahasa-melayu-termasuk-sebuah-app-baru/3594634.html?cid=berita-fb</span></a><br></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
 	<li>
