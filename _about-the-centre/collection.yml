@@ -2,9 +2,9 @@ collections:
   about-the-centre:
     output: true
     order:
-      - MLCS Logo/MLCS Logo in English.md
-      - MLCS Logo/MLCS Logo.md
       - MLCS Logo/.keep
+      - MLCS Logo/MLCS Logo.md
+      - MLCS Logo/MLCS Logo in English.md
       - MLCS Song.md
       - Contact Us.md
       - Media Article & Reports.md
