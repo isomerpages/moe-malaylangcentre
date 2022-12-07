@@ -14,3 +14,17 @@ img {
 <body><img src="/images/malaylanguagecenter.svg" alt="MLCS Logo" style="width:35%;">  
   
 </body>
+
+**Lima kelopak daun** – melambangkan lima teras pembangunan guru:
+
+*   Bahasa 
+*   Kesusasteraan 
+*   Budaya 
+*   Pedagogi/ICT
+*   Penilaian
+
+**Warna hijau bertona** melambangkan guru permulaan dan guru mapan yang membentuk masyarakat keguruan di Singapura.
+
+**Warna Jingga** melambangkan keterampilan masyarakat keguruan yang bertenaga untuk belajar sepanjang hayat.
+
+[English Version](/mlcs/about-the-centre/mlcs-logo/mlcs-logo-in-english)
