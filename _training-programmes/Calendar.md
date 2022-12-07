@@ -19,3 +19,34 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 4. [Bengkel Kendalian Guru Anjuran AST 2023](/files/4-bengkel-kendalian-guru-anjuran-ast-2023.pdf)
 
 5. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Simple</label>
+    <div>
+      LMAOOO
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Multi-line Block</label>
+    <div>
+   LMAOOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Multi-line Folded</label>
+    <div>
+      LMAOOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">Ordered List</label>
+    <div>
+     LMAOOO
+    </div>
+  </li>
+</ul>
