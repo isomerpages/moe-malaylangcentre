@@ -27,6 +27,9 @@ Pensyarah Kanan, Universiti Nasional Singapura
 
 **Tempat:** Pusat Bahasa Melayu Singapura
 
-**Slaid Pembentangan:** Sila klik pautan berikut untuk mendapatkan [slaid pembentangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/cab-2022/cab-18-imran-2022-yg-terbilang-yg-hilang-slaid.pdf) Dr. Imran Tajudeen.
+**Slaid Pembentangan:** Sila klik pautan berikut untuk mendapatkan [slaid pembentangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/cab-2022/cab-18-imran-2022-yg-terbilang-yg-hilang-slaid.pdf) ***(PDF file too big!)*** Dr. Imran Tajudeen.
 
 **Abstrak:** Klik pautan berikut untuk mendapatkan[abstrak pembentangan](/files/cab18-yg-terbilang-yg-hilang--abstr-ganti--imran-2022-local.pdf) Dr. Imran Tajudeen.
+
+Siri Ceramah Arif Budiman yang lalu ...
+---------------------------------------
