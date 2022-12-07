@@ -2,6 +2,7 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Our Staff and Officers/Cikgu Haryati Surana.md
       - Our Staff and Officers/Cikgu Salina Hussin.md
       - Our Staff and Officers/Cikgu Muslim Hanafiah.md
       - Our Staff and Officers/Our Staff and Officers.md
