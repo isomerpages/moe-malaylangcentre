@@ -2,4 +2,5 @@ collections:
   training-programmes:
     output: true
     order:
+      - School Based Programme.md
       - Teacher Led Workshop.md
