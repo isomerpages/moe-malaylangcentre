@@ -2,5 +2,6 @@ collections:
   training-programmes:
     output: true
     order:
+      - Course Registration.md
       - School Based Programme.md
       - Teacher Led Workshop.md
