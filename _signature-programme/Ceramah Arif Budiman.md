@@ -118,7 +118,18 @@ Siri Ceramah Arif Budiman yang lalu ...
     <input type="checkbox" id="accordion20">
     <label for="accordion20"><h4>2013</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/cab_10_2.jpeg" alt="Ceramah Arif Budiman Ke-10, 21 September 2013"></p>
+<p><strong>Ceramah Arif Budiman Ke-10, 21 September 2013</strong></p>
+<p><strong>Tajuk</strong>: Takkan Melayu Hilang di Dunia: REaliti dan Harapan</p>
+<p><strong>Penceramah</strong>: Profesor Dr Arndt Graf</p>
+<p>Goethe-University Frankfurt, German</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
+<p><img src="/images/cab_9_5.jpeg" alt="Ceramah Arif Budiman Ke-9, 23 Februari 2013"></p>
+<p><strong>Tajuk</strong>: Bahasa Indonesia dan Bahasa Melayu: Perkembangan Hubungan dan Masa Depannya</p>
+<p><strong>Penceramah</strong>: Profesor Dr Mahsun</p>
+<p>Kepala, Badan Pengembangan dan Pembinaan Bahasa,</p>
+<p>Kementerian Pendidikan dan Kebudayaan Indonesia</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
 </ul>
