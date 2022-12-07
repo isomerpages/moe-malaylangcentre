@@ -537,7 +537,137 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><h4 style="color:black">2014</h4></label>
     <div>
-     LMAOOO
+     <h3 id="185-minit-jawab-130-kuiz-peribahasa">18.5 minit jawab 130 kuiz peribahasa</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">30/8/2014</td>
+    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/setempat/185-minit-jawab-130-kuiz-peribahasa"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/185-minit-jawab-130-kuiz-peribahasa</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="bahasa-melayu-boleh-mekar-di-sini">&#39;Bahasa Melayu boleh mekar di sini&#39;</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">24/6/2014 </td>
+    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/bahasa-budaya/bahasa-melayu-boleh-mekar-di-sini%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/bahasa-melayu-boleh-mekar-di-sini </span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="bijak-peribahasa-guna-aplikasi-telefon-bijak">Bijak peribahasa guna aplikasi telefon bijak</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">14/4/2014 </td>
+    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/setempat/bijak-peribahasa-guna-aplikasi-telefon-bijak%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/bijak-peribahasa-guna-aplikasi-telefon-bijak </span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="pusat-bahasa-melayu-singapura">Pusat Bahasa Melayu Singapura</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-h2pf{background-color:#D4D4D4;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">13/4/2014</td>
+    <td class="tg-l3jn">MLCS yang dibuka rasmi hari ini<br><br><a href="https://www.facebook.com/beritamediacorp/videos/771649152848296/" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">https://www.facebook.com/beritamediacorp/videos/771649152848296/</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng"></td>
+    <td class="tg-h2pf"><span style="font-weight:600">Pusat pertingkat pengajaran dan kerjaya guru bahasa melayu</span><br><br><a href="http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru-bahasa-melayu" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru-bahasa-melayu</span></a><br><br><a href="http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="memperkasa-guru-bahasa">Memperkasa guru bahasa</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m"> 11/3/2014</td>
+    <td class="tg-l3jn"><br><br><a href="http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa </span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
