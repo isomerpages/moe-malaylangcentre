@@ -7,7 +7,7 @@ third_nav_title: Our Staff and Officers
 Professional Staff
 ------------------
 
-![20220105-EDIT8](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220105-edit8.jpg?sfvrsn=c42206b0_0)
+![20220105-EDIT8](/images/20220105-edit8.jpeg)
 
 #### [Dr Fadilah Isnin](/mlcs/about-the-centre/our-staff-officers/staff-officers/dr-fadilah-isnin)
 
@@ -15,7 +15,7 @@ Pengetua Guru Pakar <br>
 [fadilah\_isnin@schools.gov.sg](mailto:fadilah_isnin@schools.gov.sg) <br>
 [6354 6951](tel:6354 6951)
 
-![20220116-EDIT17](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220116-edit17.jpg?sfvrsn=2f51a5a3_0)
+![20220116-EDIT17](/images/20220116-edit17.jpeg)
 
 #### [Cikgu Rahmat Subadah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-rahmat-subadah)
 
@@ -23,7 +23,7 @@ Guru Pakar <br>
 [rahmat\_subadah@schools.gov.sg](mailto:rahmat_subadah@schools.gov.sg) <br>
 [6354 6955](tel:6354 6955)
 
-![20220105-EDIT09](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220105-edit09.jpg?sfvrsn=5f5114d9_0)
+![20220105-EDIT09](/images/20220105-edit09.jpeg)
 
 #### [Cikgu Muhamad Rafi Abu Bakar](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-muhamad-rafi-abu-bakar)
 
