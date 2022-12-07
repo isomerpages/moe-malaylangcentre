@@ -2,4 +2,5 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Contact Us.md
       - Media Article & Reports.md
