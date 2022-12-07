@@ -47,12 +47,16 @@ Siri Ceramah Arif Budiman yang lalu ...
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
-    
   <li>
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><h4>2020</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/20200221-img_2086.jpeg" alt="Ceramah Arif Budiman Ke-16, 21 Februari 2020"></p>
+<p><strong>Ceramah Arif Budiman Ke-16, 21 Februari 2020</strong></p>
+<p><strong>Tajuk:</strong> Masa Depan Bahasa Melayu Di Nusantara</p>
+<p><strong>Penceramah:</strong> Prof Datuk Dr Awang Sariyan</p>
+<p>Penyandang Kursi Za&#39;ba, Institut Peradaban Melayu, Universiti Pendidikan Sultan Idris (UPSI)</p>
+<p><strong>Tempat:</strong> Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
 	<li>
