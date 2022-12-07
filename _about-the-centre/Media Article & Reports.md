@@ -8,63 +8,63 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1"><h4 style="color:black">2021</h4></label>
     <div>
       LMAOOO
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2"><h4 style="color:black">2020</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3"><h4 style="color:black">2019</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4"><h4 style="color:black">2018</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5"><h4 style="color:black">2017</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Simple</label>
+    <label for="accordion6"><h4 style="color:black">2016</h4></label>
     <div>
       LMAOOO
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Multi-line Block</label>
+    <label for="accordion7"><h4 style="color:black">2015</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">Multi-line Folded</label>
+    <label for="accordion8"><h4 style="color:black">2014</h4></label>
     <div>
      LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">Ordered List</label>
+    <label for="accordion9"><h4 style="color:black">2013</h4></label>
     <div>
       LMAOOO
     </div>
