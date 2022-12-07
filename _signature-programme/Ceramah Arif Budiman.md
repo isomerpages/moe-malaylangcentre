@@ -75,7 +75,13 @@ Siri Ceramah Arif Budiman yang lalu ...
     <input type="checkbox" id="accordion17">
     <label for="accordion17"><h4>2018</h4></label>
     <div>
-     LMAOO
+     <p><img src="/images/cab_%2014.jpeg" alt="Ceramah Arif Budiman Ke-14, 20 Julai 2018"></p>
+<p><strong>Ceramah Arif Budiman Ke-14, 20 Julai 2018</strong></p>
+<p><strong>Tajuk</strong>: Naratif Melayu Singapura: Cabaran Berbahasa</p>
+<p><strong>Penceramah</strong>: Encik Sidek Saniff</p>
+<p>Mantan Menteri Negara Kanan, Singapura</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
+
     </div>
   </li>
 	<li>
