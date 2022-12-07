@@ -2,6 +2,8 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Our Staff and Officers/.keep
+      - Our Staff and Officers/Our Staff and Officers.md
       - Our Staff and Officers/Dr Fadilah Isnin.md
       - Our Staff and Officers/Cikgu Rahmat Subadah.md
       - Our Staff and Officers/Cikgu Muhamad Rafi Abu Bakar.md
@@ -10,8 +12,6 @@ collections:
       - Our Staff and Officers/Cikgu Haryati Surana.md
       - Our Staff and Officers/Cikgu Salina Hussin.md
       - Our Staff and Officers/Cikgu Muslim Hanafiah.md
-      - Our Staff and Officers/Our Staff and Officers.md
-      - Our Staff and Officers/.keep
       - MLCS Logo/.keep
       - MLCS Logo/MLCS Logo.md
       - MLCS Logo/MLCS Logo in English.md
