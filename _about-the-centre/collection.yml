@@ -1,4 +1,5 @@
 collections:
   about-the-centre:
     output: true
-    order: []
+    order:
+      - Media Article & Reports.md
