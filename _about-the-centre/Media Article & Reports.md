@@ -674,7 +674,31 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><h4 style="color:black">2013</h4></label>
     <div>
-      LMAOOO
+      <h3 id="bangunan-pusat-bahasa-melayu-singapura-beroperasi-menjelang-sept">Bangunan Pusat Bahasa Melayu Singapura beroperasi menjelang Sept</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">4/6/2013</td>
+    <td class="tg-l3jn"><a href="https://www.facebook.com/beritamediacorp/videos/616336171712929/" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">https://www.facebook.com/beritamediacorp/videos/616336171712929/</span></a><br></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
 </ul>
