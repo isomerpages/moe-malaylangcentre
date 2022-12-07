@@ -47,7 +47,91 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h4 style="color:black">2020</h4></label>
     <div>
-      LMAOOO
+      <h3 id="sambutan-ulang-tahun-ke-10-pusat-bahasa-melayu-singapura">Sambutan Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Berita Harian<br>23/11/2020</td>
+    <td class="tg-dewj"><a href="https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara"><span style="color:#CA2126;background-color:transparent">https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Berita Mediacorp<br>23/11/2020</td>
+    <td class="tg-rhd3"><a href="https://berita.mediacorp.sg/mobilem/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak/4540496.html"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak/4540496.html</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Zaobao<br>25/11/2021</td>
+    <td class="tg-dewj"><a href="https://www.zaobao.com.sg/news/singapore/story20201125-1103625"><span style="color:#CA2126;background-color:transparent">https://www.zaobao.com.sg/news/singapore/story20201125-1103625</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="ceramah-arif-budiman">Ceramah Arif Budiman</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Berita Harian<br>02/03/2020</td>
+    <td class="tg-dewj"><a href="https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia"><span style="color:#CA2126;background-color:transparent">https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="seminar-bahasa-melayu">Seminar Bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Berita Mediacorp<br>25/03/2020</td>
+    <td class="tg-dewj"><a href="https://berita.mediacorp.sg/mobilem/singapura/pusat-bahasa-melayu-s-pura-giat-anjur-kursus-rangsang/4421502.html"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapura/pusat-bahasa-melayu-s-pura-giat-anjur-kursus-rangsang/4421502.html</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
@@ -100,3 +184,5 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     </div>
   </li>
 </ul>
+
+
