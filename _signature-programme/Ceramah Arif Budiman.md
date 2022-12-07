@@ -88,14 +88,30 @@ Siri Ceramah Arif Budiman yang lalu ...
     <input type="checkbox" id="accordion18">
     <label for="accordion18"><h4>2016</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/cab_13_1.jpeg" alt="Ceramah Arif Budiman Ke-13, 20 Mei 2016"></p>
+<p><strong>Ceramah Arif Budiman Ke-13, 20 Mei 2016</strong></p>
+<p><strong>Tajuk</strong>: Naratif Melayu Singapura: Cabaran Berbahasa</p>
+<p><strong>Penceramah</strong>: Profesor Dr Mikihiro Moriyama</p>
+<p>Jabatan Pengajian Asia, Universiti Nanzan, Jepun</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion19">
     <label for="accordion19"><h4>2015</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/cab_12_6.jpeg" alt="Ceramah Arif Budiman Ke-12, 19 September 2015"></p>
+<p><strong>Ceramah Arif Budiman Ke-12, 19 September 2015</strong></p>
+<p><strong>Tajuk</strong>: Orang Melayu dan Tamdun Melayu dalam Historiografi Melayu Islam (kurun ke-13 hingga ke-19)</p>
+<p><strong>Penceramah</strong>: Profesor Dr Tatiana Denisova</p>
+<p>Pusat Kajian Tinggi Islam, Sains dan Peradaban (CASIS)</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
+<p><img src="/images/cab_11_6.jpeg" alt="Ceramah Arif Budiman Ke-11, 14 Februari 2015"></p>
+<p><strong>Tajuk</strong>: Nilai-nilai Asas Jati Diri Melayu Sebagai Perekat Kehidupan Bermasyarakat Berbangsa dan Bernegara</p>
+<p><strong>Penceramah</strong>: Datuk Al Azhar</p>
+<p>Ketua Umum  Dewan Pimpinan Harian</p>
+<p>Lembaga Adat Melayu, Riau, Indonesia</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
 	<li>
