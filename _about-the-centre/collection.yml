@@ -2,6 +2,7 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Our Staff and Officers/Cikgu Muhamad Rafi Abu Bakar.md
       - Our Staff and Officers/Cikgu Arshid Abdullah.md
       - Our Staff and Officers/Cikgu Siti Faridah.md
       - Our Staff and Officers/Cikgu Haryati Surana.md
