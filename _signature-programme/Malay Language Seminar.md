@@ -26,7 +26,7 @@ Tarikh-tarikh penting:
 
 Berikut merupakan maklumat berkaitan seminar sebagai rujukan guru:
 
-*   Slaid bagi [Taklimat Seminar Bahasa Melayu 2022](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/taklimat-seminar-bm-202-(latest).pdf?sfvrsn=d73fa23e_2 "Taklimat Seminar Bahasa Melayu 2022")
+*   Slaid bagi [Taklimat Seminar Bahasa Melayu 2022](/files/taklimat-seminar-bm-202-(latest).pdf)
 *   [Templat borang Kertas Kajian Penuh](https://academyofsingaporeteachers.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-(program-teras)/820d183f-21ff-495a-8cd6-6d7ee792d096 "Templat borang Kertas Kajian Penuh") ***(Link not working!)***
 
 Sila kirimkan Kertas Cadangan Kajian menggunakan google form dengan mengklik pautan yang disediakan: [https://forms.gle/ynFsevhe4SuoTJLk7](https://forms.gle/ynFsevhe4SuoTJLk7) 
