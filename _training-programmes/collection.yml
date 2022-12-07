@@ -1,4 +1,5 @@
 collections:
   training-programmes:
     output: true
-    order: []
+    order:
+      - Teacher Led Workshop.md
