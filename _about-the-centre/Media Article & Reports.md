@@ -138,7 +138,70 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h4 style="color:black">2019</h4></label>
     <div>
-      LMAOOO
+      <h3 id="ceramah-arif-budiman">Ceramah Arif Budiman</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Berita MediaCorp<br>13/7/2019</td>
+    <td class="tg-dewj"><a href="https://berita.mediacorp.sg/mobilem/singapura/ceramah-arif-budiman-ke-15-rungkai-sejarah-asia-tenggara/4307682.html"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapura/ceramah-arif-budiman-ke-15-rungkai-sejarah-asia-tenggara/4307682.html</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Berita Harian<br>13/7/2019</td>
+    <td class="tg-rhd3"><a href="https://www.beritaharian.sg/setempat/ketahui-sejarah-fahami-jati-diri"><span style="color:#CA2126;background-color:transparent">https://www.beritaharian.sg/setempat/ketahui-sejarah-fahami-jati-diri</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Berita News (Toggle)<br>12/7/2019 </td>
+    <td class="tg-dewj"><a href="https://video.toggle.sg/en/tv-show/news/jul-2019-suria-berita/fri-12-jul-2019/812823"><span style="color:#CA2126;background-color:transparent">https://video.toggle.sg/en/tv-show/news/jul-2019-suria-berita/fri-12-jul-2019/812823</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Detik Suria<br>17/7/2019</td>
+    <td class="tg-rhd3"><a href="https://video.toggle.sg/en/series/detik-2019-2020/ep11/814170"><span style="color:#CA2126;background-color:transparent">https://video.toggle.sg/en/series/detik-2019-2020/ep11/814170</span></a></td>
+  </tr>
+</tbody>
+</table>
+			<h3 id="seminar-bahasa-melayu">Seminar Bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">27/3/2019</td>
+    <td class="tg-dewj"><a href="https://www.beritaharian.sg/setempat/120-kajian-pengajaran-bahasa-melayu-dibentang-di-persidangan-serantau"><span style="color:#CA2126;background-color:transparent">https://www.beritaharian.sg/setempat/120-kajian-pengajaran-bahasa-melayu-dibentang-di-persidangan-serantau</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
@@ -184,5 +247,3 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     </div>
   </li>
 </ul>
-
-
