@@ -664,7 +664,7 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
 <tbody>
   <tr>
     <td class="tg-ag2m"> 11/3/2014</td>
-    <td class="tg-l3jn"><br><br><a href="http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa </span></a></td>
+    <td class="tg-l3jn"><a href="http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa </span></a></td>
   </tr>
 </tbody>
 </table>
