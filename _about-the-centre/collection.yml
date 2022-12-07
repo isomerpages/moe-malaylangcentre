@@ -2,6 +2,7 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Centre Director's Message/.keep
       - Our Staff and Officers/.keep
       - Our Staff and Officers/Our Staff and Officers.md
       - Our Staff and Officers/Dr Fadilah Isnin.md
