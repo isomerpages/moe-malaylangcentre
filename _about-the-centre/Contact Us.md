@@ -4,7 +4,7 @@ permalink: /mlcs/about-the-centre/contact-us/
 description: ""
 ---
 <img src="/images/malaylanguagecenter.svg"  
-style="width:40%">
+style="width:30%">
 
 
 
