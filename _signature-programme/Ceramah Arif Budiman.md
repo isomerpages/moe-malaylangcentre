@@ -63,7 +63,12 @@ Siri Ceramah Arif Budiman yang lalu ...
     <input type="checkbox" id="accordion16">
     <label for="accordion16"><h4>2019</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/img_6995.jpeg" alt="Ceramah Arif Budiman Ke-15, 12 Julai 2019"></p>
+<p><strong>Ceramah Arif Budiman Ke-15, 12 Julai 2019</strong></p>
+<p><strong>Tajuk</strong>: Singapura Sebelum Raffles</p>
+<p><strong>Penceramah</strong>: Prof Madya Dr Farish Ahmad Noor</p>
+<p>Sekolah Pengajian Antarabangsa, S Rajaratnam, Universiti Teknologi Nanyang</p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
   <li>
