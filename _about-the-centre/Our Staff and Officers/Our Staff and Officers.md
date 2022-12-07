@@ -73,7 +73,7 @@ Guru Pakar <br>
 
 ![20220104-EDIT5](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit5.jpg?sfvrsn=9f9c065f_0)
 
-Cikgu Elyyah Kamsin <br>
+#### Cikgu Elyyah Kamsin 
 Jurulatih Pusat <br>
 [elyyah\_kamsin@schools.gov.sg](mailto:elyyah_kamsin@schools.gov.sg)
 
