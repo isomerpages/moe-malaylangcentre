@@ -82,7 +82,7 @@ Jurulatih Pusat <br>
 Administrative Officers
 -----------------------
 
-![20220104-EDIT4](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit4.jpg?sfvrsn=64c391c4_0)
+![20220104-EDIT4](/images/20220104-edit4.jpeg)
 
 #### Siti Hajjar Mohamed Idrus
 
@@ -90,7 +90,7 @@ Pengurus Pentadbiran <br>
 [Siti\_hajjar\_Mohamed\_idrus@schools.gov.sg](mailto:Siti_hajjar_Mohamed_idrus@schools.gov.sg) <br>
 [6354 6960](tel:6354 6960)
 
-![20220104-EDIT3](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit3.jpg?sfvrsn=f6bd6978_0)
+![20220104-EDIT3](/images/20220104-edit3.jpeg)
 
 #### Rossita Kasly
 
@@ -99,7 +99,7 @@ Program Eksekutif <br>
 
 [6354 6963](tel:6354 6963)
 
-![20220403-IMG_2542](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/20220403-img_2542.jpg?sfvrsn=277f9361_0)
+![20220403-IMG_2542](/images/20220403-img_2542.jpeg)
 
 #### Rohaidah Zainal
 
@@ -107,7 +107,7 @@ Pegawai Pentadbiran <br>
 [Rohaidah\_ZAINAL@schools.gov.sg](mailto:Rohaidah_ZAINAL@schools.gov.sg) <br>
 [6354 6961](tel:6354 6961)
 
-![20220106-EDIT12](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220106-edit12.jpg?sfvrsn=3254c7c7_0)
+![20220106-EDIT12](/images/20220106-edit12.jpeg)
 
 #### Hezrin Mokhtar
 
@@ -115,7 +115,7 @@ Pegawai Pentadbiran <br>
 [Hezrin\_MOKHTAR@schools.gov.sg](mailto:Hezrin_MOKHTAR@schools.gov.sg) <br>
 [6354 6961](tel:6354 6961)
 
-![20220106-EDIT11](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220106-edit11.jpg?sfvrsn=3ab71bc8_0)
+![20220106-EDIT11](/images/20220106-edit11.jpeg)
 
 #### Bani Muhamad Iyad
 
@@ -123,26 +123,26 @@ Eksekutif ICT <br>
 [bani\_muhamad\_iyad\_bani@moe.edu.sg](mailto:bani_muhamad_iyad_bani@moe.edu.sg) <br>
 [6354 6962](tel:6354 6962)
 
-![20220107-EDIT15](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220107-edit15.jpg?sfvrsn=1cbacab5_0)
+![20220107-EDIT15](/images/20220107-edit15.jpeg)
 
 #### Raden Muhammad Zulfaiz
 
 Pegawai ICT (DE)
 
-![20220106-EDIT13](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220106-edit13.jpg?sfvrsn=bc007deb_0)
+![20220106-EDIT13](/images/20220106-edit13.jpeg)
 
 #### Muhammad Hafiz Hamzah
 
 Pegawai ICT (DE)
 
-![20220105-EDIT7](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220105-edit7.jpg?sfvrsn=44e1f7a9_0)
+![20220105-EDIT7](/images/20220105-edit7.jpeg)
 
 #### [Junaidah Hassan](/mlcs/resources/resource-centre)
 
 Pustakawan <br>
 [Junaidah.Hassan@staff.spydus.com.sg](mailto:Junaidah.Hassan@staff.spydus.com.sg)
 
-![20220104-EDIT2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/about-the-centre/staff-officers/20220104-edit2.jpg?sfvrsn=3f4ddd06_0)
+![20220104-EDIT2](/images/20220104-edit2.jpeg)
 
 #### Kumari
 
