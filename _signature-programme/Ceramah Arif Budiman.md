@@ -39,7 +39,12 @@ Siri Ceramah Arif Budiman yang lalu ...
     <input type="checkbox" id="accordion14">
     <label for="accordion14"><h4>2021</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/img_1759%202.jpeg" alt="Ceramah Arif Budiman Ke-17, 02 Julai 2021"></p>
+<p><strong>Ceramah Arif Budiman Ke-17, 02 Julai 2021</strong>  </p>
+<p><strong>Tajuk</strong>: Bahasa Liberatif dalam Lingkungan dan Sejarah: Potensi dan Hambatan  </p>
+<p><strong>Penceramah</strong>: Dr. Azhar Ibrahim Alwee  </p>
+<p>Pensyarah, Universiti Nasional Singapura  </p>
+<p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
     
@@ -86,3 +91,4 @@ Siri Ceramah Arif Budiman yang lalu ...
     </div>
   </li>
 </ul>
+
