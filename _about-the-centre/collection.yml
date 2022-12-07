@@ -2,6 +2,7 @@ collections:
   about-the-centre:
     output: true
     order:
+      - Mission and Vision/.keep
       - Organisation.md
       - Centre Director's Message/.keep
       - Centre Director's Message/Centre Director's Message.md
