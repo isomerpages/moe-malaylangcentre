@@ -19,3 +19,13 @@ style="width:40%">
 ----
 
 ![MLCS Building](/images/mlcs-building.jpeg)
+
+**Sila ajukan pertanyaan anda kepada alamat yang berikut:**
+
+Pusat Bahasa Melayu Singapura
+
+13, Bishan Street 14
+
+Singapura 579787
+
+Atau e-mel kepada: [siti\_hajjar\_mohamed\_idrus@schools.gov.sg](mailto:siti_hajjar_mohamed_idrus@schools.gov.sg)
