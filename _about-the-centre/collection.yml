@@ -2,9 +2,9 @@ collections:
   about-the-centre:
     output: true
     order:
-      - Mission and Vision/Mission and Vision in English.md
-      - Mission and Vision/Mission and Vision.md
       - Mission and Vision/.keep
+      - Mission and Vision/Mission and Vision.md
+      - Mission and Vision/Mission and Vision in English.md
       - Organisation.md
       - Centre Director's Message/.keep
       - Centre Director's Message/Centre Director's Message.md
