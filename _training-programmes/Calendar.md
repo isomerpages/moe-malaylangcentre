@@ -20,6 +20,8 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 
 5. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
 
+<br>
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion10">
