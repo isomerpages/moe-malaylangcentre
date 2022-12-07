@@ -2,6 +2,7 @@ collections:
   about-the-centre:
     output: true
     order:
+      - MLCS Logo/.keep
       - MLCS Song.md
       - Contact Us.md
       - Media Article & Reports.md
