@@ -10,7 +10,37 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h4 style="color:black">2021</h4></label>
     <div>
-      LMAOOO
+      <h3 id="seminar-bahasa-melayu">Seminar Bahasa Melayu</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Berita Mediacorp<br>16/03/2021</td>
+    <td class="tg-dewj"><a href="https://www.straitstimes.com/singapore/gamification-and-video-editing-among-new-approaches-highlighted-in-the-teaching-of-malay"><span style="color:#CA2126;background-color:transparent">https://berita.mediacorp.sg/mobilem/singapura/faishal-guru-perlu-terus-inovasi-tingkat-kemahiran-teknologi/4585296.html</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">The Straits Times<br>16/03/2021</td>
+    <td class="tg-rhd3"><a href="https://www.straitstimes.com/singapore/gamification-and-video-editing-among-new-approaches-highlighted-in-the-teaching-of-malay"><span style="color:#CA2126;background-color:transparent">https://www.straitstimes.com/singapore/gamification-and-video-editing-among-new-approaches-highlighted-in-the-teaching-of-malay</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
 	</li>  
   <li>
@@ -70,3 +100,5 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
     </div>
   </li>
 </ul>
+
+
