@@ -23,30 +23,30 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Simple</label>
+    <label for="accordion10"><h4>Term 1</h4></label>
     <div>
-      LMAOOO
+    -
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Multi-line Block</label>
+    <label for="accordion11"><h4>Term 2</h4></label>
     <div>
-   LMAOOO
+   -
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12">Multi-line Folded</label>
+    <label for="accordion12"><h4>Term 3</h4></label>
     <div>
-      LMAOOO
+      -
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion13">
-    <label for="accordion13">Ordered List</label>
+    <label for="accordion13"><h4>Term 4</h4></label>
     <div>
-     LMAOOO
+     -
     </div>
   </li>
 </ul>
