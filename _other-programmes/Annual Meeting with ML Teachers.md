@@ -51,3 +51,17 @@ Atur Cara Mesyuarat:
 7\. Tamat
 
 **Nota: Sila tonton rakaman** **video dan gambar-gambar** **mesyuarat di bawah.**
+
+#### Ucapan dari Keluarga MLCS
+
+#### 2. Ucapan Puan Norhayati Awang, Pengarah Pusat Bahasa Melayu Singapura
+
+#### MLCS Sedekad - Penghargaan dan Terima Kasih
+
+#### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Rendah)
+
+#### Ucapan dari Keluarga MLCS
+
+#### Ucapan dari Keluarga MLCS
+
+#### Ucapan dari Keluarga MLCS
