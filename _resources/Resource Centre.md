@@ -25,3 +25,4 @@ Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber
 ### Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18
 
 ![Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18](/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg)
+
