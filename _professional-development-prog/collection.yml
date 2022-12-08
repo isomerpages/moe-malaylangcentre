@@ -2,4 +2,5 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - Training Programmes/.keep
       - Professional Development Programmes.md
