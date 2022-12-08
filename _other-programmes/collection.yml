@@ -2,6 +2,7 @@ collections:
   other-programmes:
     output: true
     order:
+      - Annual Meeting with ML Teachers.md
       - Jejak Budaya.md
       - MLCS Visitors.md
       - Professional Sharing 2022 Let's Read Package.md
