@@ -2,15 +2,15 @@ collections:
   professional-development-prog:
     output: true
     order:
-      - Other Programmes/.keep
-      - Signature Programmes/Malay Language Seminar.md
-      - Signature Programmes/Ceramah Arif Budiman.md
-      - Signature Programmes/Immersion Programme.md
-      - Signature Programmes/Regional Conference.md
-      - Signature Programmes/.keep
+      - Professional Development Programmes.md
+      - Training Programmes/.keep
       - Training Programmes/Calendar.md
       - Training Programmes/Course Registration.md
       - Training Programmes/School Based Programme.md
       - Training Programmes/Teacher Led Workshop.md
-      - Training Programmes/.keep
-      - Professional Development Programmes.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Malay Language Seminar.md
+      - Signature Programmes/Ceramah Arif Budiman.md
+      - Signature Programmes/Immersion Programme.md
+      - Signature Programmes/Regional Conference.md
+      - Other Programmes/.keep
