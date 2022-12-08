@@ -166,3 +166,10 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
+![Tatabahasa](/images/Tatabahasa_1.jpg)
+
+![Tatabahasa](/images/Tatabahasa_2.jpg)
+
+![Tatabahasa](/images/Tatabahasa_3.jpg)
+
+![Tatabahasa](/images/Tatabahasa_4.jpg)
