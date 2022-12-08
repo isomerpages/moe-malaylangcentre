@@ -2,4 +2,5 @@ collections:
   other-programmes:
     output: true
     order:
+      - MLCS Visitors.md
       - Professional Sharing 2022 Let's Read Package.md
