@@ -19,6 +19,6 @@ Setiap tahun, MLCS menerima kunjungan atau lawatan daripada pelbagai pertubuhan 
 
 ![MLCS Visitors](/images/MLCS%20Visitors_6.jpg)
 
-![MLCS Visitors](/images/MLCS%20Visitors_7.jpg)
+![MLCS Visitors](/images/MLCS%20Visitors_%207.jpg)
 
 ![MLCS Visitors](/images/MLCS%20Visitors_8.jpg)
