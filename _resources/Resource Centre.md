@@ -89,7 +89,40 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion26">
     <label for="accordion26"><h4>Pedagogi</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Pedagogi_1.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_2.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_3.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_4.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_5.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_6.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_7.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_8.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_9.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_10.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_11.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_12.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_13.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_14.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_15.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_16.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_17.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_18.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_19.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_20.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_21.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_22.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_23.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_24.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_25.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_26.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_27.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_28.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_29.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_30.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_31.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_32.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_33.jpg" alt="Pedagogi"></p>
+<p><img src="/images/Pedagogi_34.jpg" alt="Pedagogi"></p>
     </div>
   </li>
   <li>
@@ -122,70 +155,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Pedagogi](/images/Pedagogi_1.jpg)
-
-![Pedagogi](/images/Pedagogi_2.jpg)
-
-![Pedagogi](/images/Pedagogi_3.jpg)
-
-![Pedagogi](/images/Pedagogi_4.jpg)
-
-![Pedagogi](/images/Pedagogi_5.jpg)
-
-![Pedagogi](/images/Pedagogi_6.jpg)
-
-![Pedagogi](/images/Pedagogi_7.jpg)
-
-![Pedagogi](/images/Pedagogi_8.jpg)
-
-![Pedagogi](/images/Pedagogi_9.jpg)
-
-![Pedagogi](/images/Pedagogi_10.jpg)
-
-![Pedagogi](/images/Pedagogi_11.jpg)
-
-![Pedagogi](/images/Pedagogi_12.jpg)
-
-![Pedagogi](/images/Pedagogi_13.jpg)
-
-![Pedagogi](/images/Pedagogi_14.jpg)
-
-![Pedagogi](/images/Pedagogi_15.jpg)
-
-![Pedagogi](/images/Pedagogi_16.jpg)
-
-![Pedagogi](/images/Pedagogi_17.jpg)
-
-![Pedagogi](/images/Pedagogi_18.jpg)
-
-![Pedagogi](/images/Pedagogi_19.jpg)
-
-![Pedagogi](/images/Pedagogi_20.jpg)
-
-![Pedagogi](/images/Pedagogi_21.jpg)
-
-![Pedagogi](/images/Pedagogi_22.jpg)
-
-![Pedagogi](/images/Pedagogi_23.jpg)
-
-![Pedagogi](/images/Pedagogi_24.jpg)
-
-![Pedagogi](/images/Pedagogi_25.jpg)
-
-![Pedagogi](/images/Pedagogi_26.jpg)
-
-![Pedagogi](/images/Pedagogi_27.jpg)
-
-![Pedagogi](/images/Pedagogi_28.jpg)
-
-![Pedagogi](/images/Pedagogi_29.jpg)
-
-![Pedagogi](/images/Pedagogi_30.jpg)
-
-![Pedagogi](/images/Pedagogi_31.jpg)
-
-![Pedagogi](/images/Pedagogi_32.jpg)
-
-![Pedagogi](/images/Pedagogi_33.jpg)
-
-![Pedagogi](/images/Pedagogi_34.jpg)
