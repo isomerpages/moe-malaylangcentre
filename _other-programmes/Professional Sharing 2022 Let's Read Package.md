@@ -13,15 +13,15 @@ description: ""
 
 **[Sekolah Rendah Evergreen(.pdf, 1.51 MB)](/files/sekolah-rendah-evergreen.pdf)**
 
-**[Sekolah Rendah Fengshan Kumpulan 1(.pdf, 1.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-fengshan-1.pdf?sfvrsn=659b994b_2 "Sekolah Rendah Fengshan Kumpulan 1")**
+**[Sekolah Rendah Fengshan Kumpulan 1(.pdf, 1.01 MB)](/files/sekolah-rendah-fengshan-1.pdf)**
 
-**[Sekolah Rendah Fengshan Kumpulan 2(.pdf, 2.48 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-fengshan-2.pdf?sfvrsn=2cac2259_2 "Sekolah Rendah Fengshan Kumpulan 2")**
+**[Sekolah Rendah Fengshan Kumpulan 2(.pdf, 2.48 MB)](/files/sekolah-rendah-fengshan-2.pdf)**
 
-**[Sekolah Rendah Jiemin(.pdf, 2.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-jiemin.pdf?sfvrsn=720de7c4_2 "Sekolah Rendah Jiemin")**
+**[Sekolah Rendah Jiemin(.pdf, 2.1 MB)](/files/sekolah-rendah-jiemin.pdf)**
 
-**[Sekolah Rendah New Town(.pdf, 2.13 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-new-town.pdf?sfvrsn=34949917_2 "Sekolah Rendah New Town")**
+**[Sekolah Rendah New Town(.pdf, 2.13 MB)](/files/sekolah-rendah-new-town.pdf)**
 
-**[Sekolah Rendah Northoaks Kumpulan 1(.pdf, 2.71 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-northoaks-1.pdf?sfvrsn=1d497081_2 "Sekolah Rendah Northoaks Kumpulan 1")**
+**[Sekolah Rendah Northoaks Kumpulan 1(.pdf, 2.71 MB)](/files/sekolah-rendah-northoaks-1.pdf)**
 
 **[Sekolah Rendah Northoaks Kumpulan 2(.pdf, 2.83 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-northoaks-2.pdf?sfvrsn=9ddb813_2 "Sekolah Rendah Northoaks Kumpulan 2")**
 
