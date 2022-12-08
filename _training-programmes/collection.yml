@@ -1,5 +1,4 @@
 collections:
   training-programmes:
     output: true
-    order:
-      - Calendar.md
+    order: []
