@@ -54,34 +54,36 @@ Atur Cara Mesyuarat:
 
 #### Ucapan dari Keluarga MLCS
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZhDxC5c68gQ" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhDxC5c68gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### 2. Ucapan Puan Norhayati Awang, Pengarah Pusat Bahasa Melayu Singapura
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/birY6meD5xk" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/birY6meD5xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### MLCS Sedekad - Penghargaan dan Terima Kasih
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GdTMId677qk" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdTMId677qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Rendah)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QUqMv4Dqv4M" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUqMv4Dqv4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Menengah/JC/CI)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/W2BIkxZfeeY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2BIkxZfeeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### 4. Memanfaatkan Prasarana MLCS oleh Cikgu Muhamad Rafi Abu Bakar
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/t851mZ8zs20" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t851mZ8zs20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ##### 12 Januari 2021 - Annual Meeting 2021 (Sekolah Rendah)
 
 ##### Zoom Photo Session
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMX0Ss1pXlWccehCJgnekil89qgiVzgxN_PDLwsXPB2Cah_6RCqT5OdvNqplF-ijEDK0xVyWi0OLAb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMX0Ss1pXlWccehCJgnekil89qgiVzgxN_PDLwsXPB2Cah_6RCqT5OdvNqplF-ijEDK0xVyWi0OLAb/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### 13 Januari 2021 - Annual Meeting 2021 (Sekolah Menengah/JC/CI)
 
 ##### Zoom Photo Session
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHck9F7HK8wkt21VkNLOs47K5DB1QoMpjvM9EdrBcEoxevg7krXAH55WXW5KTze3AldLzJQH9y6kSl/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
