@@ -105,3 +105,14 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     </div>
   </li>
 </ul>
+
+![Bahasa](/images/Bahasa_1.jpg)
+
+![Bahasa](/images/Bahasa_2.jpg)
+
+![Bahasa](/images/Bahasa_3.jpg)
+
+![Bahasa](/images/Bahasa_4.jpg)
+
+![Bahasa](/images/Bahasa_5.jpg)
+
