@@ -169,3 +169,10 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
+![Umum](/images/Umum_1.jpg)
+
+![Umum](/images/Umum_2.jpg)
+
+![Umum](/images/Umum_3.jpg)
+
+![Umum](/images/Umum_4.jpg)
