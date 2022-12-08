@@ -1,5 +1,4 @@
 collections:
   other-programmes:
     output: true
-    order:
-      - Annual Meeting with ML Teachers.md
+    order: []
