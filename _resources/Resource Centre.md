@@ -143,7 +143,11 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion28">
     <label for="accordion28"><h4>Sastera</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Sastera_1.jpg" alt="Sastera"></p>
+<p><img src="/images/Sastera_2.jpg" alt="Sastera"></p>
+<p><img src="/images/Sastera_3.jpg" alt="Sastera"></p>
+<p><img src="/images/Sastera_4.jpg" alt="Sastera"></p>
+<p><img src="/images/Sastera_5.jpg" alt="Sastera"></p>
     </div>
 	</li>  
   <li>
@@ -162,12 +166,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Sastera](/images/Sastera_1.jpg)
-
-![Sastera](/images/Sastera_2.jpg)
-
-![Sastera](/images/Sastera_3.jpg)
-
-![Sastera](/images/Sastera_4.jpg)
-
-![Sastera](/images/Sastera_5.jpg)
