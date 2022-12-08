@@ -202,3 +202,7 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
 ![Umum](/images/Umum_16.jpg)
 
 ![Umum](/images/Umum_17.jpg)
+
+![Umum](/images/Umum_18.jpg)
+
+![Umum](/images/Umum_19.jpg)
