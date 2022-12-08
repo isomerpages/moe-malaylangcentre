@@ -162,3 +162,6 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
+![Sastera](/images/Sastera_1.jpg)
+
+![Sastera](/images/Sastera_2.jpg)
