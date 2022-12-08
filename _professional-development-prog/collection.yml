@@ -2,6 +2,7 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - Signature Programmes/Regional Conference.md
       - Signature Programmes/.keep
       - Training Programmes/Calendar.md
       - Training Programmes/Course Registration.md
