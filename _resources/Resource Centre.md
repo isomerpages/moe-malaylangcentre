@@ -79,7 +79,10 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion25">
     <label for="accordion25"><h4>Karya Penulis Singapura</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Karya%20Penulis%20Singapura_1.jpg" alt="Karya Penulis Singapura"></p>
+<p><img src="/images/Karya%20Penulis%20Singapura_2.jpg" alt="Karya Penulis Singapura"></p>
+<p><img src="/images/Karya%20Penulis%20Singapura_3.jpg" alt="Karya Penulis Singapura"></p>
+<p><img src="/images/Karya%20Penulis%20Singapura_4.jpg" alt="Karya Penulis Singapura"></p>
     </div>
   </li>
   <li>
@@ -119,10 +122,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_1.jpg)
-
-![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_2.jpg)
-
-![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_3.jpg)
-
-![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_4.jpg)
