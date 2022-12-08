@@ -16,16 +16,14 @@ Pusat Bahasa Melayu Singapura (MLCS) terlibat secara langsung dalam e-MTLS atau 
     <input type="checkbox" id="accordion21">
 		<label for="accordion21"><h4>Mari Membaca</h4></label>
     <div>
-      <p>This is a simple one line item</p>
+     LMAOO
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion22">
     <label for="accordion22"><h4>Aplikasi Pendidikan Bahasa Melayu</h4></label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      LMAOOO
     </div>
   </li>
 </ul>
