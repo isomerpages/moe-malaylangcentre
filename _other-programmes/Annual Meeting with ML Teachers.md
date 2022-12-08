@@ -82,3 +82,6 @@ Atur Cara Mesyuarat:
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMX0Ss1pXlWccehCJgnekil89qgiVzgxN_PDLwsXPB2Cah_6RCqT5OdvNqplF-ijEDK0xVyWi0OLAb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
+#### 13 Januari 2021 - Annual Meeting 2021 (Sekolah Menengah/JC/CI)
+
+##### Zoom Photo Session
