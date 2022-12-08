@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resource Centre.md
       - MLCS 10th Anniversary.md
       - e MTLS 2022 MLCS.md
       - Tekad Sedekad.md
