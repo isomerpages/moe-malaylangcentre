@@ -10,10 +10,10 @@ Selain itu, MLCS juga telah menerbitkan beberapa klip video pendidikan mengenai 
 
 Berikut ialah klip-klip video terbitan MLCS.
 
-[Video Terbitan MLCS](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/video-terbitan-mlcs)
+[Video Terbitan MLCS](/mlcs/resources/video/video-terbitan-mlcs)
 
-[Video Seminar Bahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/video-clip-on-malay-language-seminar)
+[Video Seminar Bahasa Melayu](/mlcs/resources/video/video-clip-on-malay-language-seminar)
 
-[Video Stimulus Untuk Sekolah Rendah](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/Video-Stimulus-for-Primary-Schools)
+[Video Stimulus Untuk Sekolah Rendah](/mlcs/resources/video/Video-Stimulus-for-Primary-Schools)
 
-[Video Stimulus Untuk Sekolah Menengah](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/video/video-stimulus-for-seconday-schools)
+[Video Stimulus Untuk Sekolah Menengah](/mlcs/resources/video/video-stimulus-for-seconday-schools)
