@@ -7,11 +7,11 @@ description: ""
 
 ![Perkongsian Profesional 2022 Pakej Mari Membaca](/images/download.png)
 
-**[Sekolah Rendah Endeavour(.pdf, 3.61 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-endeavour.pdf?sfvrsn=ae651807_2 "Sekolah Rendah Endeavour")**
+**[Sekolah Rendah Endeavour(.pdf, 3.61 MB)](/files/sekolah-rendah-endeavour.pdf)**
 
-**[Sekolah Rendah Eunos(.pdf, 1.77 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-eunos.pdf?sfvrsn=488f07ee_2 "Sekolah Rendah Eunos")**
+**[Sekolah Rendah Eunos(.pdf, 1.77 MB)](/files/sekolah-rendah-eunos.pdf)**
 
-**[Sekolah Rendah Evergreen(.pdf, 1.51 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-evergreen.pdf?sfvrsn=ae1c8d8d_2 "Sekolah Rendah Evergreen")**
+**[Sekolah Rendah Evergreen(.pdf, 1.51 MB)](/files/sekolah-rendah-evergreen.pdf)**
 
 **[Sekolah Rendah Fengshan Kumpulan 1(.pdf, 1.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-fengshan-1.pdf?sfvrsn=659b994b_2 "Sekolah Rendah Fengshan Kumpulan 1")**
 
