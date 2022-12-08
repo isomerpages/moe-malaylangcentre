@@ -2,6 +2,7 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - Signature Programmes/Ceramah Arif Budiman.md
       - Signature Programmes/Immersion Programme.md
       - Signature Programmes/Regional Conference.md
       - Signature Programmes/.keep
