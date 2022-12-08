@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - e MTLS 2022 MLCS.md
       - Tekad Sedekad.md
       - Resources.md
