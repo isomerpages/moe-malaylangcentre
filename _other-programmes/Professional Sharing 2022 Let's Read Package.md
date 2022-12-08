@@ -3,3 +3,30 @@ title: Professional Sharing 2022 Let's Read Package
 permalink: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2022-lets-read/
 description: ""
 ---
+### Perkongsian Profesional 2022 Pakej Mari Membaca
+
+![Perkongsian Profesional 2022 Pakej Mari Membaca](/images/download.png)
+
+**[Sekolah Rendah Endeavour(.pdf, 3.61 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-endeavour.pdf?sfvrsn=ae651807_2 "Sekolah Rendah Endeavour")**
+
+**[Sekolah Rendah Eunos(.pdf, 1.77 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-eunos.pdf?sfvrsn=488f07ee_2 "Sekolah Rendah Eunos")**
+
+**[Sekolah Rendah Evergreen(.pdf, 1.51 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-evergreen.pdf?sfvrsn=ae1c8d8d_2 "Sekolah Rendah Evergreen")**
+
+**[Sekolah Rendah Fengshan Kumpulan 1(.pdf, 1.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-fengshan-1.pdf?sfvrsn=659b994b_2 "Sekolah Rendah Fengshan Kumpulan 1")**
+
+**[Sekolah Rendah Fengshan Kumpulan 2(.pdf, 2.48 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-fengshan-2.pdf?sfvrsn=2cac2259_2 "Sekolah Rendah Fengshan Kumpulan 2")**
+
+**[Sekolah Rendah Jiemin(.pdf, 2.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-jiemin.pdf?sfvrsn=720de7c4_2 "Sekolah Rendah Jiemin")**
+
+**[Sekolah Rendah New Town(.pdf, 2.13 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-new-town.pdf?sfvrsn=34949917_2 "Sekolah Rendah New Town")**
+
+**[Sekolah Rendah Northoaks Kumpulan 1(.pdf, 2.71 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-northoaks-1.pdf?sfvrsn=1d497081_2 "Sekolah Rendah Northoaks Kumpulan 1")**
+
+**[Sekolah Rendah Northoaks Kumpulan 2(.pdf, 2.83 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-northoaks-2.pdf?sfvrsn=9ddb813_2 "Sekolah Rendah Northoaks Kumpulan 2")**
+
+**[Sekolah Rendah Sembawang(.pdf, 2.52 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-sembawang.pdf?sfvrsn=7528f590_2 "Sekolah Rendah Sembawang")**
+
+**[Sekolah Rendah Seng Kang(.pdf, 4.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-seng-kang.pdf?sfvrsn=a059ff7_2 "Sekolah Rendah Seng Kang")**
+
+**[Sekolah Rendah West View(.pdf, 1.49 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/slaid-perkongsian-profesional-2022-pakej-mari-membaca/sekolah-rendah-west-view.pdf?sfvrsn=9311c5a8_2 "Sekolah Rendah West View")**
