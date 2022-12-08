@@ -155,3 +155,10 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
+![Penilaian](/images/Penilaian_1.jpg)
+
+![Penilaian](/images/Penilaian_2.jpg)
+
+![Penilaian](/images/Penilaian_3.jpg)
+
+![Penilaian](/images/Penilaian_4.jpg)
