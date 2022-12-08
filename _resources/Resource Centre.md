@@ -46,3 +46,62 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
 
 Buku Saranan
 ------------
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion23">
+    <label for="accordion23">Simple</label>
+    <div>
+      LMAOO
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion24">
+    <label for="accordion24">Multi-line Block</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion25">
+    <label for="accordion25">Multi-line Folded</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion26">
+    <label for="accordion26">Ordered List</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion27">
+    <label for="accordion27">Unordered List</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion28">
+    <label for="accordion28">Simple</label>
+    <div>
+      LMAOO
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion29">
+    <label for="accordion29">Multi-line Block</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion30">
+    <label for="accordion30">Multi-line Folded</label>
+    <div>
+      LMAOO
+    </div>
+  </li>
+</ul>
