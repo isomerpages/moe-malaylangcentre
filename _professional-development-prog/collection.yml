@@ -2,5 +2,6 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - Training Programmes/Teacher Led Workshop.md
       - Training Programmes/.keep
       - Professional Development Programmes.md
