@@ -164,45 +164,26 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion30">
     <label for="accordion30"><h4>Umum</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Umum_1.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_2.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_3.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_4.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_5.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_6.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_7.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_8.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_9.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_10.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_11.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_12.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_13.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_14.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_15.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_16.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_17.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_18.jpg" alt="Umum"></p>
+<p><img src="/images/Umum_19.jpg" alt="Umum"></p>
     </div>
   </li>
 </ul>
 
-![Umum](/images/Umum_1.jpg)
-
-![Umum](/images/Umum_2.jpg)
-
-![Umum](/images/Umum_3.jpg)
-
-![Umum](/images/Umum_4.jpg)
-
-![Umum](/images/Umum_5.jpg)
-
-![Umum](/images/Umum_6.jpg)
-
-![Umum](/images/Umum_7.jpg)
-
-![Umum](/images/Umum_8.jpg)
-
-![Umum](/images/Umum_9.jpg)
-
-![Umum](/images/Umum_10.jpg)
-
-![Umum](/images/Umum_11.jpg)
-
-![Umum](/images/Umum_12.jpg)
-
-![Umum](/images/Umum_13.jpg)
-
-![Umum](/images/Umum_14.jpg)
-
-![Umum](/images/Umum_15.jpg)
-
-![Umum](/images/Umum_16.jpg)
-
-![Umum](/images/Umum_17.jpg)
-
-![Umum](/images/Umum_18.jpg)
-
-![Umum](/images/Umum_19.jpg)
