@@ -129,7 +129,14 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion27">
     <label for="accordion27"><h4>Penilaian</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Penilaian_1.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_2.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_3.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_4.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_5.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_6.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_7.jpg" alt="Penilaian"></p>
+<p><img src="/images/Penilaian_8.jpg" alt="Penilaian"></p>
     </div>
   </li>
 	<li>
@@ -155,18 +162,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Penilaian](/images/Penilaian_1.jpg)
-
-![Penilaian](/images/Penilaian_2.jpg)
-
-![Penilaian](/images/Penilaian_3.jpg)
-
-![Penilaian](/images/Penilaian_4.jpg)
-
-![Penilaian](/images/Penilaian_5.jpg)
-
-![Penilaian](/images/Penilaian_6.jpg)
-
-![Penilaian](/images/Penilaian_7.jpg)
-
-![Penilaian](/images/Penilaian_8.jpg)
