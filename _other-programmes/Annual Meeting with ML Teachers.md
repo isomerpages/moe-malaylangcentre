@@ -60,8 +60,6 @@ Atur Cara Mesyuarat:
 
 #### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Rendah)
 
-#### Ucapan dari Keluarga MLCS
+#### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Menengah/JC/CI)
 
-#### Ucapan dari Keluarga MLCS
-
-#### Ucapan dari Keluarga MLCS
+#### 4. Memanfaatkan Prasarana MLCS oleh Cikgu Muhamad Rafi Abu Bakar
