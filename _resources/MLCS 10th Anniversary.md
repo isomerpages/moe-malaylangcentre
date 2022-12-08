@@ -13,3 +13,10 @@ Berikut merupakan slaid pembentangan para ucaptama semasa majlis tersebut:
 1.  ‘[Melentur Buluh Pengguna Bahasa Melayu](/files/ucaptama-1---dr-raudhah-yahya.pdf)’ oleh Dr. Raudhah Yahya, Institut Nasional Pembangunan Awal Kanak-kanak (NIEC)
 2.  ‘[Mengajar Bahasa Melayu Kepada Pelajar Bukan Penutur Jati](/files/ucaptama-2---prof-vijayaletchumy.pdf)’ oleh Profesor Dr. S. Vijayaletchumy, Universiti Putra Malaysia
 3.  ‘[Bahasa Dijunjung, Guru Disanjung](/files/ucaptama-3---dr-mohamed-fatris-bakaram.pdf)’ oleh Dr. Mohamed Fatris Bakaram, Mantan Mufti Negara Singapura
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBJ0ZAOpVn8vAtJTiy8C_y9TsZpy4PrecRn5aYPj4omArcu2zaj_JQXqPhkWtKvKF6ECz1JduJBp2f/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+#### MLCS 10th Anniversary Corporate Video
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkdjQmQ0bJM" height="315" width="560"></iframe>
+
