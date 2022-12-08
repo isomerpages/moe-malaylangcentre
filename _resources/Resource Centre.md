@@ -44,62 +44,62 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
 
 [Resource Centre Book Purchased for 2021](/files/resource-centre-book-purchased-for-2021.pdf)
 
-Buku Saranan
-------------
+### Buku Saranan
+
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion23">
-    <label for="accordion23">Simple</label>
+    <label for="accordion23"><h4>Bahasa</h4></label>
     <div>
       LMAOO
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion24">
-    <label for="accordion24">Multi-line Block</label>
+    <label for="accordion24"><h4>Budaya</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion25">
-    <label for="accordion25">Multi-line Folded</label>
+    <label for="accordion25"><h4>Karya Penulis Singapura</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion26">
-    <label for="accordion26">Ordered List</label>
+    <label for="accordion26"><h4>Pedagogi</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27">Unordered List</label>
+    <label for="accordion27"><h4>Penilaian</h4></label>
     <div>
       LMAOO
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion28">
-    <label for="accordion28">Simple</label>
+    <label for="accordion28"><h4>Sastera</h4></label>
     <div>
       LMAOO
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion29">
-    <label for="accordion29">Multi-line Block</label>
+    <label for="accordion29"><h4>Tatabahasa</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion30">
-    <label for="accordion30">Multi-line Folded</label>
+    <label for="accordion30"><h4>Umum</h4></label>
     <div>
       LMAOO
     </div>
