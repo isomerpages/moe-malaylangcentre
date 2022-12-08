@@ -52,7 +52,13 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion23">
     <label for="accordion23"><h4>Bahasa</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Bahasa_1.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_2.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_3.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_4.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_5.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_6.jpg" alt="Bahasa"></p>
+<p><img src="/images/Bahasa_7.jpg" alt="Bahasa"></p>
     </div>
 	</li>  
   <li>
@@ -106,16 +112,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Bahasa](/images/Bahasa_1.jpg)
-
-![Bahasa](/images/Bahasa_2.jpg)
-
-![Bahasa](/images/Bahasa_3.jpg)
-
-![Bahasa](/images/Bahasa_4.jpg)
-
-![Bahasa](/images/Bahasa_5.jpg)
-
-![Bahasa](/images/Bahasa_6.jpg)
-
-![Bahasa](/images/Bahasa_7.jpg)
