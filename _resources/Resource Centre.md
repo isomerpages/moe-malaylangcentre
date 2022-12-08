@@ -137,3 +137,13 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
 ![Pedagogi](/images/Pedagogi_7.jpg)
 
 ![Pedagogi](/images/Pedagogi_8.jpg)
+
+![Pedagogi](/images/Pedagogi_9.jpg)
+
+![Pedagogi](/images/Pedagogi_10.jpg)
+
+![Pedagogi](/images/Pedagogi_11.jpg)
+
+![Pedagogi](/images/Pedagogi_12.jpg)
+
+![Pedagogi](/images/Pedagogi_13.jpg)
