@@ -65,7 +65,14 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion24">
     <label for="accordion24"><h4>Budaya</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Budaya_1.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_2.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_3.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_4.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_5.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_6.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_7.jpg" alt="Budaya"></p>
+<p><img src="/images/Budaya_8.jpg" alt="Budaya"></p>
     </div>
   </li>
   <li>
@@ -112,18 +119,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Budaya](/images/Budaya_1.jpg)
-
-![Budaya](/images/Budaya_2.jpg)
-
-![Budaya](/images/Budaya_3.jpg)
-
-![Budaya](/images/Budaya_4.jpg)
-
-![Budaya](/images/Budaya_5.jpg)
-
-![Budaya](/images/Budaya_6.jpg)
-
-![Budaya](/images/Budaya_7.jpg)
-
-![Budaya](/images/Budaya_8.jpg)
