@@ -27,3 +27,9 @@ Pusat Bahasa Melayu Singapura (MLCS) terlibat secara langsung dalam e-MTLS atau 
     </div>
   </li>
 </ul>
+
+![Mari Membaca](/images/e-mtls-2022-content.jpeg)
+
+![Mari Membaca](/images/part-2-poster-1-2c48b98bde54845de88028387d7276ab2.png)
+
+![Mari Membaca](/images/part-3-poster.png)
