@@ -154,7 +154,10 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     <input type="checkbox" id="accordion29">
     <label for="accordion29"><h4>Tatabahasa</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/Tatabahasa_1.jpg" alt="Tatabahasa"></p>
+<p><img src="/images/Tatabahasa_2.jpg" alt="Tatabahasa"></p>
+<p><img src="/images/Tatabahasa_3.jpg" alt="Tatabahasa"></p>
+<p><img src="/images/Tatabahasa_4.jpg" alt="Tatabahasa"></p>
     </div>
   </li>
   <li>
@@ -166,10 +169,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
   </li>
 </ul>
 
-![Tatabahasa](/images/Tatabahasa_1.jpg)
-
-![Tatabahasa](/images/Tatabahasa_2.jpg)
-
-![Tatabahasa](/images/Tatabahasa_3.jpg)
-
-![Tatabahasa](/images/Tatabahasa_4.jpg)
