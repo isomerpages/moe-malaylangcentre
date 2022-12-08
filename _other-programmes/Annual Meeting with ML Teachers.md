@@ -31,7 +31,7 @@ Atur Cara Mesyuarat:
 
 2\. Ucapan pembukaan Pengarah Pusat Bahasa Melayu Singapura, Puan Norhayati Awang
 
-*   [Slaid](http://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/annual-mtg-with-ml-teachers-2021/1-ucapan-pembukaan-cdmlcs.pdf?sfvrsn=8f381819_2) Ucapan Pembukaan Pengarah Pusat Bahasa Melayu Singapura
+*   [Slaid](/files/1-ucapan-pembukaan-cdmlcs.pdf) Ucapan Pembukaan Pengarah Pusat Bahasa Melayu Singapura
 *   Klip video: Penghargaan dan Terima Kasih
 
 3\. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin, Pengetua Guru Pakar
@@ -42,7 +42,7 @@ Atur Cara Mesyuarat:
 4\. Memanfaatkan Prasarana MLCS oleh Cikgu Muhamad Rafi Abu Bakar, Guru Pakar
 
 *   [Slaid](http://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/annual-mtg-with-ml-teachers-2021/4-memanfaatkan-prasarana-mlcs-sharing-corporate-slide-2021.pdf?sfvrsn=953fe0ba_2) perkongsian Memanfaatkan Prasarana MLC
-*   Pautun URL ke [laman Pusat Sumber](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/resource-centre)
+*   Pautun URL ke [laman Pusat Sumber](/mlcs/resources/resource-centre)
 
 5\. Klip video: Ucapan daripada Keluarga MLCS
 
