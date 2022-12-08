@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Video/Video.md
       - Video/.keep
       - Resource Centre.md
       - MLCS 10th Anniversary.md
