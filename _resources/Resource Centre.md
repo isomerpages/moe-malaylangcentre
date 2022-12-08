@@ -122,3 +122,7 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
 ![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_1.jpg)
 
 ![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_2.jpg)
+
+![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_3.jpg)
+
+![Karya Penulis Singapura](/images/Karya%20Penulis%20Singapura_4.jpg)
