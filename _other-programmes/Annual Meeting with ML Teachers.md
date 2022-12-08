@@ -54,12 +54,24 @@ Atur Cara Mesyuarat:
 
 #### Ucapan dari Keluarga MLCS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhDxC5c68gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### 2. Ucapan Puan Norhayati Awang, Pengarah Pusat Bahasa Melayu Singapura
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/birY6meD5xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### MLCS Sedekad - Penghargaan dan Terima Kasih
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdTMId677qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Rendah)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QUqMv4Dqv4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 3. Program Pembangunan Profesional Guru 2021 oleh Dr Fadilah Isnin (Sekolah Menengah/JC/CI)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2BIkxZfeeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### 4. Memanfaatkan Prasarana MLCS oleh Cikgu Muhamad Rafi Abu Bakar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t851mZ8zs20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
