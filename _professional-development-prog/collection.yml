@@ -2,6 +2,7 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - Training Programmes/Calendar.md
       - Training Programmes/Course Registration.md
       - Training Programmes/School Based Programme.md
       - Training Programmes/Teacher Led Workshop.md
