@@ -36,9 +36,15 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 1: Bersenam
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jrASo5bmbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 2: Hargai Masa
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sy_CgfCHHP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 3: ICT
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kr9VDaMJXlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Klip Video 4: Rawatan Tradisional
 
