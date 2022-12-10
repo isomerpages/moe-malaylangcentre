@@ -11,7 +11,7 @@ Antologi Cerpen Guru Peserta Program Penyerapan ke Brunei Darussalam.
 
 [CITRA-Prakata(.pdf, 102.79 KB)](/files/citra-prakata.pdf)
 
-1.  [14 Minit(.pdf, 297.2 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-1.pdf?sfvrsn=3c2aee35_2 "14 Minit") oleh Sumiati Ra’at
+1.  [14 Minit(.pdf, 297.2 KB)](/files/citra-1.pdf) oleh Sumiati Ra’at
 2.  [Cahaya Pembuka Hati(.pdf, 331.29 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-2.pdf?sfvrsn=1dce659_2 "Cahaya Pembuka Hati") oleh Nor Faatihah Haron
 3.  [Gelung Sanggul Cik Nora(.pdf, 304.96 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-3.pdf?sfvrsn=3706674f_2 "Gelung Sanggul Cik Nora") oleh Muslim Hanafiah
 4.  [Hancurnya Satu Harapan(.pdf, 223.49 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-4.pdf?sfvrsn=2ac2fa2d_2 "Hancurnya Satu Harapan") oleh Mohd Yazid Md Yatim
