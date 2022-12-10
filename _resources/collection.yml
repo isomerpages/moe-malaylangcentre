@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Video/Video Clip on Malay Language Seminar.md
       - Video/Video Stimulus for Primary Schools.md
       - Video/Video Stimulus for Seconday Schools.md
       - Video/Video.md
