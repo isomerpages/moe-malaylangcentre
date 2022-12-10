@@ -14,20 +14,36 @@ third_nav_title: Video
 
 **Bicara Budiman**
 
+#### Bicara Budiman 1
 
+#### Bicara Budiman 1
 
+#### Bicara Budiman 1
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vaZeOb-Uixw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Bicara Budiman 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaBmGitY9dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Bicara Budiman 3
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQY5OCq5mSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Bicara Budiman Datuk Dr Tenas Effendy 1
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VNW1E8yIl7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Bicara Budiman Datuk Dr Tenas Effendy 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6_jREET0Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Bicara Budiman 1
 
+#### Bicara Budiman 1
 
+#### Bicara Budiman 1
 
+#### Bicara Budiman 1
 
-
+#### Bicara Budiman 1
