@@ -14,6 +14,12 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 1: Adab Berkunjung
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRQZ_vGAPvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 2: Berbudi Bahasa
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1wn_aW68DCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 3: Gaya Hidup Sihat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3uTmk-LcfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
