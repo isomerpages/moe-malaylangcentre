@@ -20,7 +20,7 @@ Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi Guru K
 
 Selain itu, Benih juga mengandungi sebuah buku panduan berjudul Idea. Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa Melayu menggunakan 7 cerpen yang terkandung dalam koleksi ini.
 
-[Idea Saranan Pengajaran dan Pembelajaran(.pdf, 6.07 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-benih/8-idea_saranan_pengajaran.pdf?sfvrsn=d5a9d7d5_2 "Idea Saranan Pengajaran dan Pembelajaran")
+[Idea Saranan Pengajaran dan Pembelajaran(.pdf, 6.07 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-benih/8-idea_saranan_pengajaran.pdf?sfvrsn=d5a9d7d5_2 "Idea Saranan Pengajaran dan Pembelajaran") ***(PDF file too big!)***
 
 **Ralat:**
 
