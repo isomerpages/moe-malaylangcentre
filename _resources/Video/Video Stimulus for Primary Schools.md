@@ -27,9 +27,9 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dewj"><a href="/files/bersenam-1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 247.72 KB)</span></a><br><a href="/files/bersenam_2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 247.58 KB)</span></a></td>
-    <td class="tg-dewj"><a href="/files/hargai-masa2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 220.03 KB)</span></a><br><a href="/files/hargai-masa2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 220.03 KB)</span></a></td>
-    <td class="tg-dewj"><a href="/files/ict1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 232.62 KB)</span></a><br><a href="/files/ict2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 232.13 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/bersenam-1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 247.72 KB)</span></a><br><br><a href="/files/bersenam_2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 247.58 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/hargai-masa2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 220.03 KB)</span></a><br><br><a href="/files/hargai-masa2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 220.03 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/ict1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 232.62 KB)</span></a><br><br><a href="/files/ict2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 232.13 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
