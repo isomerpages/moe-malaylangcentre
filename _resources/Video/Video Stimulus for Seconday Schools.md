@@ -27,3 +27,15 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 | Kilp Video 4: Bertimbang Rasa | Kilp Video 5: Gaya Hidup Sihat | Kilp Video 6: Nilai Murni |
 | --- | --- | --- |
 | [Soalan Rangsangan Bahasa Melayu(.pdf, 118.33 KB)](/files/soalan_rangsangan_bertimbang_rasa_gce_o_level.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 118.54 KB)](/files/soalan_rangsangan_gaya_hidup_sihat_-_normal_teknikal.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 81.25 KB)](/files/soalan_rangsangan_nilai_murni_-_gce_o_level.pdf) |
+
+#### Klip Video 4: Bertimbang Rasa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a537HNUh4VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Klip Video 5: Gaya Hidup Sihat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YlRa5LiAHfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Klip Video 6: Nilai Murni
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHaa2vwjyeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
