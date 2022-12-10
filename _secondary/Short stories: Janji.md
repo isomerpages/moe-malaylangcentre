@@ -32,14 +32,14 @@ Klil pautan berikut untuk mendapatkan Antologi Janji dalam bentuk PDF.
 
 [Gelora](/files/4-gelora_noraishah-_pdp_latest.pdf)
 
-[Angkara](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/5-angkara_rahmat-subadah_pdp_latest.pdf)
+[Angkara](/files/5-angkara_rahmat-subadah_pdp_latest.pdf)
 
-[Janji](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/6-janji_rashidah_pdp_latest.pdf)
+[Janji](/files/6-janji_rashidah_pdp_latest.pdf)
 
-[Senja](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/7-senja_shaheda_pdp_latest.pdf)
+[Senja](/files/7-senja_shaheda_pdp_latest.pdf)
 
-[Dendam](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/8-dendam_siti-faridah-omar_pdp_latest.pdf)
+[Dendam](/files/8-dendam_siti-faridah-omar_pdp_latest.pdf)
 
-[Sangka](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/9-sangka_siti_nurashikin_pdp_latest.pdf)
+[Sangka](/files/9-sangka_siti_nurashikin_pdp_latest.pdf)
 
-[Paksi](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/10-paksi-_sri-nabilah_pdp_latest.pdf)
+[Paksi](/files/10-paksi-_sri-nabilah_pdp_latest.pdf)
