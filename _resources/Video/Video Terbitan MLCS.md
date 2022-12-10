@@ -40,14 +40,28 @@ third_nav_title: Video
 
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 1
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TajcFp58hKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqV_qEBG1-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 3
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsUh5zDoTAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eokpdsfgri0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 5
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHH4Z729hd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 6
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xb9ie54g4IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 7
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hppanKxCdts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
