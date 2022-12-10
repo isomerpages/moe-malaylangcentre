@@ -12,7 +12,9 @@ third_nav_title: Hikmah Melayu
 
 **Ciri-ciri buah dan pokok pisang** merujuk kepada khasiat dan nilai-nilai yang ditafsir oleh masyarakat Melayu. Pisang digemari dalam kalangan masyarakat Melayu dahulu atas sifatnya yang boleh diperam untuk jangka masa tertentu. Hal ini menjadikannya sesuai untuk dibawa sebagai bekalan dalam pelayaran jauh. Pisang turut kaya dengan khasiat yang dipercayai dapat mengawal penyakit mual dan mabuk laut. Pokok pisang mudah dijaga dan buahnya sesuai untuk dijadikan santapan beramai-ramai. Perihal tersebut sekali gus mengilhamkan peribahasa pisang sesikat, digulai sebelanga.
 
-![pisang](/images/pisang3.jpeg)
+  
+<img src="/images/pisang3.jpeg"  
+style="width:60%">
 
 **Kegunaan** pisang tidak terbatas kepada buahnya sahaja. Malahan, hampir keseluruhan pohon pisang dapat digunakan. Namun demikian, lebih daripada itu, pisang turut digunakan secara simbolik dalam proses perpaduan. Hal ini dapat dilihat dalam adat perlimau tapak atau majlis penerimaan murid dalam ilmu persilatan. Dalam hal ini, pisang dimakan dengan asam dan garam sebagai simbol perpaduan antara murid-murid seperguruan. Batang pisang pula turut berguna untuk membuang karat pada keris. 
 
