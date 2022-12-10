@@ -43,3 +43,11 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 | Kilp Video 7: Penggunaan Alat Teknologi Canggih | Kilp Video 8: Permainan Tradisional |
 | --- | --- |
 | [Soalan Rangsangan Bahasa Melayu(.pdf, 95.53 KB)](/files/soalan_rangsangan_penggunaan_alat_teknologi_canggih_-_gce_o_level.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 370.22 KB)](/files/soalan_rangsangan_permainan_tradisional_gce_o_level.pdf) |
+
+#### Klip Video 7: Penggunaan Alat Teknologi Canggih
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYaWdtW49nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Klip Video 8: Permainan Tradisional
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xl3J0h0YdNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
