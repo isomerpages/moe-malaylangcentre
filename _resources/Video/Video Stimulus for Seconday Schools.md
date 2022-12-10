@@ -39,3 +39,7 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 #### Klip Video 6: Nilai Murni
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uHaa2vwjyeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+| Kilp Video 7: Penggunaan Alat Teknologi Canggih | Kilp Video 8: Permainan Tradisional |
+| --- | --- |
+| [Soalan Rangsangan Bahasa Melayu(.pdf, 95.53 KB)](/files/soalan_rangsangan_penggunaan_alat_teknologi_canggih_-_gce_o_level.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 370.22 KB)](/files/soalan_rangsangan_permainan_tradisional_gce_o_level.pdf) |
