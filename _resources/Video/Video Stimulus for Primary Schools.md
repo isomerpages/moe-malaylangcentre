@@ -74,9 +74,15 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 4: Rawatan Tradisional
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BpX6JFJ7WFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 5: Vandalisme
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5UUZUU9HaaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 6: Amalan Baik
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRWKnLmZlc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Klip Video 7: Etika Perpustakaan
 
