@@ -65,9 +65,9 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dewj"><a href="[](/files/kesihatan_rawatan_tradisional_1.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 204.82 KB)</span></a><br><br><a href="[](/files/kesihatan_rawatan_tradisional_2.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 204.9 KB)</span></a></td>
-    <td class="tg-dewj"><a href="[](/files/vandalisme_1.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 224.43 KB)</span></a><br><br><a href="[](/files/vandalisme_2.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 224.39 KB)</span></a></td>
-    <td class="tg-dewj"><a href="[](/files/soalan_rangsangan_klip_video_amalan_baik_-_bm_dan_bm_asas.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 227.89 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/kesihatan_rawatan_tradisional_1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 204.82 KB)</span></a><br><br><a href="/files/kesihatan_rawatan_tradisional_2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 204.9 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/vandalisme_1.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard(.pdf, 224.43 KB)</span></a><br><br><a href="/files/vandalisme_2.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Asas(.pdf, 224.39 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/soalan_rangsangan_klip_video_amalan_baik_-_bm_dan_bm_asas.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 227.89 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
