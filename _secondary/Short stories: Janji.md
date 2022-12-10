@@ -26,11 +26,11 @@ Klil pautan berikut untuk mendapatkan Antologi Janji dalam bentuk PDF.
 
 [Kemelut](/files/1-kemelut_noor-ashiking-bahnan_pdp_latest.pdf)
 
-[Tusuk](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/2-tusuk_muhd_rafi_abu_bakar_pdp_latest.pdf)
+[Tusuk](/files/2-tusuk_muhd_rafi_abu_bakar_pdp_latest.pdf)
 
-[Camuk](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/3-camuk_farid_pdp_latest.pdf)
+[Camuk](/files/3-camuk_farid_pdp_latest.pdf)
 
-[Gelora](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/4-gelora_noraishah-_pdp_latest.pdf)
+[Gelora](/files/4-gelora_noraishah-_pdp_latest.pdf)
 
 [Angkara](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/5-angkara_rahmat-subadah_pdp_latest.pdf)
 
