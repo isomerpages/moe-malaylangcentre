@@ -14,6 +14,6 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 1: Adab Berkunjung
 
-#### Klip Video 1: Berbudi Bahasa
+#### Klip Video 2: Berbudi Bahasa
 
-#### Klip Video 1: Gaya Hidup Sihat
+#### Klip Video 3: Gaya Hidup Sihat
