@@ -21,10 +21,10 @@ Antologi Cerpen Guru Peserta Program Penyerapan ke Brunei Darussalam.
 8.  [Mendung Berlalu(.pdf, 261.04 KB)](/files/citra-8.pdf) oleh Suriyanti Jumari
 9.  [Nilai Kebenaran(.pdf, 259.06 KB)](/files/citra-9.pdf) oleh Zainab Nawabi
 10.  [Nombor Satu(.pdf, 245.76 KB)](/files/citra-10.pdf) oleh Musniffa Mustaffa
-11.  [Penantian(.pdf, 266.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-11.pdf?sfvrsn=40151fd5_2 "Penantian") oleh Asnur Mursalin Aspar
-12.  [CITRA-12(.pdf, 245.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-12.pdf?sfvrsn=d3a8b397_2 "CITRA-12") oleh Faizal Farouk
-13.  [Setia Hingga Akhir Hayat(.pdf, 235.56 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-13.pdf?sfvrsn=9a8fc6ce_2 "Setia Hingga Akhir Hayat") oleh Rohana Ismail
-14.  [Siakap(.pdf, 274.21 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-14.pdf?sfvrsn=cc090a94_2 "Setia Hingga Akhir Hayat") oleh Sri Nabilah Basri
+11.  [Penantian(.pdf, 266.35 KB)](/files/citra-11.pdf) oleh Asnur Mursalin Aspar
+12.  [CITRA-12(.pdf, 245.32 KB)](/files/citra-12.pdf) oleh Faizal Farouk
+13.  [Setia Hingga Akhir Hayat(.pdf, 235.56 KB)](/files/citra-13.pdf) oleh Rohana Ismail
+14.  [Siakap(.pdf, 274.21 KB)](/files/citra-14.pdf) oleh Sri Nabilah Basri
 
 Soalan Perbincangan
 
