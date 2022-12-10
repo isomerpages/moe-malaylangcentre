@@ -141,9 +141,9 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dewj"><a href="[](/files/soalan_rangsangan_klip_video_pembaziran_-_bm_dan_bm_asas.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 84.35 KB)</span></a></td>
-    <td class="tg-dewj"><a href="[](/files/soalan_rangsangan_klip_video_sampah_maut-_bm_dan_bm_asas.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 374.37 KB)</span></a></td>
-    <td class="tg-dewj"><a href="[](/files/soalan_rangsangan_klip_video_tatatertib_di_perpustakaan_-_bm_dan_bm_asas.pdf)"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 146.54 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/soalan_rangsangan_klip_video_pembaziran_-_bm_dan_bm_asas.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 84.35 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/soalan_rangsangan_klip_video_sampah_maut-_bm_dan_bm_asas.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 374.37 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/soalan_rangsangan_klip_video_tatatertib_di_perpustakaan_-_bm_dan_bm_asas.pdf"><span style="color:#CA2126;background-color:transparent">Soalan Rangsangan BM Standard dan BM Asas(.pdf, 146.54 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
