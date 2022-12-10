@@ -150,6 +150,12 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 10: Pembaziran
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agA9fV4-csI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 11: Sampah Maut
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kf0o4Ghs-eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 12: Tatatertib di Perpustakaan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rUTg45S4f4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
