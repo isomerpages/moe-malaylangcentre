@@ -65,3 +65,9 @@ third_nav_title: Video
 #### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hppanKxCdts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Lagu Arif Budiman**
+
+[Sila klik di sini untuk mendapatkan lirik lagu.(.pdf, 162.41 KB)](/files/arif_budiman_lirik.pdf)
+
+#### Lagu Arif Budiman
