@@ -11,3 +11,9 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 | Kilp Video 1: Adab Berkunjung | Kilp Video 2: Berbudi Bahasa | Kilp Video 3: Gaya Hidup Sihat |
 | --- | --- | --- |
 | [Soalan Rangsangan Bahasa Melayu(.pdf, 238.46 KB)](/files/adab_berkunjung.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 214.04 KB)](/files/berbudi_bahasa.pdf) | [Soalan Rangsangan Bahasa Melayu(.pdf, 206.32 KB)](/files/gaya_hidup_sihat.pdf) |
+
+#### Klip Video 1: Adab Berkunjung
+
+#### Klip Video 1: Berbudi Bahasa
+
+#### Klip Video 1: Gaya Hidup Sihat
