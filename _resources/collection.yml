@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - "Sarkasi Said: Words of Wisdom.md"
       - Anthology/.keep
       - "Anthology/Short stories: Benih.md"
       - Anthology/Secondary.md
