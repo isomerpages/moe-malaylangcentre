@@ -38,12 +38,16 @@ third_nav_title: Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a6_jREET0Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Bicara Budiman 1
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 1
 
-#### Bicara Budiman 1
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 2
 
-#### Bicara Budiman 1
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 3
 
-#### Bicara Budiman 1
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 4
 
-#### Bicara Budiman 1
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 5
+
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 6
+
+#### Bicara Budiman Dr Muhammad Ariff Ahmad - Segmen 7
