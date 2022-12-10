@@ -71,3 +71,12 @@ third_nav_title: Video
 [Sila klik di sini untuk mendapatkan lirik lagu.(.pdf, 162.41 KB)](/files/arif_budiman_lirik.pdf)
 
 #### Lagu Arif Budiman
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJhHzxGdApM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Raja Ali Haji Intelek Melayu Unggul**
+
+Video klip ini memaparkan Raja Ali Haji, seorang intelek Melayu unggul dan karya-karya yang telah beliau hasilkan.
+
+#### Raja Ali Haji Intelek Melayu Unggul
+
