@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Hikmah Melayu/Hikmah Melayu 6.md
       - Hikmah Melayu/.keep
       - ML Poetry SG 50 Publication.md
       - Video/.keep
