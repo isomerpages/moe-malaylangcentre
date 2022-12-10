@@ -8,14 +8,15 @@ third_nav_title: Hikmah Melayu
 
 Tengkolok, Tanjak dan Destar merupakan penanda status sosial pemakainya  dalam masyarakat Melayu dahulu. Biarpun serupa, tengkolok, tanjak dan destar sebenarnya mempunyai permaknaan yang berbeza. Demikian halnya, pengkaji-pengkaji kebudayaan sepakat bahawa zaman kegemilangan penggayaan ‘pakai kepala’ berlaku pada zaman kegemilangan empayar Melaka pada abad ke-15.
 
-![Tengkolok](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/resources/hikmah-melayu/tengkolok.jpg?sfvrsn=72f6de62_2)
+<img src="![](/images/tengkolok.jpeg)"  
+style="width:70%">
 
 **Tengkolok** pertama kali digunakan dalam Hikayat Malim Deman apabila menjelaskan rupa bentuk pakaian raja-raja. Tengkolok dipercayai merupakan pakaian kepala yang paling asas selepas semutar atau ikat kepala, yakni kain yang dililit dan diikatkan secara ringkas di kepala. Secara asasnya, tengkolok merupakan kain yang diikat pada kepala tanpa gaya yang khusus. Lazimnya, tengkolok berawal dengan bentuk tiga segi di kepala. Bentuknya, walau bagaimanapun, boleh berubah mengikut citra penggayaan pemakai.
 
-![Destar](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/resources/hikmah-melayu/destar.jpg?sfvrsn=264b81b6_2)
+![Destar](/images/destar.jpeg)
 
 **Destar** pula disebut dalam teks Hikayat Hang Tuah bagi merujuk kepada pakaian Hang Tuah dan rakan-rakannya. Selain itu, istilah tersebut turut digunakan dalam Hikayat Abdullah bagi merujuk kepada pakaian Dato’ Astur, seorang jurubahasa yang terkenal dengan kesetiaannya terhadap ‘pakaian asal orang Melayu’. Berbeza dengan tengkolok, reka bentuk destar lazimnya lebih kekal lama disebabkan penggunaan kanji atau lidi daun kelapa. Destar juga dianggap lebih sempurna berbanding tengkolok disebabkan perincian penyediaannya.
 
-![Tanjak](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/resources/hikmah-melayu/tanjak.jpg?sfvrsn=a77b1268_2)
+![Tanjak](/images/tanjak.jpeg)
 
 **Tanjak** atau setanjak disebut Kiyai Mas Endi, pewaris kesultanan Palembang sekitar abad ke-17. Takala itu, Kiyai Mas Endi kecewa terhadap Kesultanan Mataram yang enggan menghulurkan bantuan kepada Keraton Kuta Gawang dalam menghadapi tentangan Belanda pada 1659. Keraton tersebut merupakan pusat kerajaan kecil yang sebelumnya dibangunkan pewaris-pewaris Kerajaan Demak. Dalam keadaan marah, beliau membuang belangkon yang dipakainya sebelum memakai kain tiga segi yang diikat dan diangkat sebagai Sultan Abdurrahman Khalifatul Mukminin. Para pengkaji berpendapat bahawa tanjak membawa pengertian yang sama dengan destar dan merupakan varian sebutan bagi perkara yang sama. Sedangkan demikian, ada yang bertanggapan destar merupakan varian solekan untuk raja ataupun sultan sedangkan tanjak untuk orang kebanyakan.
