@@ -17,10 +17,10 @@ Antologi Cerpen Guru Peserta Program Penyerapan ke Brunei Darussalam.
 4.  [Hancurnya Satu Harapan(.pdf, 223.49 KB)](/files/citra-4.pdf) oleh Mohd Yazid Md Yatim
 5.  [Hani dan Umi(.pdf, 291.91 KB)](/files/citra-5.pdf) oleh Raudzah Osman
 6.  [Iman(.pdf, 245.06 KB)](/files/citra-6.pdf) oleh Siti Radziah Mustafa
-7.  [Kawan Baharu(.pdf, 387.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-7.pdf?sfvrsn=75ca1f49_2 "Kawan Baharu") oleh Hazlan Mohd Aris
-8.  [Mendung Berlalu(.pdf, 261.04 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-8.pdf?sfvrsn=3b4f0a96_2 "Mendung Berlalu") oleh Suriyanti Jumari
-9.  [Nilai Kebenaran(.pdf, 259.06 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-9.pdf?sfvrsn=3f6a1fa6_2 "Nilai Kebenaran") oleh Zainab Nawabi
-10.  [Nombor Satu(.pdf, 245.76 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-10.pdf?sfvrsn=83cdaca6_2 "Nombor Satu") oleh Musniffa Mustaffa
+7.  [Kawan Baharu(.pdf, 387.15 KB)](/files/citra-7.pdf) oleh Hazlan Mohd Aris
+8.  [Mendung Berlalu(.pdf, 261.04 KB)](/files/citra-8.pdf) oleh Suriyanti Jumari
+9.  [Nilai Kebenaran(.pdf, 259.06 KB)](/files/citra-9.pdf) oleh Zainab Nawabi
+10.  [Nombor Satu(.pdf, 245.76 KB)](/files/citra-10.pdf) oleh Musniffa Mustaffa
 11.  [Penantian(.pdf, 266.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-11.pdf?sfvrsn=40151fd5_2 "Penantian") oleh Asnur Mursalin Aspar
 12.  [CITRA-12(.pdf, 245.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-12.pdf?sfvrsn=d3a8b397_2 "CITRA-12") oleh Faizal Farouk
 13.  [Setia Hingga Akhir Hayat(.pdf, 235.56 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/citra-short-stories/citra-13.pdf?sfvrsn=9a8fc6ce_2 "Setia Hingga Akhir Hayat") oleh Rohana Ismail
