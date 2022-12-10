@@ -112,9 +112,15 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
 
 #### Klip Video 7: Etika Perpustakaan
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5mpoiTGqTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 8: Lif
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P5x2e9ErUuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Klip Video 9: Menjaga Kerbersihan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-QRe4-VCPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Klip Video 10: Pembaziran
 
