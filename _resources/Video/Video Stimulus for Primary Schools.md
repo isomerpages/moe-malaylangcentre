@@ -33,3 +33,27 @@ Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti kursus ini
   </tr>
 </tbody>
 </table>
+
+#### Klip Video 1: Bersenam
+
+#### Klip Video 2: Hargai Masa
+
+#### Klip Video 3: ICT
+
+#### Klip Video 4: Rawatan Tradisional
+
+#### Klip Video 5: Vandalisme
+
+#### Klip Video 6: Amalan Baik
+
+#### Klip Video 7: Etika Perpustakaan
+
+#### Klip Video 8: Lif
+
+#### Klip Video 9: Menjaga Kerbersihan
+
+#### Klip Video 10: Pembaziran
+
+#### Klip Video 11: Sampah Maut
+
+#### Klip Video 12: Tatatertib di Perpustakaan
