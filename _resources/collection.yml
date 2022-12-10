@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Anthology/Secondary.md
-      - "Anthology/Short stories: Benih.md"
       - Anthology/.keep
+      - "Anthology/Short stories: Benih.md"
+      - Anthology/Secondary.md
       - Hikmah Melayu/Hikmah Melayu 1.md
       - Hikmah Melayu/Hikmah Melayu 2.md
       - Hikmah Melayu/Hikmah Melayu 3.md
