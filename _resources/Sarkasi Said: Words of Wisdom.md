@@ -8,7 +8,7 @@ BICARA BUDIMAN: SARKASI SAID - WORDS OF WISDOM
 
 |  |  |  |
 | --- | --- | --- |
-| ![Pak Sarkasi Said 1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/professional-development-for-teachers/pak-sarkasi-said-photos/img_3197.tmb-medium.jpg?Culture=en&sfvrsn=1dd41e2d_1 "Pak Sarkasi Said 1") | ![Pak Sarkasi Said 2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/professional-development-for-teachers/pak-sarkasi-said-photos/img_3260.tmb-medium.jpg?Culture=en&sfvrsn=c83cbc53_1 "Pak Sarkasi Said 2") | ![Pak Sarkasi Said 3](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/professional-development-for-teachers/pak-sarkasi-said-photos/img_1755.tmb-medium.jpg?Culture=en&sfvrsn=daf856b_1 "Pak Sarkasi Said 3") |
+| ![Pak Sarkasi Said 1](/images/img_3197.jpeg) | ![Pak Sarkasi Said 2](/images/img_3260.jpeg) | ![Pak Sarkasi Said 3](/images/img_1755.jpeg) |
 
 Pusat Bahasa Melayu Singapura (MLCS) telah menerbitkan buku dan video **Bicara Budiman Sarkasi Said**. Bahan ini merupakan usaha MLCS untuk merakam dan mendokumentasi perjuangan dan pengalaman Pak Sarkasi Said dalam membina dan memperkaya diri dalam seni batik. Buku ini mengandungi transkrip rakaman wawancara video beliau mengenai latar belakang kehidupan, pendidikan, perjuangan, buah fikiran, pandangan, falsafah dan harapan beliau sebagai anak seni dan seniman agung batik.
 
