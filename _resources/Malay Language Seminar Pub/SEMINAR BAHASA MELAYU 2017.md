@@ -103,31 +103,31 @@ Norlela Abdul Rahaman dan Ghazali Mohamed Ibrahim
 27. [Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’(.pdf, 2.32 MB)](/files/ml-seminar-2017---paper---27.pdf)  
 Asiyah Sheik Mohd Ismail dan Khaziah Yem
 
-28. [Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran(.pdf, 2.34 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---28.pdf?sfvrsn=482f006e_2 "Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran")  
+28. [Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran(.pdf, 2.34 MB)](/files/ml-seminar-2017---paper---28.pdf) 
 Amilia Baba dan Sarimah Sainin
 
-29. [Pengajaran Kata Nama dengan Menggunakan konsep MBBT(.pdf, 2.59 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---29.pdf?sfvrsn=984dbf95_2 "Pengajaran Kata Nama dengan Menggunakan konsep MBBT")  
+29. [Pengajaran Kata Nama dengan Menggunakan konsep MBBT(.pdf, 2.59 MB)](/files/ml-seminar-2017---paper---29.pdf)  
 Haryati Surana dan Nur Syahirah Sa’adon
 
-30. [Pengajaran Kosa Kata Melalui ICT dan Drama(.pdf, 2.05 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---30.pdf?sfvrsn=f40e180a_2 "Pengajaran Kosa Kata Melalui ICT dan Drama")  
+30. [Pengajaran Kosa Kata Melalui ICT dan Drama(.pdf, 2.05 MB)](/files/ml-seminar-2017---paper---30.pdf)  
 Suriyana Ghapari dan Siti Nurashikin Ajmain
 
-31. [Pengajaran Kosa Kata Secara Eksplisit dalam Mempertingkatkan Pencapaian Murid Tahap Rendah bagi Komponen Perbualan(.pdf, 2.54 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---31.pdf?sfvrsn=82e5ebe2_2 "Pengajaran Kosa Kata Secara Eksplisit dalam Mempertingkatkan Pencapaian Murid Tahap Rendah bagi Komponen Perbualan")  
+31. [Pengajaran Kosa Kata Secara Eksplisit dalam Mempertingkatkan Pencapaian Murid Tahap Rendah bagi Komponen Perbualan(.pdf, 2.54 MB)](/files/ml-seminar-2017---paper---31.pdf)  
 Junainah Mohamed Yusoff dan Nurhidayah Ashari
 
-32. [Pengajaran Wacana Menerusi Medan Makna: Pengajaran Bersumberkan Filem(.pdf, 2.68 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---32.pdf?sfvrsn=7993fa3f_2 "Pengajaran Wacana Menerusi Medan Makna: Pengajaran Bersumberkan Filem")  
+32. [Pengajaran Wacana Menerusi Medan Makna: Pengajaran Bersumberkan Filem(.pdf, 2.68 MB)](/files/ml-seminar-2017---paper---32.pdf)  
 Muhammad Jailani Abu Talib dan Siti Aisah Maduri
 
-33. [Pengayaan Kosa Kata Murid Melalui Program Seni Tari Melayu(.pdf, 2.78 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---33.pdf?sfvrsn=94e0fd6a_2 "Pengayaan Kosa Kata Murid Melalui Program Seni Tari Melayu")  
+33. [Pengayaan Kosa Kata Murid Melalui Program Seni Tari Melayu(.pdf, 2.78 MB)](/files/ml-seminar-2017---paper---33.pdf)  
 Ghazali Mohamed Ibrahim dan Nurbayah Ismail
 
-34. [Penggunaan Aplikasi K.O.S.A. (Kita Orang SingapurA) bagi Meningkatkan Penguasaan Kosa Kata Murid(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---34.pdf?sfvrsn=e6066117_2 "Penggunaan Aplikasi K.O.S.A. (Kita Orang SingapurA) bagi Meningkatkan Penguasaan Kosa Kata Murid")  
+34. [Penggunaan Aplikasi K.O.S.A. (Kita Orang SingapurA) bagi Meningkatkan Penguasaan Kosa Kata Murid(.pdf, 2.32 MB)](/files/ml-seminar-2017---paper---34.pdf)  
 Salinah Rahman dan Nur Amalina Mazzly
 
-35. [Penggunaan Aplikasi Sinar Kata dalam Pembinaan Kosa Kata Kata Nama Am(.pdf, 2.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---35.pdf?sfvrsn=b180f9ef_2 "Penggunaan Aplikasi Sinar Kata dalam Pembinaan Kosa Kata Kata Nama Am")  
+35. [Penggunaan Aplikasi Sinar Kata dalam Pembinaan Kosa Kata Kata Nama Am(.pdf, 2.09 MB)](/files/ml-seminar-2017---paper---35.pdf)  
 Rozita A Hamid dan Aznizah Abdul Aziz
 
-36. [Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---36.pdf?sfvrsn=bc94609d_2 "Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid")  
+36. [Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid(.pdf, 2.45 MB)](/files/ml-seminar-2017---paper---36.pdf)  
 Faridah Abdul Aziz dan Nur Sakinah Mohammed Salim
 
 37. [Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R(.pdf, 2.79 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---37.pdf?sfvrsn=b6f21a2f_2 "Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R")  
