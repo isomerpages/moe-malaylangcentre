@@ -51,4 +51,4 @@ Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan da
 
 Penerbitan DIAN BAHASA JILID 2 merupakan usaha yang berterusan Pusat Bahasa Melayu Singapura (MLCS), Akademi Guru Singapura, Kementerian Pendidikan Singapura untuk menyediakan wadah rujukan berkaitan bahasa, pedagogi, sejarah dan yang berkaitan dengan teknologi. Dalam usia Pusat Bahasa Melayu sedekad ini, Dian Bahasa terus menyediakan ruang untuk para ilmuwan, Guru Pakar dan ketua guru untuk menyumbangkan hasil kajian yang dijalankan bagi memperbaik pengajaran dan pembelajaran bahasa Melayu di bilik darjah.
 
-[DIAN BAHASA JILID 2(.pdf, 13 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/dian-bahasa/dian-bahasa-vol2-content(compressed).pdf?sfvrsn=3fb6282a_2 "DIAN BAHASA JILID 2")
+[DIAN BAHASA JILID 2(.pdf, 13 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/dian-bahasa/dian-bahasa-vol2-content(compressed).pdf?sfvrsn=3fb6282a_2 "DIAN BAHASA JILID 2") ***(PDF file too big!***)
