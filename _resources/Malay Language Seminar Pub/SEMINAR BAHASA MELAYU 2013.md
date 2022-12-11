@@ -16,7 +16,7 @@ Pada 04 Jun 2013, Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan
 
 **Kertas Ucaptama**
 
-[Bahasa dan Jati Diri Melayu: Kesantunan Berbahasa dalam Komunikasi(.pdf, 363.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2013/(0-3)ucaptama-(prof-mua'ti).pdf?sfvrsn=b919ad3_2 "Bahasa dan Jati Diri Melayu: Kesantunan Berbahasa dalam Komunikasi") oleh Prof. Dr Abdul Mua'ti@Zamri Ahmad, Dekan Fakulti Bahasa Moden dan Komunikasi, Universiti Putra Malaysia.
+[Bahasa dan Jati Diri Melayu: Kesantunan Berbahasa dalam Komunikasi(.pdf, 363.16 KB)](/files/(0-3)ucaptama-(prof-mua'ti).pdf) oleh Prof. Dr Abdul Mua'ti@Zamri Ahmad, Dekan Fakulti Bahasa Moden dan Komunikasi, Universiti Putra Malaysia.
 
 **Kertas Kerja Sesi Sidang Selari**
 
