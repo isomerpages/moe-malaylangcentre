@@ -20,7 +20,7 @@ Berikut bahan-bahan yang telah diusahakan bagi kegunaan para guru dan pelajar:
 
 1\. Buku [Bicara Budiman Sarkasi Said](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/bicara-budiman-sarkasi-said/bicara-budiman-sarkasi-said-(mlcs).pdf) 
 
-2. [Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/bicara-budiman-sarkasi-said/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf)
+2. [Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said](/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf)
 
 Berikut ini pula merupakan klip-klip video wawancara Bicara Budiman Sarkasi Said.
 
@@ -46,3 +46,11 @@ Segmen 2 - Batik
 Segmen 3 - Budaya
 
 Video ringkas tentang Sarkasi Said
+
+#### Segmen 1 - Budi 
+
+#### Segmen 2 - Batik 
+
+#### Segmen 3 - Budaya
+
+#### Video ringkas tentang Sarkasi Said
