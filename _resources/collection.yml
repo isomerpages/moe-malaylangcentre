@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Malay Language Seminar Pub/SEMINAR BAHASA MELAYU 2018.md
       - Malay Language Seminar Pub/SEMINAR BAHASA MELAYU 2017.md
       - Malay Language Seminar Pub/SEMINAR BAHASA MELAYU 2016.md
       - Malay Language Seminar Pub/SEMINAR BAHASA MELAYU 2015.md
