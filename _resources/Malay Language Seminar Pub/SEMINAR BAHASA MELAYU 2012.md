@@ -10,12 +10,11 @@ Pada 29 Mei 2012, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar 
 
 **Kertas Ucaptama**
 
-[Aspek Nilai Sebagai Komponen Teras dalam Pendidikan Bahasa dan Strategi Pengajarannya(.pdf, 360.72 KB)  
-](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/ucaptama-dr-hj-awang-sariyan-latest.pdf?sfvrsn=a3c891e7_2 "Aspek Nilai Sebagai Komponen Teras dalam Pendidikan Bahasa dan Strategi Pengajarannya")Prof. Dr. Haji Awang Sariyan, Ketua Pengarah, Dewan Bahasa dan Pustaka, Malaysia  
+[Aspek Nilai Sebagai Komponen Teras dalam Pendidikan Bahasa dan Strategi Pengajarannya(.pdf, 360.72 KB)](/files/ucaptama-dr-hj-awang-sariyan-latest.pdf) Prof. Dr. Haji Awang Sariyan, Ketua Pengarah, Dewan Bahasa dan Pustaka, Malaysia  
   
 **Kertas Kerja Sesi Sidang Selari**
 
-1. [Cetusan Minda Melalui Bahasa Melalui Bahasa Kreatif untuk Komunikasi yang Efektif(.pdf, 228.05 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/1-cetusan-minda-melalui-bahasa-kreatif-untuk-komunikasi-yang-efektif-siti-faridah-omar.pdf?sfvrsn=2d7d7de_2 "Cetusan Minda Melalui Bahasa Melalui Bahasa Kreatif untuk Komunikasi yang Efektif")  
+1. [Cetusan Minda Melalui Bahasa Melalui Bahasa Kreatif untuk Komunikasi yang Efektif(.pdf, 228.05 KB)](/files/1-cetusan-minda-melalui-bahasa-kreatif-untuk-komunikasi-yang-efektif-siti-faridah-omar.pdf)  
 Farrah Mohamad Ghazali, Nur Azah Ismail, Siti Farhana Abdullah Siti Faridah Omar  
   
 2. [Jangan Malu: Pendekatan Komunikatif bagi Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 187.14 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/2-jangan-malu-pendekatan-komunikatif-bagi-meningkatkan-pengajaran-dan-pembelajaran-bahasa-melayu-yahida-yahya.pdf?sfvrsn=3aed1fb7_2 "Jangan Malu: Pendekatan Komunikatif bagi Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu")  
