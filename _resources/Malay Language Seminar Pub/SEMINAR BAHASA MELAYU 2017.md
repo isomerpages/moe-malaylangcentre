@@ -76,22 +76,22 @@ Manisah Osman
 18. [Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK(.pdf, 2.73 MB)](/files/ml-seminar-2017---paper---18.pdf)  
 Elyani Mohamed dan Asnur Mursalin Aspar
 
-19. [Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif(.pdf, 2.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---19.pdf?sfvrsn=dd82d70f_2 "Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif")  
+19. [Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif(.pdf, 2.24 MB)](/files/ml-seminar-2017---paper---19.pdf) 
 Zulkifli Khamis dan Noor Aisyah Ahmad Sharif
 
-20. [Pemahaman Watak dalam Cerita untuk Mencungkil Kosa Kata Berkaitan Nilai(.pdf, 3.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---20.pdf?sfvrsn=4045320b_2 "Pemahaman Watak dalam Cerita untuk Mencungkil Kosa Kata Berkaitan Nilai")  
+20. [Pemahaman Watak dalam Cerita untuk Mencungkil Kosa Kata Berkaitan Nilai(.pdf, 3.1 MB)](/files/ml-seminar-2017---paper---20.pdf)  
 Hajjah Marzia Abdul Rahman dan Nur Hasyimah Surnin
 
-21. [Pembelajaran Kata Kerja Melalui Penggunaan Perisian Aplikasi Adobe Spark dan Penerapan Taksonomi SOLO(.pdf, 2.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---21.pdf?sfvrsn=951da815_2 "Pembelajaran Kata Kerja Melalui Penggunaan Perisian Aplikasi Adobe Spark dan Penerapan Taksonomi SOLO")  
+21. [Pembelajaran Kata Kerja Melalui Penggunaan Perisian Aplikasi Adobe Spark dan Penerapan Taksonomi SOLO(.pdf, 2.24 MB)](/files/ml-seminar-2017---paper---21.pdf) 
 Djohan Abdul Rahman dan Nurul Syakinah Sahak
 
-22. [Pendekatan Interaktif dalam Pembelajaran Kata Hubung(.pdf, 3.06 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---22.pdf?sfvrsn=f250f597_2 "Pendekatan Interaktif dalam Pembelajaran Kata Hubung")  
+22. [Pendekatan Interaktif dalam Pembelajaran Kata Hubung(.pdf, 3.06 MB)](/files/ml-seminar-2017---paper---22.pdf)  
 Mohd Hazman Othman dan Yasmin Azahari
 
-23. [Penerapan Penanda Wacana dalam Pengajaran dan Pembelajaran Kemahiran Menulis(.pdf, 2.52 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---23.pdf?sfvrsn=3ce50885_2 "Penerapan Penanda Wacana dalam Pengajaran dan Pembelajaran Kemahiran Menulis")  
+23. [Penerapan Penanda Wacana dalam Pengajaran dan Pembelajaran Kemahiran Menulis(.pdf, 2.52 MB)](/files/ml-seminar-2017---paper---23.pdf)  
 Muhammad Faizrin Hashim dan Muliana Mohammad
 
-24. [Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid(.pdf, 2.33 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---24.pdf?sfvrsn=24aa161c_2 "Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid")  
+24. [Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid(.pdf, 2.33 MB)](/files/ml-seminar-2017---paper---24.pdf)  
 Khuraisah Mohamed Abthar dan Salamah Massa’id
 
 25. [Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah(.pdf, 3.12 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---25.pdf?sfvrsn=1c277a15_2 "Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah")  
