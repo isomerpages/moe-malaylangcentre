@@ -8,16 +8,16 @@ third_nav_title: Malay Language Seminar Pub
 
 Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan, Seminar Bahasa Melayu 2015 pada 04 Jun 2015. Prof Dr Zaharani Ahmad, Timbalan Ketua Pengarah (Dasar), Dewan Bahasa dan Pustaka, Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Menteri Pendidikan Singapura Encik Heng Swee Keat merupakan Tetamu Terhormat pada majlis tersebut.
 
-[Kandungan(.pdf, 198.77 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/ml_seminar_content-2015.pdf?sfvrsn=fe542720_2 "Kandungan")
+[Kandungan(.pdf, 198.77 KB)](/files/ml_seminar_content-2015.pdf)
 
-[Sekapur Sirih(.pdf, 1.67 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/sekapur_sirih-2015.pdf?sfvrsn=4a079957_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 1.67 MB)](/files/sekapur_sirih-2015.pdf)
 
-[Program(.pdf, 699.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/ml_seminar_program-2015.pdf?sfvrsn=8c149bbf_2 "Program")
+[Program(.pdf, 699.75 KB)](/files/ml_seminar_program-2015.pdf)
 
   
 **Kertas Ucaptama**
 
-[Memperelok Budi Memperindah Bahasa: Kepelbagaian Struktur Cerminan Kecekapan Penutur(.pdf, 343.17 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/kertas-ucaptama-2015.pdf?sfvrsn=d8f15aa1_0 "Memperelok Budi Memperindah Bahasa: Kepelbagaian Struktur Cerminan Kecekapan Penutur")  
+[Memperelok Budi Memperindah Bahasa: Kepelbagaian Struktur Cerminan Kecekapan Penutur(.pdf, 343.17 KB)](/files/kertas-ucaptama-2015.pdf) 
 Ucaptama, Profesor Dr Zaharani Ahma, Timbalan Ketua Pengarah, DBP, Malaysia
 
 **Kertas Kerja Sesi Sidang Selari**
