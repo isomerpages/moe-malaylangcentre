@@ -68,22 +68,22 @@ Daniel Phua Nur Khairiani Jamal
 18. [Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis(.pdf, 430.28 KB)](/files/18-penggunaan-ict-dan-peta-minda-bagi-meningkatkan-kemahiran-menulis-hanizah-abu-samah.pdf) 
 Hanizah Abu Samah Norfadilah Sufke  
   
-19. [Penggunaan ICT bagi Meningkatkan Kemahiran Membaca Murid(.pdf, 682.49 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/19-penggunaan-ictbagi-meningkatkan-kemahiran-membaca-murid-pei-tong.pdf?sfvrsn=804d0e9d_2 "Penggunaan ICT bagi Meningkatkan Kemahiran Membaca Murid")  
+19. [Penggunaan ICT bagi Meningkatkan Kemahiran Membaca Murid(.pdf, 682.49 KB)](/files/19-penggunaan-ictbagi-meningkatkan-kemahiran-membaca-murid-pei-tong.pdf) 
 Nor Zakiah Arif Nurhani Idris  
   
-20. [Penggunaan ICT dalam Pembelajaran Perbezaan yang Berpusatkan Pelajar(.pdf, 118.33 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/20-penggunaan-ict-dalam-pembelajaran-pembezaan-berpusatkan-pelajar-yang-berkesan-mohamed-firuz-jaleludin.pdf?sfvrsn=aa93dcae_2 "Penggunaan ICT dalam Pembelajaran Perbezaan yang Berpusatkan Pelajar")  
+20. [Penggunaan ICT dalam Pembelajaran Perbezaan yang Berpusatkan Pelajar(.pdf, 118.33 KB)](/files/20-penggunaan-ict-dalam-pembelajaran-pembezaan-berpusatkan-pelajar-yang-berkesan-mohamed-firuz.pdf) 
 Maslina Mohtar Mohamad Firuz Jelaludin  
   
-21. [Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif(.pdf, 152.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/21-penggunaan-peribahasa-di-dalam-penulisan-karangan-melalui-fauziah-osman-sekolah-rendah-greenwood.pdf?sfvrsn=51ff9ea7_2 "Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif")  
+21. [Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif(.pdf, 152.79 KB)](/files/21-penggunaan-peribahasa-di-dalam-penulisan-karangan-fauziah-osman-sekolah-rendah-greenwood.pdf) 
 Anisah Mustaffa, Fauziah Osman Nurhidayah Ashari  
   
-22. [Penggunaan Video dan Perisian Creaza dalam Penulisan Karangan(.pdf, 109 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/22-penggunaan-videoict-perisian-creaza-dalam-penulisan-karangan-izzat.pdf?sfvrsn=ce40a3e3_2 "Penggunaan Video dan Perisian Creaza dalam Penulisan Karangan")  
+22. [Penggunaan Video dan Perisian Creaza dalam Penulisan Karangan(.pdf, 109 KB)](/files/22-penggunaan-videoict-perisian-creaza-dalam-penulisan-karangan-izzat.pdf)  
 Mohamed Izzat Mohamed Sarip  
   
-23. [Penilaian Formatif Menggunakan Cerita Digital(.pdf, 135.18 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/23-penilaian-formatif-menggunakan-cerita-digital.pdf?sfvrsn=b11a89b8_2 "Penilaian Formatif Menggunakan Cerita Digital")  
+23. [Penilaian Formatif Menggunakan Cerita Digital(.pdf, 135.18 KB)](/files/23-penilaian-formatif-menggunakan-cerita-digital.pdf) 
 Diana Melissa Khamis Siti Rashidah Abdul Rahim  
   
-24. [Perisian Toondoo: Membina Kemahiran Menulis Murid(.pdf, 208.09 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/24-perisian-toondoo.pdf?sfvrsn=ddd4e936_2 "Perisian Toondoo: Membina Kemahiran Menulis Murid")  
+24. [Perisian Toondoo: Membina Kemahiran Menulis Murid(.pdf, 208.09 KB)](/files/24-perisian-toondoo.pdf)  
 Haryati Surana Suriati Djuahir  
   
 25. [Permainan Bahasa sebagai Satu Pendekatan Alternatif dalam Pembelajaran Bahasa Melayu(.pdf, 438.14 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/25-permainan-bahasa-sebagai-satu-pendekatan-alternatif.pdf?sfvrsn=4ff7d232_2 "Permainan Bahasa sebagai Satu Pendekatan Alternatif dalam Pembelajaran Bahasa Melayu")  
