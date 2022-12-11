@@ -2,13 +2,13 @@ collections:
   resources:
     output: true
     order:
+      - Dr Muhammad Ariff Ahmad Words/.keep
+      - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
+        Wisdom.md"
       - "Dr Muhammad Ariff Ahmad Words/Pakej Bicara Budiman: Dr Muhammad Ariff
         Ahmad (PraUniversiti).md"
       - "Dr Muhammad Ariff Ahmad Words/Pakej Bicara Budiman: Dr Muhammad Ariff
         Ahmad (Sekolah Menengah).md"
-      - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
-        Wisdom.md"
-      - Dr Muhammad Ariff Ahmad Words/.keep
       - "Sarkasi Said: Words of Wisdom.md"
       - Anthology/.keep
       - "Anthology/Short stories: Benih.md"
