@@ -86,19 +86,19 @@ Diana Melissa Khamis Siti Rashidah Abdul Rahim
 24. [Perisian Toondoo: Membina Kemahiran Menulis Murid(.pdf, 208.09 KB)](/files/24-perisian-toondoo.pdf)  
 Haryati Surana Suriati Djuahir  
   
-25. [Permainan Bahasa sebagai Satu Pendekatan Alternatif dalam Pembelajaran Bahasa Melayu(.pdf, 438.14 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/25-permainan-bahasa-sebagai-satu-pendekatan-alternatif.pdf?sfvrsn=4ff7d232_2 "Permainan Bahasa sebagai Satu Pendekatan Alternatif dalam Pembelajaran Bahasa Melayu")  
+25. [Permainan Bahasa sebagai Satu Pendekatan Alternatif dalam Pembelajaran Bahasa Melayu(.pdf, 438.14 KB)](/files/25-permainan-bahasa-sebagai-satu-pendekatan-alternatif.pdf)
 Djohan Abdul Rahman, Khairunisak Hussain, Muhammad Hafiz Md Said Siti Hazlilah Jumali  
   
-26. [Retorik Peribahasa Melayu: Analisis Skema dan Trope(.pdf, 420.64 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/26-retorik-peribahasa-analisis-skema-dan-trope-effendy-bin-ahmadi.pdf?sfvrsn=d9c4ed6b_2 "Retorik Peribahasa Melayu: Analisis Skema dan Trope")  
+26. [Retorik Peribahasa Melayu: Analisis Skema dan Trope(.pdf, 420.64 KB)](/files/26-retorik-peribahasa-analisis-skema-dan-trope-effendy-bin-ahmadi.pdf) 
 Effendy Ahmadi  
   
-27. [Seronok Membaca Melalui Kaedah Literature Circle(.pdf, 308.3 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/27-seronok-membaca-melalui-kaedah-literature-circle-sharifah-hafsah.pdf?sfvrsn=dc0ea0c4_2 "Seronok Membaca Melalui Kaedah Literature Circle")  
+27. [Seronok Membaca Melalui Kaedah Literature Circle(.pdf, 308.3 KB)](/files/27-seronok-membaca-melalui-kaedah-literature-circle-sharifah-hafsah.pdf)  
 Noraishah Anwar, Nurazimah Mazelan, Sharifah Hafsah Mohamed Hanif, Siti Nuratika Abdullah Zainuddin Mohamad  
   
-28. [Strategi CPA dalam Pengajaran Kefahaman(.pdf, 262.26 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/28-strategi-cpa-dalam-pengajaran-kefahaman-taufek-siniwi.pdf?sfvrsn=489db9f9_2 "Strategi CPA dalam Pengajaran Kefahaman")  
+28. [Strategi CPA dalam Pengajaran Kefahaman(.pdf, 262.26 KB)](/files/28-strategi-cpa-dalam-pengajaran-kefahaman-taufek-siniwi.pdf)  
 Azizah Shaik Abdul Kadir, Nurisham Ismail, Rasidah Ahmad Taufek Siniwi  
   
-29. [Teknik K²WS²P² dan SAMBAK dalam Pengajaran Lisan(.pdf, 105.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/29-teknik-k2ws2p2-dan-sambak-dalam-pengajaran-lisan-isnani.pdf?sfvrsn=bd7f6d34_2 "Teknik K²WS²P² dan SAMBAK dalam Pengajaran Lisan")  
+29. [Teknik K²WS²P² dan SAMBAK dalam Pengajaran Lisan(.pdf, 105.34 KB)](/files/29-teknik-k2ws2p2-dan-sambak-dalam-pengajaran-lisan-isnani.pdf)
 Isnani Norasiken Mohamed Ali, Mislimah Misti Shaheeda Mohamed Ariffin  
   
-[Penghargaan(.pdf, 166.8 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/penghargaan-ml-seminar-2012.pdf?sfvrsn=741cd3fb_0 "Penghargaan")
+[Penghargaan(.pdf, 166.8 KB)](/files/penghargaan-ml-seminar-2012.pdf)
