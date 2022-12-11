@@ -51,10 +51,10 @@ Aidah Hosni dan Hazlina Yaacob
 9. [Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral(.pdf, 1.44 MB)](/files/paper-09.pdf) <br>
 Farizan Mohamed Amin dan Ghazali Mohamed Ibrahim  
   
-10. [Membina Kemampuan Murid Menjana Idea Melalui Rutin Berfikir LFT(.pdf, 877.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-10.pdf?sfvrsn=75baf973_2 "Membina Kemampuan Murid Menjana Idea Melalui Rutin Berfikir LFT")  <br>
+10. [Membina Kemampuan Murid Menjana Idea Melalui Rutin Berfikir LFT(.pdf, 877.34 KB)](/files/paper-10.pdf)  <br>
 Juliana Johari dan Safura Mohd Shariff  
   
-11. [Membina Keupayaan Murid Berinteraksi dengan Menggunakan Rutin Berfikir 3-2-1 Bina Titian(.pdf, 1.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-11.pdf?sfvrsn=d44d91f1_2 "Membina Keupayaan Murid Berinteraksi dengan Menggunakan Rutin Berfikir 3-2-1 Bina Titian")  <br>
+11. [Membina Keupayaan Murid Berinteraksi dengan Menggunakan Rutin Berfikir 3-2-1 Bina Titian(.pdf, 1.1 MB)](/files/paper-11.pdf)  <br>
 Muliana Mohammad dan Aswati Mohd Shariff  
   
 12. [Meningkatkan Kemahiran Membaca Teks Naratif Melalui Kaedah Berfikir Secara Bersistem(.pdf, 1.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-12.pdf?sfvrsn=3d6376d5_2 "Meningkatkan Kemahiran Membaca Teks Naratif Melalui Kaedah Berfikir Secara Bersistem")  <br>
