@@ -67,13 +67,13 @@ Alifa Ismail dan Helmilina Muhamad Som
 15. [Meningkatkan Penguasaan Kosa Kata Pelajar(.pdf, 3.28 MB)](/files/ml-seminar-2017---paper---15.pdf)  
 Kamariah Abd Rahim dan Zurianah Rahmat
 
-16. [Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---16.pdf?sfvrsn=9d96b7fe_2 "Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu")  
+16. [Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu(.pdf, 2.16 MB)](/files/ml-seminar-2017---paper---16.pdf)  
 Siti Farhana Abdullah dan Siti Aisyah Sa’id
 
-17. [Peluasan Ayat Melalui Strategi Penggunaan Pelbagai Keterangan(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---17.pdf?sfvrsn=6059349d_2 "Peluasan Ayat Melalui Strategi Penggunaan Pelbagai Keterangan")  
+17. [Peluasan Ayat Melalui Strategi Penggunaan Pelbagai Keterangan(.pdf, 2.32 MB)](/files/ml-seminar-2017---paper---17.pdf)  
 Manisah Osman
 
-18. [Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK(.pdf, 2.73 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---18.pdf?sfvrsn=65ef3620_2 "Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK")  
+18. [Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK(.pdf, 2.73 MB)](/files/ml-seminar-2017---paper---18.pdf)  
 Elyani Mohamed dan Asnur Mursalin Aspar
 
 19. [Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif(.pdf, 2.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---19.pdf?sfvrsn=dd82d70f_2 "Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif")  
