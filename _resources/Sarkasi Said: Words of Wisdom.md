@@ -29,23 +29,6 @@ Berikut ini pula merupakan klip-klip video wawancara Bicara Budiman Sarkasi Said
 *   Segmen 3 - Budaya
 *   Video ringkas tentang Sarkasi Said
 
-Video ringkas tentang Sarkasi Said
-
-Segmen 1 - Budi
-
-Segmen 2 - Batik
-
-Segmen 3 - Budaya
-
-Video ringkas tentang Sarkasi Said
-
-Segmen 1 - Budi
-
-Segmen 2 - Batik
-
-Segmen 3 - Budaya
-
-Video ringkas tentang Sarkasi Said
 
 #### Segmen 1 - Budi 
 
