@@ -49,22 +49,22 @@ Rashidah Rajah
 9. [Memperkaya Kosa Kata Murid Melalui Puisi(.pdf, 2.23 MB)](/files/ml-seminar-2017---paper---09.pdf)  
 Daing Noor Ashikin Bahnan
 
-10. [Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---10.pdf?sfvrsn=4ee3a4e0_2 "Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan")  
+10. [Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan(.pdf, 2.16 MB)](/files/ml-seminar-2017---paper---10.pdf) 
 Ruhaidah Rahmat dan Nuradilah Abdul Wahid
 
-11. [Meningkatkan Keupayaan Menggunakan Golongan Kata bagi Pembinaan Ayat Melalui Drama(.pdf, 2.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---11.pdf?sfvrsn=d74cd182_2 "Meningkatkan Keupayaan Menggunakan Golongan Kata bagi Pembinaan Ayat Melalui Drama")  
+11. [Meningkatkan Keupayaan Menggunakan Golongan Kata bagi Pembinaan Ayat Melalui Drama(.pdf, 2.53 MB)](/files/ml-seminar-2017---paper---11.pdf)  
 Rashidah Rajah dan Muhammad Nizam Mustafa
 
-12. [Meningkatkan Kosa Kata Pelajar Melalui Kata Kolokasi(.pdf, 2.17 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---12.pdf?sfvrsn=dd0fd4aa_2 "Meningkatkan Kosa Kata Pelajar Melalui Kata Kolokasi")  
+12. [Meningkatkan Kosa Kata Pelajar Melalui Kata Kolokasi(.pdf, 2.17 MB)](/files/ml-seminar-2017---paper---12.pdf)  
 Ishak Abdul Latiff dan Noraishah Mostapa
 
-13. [Meningkatkan Penggunaan Kata Sendi Nama Melalui Kaedah Imlak(.pdf, 3.72 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---13.pdf?sfvrsn=1cd8f8db_2 "Meningkatkan Penggunaan Kata Sendi Nama Melalui Kaedah Imlak")  
+13. [Meningkatkan Penggunaan Kata Sendi Nama Melalui Kaedah Imlak(.pdf, 3.72 MB)](/files/ml-seminar-2017---paper---13.pdf)  
 Mohamed Ali Mohamed Iqbal dan Siti Zulaikha Zainal Abidin
 
-14. [Meningkatkan Penggunaan Penanda Wacana dalam Penulisan E-mel(.pdf, 2.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---14.pdf?sfvrsn=64d922c2_2 "Meningkatkan Penggunaan Penanda Wacana dalam Penulisan E-mel")  
+14. [Meningkatkan Penggunaan Penanda Wacana dalam Penulisan E-mel(.pdf, 2.01 MB)](/files/ml-seminar-2017---paper---14.pdf)  
 Alifa Ismail dan Helmilina Muhamad Som
 
-15. [Meningkatkan Penguasaan Kosa Kata Pelajar(.pdf, 3.28 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---15.pdf?sfvrsn=ae491e02_2 "Meningkatkan Penguasaan Kosa Kata Pelajar")  
+15. [Meningkatkan Penguasaan Kosa Kata Pelajar(.pdf, 3.28 MB)](/files/ml-seminar-2017---paper---15.pdf)  
 Kamariah Abd Rahim dan Zurianah Rahmat
 
 16. [Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---16.pdf?sfvrsn=9d96b7fe_2 "Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu")  
