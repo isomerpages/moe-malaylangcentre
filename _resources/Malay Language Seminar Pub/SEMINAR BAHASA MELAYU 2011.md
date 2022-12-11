@@ -54,14 +54,14 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 18. [Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif(.pdf, 809.88 KB)](/files/paper18---j2-kertas-kerja-st-hilda-sec-final.pdf) oleh Daneil Phua Nur Khairiani Jamal  
 
-19. [Penggunaan Comic Life dalam Pengajaran Lisan(.pdf, 675.41 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper19---k1-kertas-kerja-anderson-sec-final.pdf?sfvrsn=c7cd669d_2 "Penggunaan Comic Life dalam Pengajaran Lisan") oleh Razilah Rahya  
+19. [Penggunaan Comic Life dalam Pengajaran Lisan(.pdf, 675.41 KB)](/files/paper19---k1-kertas-kerja-anderson-sec-final.pdf) oleh Razilah Rahya  
 
-20. [Kajian Pengjaran: Pengajaran dan Pembelajaran Imbuhan Apitan 'meN-...-kan' dan menN-...-i'(.pdf, 312.44 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper20---k2-kertas-kerja-guangyang-sec-final.pdf?sfvrsn=f892eec7_2 "Kajian Pengjaran: Pengajaran dan Pembelajaran Imbuhan Apitan 'meN-...-kan' dan menN-...-i'") oleh Ernie Jacinta Jamaludin, Haniza Abdul Manan Siti Asnah Basir  
+20. [Kajian Pengjaran: Pengajaran dan Pembelajaran Imbuhan Apitan 'meN-...-kan' dan menN-...-i'(.pdf, 312.44 KB)](/files/paper20---k2-kertas-kerja-guangyang-sec-final.pdf) oleh Ernie Jacinta Jamaludin, Haniza Abdul Manan Siti Asnah Basir  
 
-21. [Penggunaan ICT dalam Program Penyerapan Budaya(.pdf, 405.5 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper21---l1-kertas-kerja-compassvale-sec-final.pdf?sfvrsn=e104e20_2 "Penggunaan ICT dalam Program Penyerapan Budaya") oleh Mohd Shalleh Suja'ee Noranika Murni Dol Karim  
+21. [Penggunaan ICT dalam Program Penyerapan Budaya(.pdf, 405.5 KB)](/files/paper21---l1-kertas-kerja-compassvale-sec-final.pdf) oleh Mohd Shalleh Suja'ee Noranika Murni Dol Karim  
 
-22. [Menjana Minat Pelajar Terhadap Sastera Melalui Program Bunga-bunga Sastera(.pdf, 661.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper22---l2-kertas-kerja-marsiling-sec-(final).pdf?sfvrsn=b03aa243_2 "Menjana Minat Pelajar Terhadap Sastera Melalui Program Bunga-bunga Sastera") oleh Khairunisak Hussain, Muszalifa Aman Rashidah Abdullah  
+22. [Menjana Minat Pelajar Terhadap Sastera Melalui Program Bunga-bunga Sastera(.pdf, 661.97 KB)](/files/paper22---l2-kertas-kerja-marsiling-sec-(final).pdf) oleh Khairunisak Hussain, Muszalifa Aman Rashidah Abdullah  
 
-23. [Pembelajaran Berdasarkan Projek Mandiri Menerobos Melampaui Jidar Tembok Tradisi: Pengalaman Tiga Peringkat(.pdf, 372.78 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper23---m1-kertas-kerja-raffles-ins-final.pdf?sfvrsn=5c47b519_2 "Pembelajaran Berdasarkan Projek Mandiri Menerobos Melampaui Jidar Tembok Tradisi: Pengalaman Tiga Peringkat") oleh Djohan Abdul Rahan, Eity Norheyah Asyurah Mohamad Ali Hanifiah Abdullah
+23. [Pembelajaran Berdasarkan Projek Mandiri Menerobos Melampaui Jidar Tembok Tradisi: Pengalaman Tiga Peringkat(.pdf, 372.78 KB)](/files/paper23---m1-kertas-kerja-raffles-ins-final.pdf) oleh Djohan Abdul Rahan, Eity Norheyah Asyurah Mohamad Ali Hanifiah Abdullah
 
-[Penghargaan(.pdf, 141.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/penghargaan-2011.pdf?sfvrsn=263d3483_2 "Penghargaan")
+[Penghargaan(.pdf, 141.32 KB)](/files/penghargaan-2011.pdf)
