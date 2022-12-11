@@ -16,7 +16,7 @@ Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Me
 
 ### Kertas Ucaptama
 
-[Menyempurnakan Kata Menyampaikan Makna: Pengajaran dan Pembelajaran Aspek Kolokasi dalam Medan Makna(.pdf, 5.63 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---ucaptama.pdf?sfvrsn=209a8c86_2 "Menyempurnakan Kata Menyampaikan Makna: Pengajaran dan Pembelajaran Aspek Kolokasi dalam Medan Makna")
+[Menyempurnakan Kata Menyampaikan Makna: Pengajaran dan Pembelajaran Aspek Kolokasi dalam Medan Makna(.pdf, 5.63 MB)](/files/ml-seminar-2017---paper---ucaptama-compressed.pdf)
 
 Ucaptama, Profesor Madya Dr. Indirawati Zahid
 
