@@ -48,7 +48,7 @@ Norlela Abdul Rahaman dan Ghazali Mohamed Ibrahim
 8. [Kesan Maklum Balas Berasaskan InstaSense dalam Penulisan Naratif(.pdf, 1.21 MB)](/files/paper-08.pdf)  <br>
 Aidah Hosni dan Hazlina Yaacob  
   
-9. [Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral(.pdf, 1.44 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-09.pdf?sfvrsn=c9c3d9da_2 "Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral")  <br>
+9. [Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral(.pdf, 1.44 MB)](/files/paper-09.pdf) <br>
 Farizan Mohamed Amin dan Ghazali Mohamed Ibrahim  
   
 10. [Membina Kemampuan Murid Menjana Idea Melalui Rutin Berfikir LFT(.pdf, 877.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-10.pdf?sfvrsn=75baf973_2 "Membina Kemampuan Murid Menjana Idea Melalui Rutin Berfikir LFT")  <br>
