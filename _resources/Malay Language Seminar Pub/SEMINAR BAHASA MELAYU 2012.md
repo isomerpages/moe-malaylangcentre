@@ -50,13 +50,13 @@ Hazlian Karim Rozanah Kasnan
 12. [Penerapan Nilai: Penggunaan Klip Video dan Iklan(.pdf, 445.92 KB)](/files/12-penerapan-nilai-penggunaan-klip-video-dan-iklan-emelda-jumari.pdf)
 Nur Emelda Jumari Zainah Mohamed  
   
-13. [Penerapan Nilai dalam Pengajaran Berdasarkan Pengalaman(.pdf, 76.09 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/13-penerapan-nilai-dalam-pengajaran-berdasarkan-pengalaman-norazian-mohamed-yahya.pdf?sfvrsn=b90e3a0a_2 "Penerapan Nilai dalam Pengajaran Berdasarkan Pengalaman")  
+13. [Penerapan Nilai dalam Pengajaran Berdasarkan Pengalaman(.pdf, 76.09 KB)](/files/13-penerapan-nilai-dalam-pengajaran-berdasarkan-pengalaman-norazian-mohamed-yahya.pdf) 
 Hezrina Johan Manikam Norazian Mohamed Yahya  
   
-14. [Penerapan Pemikiran Kritis dalam Penulisan Karangan Argumentatif(.pdf, 234 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/14-penerapan-pemikiran-kritis-dalam-penulisan-karangan-argumentatif-azizah.pdf?sfvrsn=53dc8335_2 "Penerapan Pemikiran Kritis dalam Penulisan Karangan Argumentatif")  
+14. [Penerapan Pemikiran Kritis dalam Penulisan Karangan Argumentatif(.pdf, 234 KB)](/files/14-penerapan-pemikiran-kritis-dalam-penulisan-karangan-argumentatif-azizah.pdf)  
 Azizah Ahmad  
   
-15. [Penerapan Pendidikan Celik Kewangan dalam Pembelajaran Bahasa Melayu(.pdf, 145.9 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/15-penerapan-pendidikan-celik-kewangan-dalam-pembelajaran-bahasa-melayu-rosnidar-arshad.pdf?sfvrsn=17db52fb_2 "Penerapan Pendidikan Celik Kewangan dalam Pembelajaran Bahasa Melayu")  
+15. [Penerapan Pendidikan Celik Kewangan dalam Pembelajaran Bahasa Melayu(.pdf, 145.9 KB)](/files/15-penerapan-pendidikan-celik-kewangan-dalam-pembelajaran-bahasa-melayu-rosnidar-arshad.pdf)  
 Khairiah Abdulmajid Harharah, Rosnidah Arshad, Sadhana Yusop Wahida Abdul Wahid  
   
 16. [Penerapan Sastera dalam Pengajaran Bahasa di Sekolah Rendah(.pdf, 116.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/16-penerapan-sastera-dalam-pengajaran-bahasa-di-sekolah-rendah-rosnita-sarifah.pdf?sfvrsn=3f55c216_2 "Penerapan Sastera dalam Pengajaran Bahasa di Sekolah Rendah")  
