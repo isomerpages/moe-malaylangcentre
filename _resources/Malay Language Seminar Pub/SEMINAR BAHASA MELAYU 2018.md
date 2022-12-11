@@ -81,28 +81,28 @@ Manisah Osman dan Siti Nurulhuda Md Yunus
 19. [Pengajaran dan Pembelajaran Imbuhan Melalui Pendekatan Pembelajaran Aktif(.pdf, 1.14 MB)](/files/paper-19.pdf)  <br>
 Nurul Ariqafitri Jumari dan Maisarah Haron  
   
-20. [Penggunaan Aplikasi Nearpod dalam Penulisan Karangan(.pdf, 835.05 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-20.pdf?sfvrsn=91027da7_2 "Penggunaan Aplikasi Nearpod dalam Penulisan Karangan")  <br>
+20. [Penggunaan Aplikasi Nearpod dalam Penulisan Karangan(.pdf, 835.05 KB)](/files/paper-20.pdf)  <br>
 Hajjah Marzia Abdul Rahman dan Atikah Adilah Ahmad Affandi  
   
-21. [Penggunaan App Cerita Rakyat Nusantara dalam Membina Kemahiran Interaksi Lisan(.pdf, 1.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-21.pdf?sfvrsn=19d758a1_2 "Penggunaan App Cerita Rakyat Nusantara dalam Membina Kemahiran Interaksi Lisan")  <br>
+21. [Penggunaan App Cerita Rakyat Nusantara dalam Membina Kemahiran Interaksi Lisan(.pdf, 1.1 MB)](/files/paper-21.pdf)  <br>
 Jumilah Ahmad dan Sabrina Samsuri  
   
-22. [Penggunaan Frasa Berbunga dalam Penulisan Karangan(.pdf, 769.67 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-22.pdf?sfvrsn=2d2fb420_2 "Penggunaan Frasa Berbunga dalam Penulisan Karangan")  <br>
+22. [Penggunaan Frasa Berbunga dalam Penulisan Karangan(.pdf, 769.67 KB)](/files/paper-22.pdf)  <br>
 Badrolhaizat Kamsin dan Irvena Herlin Abdullah  
   
-23. [Penggunaan Kad Permainan dalam Pengajaran Kata Seerti/Seiras(.pdf, 1011.55 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-23.pdf?sfvrsn=41be1cec_2 "Penggunaan Kad Permainan dalam Pengajaran Kata Seerti/Seiras")  <br>
+23. [Penggunaan Kad Permainan dalam Pengajaran Kata Seerti/Seiras(.pdf, 1011.55 KB)](/files/paper-23.pdf)  <br>
 Noor Aisyah Ahmad Sharif dan Nasyitah Abu Bakar  
   
-24. [Pengunaan KWL dan Piraminda bagi Meningkatkan Kemahiran Interaksi Lisan(.pdf, 794.9 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-24.pdf?sfvrsn=742d4c5e_2 "Pengunaan KWL dan Piraminda bagi Meningkatkan Kemahiran Interaksi Lisan")  <br>
+24. [Pengunaan KWL dan Piraminda bagi Meningkatkan Kemahiran Interaksi Lisan(.pdf, 794.9 KB)](/files/paper-24.pdf)  <br>
 Norashikin Mohamed Noor dan Nazreen Mohamed Noor  
   
-25. [Penggunaan Nearpod untuk Meningkatkan Minat dan Pelibatan Pelajar dalam Pembelajaran Bahasa(.pdf, 1.22 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-25.pdf?sfvrsn=3c398179_2 "Penggunaan Nearpod untuk Meningkatkan Minat dan Pelibatan Pelajar dalam Pembelajaran Bahasa")  <br>
+25. [Penggunaan Nearpod untuk Meningkatkan Minat dan Pelibatan Pelajar dalam Pembelajaran Bahasa(.pdf, 1.22 MB)](/files/paper-25.pdf)  <br>
 Memymiswati Chokri dan Nur Afiqah Mokhtar Kamarudin  
   
-26. [Penggunaan Peta Buih dan ABK untuk Merangsang Pembelajaran Kosa Kata Pelajar(.pdf, 1.41 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-26.pdf?sfvrsn=fc7f1cde_2 "Penggunaan Peta Buih dan ABK untuk Merangsang Pembelajaran Kosa Kata Pelajar")  <br>
+26. [Penggunaan Peta Buih dan ABK untuk Merangsang Pembelajaran Kosa Kata Pelajar(.pdf, 1.41 MB)](/files/paper-26.pdf)  <br>
 Rita Zarina Mohd Nazeer  
   
-27. [Penggunaan Popplet bagi Merangsang Pemikiran dalam Penulisan Karangan Ekspositori(.pdf, 1.11 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-27.pdf?sfvrsn=4abc4dc7_2 "Penggunaan Popplet bagi Merangsang Pemikiran dalam Penulisan Karangan Ekspositori")  <br>
+27. [Penggunaan Popplet bagi Merangsang Pemikiran dalam Penulisan Karangan Ekspositori(.pdf, 1.11 MB)](/files/paper-27.pdf)  <br>
 Nurul Fasha Samsudin dan Farah Diyanah Mohammed Tayib  
   
 28. [Penggunaan Rutin Berfi kir 3-2-1 Bina Titian dan Fikir-Tulis dalam Pembelajaran Interaksi Lisan(.pdf, 1.58 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-28.pdf?sfvrsn=e763acb3_2 "Penggunaan Rutin Berfi kir 3-2-1 Bina Titian dan Fikir-Tulis dalam Pembelajaran Interaksi Lisan")  <br>
