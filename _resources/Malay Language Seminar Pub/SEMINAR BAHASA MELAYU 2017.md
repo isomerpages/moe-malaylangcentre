@@ -157,15 +157,15 @@ Awalludin Abdul Jabbar dan Ghazali Mohamed Ibrahim
 45. [Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran(.pdf, 2.08 MB)](/files/ml-seminar-2017---paper---45.pdf)  
 Qamarul Azhar Ahmad Kamil dan Amirul Asri Hussin
 
-46. [Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori(.pdf, 2.85 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---46.pdf?sfvrsn=4cc68ac5_2 "Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori")  
+46. [Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori(.pdf, 2.85 MB)](/files/ml-seminar-2017---paper---46.pdf)  
 Julinda Hassan dan Fakhrunnisaa A A M
 
-47. [Strategi Pengajaran Sintaksis Melalui Wadah Spark(.pdf, 2.9 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---47.pdf?sfvrsn=cd704359_2 "Strategi Pengajaran Sintaksis Melalui Wadah Spark")  
+47. [Strategi Pengajaran Sintaksis Melalui Wadah Spark(.pdf, 2.9 MB)](/files/ml-seminar-2017---paper---47.pdf)  
 Arfah Buang dan Azizah Ahmad
 
-48. [Tiga dalam 1 – Tambah Tabung Kosa Kata(.pdf, 2.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---48.pdf?sfvrsn=f08059da_2 "Tiga dalam 1 – Tambah Tabung Kosa Kata")  
+48. [Tiga dalam 1 – Tambah Tabung Kosa Kata(.pdf, 2.19 MB)](/files/ml-seminar-2017---paper---48.pdf)  
 Norwati Sulaiman dan Hairani Asri
 
-[Pameran Seminar Bahasa Melayu 2017(.pdf, 2.62 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---pameran.pdf?sfvrsn=bdbb1918_2 "Pameran Seminar Bahasa Melayu 2017")
+[Pameran Seminar Bahasa Melayu 2017(.pdf, 2.62 MB)](/files/ml-seminar-2017---paper---pameran.pdf)
 
-[Penghargaan(.pdf, 2.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---penghargaan.pdf?sfvrsn=e40c960f_2 "Penghargaan")
+[Penghargaan(.pdf, 2.25 MB)](/files/ml-seminar-2017---paper---penghargaan.pdf)
