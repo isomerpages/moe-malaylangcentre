@@ -66,9 +66,9 @@ Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Me
 44.  [Penggunaan Zaption dalam Latihan untuk Meningkatkan Kemahiran Lisan Berdasarkan Video(.pdf, 312.13 KB)](/files/sbm16-44.pdf) oleh Eity Norhyezah Asyurah dan Hayati Murni Mohamed Yacob
 45.  [Program Titian bagi Pelajar Normal Teknikal(.pdf, 368.13 KB)](/files/sbm16-45.pdf) oleh Nazarudin Abd Bakar
 46.  [R.A.F.T dan Think-tac-toe dalam Pengajaran dan Pembelajaran(.pdf, 297.3 KB)](/files/sbm16-46.pdf) oleh Hairani Sani dan Ibrizi Ishak
-47.  [Strategi Pengajaran Kefahaman dengan Menggunakan Bahan Visual(.pdf, 358.22 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/kertas-kerja-sesi-sidang-selari/sbm16-47.pdf?sfvrsn=535fc935_2 "Strategi Pengajaran Kefahaman dengan Menggunakan Bahan Visual") oleh Mohamed Zain Mohamed dan Nur Ashikin Sapri
-48.  [Transformasi Teks dalam Pembelajaran Komponen Sastera(.pdf, 367.92 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/kertas-kerja-sesi-sidang-selari/sbm16-48.pdf?sfvrsn=c526ff12_2 "Transformasi Teks dalam Pembelajaran Komponen Sastera") oleh Siti Khadijah Mohammed Anis dan Yazid Hussein
+47.  [Strategi Pengajaran Kefahaman dengan Menggunakan Bahan Visual(.pdf, 358.22 KB)](/files/sbm16-47.pdf) oleh Mohamed Zain Mohamed dan Nur Ashikin Sapri
+48.  [Transformasi Teks dalam Pembelajaran Komponen Sastera(.pdf, 367.92 KB)](/files/sbm16-48.pdf) oleh Siti Khadijah Mohammed Anis dan Yazid Hussein
 
-[Pameran Seminar Bahasa Melayu 2016(.pdf, 176.59 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/sbm16-pameran_seminar_bahasa_melayu_2016.pdf?sfvrsn=b706f217_2 "Pameran Seminar Bahasa Melayu 2016")
+[Pameran Seminar Bahasa Melayu 2016(.pdf, 176.59 KB)](/files/sbm16-pameran_seminar_bahasa_melayu_2016.pdf)
 
-[Penghargaan(.pdf, 494.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/sbm16-penghargaan.pdf?sfvrsn=73a61e48_2 "Penghargaan")
+[Penghargaan(.pdf, 494.98 KB)](/files/sbm16-penghargaan.pdf)
