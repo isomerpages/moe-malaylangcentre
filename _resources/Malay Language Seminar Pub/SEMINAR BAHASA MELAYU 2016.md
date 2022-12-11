@@ -55,7 +55,7 @@ Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Me
 34.  [Penggunaan LABA dalam Pembinaan dan Peluasan Ayat(.pdf, 291.79 KB)](/files/sbm16-34.pdf) oleh Aswati Mohd Shariff dan Muliana Mohammad
 35.  [Penggunaan LEGO dalam Penulisan Kreatif(.pdf, 258.83 KB)](/files/sbm16-35.pdf) oleh Nurhuda Ibrahim dan Norzelawati Shariff
 36.  [Penggunaan Metafora dalam Pengajaran dan Pembelajaran Kemahiran Menulis(.pdf, 313.75 KB)](/files/sbm16-36.pdf) oleh Salinah Rahman dan Mohamad Fazlon Abdul Wahab
-37.  [Penggunaan Perisian Plickers dalam Pembelajaran ICT(.pdf, 292.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/kertas-kerja-sesi-sidang-selari/sbm16-37.pdf?sfvrsn=dbd37ada_2 "Penggunaan Perisian Plickers dalam Pembelajaran ICT") oleh Mohamed Izzat Mohamed Sarip
+37.  [Penggunaan Perisian Plickers dalam Pembelajaran ICT(.pdf, 292.79 KB)](/files/sbm16-37.pdf) oleh Mohamed Izzat Mohamed Sarip
 38.  [Penggunaan PetaK dalam Memperkasakan Imbuhan Pelajar(.pdf, 252.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/kertas-kerja-sesi-sidang-selari/sbm16-38.pdf?sfvrsn=79fa5376_2 "Penggunaan PetaK dalam Memperkasakan Imbuhan Pelajar") oleh Hasnah Hassan dan Noreen Mahmood  
     
 39.  [Penggunaan Rutin Berfikir dan iMTL untuk Menggalakkan Pembelajaran Kendiri(.pdf, 441.91 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2016/kertas-kerja-sesi-sidang-selari/sbm16-39.pdf?sfvrsn=b0fedca1_2 "Penggunaan Rutin Berfikir dan iMTL untuk Menggalakkan Pembelajaran Kendiri") oleh Nur Ain Mohamed Amin dan Sadhana Yusop
