@@ -8,11 +8,11 @@ third_nav_title: Malay Language Seminar Pub
 
 Pada 04 Jun 2013, Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan, Seminar Bahasa Melayu 2013. Prof Madya Dr. Abdul Mua'ti, Dekan Fakulti Bahasa Moden dan Komunikasi, Universiti Putra Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Berikut ialah senarai kertas kerja yang dibentangkan oleh para guru dan ucaptama.
 
-[Kandungan(.pdf, 173.2 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2013/(0-1)content-page_ml-seminar-2013r.pdf?sfvrsn=7bb8c4f0_2 "Kandungan")
+[Kandungan(.pdf, 173.2 KB)](/files/(0-1)content-page_ml-seminar-2013r.pdf)
 
-[Sekapur Sirih(.pdf, 143.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2013/(0-2)sekapur-sirih_ml-seminar-2013-r.pdf?sfvrsn=e6832ab0_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 143.98 KB)](/files/(0-2)sekapur-sirih_ml-seminar-2013-r.pdf)
 
-[Program(.pdf, 43.03 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2013/program_ml_seminar_2013.pdf?sfvrsn=c3eb306_2 "Program")
+[Program(.pdf, 43.03 KB)](/files/program_ml_seminar_2013.pdf)
 
 **Kertas Ucaptama**
 
