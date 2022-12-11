@@ -75,10 +75,10 @@ Siti Noordiana Sulaiman dan Fasihah Rahmat
 17. [Pembelajaran Peribahasa Melalui ICT(.pdf, 860.45 KB)](/files/paper-17.pdf)  <br>
 Azah Abdul Aziz dan Jumaeyah Zainalabidin  
   
-18. [Pemikiran Kritikal bagi Meningkatkan Kemahiran Menjawab Soalan Inferens(.pdf, 1019.67 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-18.pdf?sfvrsn=dac5eeba_2 "Pemikiran Kritikal bagi Meningkatkan Kemahiran Menjawab Soalan Inferens")  <br>
+18. [Pemikiran Kritikal bagi Meningkatkan Kemahiran Menjawab Soalan Inferens(.pdf, 1019.67 KB)](/files/paper-18.pdf)  <br>
 Manisah Osman dan Siti Nurulhuda Md Yunus  
   
-19. [Pengajaran dan Pembelajaran Imbuhan Melalui Pendekatan Pembelajaran Aktif(.pdf, 1.14 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-19.pdf?sfvrsn=bf141dea_2 "Pengajaran dan Pembelajaran Imbuhan Melalui Pendekatan Pembelajaran Aktif")  <br>
+19. [Pengajaran dan Pembelajaran Imbuhan Melalui Pendekatan Pembelajaran Aktif(.pdf, 1.14 MB)](/files/paper-19.pdf)  <br>
 Nurul Ariqafitri Jumari dan Maisarah Haron  
   
 20. [Penggunaan Aplikasi Nearpod dalam Penulisan Karangan(.pdf, 835.05 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-20.pdf?sfvrsn=91027da7_2 "Penggunaan Aplikasi Nearpod dalam Penulisan Karangan")  <br>
