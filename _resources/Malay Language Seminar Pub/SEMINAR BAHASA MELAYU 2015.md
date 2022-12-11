@@ -58,9 +58,9 @@ Ucaptama, Profesor Dr Zaharani Ahma, Timbalan Ketua Pengarah, DBP, Malaysia
 34.  [Strategi Drama dalam Meningkatkan Kemahiran Menjawab Soalan Kefahaman(.pdf, 253.42 KB)](/files/34_seminarpapers.pdf) oleh Ardi Sujak dan Rashidah Rajah
 35.  [Strategi Pemahaman Teks(.pdf, 164.93 KB)](/files/35_seminarpapers.pdf) oleh Hajjah Marzia Abdul Rahman dan Rasyidah Bajuri
 36.  [Strategi Probable Passage dalam Meningkatkan Kemahiran Membaca Murid(.pdf, 375.29 KB)](/files/36_seminarpapers.pdf) oleh Halimatussadiah Jaffar dan Khuraisah Mohd Abthar
-37.  [Wadah Alternatif dalam Pembelajaran Berasaskan ICT(.pdf, 182.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/kertas-kerja-sesi-sidang-selari/37_seminarpapers.pdf?sfvrsn=f40388bb_2 "Wadah Alternatif dalam Pembelajaran Berasaskan ICT") oleh Djohan Abdul Rahman dan Hezrina Johan Manikam
-38.  [Wayang Kulit Merangsang Pertuturan Pelajar(.pdf, 294.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/kertas-kerja-sesi-sidang-selari/38_seminarpapers.pdf?sfvrsn=b06d1d6a_2 "Wayang Kulit Merangsang Pertuturan Pelajar") oleh Rasyidah Ramli dan Rositah Yusof
+37.  [Wadah Alternatif dalam Pembelajaran Berasaskan ICT(.pdf, 182.88 KB)](/files/37_seminarpapers.pdf) oleh Djohan Abdul Rahman dan Hezrina Johan Manikam
+38.  [Wayang Kulit Merangsang Pertuturan Pelajar(.pdf, 294.72 KB)](/files/38_seminarpapers.pdf) oleh Rasyidah Ramli dan Rositah Yusof
 
-[Pameran Seminar Bahasa Melayu 2015(.pdf, 143.4 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/pameran-seminar-bahasa-melayu-2015.pdf?sfvrsn=89b52064_2 "Pameran Seminar Bahasa Melayu 2015")
+[Pameran Seminar Bahasa Melayu 2015(.pdf, 143.4 KB)](/files/pameran-seminar-bahasa-melayu-2015.pdf)
 
-[Penghargaan(.pdf, 781.55 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2015/penghargaan-2015.pdf?sfvrsn=d9bc032e_2 "Penghargaan")
+[Penghargaan(.pdf, 781.55 KB)](/files/penghargaan-2015.pdf)
