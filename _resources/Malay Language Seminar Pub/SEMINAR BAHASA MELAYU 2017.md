@@ -4,3 +4,168 @@ permalink: /mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publicat
 description: ""
 third_nav_title: Malay Language Seminar Pub
 ---
+##### **Menyempurnakan Kata, Menyampaikan Makna**
+
+Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Melayu 2017 pada 14 Mac 2017. Profesor Madya Dr. Indirawati Binti Zahid, Akademi Pengajian Melayu, Universiti Malaya, Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Encik Masagos Zulkifli Masagos Mohamad, Menteri Sekitaran dan Sumber Air, Kementerian Sekitaran dan Sumber Air, merupakan Tetamu Terhormat pada majlis tersebut.
+
+[Kandungan(.pdf, 1.61 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---kandungan.pdf?sfvrsn=3c999828_2 "Kandungan")
+
+[Sekapur Sirih(.pdf, 4.02 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---sekapur-sirih.pdf?sfvrsn=47ca4104_2 "Sekapur Sirih")
+
+[Atur Cara(.pdf, 2.26 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---atur-cara.pdf?sfvrsn=6376c503_2 "Atur Cara")
+
+### Kertas Ucaptama
+
+[Menyempurnakan Kata Menyampaikan Makna: Pengajaran dan Pembelajaran Aspek Kolokasi dalam Medan Makna(.pdf, 5.63 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---ucaptama.pdf?sfvrsn=209a8c86_2 "Menyempurnakan Kata Menyampaikan Makna: Pengajaran dan Pembelajaran Aspek Kolokasi dalam Medan Makna")
+
+Ucaptama, Profesor Madya Dr. Indirawati Zahid
+
+### Kertas Kerja Sesi Sidang Selari
+
+1. [Analisis Wacana Maklum Balas Pembelajaran Imbuhan Kata Nama(.pdf, 3.03 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---01.pdf?sfvrsn=7549118e_2 "Analisis Wacana Maklum Balas Pembelajaran Imbuhan Kata Nama")  
+Effendy Ahmadi dan Norliza Ali
+
+2. [Keberkesanan ICT dalam Pengajaran Imbuhan Awalan peN(.pdf, 2.39 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---02.pdf?sfvrsn=8d499336_2 "Keberkesanan ICT dalam Pengajaran Imbuhan Awalan peN")  
+Sanisah Rahim dan Nuraishah Mahmood
+
+3. [Keberkesanan Nearpod dalam Merangsang Minat Pelajar Mempelajari Kata Ganda(.pdf, 2.43 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---03.pdf?sfvrsn=288c6693_2 "Keberkesanan Nearpod dalam Merangsang Minat Pelajar Mempelajari Kata Ganda")  
+Nurain Tajudeen dan Nur Umaira Mohamad Zulkifli
+
+4. [Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan(.pdf, 2.56 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---04.pdf?sfvrsn=1382f432_2 "Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan")  
+Muhammad Luqman Mohd Shapie dan Siti Fadhilah Saneb
+
+5. [LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata(.pdf, 3.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---05.pdf?sfvrsn=fe405c48_2 "LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata")  
+Khairiah Harharah Abdulmajid dan Nur Ain Mohd Amin
+
+6. [Membina Kosa Kata Murid bagi Menjana Idea bagi Isi Karangan Melalui konsep Curriculum Redesign(.pdf, 2.2 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---06.pdf?sfvrsn=2d07abb4_2 "Membina Kosa Kata Murid bagi Menjana Idea bagi Isi Karangan Melalui konsep Curriculum Redesign")  
+Azah Abdul Aziz dan Sheikha Fadzlon Shaik Yakob
+
+7. [Memperkaya Kata Adjektif Melalui Penerokaan Taman Herba dan Rempah Ratus(.pdf, 2.06 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---07.pdf?sfvrsn=2e5ae696_2 "Memperkaya Kata Adjektif Melalui Penerokaan Taman Herba dan Rempah Ratus")  
+Zarina Sidik dan Nur Adawiyah Rosli
+
+8. [Memperkaya Kosa Kata Murid-murid Bukan Melayu Melalui Pendekatan Leksikal(.pdf, 2.55 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---08.pdf?sfvrsn=a3912c3c_2 "Memperkaya Kosa Kata Murid-murid Bukan Melayu Melalui Pendekatan Leksikal")  
+Rashidah Rajah
+
+9. [Memperkaya Kosa Kata Murid Melalui Puisi(.pdf, 2.23 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---09.pdf?sfvrsn=3f22a849_2 "Memperkaya Kosa Kata Murid Melalui Puisi")  
+Daing Noor Ashikin Bahnan
+
+10. [Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---10.pdf?sfvrsn=4ee3a4e0_2 "Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan")  
+Ruhaidah Rahmat dan Nuradilah Abdul Wahid
+
+11. [Meningkatkan Keupayaan Menggunakan Golongan Kata bagi Pembinaan Ayat Melalui Drama(.pdf, 2.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---11.pdf?sfvrsn=d74cd182_2 "Meningkatkan Keupayaan Menggunakan Golongan Kata bagi Pembinaan Ayat Melalui Drama")  
+Rashidah Rajah dan Muhammad Nizam Mustafa
+
+12. [Meningkatkan Kosa Kata Pelajar Melalui Kata Kolokasi(.pdf, 2.17 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---12.pdf?sfvrsn=dd0fd4aa_2 "Meningkatkan Kosa Kata Pelajar Melalui Kata Kolokasi")  
+Ishak Abdul Latiff dan Noraishah Mostapa
+
+13. [Meningkatkan Penggunaan Kata Sendi Nama Melalui Kaedah Imlak(.pdf, 3.72 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---13.pdf?sfvrsn=1cd8f8db_2 "Meningkatkan Penggunaan Kata Sendi Nama Melalui Kaedah Imlak")  
+Mohamed Ali Mohamed Iqbal dan Siti Zulaikha Zainal Abidin
+
+14. [Meningkatkan Penggunaan Penanda Wacana dalam Penulisan E-mel(.pdf, 2.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---14.pdf?sfvrsn=64d922c2_2 "Meningkatkan Penggunaan Penanda Wacana dalam Penulisan E-mel")  
+Alifa Ismail dan Helmilina Muhamad Som
+
+15. [Meningkatkan Penguasaan Kosa Kata Pelajar(.pdf, 3.28 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---15.pdf?sfvrsn=ae491e02_2 "Meningkatkan Penguasaan Kosa Kata Pelajar")  
+Kamariah Abd Rahim dan Zurianah Rahmat
+
+16. [Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---16.pdf?sfvrsn=9d96b7fe_2 "Muzik Mengalun, Bahasa Bergema: Kata Adjektif dalam Lirik Lagu")  
+Siti Farhana Abdullah dan Siti Aisyah Sa’id
+
+17. [Peluasan Ayat Melalui Strategi Penggunaan Pelbagai Keterangan(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---17.pdf?sfvrsn=6059349d_2 "Peluasan Ayat Melalui Strategi Penggunaan Pelbagai Keterangan")  
+Manisah Osman
+
+18. [Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK(.pdf, 2.73 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---18.pdf?sfvrsn=65ef3620_2 "Peluasan Kosa Kata dan Kata Adjektif dalam Karangan Melalui VARK")  
+Elyani Mohamed dan Asnur Mursalin Aspar
+
+19. [Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif(.pdf, 2.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---19.pdf?sfvrsn=dd82d70f_2 "Peluasan Kosa Kata Melalui Penggunaan Gaya Bahasa Perbandingan dalam Penulisan Deskriptif")  
+Zulkifli Khamis dan Noor Aisyah Ahmad Sharif
+
+20. [Pemahaman Watak dalam Cerita untuk Mencungkil Kosa Kata Berkaitan Nilai(.pdf, 3.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---20.pdf?sfvrsn=4045320b_2 "Pemahaman Watak dalam Cerita untuk Mencungkil Kosa Kata Berkaitan Nilai")  
+Hajjah Marzia Abdul Rahman dan Nur Hasyimah Surnin
+
+21. [Pembelajaran Kata Kerja Melalui Penggunaan Perisian Aplikasi Adobe Spark dan Penerapan Taksonomi SOLO(.pdf, 2.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---21.pdf?sfvrsn=951da815_2 "Pembelajaran Kata Kerja Melalui Penggunaan Perisian Aplikasi Adobe Spark dan Penerapan Taksonomi SOLO")  
+Djohan Abdul Rahman dan Nurul Syakinah Sahak
+
+22. [Pendekatan Interaktif dalam Pembelajaran Kata Hubung(.pdf, 3.06 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---22.pdf?sfvrsn=f250f597_2 "Pendekatan Interaktif dalam Pembelajaran Kata Hubung")  
+Mohd Hazman Othman dan Yasmin Azahari
+
+23. [Penerapan Penanda Wacana dalam Pengajaran dan Pembelajaran Kemahiran Menulis(.pdf, 2.52 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---23.pdf?sfvrsn=3ce50885_2 "Penerapan Penanda Wacana dalam Pengajaran dan Pembelajaran Kemahiran Menulis")  
+Muhammad Faizrin Hashim dan Muliana Mohammad
+
+24. [Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid(.pdf, 2.33 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---24.pdf?sfvrsn=24aa161c_2 "Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid")  
+Khuraisah Mohamed Abthar dan Salamah Massa’id
+
+25. [Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah(.pdf, 3.12 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---25.pdf?sfvrsn=1c277a15_2 "Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah")  
+Ghazali Mohamed Ibrahim dan Herman Hassan
+
+26. [Penerapan Teknik Mnemonik dalam Pembelajaran Imbuhan Awalan(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---26.pdf?sfvrsn=b0c7d340_2 "Penerapan Teknik Mnemonik dalam Pembelajaran Imbuhan Awalan")  
+Norlela Abdul Rahaman dan Ghazali Mohamed Ibrahim
+
+27. [Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---27.pdf?sfvrsn=54f1a780_2 "Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’")  
+Asiyah Sheik Mohd Ismail dan Khaziah Yem
+
+28. [Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran(.pdf, 2.34 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---28.pdf?sfvrsn=482f006e_2 "Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran")  
+Amilia Baba dan Sarimah Sainin
+
+29. [Pengajaran Kata Nama dengan Menggunakan konsep MBBT(.pdf, 2.59 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---29.pdf?sfvrsn=984dbf95_2 "Pengajaran Kata Nama dengan Menggunakan konsep MBBT")  
+Haryati Surana dan Nur Syahirah Sa’adon
+
+30. [Pengajaran Kosa Kata Melalui ICT dan Drama(.pdf, 2.05 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---30.pdf?sfvrsn=f40e180a_2 "Pengajaran Kosa Kata Melalui ICT dan Drama")  
+Suriyana Ghapari dan Siti Nurashikin Ajmain
+
+31. [Pengajaran Kosa Kata Secara Eksplisit dalam Mempertingkatkan Pencapaian Murid Tahap Rendah bagi Komponen Perbualan(.pdf, 2.54 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---31.pdf?sfvrsn=82e5ebe2_2 "Pengajaran Kosa Kata Secara Eksplisit dalam Mempertingkatkan Pencapaian Murid Tahap Rendah bagi Komponen Perbualan")  
+Junainah Mohamed Yusoff dan Nurhidayah Ashari
+
+32. [Pengajaran Wacana Menerusi Medan Makna: Pengajaran Bersumberkan Filem(.pdf, 2.68 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---32.pdf?sfvrsn=7993fa3f_2 "Pengajaran Wacana Menerusi Medan Makna: Pengajaran Bersumberkan Filem")  
+Muhammad Jailani Abu Talib dan Siti Aisah Maduri
+
+33. [Pengayaan Kosa Kata Murid Melalui Program Seni Tari Melayu(.pdf, 2.78 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---33.pdf?sfvrsn=94e0fd6a_2 "Pengayaan Kosa Kata Murid Melalui Program Seni Tari Melayu")  
+Ghazali Mohamed Ibrahim dan Nurbayah Ismail
+
+34. [Penggunaan Aplikasi K.O.S.A. (Kita Orang SingapurA) bagi Meningkatkan Penguasaan Kosa Kata Murid(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---34.pdf?sfvrsn=e6066117_2 "Penggunaan Aplikasi K.O.S.A. (Kita Orang SingapurA) bagi Meningkatkan Penguasaan Kosa Kata Murid")  
+Salinah Rahman dan Nur Amalina Mazzly
+
+35. [Penggunaan Aplikasi Sinar Kata dalam Pembinaan Kosa Kata Kata Nama Am(.pdf, 2.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---35.pdf?sfvrsn=b180f9ef_2 "Penggunaan Aplikasi Sinar Kata dalam Pembinaan Kosa Kata Kata Nama Am")  
+Rozita A Hamid dan Aznizah Abdul Aziz
+
+36. [Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---36.pdf?sfvrsn=bc94609d_2 "Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid")  
+Faridah Abdul Aziz dan Nur Sakinah Mohammed Salim
+
+37. [Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R(.pdf, 2.79 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---37.pdf?sfvrsn=b6f21a2f_2 "Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R")  
+Rohani Mafot dan Nurhani Idris
+
+38. [Penggunaan Kata Adjektif dalam Penulisan Karangan Murid P6(.pdf, 2.23 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---38.pdf?sfvrsn=c077d1a0_2 "Penggunaan Kata Adjektif dalam Penulisan Karangan Murid P6")  
+Siti Fatimah Omar Bakri
+
+39. [Penggunaan Kata Hubung dalam Penulisan Melalui Pengajaran Secara Eksplisit(.pdf, 2.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---39.pdf?sfvrsn=612dd2d1_2 "Penggunaan Kata Hubung dalam Penulisan Melalui Pengajaran Secara Eksplisit")  
+Melati Hallel dan Noor Aisya Buang
+
+40. [Penggunaan Rutin Berfikir dalam Pengajaran Golongan Kata(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---40.pdf?sfvrsn=59043b17_2 "Penggunaan Rutin Berfikir dalam Pengajaran Golongan Kata")  
+Nurhiza Mohamed dan Nurul Hidana Ahmad
+
+41. [Penggunaan S2TAMP2D dalam Pengajaran dan Pembelajaran Kepelbagaian Ayat(.pdf, 2.12 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---41.pdf?sfvrsn=21a2a2d7_2 "Penggunaan S2TAMP2D dalam Pengajaran dan Pembelajaran Kepelbagaian Ayat")  
+Zaetun Abbas dan Sulastri Amat
+
+42. [Penggunaan Senarai Semak Kendiri Berlambang dalam Memperbaik Pembinaan Ayat(.pdf, 2.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---42.pdf?sfvrsn=738130d8_2 "Penggunaan Senarai Semak Kendiri Berlambang dalam Memperbaik Pembinaan Ayat")  
+Nur Syahida Paiman dan Taufek Siniwi
+
+43. [Penggunaan Strategi Penterjemahan dalam Pengajaran Sintaksis(.pdf, 2.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---43.pdf?sfvrsn=6043bdcd_2 "Penggunaan Strategi Penterjemahan dalam Pengajaran Sintaksis")  
+Mazalan Ajan dan Irmawati Mascom
+
+44. [Penggunaan Teknik Pembayangan dalam Pembelajaran Imbuhan Awalan(.pdf, 2.55 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---44.pdf?sfvrsn=c69013_2 "Penggunaan Teknik Pembayangan dalam Pembelajaran Imbuhan Awalan")  
+Awalludin Abdul Jabbar dan Ghazali Mohamed Ibrahim
+
+45. [Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran(.pdf, 2.08 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---45.pdf?sfvrsn=9e29205d_2 "Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran")  
+Qamarul Azhar Ahmad Kamil dan Amirul Asri Hussin
+
+46. [Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori(.pdf, 2.85 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---46.pdf?sfvrsn=4cc68ac5_2 "Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori")  
+Julinda Hassan dan Fakhrunnisaa A A M
+
+47. [Strategi Pengajaran Sintaksis Melalui Wadah Spark(.pdf, 2.9 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---47.pdf?sfvrsn=cd704359_2 "Strategi Pengajaran Sintaksis Melalui Wadah Spark")  
+Arfah Buang dan Azizah Ahmad
+
+48. [Tiga dalam 1 – Tambah Tabung Kosa Kata(.pdf, 2.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---48.pdf?sfvrsn=f08059da_2 "Tiga dalam 1 – Tambah Tabung Kosa Kata")  
+Norwati Sulaiman dan Hairani Asri
+
+[Pameran Seminar Bahasa Melayu 2017(.pdf, 2.62 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---pameran.pdf?sfvrsn=bdbb1918_2 "Pameran Seminar Bahasa Melayu 2017")
+
+[Penghargaan(.pdf, 2.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---penghargaan.pdf?sfvrsn=e40c960f_2 "Penghargaan")
