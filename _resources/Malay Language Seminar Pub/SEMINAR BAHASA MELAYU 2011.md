@@ -26,15 +26,15 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 4. [Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama(.pdf, 325.34 KB)](/files/paper4---b2-kertas-kerja-fuchun-pri-final.pdf) oleh Hajjah Marzia Abdul Rahman, Rasyidah Bajuri Siti Mariam Mohd Amin  
 
-5. [Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef(.pdf, 295.95 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper5---c1-kertas-kerja-north-spring-pri-final.pdf?sfvrsn=2612fbb1_2 "Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef") oleh Noorazamah Razali, Nur Azlin Ramelan, Mohd Fahmy Abdul Fhani Safura Sallim  
+5. [Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef(.pdf, 295.95 KB)](/files/paper5---c1-kertas-kerja-north-spring-pri-final.pdf) oleh Noorazamah Razali, Nur Azlin Ramelan, Mohd Fahmy Abdul Fhani Safura Sallim  
 
-6. [Kajian Pengajaran: Pembelajaran Kosa Kata Melalui Visual Cues(.pdf, 425.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper6---c2-kertas-kerja-woodlands-pri-final.pdf?sfvrsn=2b508d56_2 "Kajian Pengajaran: Pembelajaran Kosa Kata Melalui Visual Cues") oleh Hairani Sani, Ibrizi Ishak, Siti Nurashikin Ajmain Siti Suhaida Surir  
+6. [Kajian Pengajaran: Pembelajaran Kosa Kata Melalui Visual Cues(.pdf, 425.88 KB)](/files/paper6---c2-kertas-kerja-woodlands-pri-final.pdf) oleh Hairani Sani, Ibrizi Ishak, Siti Nurashikin Ajmain Siti Suhaida Surir  
 
-7. [Pembelajaran Karangan dengan Menggunakan Kod EZ(.pdf, 300.17 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper7---d1-kertas-kerja-west-view-pri-final.pdf?sfvrsn=95fd5ed7_2 "Pembelajaran Karangan dengan Menggunakan Kod EZ") oleh Khaizuran Supa'at Noor Azleen Sarbini  
+7. [Pembelajaran Karangan dengan Menggunakan Kod EZ(.pdf, 300.17 KB)](/files/paper7---d1-kertas-kerja-west-view-pri-final.pdf) oleh Khaizuran Supa'at Noor Azleen Sarbini  
 
-8. [P.I.N.T.A.R(.pdf, 496.37 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper8---d2-kertas-kerja-xishan-pri-final.pdf?sfvrsn=4e695129_2 "P.I.N.T.A.R") oleh Khirunnisa Mohd Isa, Muhammad Reduan Yahaya, Saedah Mohamed Hussein Siti Khadijah Ibrahim  
+8. [P.I.N.T.A.R(.pdf, 496.37 KB)](/files/paper8---d2-kertas-kerja-xishan-pri-final.pdf) oleh Khirunnisa Mohd Isa, Muhammad Reduan Yahaya, Saedah Mohamed Hussein Siti Khadijah Ibrahim  
 
-9. [Kajian TIndakan: Keberkesanan Mnemonics(.pdf, 328.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper9---e1-kertas-kerja-xinghua-pri-final.pdf?sfvrsn=c1abca5d_2 "Kajian TIndakan: Keberkesanan Mnemonics") oleh Ardi Sujak, Farhanah Suratman, Nasreen Haji Shahabuddin Rashidah Rajah  
+9. [Kajian TIndakan: Keberkesanan Mnemonics(.pdf, 328.35 KB)](/files/paper9---e1-kertas-kerja-xinghua-pri-final.pdf) oleh Ardi Sujak, Farhanah Suratman, Nasreen Haji Shahabuddin Rashidah Rajah  
 
 10. [Penilaian Formatif Menggunakan Glogster(.pdf, 316.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper10---e2-kertas-kerja-yu-neng-final.pdf?sfvrsn=6bd109b2_2 "Penilaian Formatif Menggunakan Glogster") oleh Rosnidar Arshad, Rozana Zainuri, Siti Fatimah Hassan Wahidah Abdul Wahid  
 
