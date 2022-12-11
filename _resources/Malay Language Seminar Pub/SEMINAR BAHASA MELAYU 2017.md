@@ -94,13 +94,13 @@ Muhammad Faizrin Hashim dan Muliana Mohammad
 24. [Penerapan Rutin Berfikir dalam Membina Penguasaan Kosa Kata Murid(.pdf, 2.33 MB)](/files/ml-seminar-2017---paper---24.pdf)  
 Khuraisah Mohamed Abthar dan Salamah Massa’id
 
-25. [Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah(.pdf, 3.12 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---25.pdf?sfvrsn=1c277a15_2 "Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah")  
+25. [Penerapan Strategi Metakognitif dalam Pengajaran dan Pembelajaran Pembentukan Ayat Aktif di Peringkat Sekolah Rendah(.pdf, 3.12 MB)](/files/ml-seminar-2017---paper---25.pdf)  
 Ghazali Mohamed Ibrahim dan Herman Hassan
 
-26. [Penerapan Teknik Mnemonik dalam Pembelajaran Imbuhan Awalan(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---26.pdf?sfvrsn=b0c7d340_2 "Penerapan Teknik Mnemonik dalam Pembelajaran Imbuhan Awalan")  
+26. [Penerapan Teknik Mnemonik dalam Pembelajaran Imbuhan Awalan(.pdf, 2.45 MB)](/files/ml-seminar-2017---paper---26.pdf)  
 Norlela Abdul Rahaman dan Ghazali Mohamed Ibrahim
 
-27. [Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’(.pdf, 2.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---27.pdf?sfvrsn=54f1a780_2 "Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’")  
+27. [Pengajaran dan Pembelajaran Imbuhan ‘ber-’ Melalui Aplikasi ‘Nearpod’(.pdf, 2.32 MB)](/files/ml-seminar-2017---paper---27.pdf)  
 Asiyah Sheik Mohd Ismail dan Khaziah Yem
 
 28. [Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran(.pdf, 2.34 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---28.pdf?sfvrsn=482f006e_2 "Pengajaran Kata Adjektif Melalui Kaedah Drama dan Penerapan ICT dalam Pembelajaran")  
