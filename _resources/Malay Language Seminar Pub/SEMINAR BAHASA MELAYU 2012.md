@@ -17,10 +17,10 @@ Pada 29 Mei 2012, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar 
 1. [Cetusan Minda Melalui Bahasa Melalui Bahasa Kreatif untuk Komunikasi yang Efektif(.pdf, 228.05 KB)](/files/1-cetusan-minda-melalui-bahasa-kreatif-untuk-komunikasi-yang-efektif-siti-faridah-omar.pdf)  
 Farrah Mohamad Ghazali, Nur Azah Ismail, Siti Farhana Abdullah Siti Faridah Omar  
   
-2. [Jangan Malu: Pendekatan Komunikatif bagi Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 187.14 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/2-jangan-malu-pendekatan-komunikatif-bagi-meningkatkan-pengajaran-dan-pembelajaran-bahasa-melayu-yahida-yahya.pdf?sfvrsn=3aed1fb7_2 "Jangan Malu: Pendekatan Komunikatif bagi Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu")  
+2. [Jangan Malu: Pendekatan Komunikatif bagi Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 187.14 KB)](/files/2-jangan-malu-pendekatan-komunikatif-bagi-meningkatkan-pengajaran-dan-pembelajaran-bahasa-melayu.pdf)
 Azriana Abdul Manan Yahida Yahya  
   
-3. [Kemahiran Bertutur dengan Menggunakan Bahan Berita TV(.pdf, 247.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/3-kemahiran-bertutur-dengan-menggunakan-bahan-berita-tv-suria-rositah-yusof.pdf?sfvrsn=9a1194fa_2 "Kemahiran Bertutur dengan Menggunakan Bahan Berita TV")  
+3. [Kemahiran Bertutur dengan Menggunakan Bahan Berita TV(.pdf, 247.97 KB)](/files/3-kemahiran-bertutur-dengan-menggunakan-bahan-berita-tv-suria-rositah-yusof.pdf)
 Mohamad Arizal Ahmad, Nur Fa'izah Matnoor Rositah Yusof  
   
 4. [Kod QR: Karangan Ekspositori(.pdf, 287.43 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/4-kod-qr-karangan-ekspositori-mohamed-irwan-jamal.pdf?sfvrsn=d05b8376_2 "Kod QR: Karangan Ekspositori")  
