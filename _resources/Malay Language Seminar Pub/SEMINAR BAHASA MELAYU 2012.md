@@ -23,22 +23,22 @@ Azriana Abdul Manan Yahida Yahya
 3. [Kemahiran Bertutur dengan Menggunakan Bahan Berita TV(.pdf, 247.97 KB)](/files/3-kemahiran-bertutur-dengan-menggunakan-bahan-berita-tv-suria-rositah-yusof.pdf)
 Mohamad Arizal Ahmad, Nur Fa'izah Matnoor Rositah Yusof  
   
-4. [Kod QR: Karangan Ekspositori(.pdf, 287.43 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/4-kod-qr-karangan-ekspositori-mohamed-irwan-jamal.pdf?sfvrsn=d05b8376_2 "Kod QR: Karangan Ekspositori")  
+4. [Kod QR: Karangan Ekspositori(.pdf, 287.43 KB)](/files/4-kod-qr-karangan-ekspositori-mohamed-irwan-jamal.pdf) 
 Julinda Hassan, Muhammad Irwan Jamal, Ramna Johana Sarimah Ahmad  
   
-5. [Memupuk Kemahiran Bertutur Melalui Penggunaan Penyusun Grafik dan Rubrik(.pdf, 161.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/5-memupuk-kemahiran-bertutur-melalui-penggunaan-penyusun-grafik-dan-rubrik-hajjah-marzia-fuchunv.pdf?sfvrsn=8b624949_2 "Memupuk Kemahiran Bertutur Melalui Penggunaan Penyusun Grafik dan Rubrik")  
+5. [Memupuk Kemahiran Bertutur Melalui Penggunaan Penyusun Grafik dan Rubrik(.pdf, 161.72 KB)](/files/5-memupuk-kemahiran-bertutur-melalui-penggunaan-penyusun-grafik-dan-rubrik-hajjah-marzia-fuchunv.pdf)  
 Asmidah Mohd Jailani Hajjah Marzia Abdul Rahman  
   
-6. [Mengenalkan Konsep 'P.A.D.I' dalam Penulisan Karangan Naratif(.pdf, 190 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/6-memperkenalkan-konsep-padi-dalam-penulisan-karangan-naratif-faridah-broadrick-sec.pdf?sfvrsn=a722e3f9_2 "Mengenalkan Konsep 'P.A.D.I' dalam Penulisan Karangan Naratif")  
+6. [Mengenalkan Konsep 'P.A.D.I' dalam Penulisan Karangan Naratif(.pdf, 190 KB)](/files/6-memperkenalkan-konsep-padi-dalam-penulisan-karangan-naratif-faridah-broadrick-sec.pdf)")  
 Faridah Taib, Rohani Mohamed Ismail Rose Ghani  
   
-7. [Mengasah Kemahiran Literasi Digital(.pdf, 789.3 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/7-mengasah-kemahiran-literasi-digital.pdf?sfvrsn=ea923ff8_2 "Mengasah Kemahiran Literasi Digital")  
+7. [Mengasah Kemahiran Literasi Digital(.pdf, 789.3 KB)](/files/7-mengasah-kemahiran-literasi-digital.pdf)
 Wan Alfida Suleiman  
   
-8. [Meningkatkan Penguasaan Penggunaan Kata Adjektif Melalui Pembelajaran Berdasarkan Pengalaman(.pdf, 226.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/8-meningkatkan-penguasaan-kata-adjektif-melalui-pembelajaran-berdasarkan-pengalaman-zubaidah.pdf?sfvrsn=a8b566ff_2 "Meningkatkan Penguasaan Penggunaan Kata Adjektif Melalui Pembelajaran Berdasarkan Pengalaman")  
+8. [Meningkatkan Penguasaan Penggunaan Kata Adjektif Melalui Pembelajaran Berdasarkan Pengalaman(.pdf, 226.35 KB)](/files/8-meningkatkan-penguasaan-kata-adjektif-melalui-pembelajaran-berdasarkan-pengalaman-zubaidah.pdf) 
 Mohamad Khair Johari, Noraini Abdullah Hee Zubaidah Zainal Abidin  
   
-9. [Nilai Tambah dalam Pengajaran dan Pembelajaran Bahasa Melayu: Bake@Ekabahasa(.pdf, 160.81 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/9-nilai-tambah-dalam-pengajaran-dan-pembelajaran-bahasa-melayu@bake-ekabahasa-nurul-hakimah.pdf?sfvrsn=1b71f837_2 "Nilai Tambah dalam Pengajaran dan Pembelajaran Bahasa Melayu: Bake@Ekabahasa")  
+9. [Nilai Tambah dalam Pengajaran dan Pembelajaran Bahasa Melayu: Bake@Ekabahasa(.pdf, 160.81 KB)](/files/9-nilai-tambah-dalam-pengajaran-dan-pembelajaran-bahasa-melayu@bake-ekabahasa-nurul-hakimah.pdf) 
 Nurul Hakimah Abdul Rahim Rosmani Ramin  
   
 10. [Pakej Imbuhan: Meningkatkan Penguasaan Imbuhan Pelajar(.pdf, 321.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/10-pakej-imbuhan-meningkatkan-penguasaan-imbuhan-pelajar-ganda-sari.pdf?sfvrsn=73d113b9_2 "Pakej Imbuhan: Meningkatkan Penguasaan Imbuhan Pelajar")  
