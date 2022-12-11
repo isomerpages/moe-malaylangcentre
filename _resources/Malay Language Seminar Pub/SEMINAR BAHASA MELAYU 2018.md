@@ -57,22 +57,22 @@ Juliana Johari dan Safura Mohd Shariff
 11. [Membina Keupayaan Murid Berinteraksi dengan Menggunakan Rutin Berfikir 3-2-1 Bina Titian(.pdf, 1.1 MB)](/files/paper-11.pdf)  <br>
 Muliana Mohammad dan Aswati Mohd Shariff  
   
-12. [Meningkatkan Kemahiran Membaca Teks Naratif Melalui Kaedah Berfikir Secara Bersistem(.pdf, 1.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-12.pdf?sfvrsn=3d6376d5_2 "Meningkatkan Kemahiran Membaca Teks Naratif Melalui Kaedah Berfikir Secara Bersistem")  <br>
+12. [Meningkatkan Kemahiran Membaca Teks Naratif Melalui Kaedah Berfikir Secara Bersistem(.pdf, 1.25 MB)](/files/paper-12.pdf)  <br>
 Ghazali Mohamed Ibrahim  
   
-13. [Pendekatan Pelbagai Perspektif: Meningkatkan Pembelajaran Menerusi Pembelajaran Berdasarkan Pengalaman(.pdf, 1015.95 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-13.pdf?sfvrsn=2587e46f_2 "Pendekatan Pelbagai Perspektif: Meningkatkan Pembelajaran Menerusi Pembelajaran Berdasarkan Pengalaman")  <br>
+13. [Pendekatan Pelbagai Perspektif: Meningkatkan Pembelajaran Menerusi Pembelajaran Berdasarkan Pengalaman(.pdf, 1015.95 KB)](/files/paper-13.pdf)  <br>
 Nor Hanisah Saphari dan Halimah Rahmat  
   
-14. [Menjana Idea Secara Kendiri dan Kolaboratif Melalui Strategi Kemahiran Bertikir dan Penggunaan ICT(.pdf, 601.4 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-14.pdf?sfvrsn=ad9079b8_2 "Menjana Idea Secara Kendiri dan Kolaboratif Melalui Strategi Kemahiran Bertikir dan Penggunaan ICT")  <br>
+14. [Menjana Idea Secara Kendiri dan Kolaboratif Melalui Strategi Kemahiran Bertikir dan Penggunaan ICT(.pdf, 601.4 KB)](/files/paper-14.pdf)  <br>
 Suriyana Ghapari dan Siti Nurashikin Ajmain  
   
-15. [Pembelajaran Bahasa Melayu Secara Kolaborasi dalam Menggunakan ICT(.pdf, 1.32 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-15.pdf?sfvrsn=47f6219a_2 "Pembelajaran Bahasa Melayu Secara Kolaborasi dalam Menggunakan ICT")  <br>
+15. [Pembelajaran Bahasa Melayu Secara Kolaborasi dalam Menggunakan ICT(.pdf, 1.32 MB)](/files/paper-15.pdf)  <br>
 Mohamed Izzat Mohamed Sarip  
   
-16. [Pembelajaran Berasaskan Projek bagi Pengajaran Kefahaman(.pdf, 1.85 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-16.pdf?sfvrsn=53404d89_2 "Pembelajaran Berasaskan Projek bagi Pengajaran Kefahaman")  <br>
+16. [Pembelajaran Berasaskan Projek bagi Pengajaran Kefahaman(.pdf, 1.85 MB)](/files/paper-16.pdf)  <br>
 Siti Noordiana Sulaiman dan Fasihah Rahmat  
   
-17. [Pembelajaran Peribahasa Melalui ICT(.pdf, 860.45 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-17.pdf?sfvrsn=a1396fac_2 "Pembelajaran Peribahasa Melalui ICT")  <br>
+17. [Pembelajaran Peribahasa Melalui ICT(.pdf, 860.45 KB)](/files/paper-17.pdf)  <br>
 Azah Abdul Aziz dan Jumaeyah Zainalabidin  
   
 18. [Pemikiran Kritikal bagi Meningkatkan Kemahiran Menjawab Soalan Inferens(.pdf, 1019.67 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-18.pdf?sfvrsn=dac5eeba_2 "Pemikiran Kritikal bagi Meningkatkan Kemahiran Menjawab Soalan Inferens")  <br>
