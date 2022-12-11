@@ -130,31 +130,31 @@ Rozita A Hamid dan Aznizah Abdul Aziz
 36. [Penggunaan Benda Maujud dalam Pengajaran Golongan Kata bagi Meningkatkan Pengetahuan Tatabahasa Murid(.pdf, 2.45 MB)](/files/ml-seminar-2017---paper---36.pdf)  
 Faridah Abdul Aziz dan Nur Sakinah Mohammed Salim
 
-37. [Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R(.pdf, 2.79 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---37.pdf?sfvrsn=b6f21a2f_2 "Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R")  
+37. [Penggunaan Gambar bagi Meningkatkan Penggunaan Ayat Majmuk dalam Penulisan dengan Menggunakan Strategi T dan R(.pdf, 2.79 MB)](/files/ml-seminar-2017---paper---37.pdf)  
 Rohani Mafot dan Nurhani Idris
 
-38. [Penggunaan Kata Adjektif dalam Penulisan Karangan Murid P6(.pdf, 2.23 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---38.pdf?sfvrsn=c077d1a0_2 "Penggunaan Kata Adjektif dalam Penulisan Karangan Murid P6")  
+38. [Penggunaan Kata Adjektif dalam Penulisan Karangan Murid P6(.pdf, 2.23 MB)](/files/ml-seminar-2017---paper---38.pdf)  
 Siti Fatimah Omar Bakri
 
-39. [Penggunaan Kata Hubung dalam Penulisan Melalui Pengajaran Secara Eksplisit(.pdf, 2.1 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---39.pdf?sfvrsn=612dd2d1_2 "Penggunaan Kata Hubung dalam Penulisan Melalui Pengajaran Secara Eksplisit")  
+39. [Penggunaan Kata Hubung dalam Penulisan Melalui Pengajaran Secara Eksplisit(.pdf, 2.1 MB)](/files/ml-seminar-2017---paper---39.pdf)  
 Melati Hallel dan Noor Aisya Buang
 
-40. [Penggunaan Rutin Berfikir dalam Pengajaran Golongan Kata(.pdf, 2.45 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---40.pdf?sfvrsn=59043b17_2 "Penggunaan Rutin Berfikir dalam Pengajaran Golongan Kata")  
+40. [Penggunaan Rutin Berfikir dalam Pengajaran Golongan Kata(.pdf, 2.45 MB)](/files/ml-seminar-2017---paper---40.pdf)  
 Nurhiza Mohamed dan Nurul Hidana Ahmad
 
-41. [Penggunaan S2TAMP2D dalam Pengajaran dan Pembelajaran Kepelbagaian Ayat(.pdf, 2.12 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---41.pdf?sfvrsn=21a2a2d7_2 "Penggunaan S2TAMP2D dalam Pengajaran dan Pembelajaran Kepelbagaian Ayat")  
+41. [Penggunaan S2TAMP2D dalam Pengajaran dan Pembelajaran Kepelbagaian Ayat(.pdf, 2.12 MB)](/files/ml-seminar-2017---paper---41.pdf)  
 Zaetun Abbas dan Sulastri Amat
 
-42. [Penggunaan Senarai Semak Kendiri Berlambang dalam Memperbaik Pembinaan Ayat(.pdf, 2.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---42.pdf?sfvrsn=738130d8_2 "Penggunaan Senarai Semak Kendiri Berlambang dalam Memperbaik Pembinaan Ayat")  
+42. [Penggunaan Senarai Semak Kendiri Berlambang dalam Memperbaik Pembinaan Ayat(.pdf, 2.19 MB)](/files/ml-seminar-2017---paper---42.pdf)  
 Nur Syahida Paiman dan Taufek Siniwi
 
-43. [Penggunaan Strategi Penterjemahan dalam Pengajaran Sintaksis(.pdf, 2.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---43.pdf?sfvrsn=6043bdcd_2 "Penggunaan Strategi Penterjemahan dalam Pengajaran Sintaksis")  
+43. [Penggunaan Strategi Penterjemahan dalam Pengajaran Sintaksis(.pdf, 2.53 MB)](/files/ml-seminar-2017---paper---43.pdf) 
 Mazalan Ajan dan Irmawati Mascom
 
-44. [Penggunaan Teknik Pembayangan dalam Pembelajaran Imbuhan Awalan(.pdf, 2.55 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---44.pdf?sfvrsn=c69013_2 "Penggunaan Teknik Pembayangan dalam Pembelajaran Imbuhan Awalan")  
+44. [Penggunaan Teknik Pembayangan dalam Pembelajaran Imbuhan Awalan(.pdf, 2.55 MB)](/files/ml-seminar-2017---paper---44.pdf)  
 Awalludin Abdul Jabbar dan Ghazali Mohamed Ibrahim
 
-45. [Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran(.pdf, 2.08 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---45.pdf?sfvrsn=9e29205d_2 "Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran")  
+45. [Penggunaan Teknik Penyoalan dalam Pengajaran Imbuhan Melalui Kajian Pengajaran(.pdf, 2.08 MB)](/files/ml-seminar-2017---paper---45.pdf)  
 Qamarul Azhar Ahmad Kamil dan Amirul Asri Hussin
 
 46. [Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori(.pdf, 2.85 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---46.pdf?sfvrsn=4cc68ac5_2 "Penguasaan Penanda Wacana Pelajar dalam Pengajaran dan Pembelajaran Karangan Ekspositori")  
