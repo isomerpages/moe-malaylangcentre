@@ -8,21 +8,21 @@ third_nav_title: Malay Language Seminar Pub
 
 Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Melayu 2018 pada 13 Mac 2018. Profesor Madya Dr Parilah Mohd Shah, Fakulti Pendidikan, Universiti Kebangsaan Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Profesor Madya Dr Muhammad Faishal Ibrahim, Setiausaha Parlimen Kanan Kementerian Pendidikan dan Kementerian Pembangunan Sosial dan Keluarga, merupakan Tetamu Terhormat pada majlis tersebut.
 
-[Sekapur Sirih(.pdf, 8.7 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/sekapur-sirih-min.pdf?sfvrsn=5211922d_4 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 8.7 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/sekapur-sirih-min.pdf?sfvrsn=5211922d_4 "Sekapur Sirih") ***(PDF file too big!)***
 
-[Tunjuk Ajar Melayu(.pdf, 4.58 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/tunjuk-ajar-melayu.pdf?sfvrsn=afb66205_2 "Tunjuk Ajar Melayu")
+[Tunjuk Ajar Melayu(.pdf, 4.58 MB)](/files/tunjuk-ajar-melayu.pdf)
 
-[Atur Cara(.pdf, 4.58 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/atur-cara.pdf?sfvrsn=f114ec77_2 "Atur Cara")
+[Atur Cara(.pdf, 4.58 MB)](/files/atur-cara.pdf)
 
-[Kandungan(.pdf, 531.52 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kandungan.pdf?sfvrsn=999136ef_2 "Kandungan")
+[Kandungan(.pdf, 531.52 KB)](/files/kandungan.pdf)
 
-### Kertas Ucaptama
+##### Kertas Ucaptama
 
-[Pengajaran Inovatif, Pemikiran Kreatif dalam Pengajaran dan Pembelajaran Bahasa(.pdf, 2.63 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/ucaptama.pdf?sfvrsn=8110ba32_2 "Pengajaran Inovatif, Pemikiran Kreatif dalam Pengajaran dan Pembelajaran Bahasa")
+[Pengajaran Inovatif, Pemikiran Kreatif dalam Pengajaran dan Pembelajaran Bahasa(.pdf, 2.63 MB)](/files/ucaptama.pdf)
 
 Ucaptama, Profesor Madya Dr. Parilah Mohd Shah
 
-### Kertas Kerja Sesi Sidang Selari  
+##### Kertas Kerja Sesi Sidang Selari  
 
 1. [Aplikasi Recap dalam Pengajaran Kemahiran Interaksi Lisan(.pdf, 935.25 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-01.pdf?sfvrsn=c9811477_2 "Aplikasi Recap dalam Pengajaran Kemahiran Interaksi Lisan")  
 Hannah Nadhirah Lokman dan Norazian Mohamed Yahya  
