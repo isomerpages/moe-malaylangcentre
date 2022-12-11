@@ -20,11 +20,11 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 1. [Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 293.28 KB)](/files/paper1---a1-kertas-kerja-beacon-pri-final.pdf) oleh Zuraidah Saidin
 
-2. [Program ERP-aLIVE@IJ Katong(.pdf, 325.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper2---a2-kertas-kerja-chij-katong-pri-final.pdf?sfvrsn=236ce51e_2 "Program ERP-aLIVE@IJ Katong") oleh Nazeerah Allau'din  
+2. [Program ERP-aLIVE@IJ Katong(.pdf, 325.42 KB)](/files/paper2---a2-kertas-kerja-chij-katong-pri-final.pdf) oleh Nazeerah Allau'din  
 
-3. [Kajian Pengajaran: Penggunaan ICT dalam Pengajaran dan Pembelajaran Peribahasa(.pdf, 338.26 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper3---b1-kertas-kerja-elias-park-pri-final.pdf?sfvrsn=4f98935e_2 "Kajian Pengajaran: Penggunaan ICT dalam Pengajaran dan Pembelajaran Peribahasa") oleh Hafizzah Bedin, Mohd Izzat Mohd Sarip Suhaida Saptu  
+3. [Kajian Pengajaran: Penggunaan ICT dalam Pengajaran dan Pembelajaran Peribahasa(.pdf, 338.26 KB)](/files/paper3---b1-kertas-kerja-elias-park-pri-final.pdf) oleh Hafizzah Bedin, Mohd Izzat Mohd Sarip Suhaida Saptu  
 
-4. [Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama(.pdf, 325.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper4---b2-kertas-kerja-fuchun-pri-final.pdf?sfvrsn=4ae63449_2 "Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama") oleh Hajjah Marzia Abdul Rahman, Rasyidah Bajuri Siti Mariam Mohd Amin  
+4. [Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama(.pdf, 325.34 KB)](/files/paper4---b2-kertas-kerja-fuchun-pri-final.pdf) oleh Hajjah Marzia Abdul Rahman, Rasyidah Bajuri Siti Mariam Mohd Amin  
 
 5. [Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef(.pdf, 295.95 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper5---c1-kertas-kerja-north-spring-pri-final.pdf?sfvrsn=2612fbb1_2 "Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef") oleh Noorazamah Razali, Nur Azlin Ramelan, Mohd Fahmy Abdul Fhani Safura Sallim  
 
