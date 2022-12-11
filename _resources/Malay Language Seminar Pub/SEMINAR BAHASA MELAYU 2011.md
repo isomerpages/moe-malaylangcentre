@@ -46,13 +46,13 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 14. [Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif(.pdf, 545.59 KB)](/files/paper14---g2-kertas-kerja-pei-hwa-sec-final.pdf) oleh Nur Faizah matnoor Rositah Yusof  
 
-15. [Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 571.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper15---h1-kertas-kerja-ngee-ann-sec-final.pdf?sfvrsn=3ada3e0a_2 "Mempertajam Pemahaman Pelajar Melalui Video") oleh Julinda Hassan, Muhammad Irwan Jamal, Ramna Johana Sarimah Ahmad  
+15. [Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 571.16 KB)](/files/paper15---h1-kertas-kerja-ngee-ann-sec-final.pdf) oleh Julinda Hassan, Muhammad Irwan Jamal, Ramna Johana Sarimah Ahmad  
 
-16. [Humor dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 341.86 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper16---h2-kertas-kerja-yusof-ishak-sec-final.pdf?sfvrsn=530704fb_2 "Humor dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Azriana Abdul Manan Yahida Yahya  
+16. [Humor dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 341.86 KB)](/files/paper16---h2-kertas-kerja-yusof-ishak-sec-final.pdf) oleh Azriana Abdul Manan Yahida Yahya  
 
-17. [Pengajaran Lisan: Perbualan Berdasarkan Gambar dengan Menggunakan Teknik K2WS2(.pdf, 320.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper17---j1-kertas-kerja-coral-sec-final.pdf?sfvrsn=7e88b9ea_2 "Pengajaran Lisan: Perbualan Berdasarkan Gambar dengan Menggunakan Teknik K2WS2") oleh Norazisza Mohamed Taip Nurisha Hamid  
+17. [Pengajaran Lisan: Perbualan Berdasarkan Gambar dengan Menggunakan Teknik K2WS2(.pdf, 320.58 KB)](/files/paper17---j1-kertas-kerja-coral-sec-final.pdf) oleh Norazisza Mohamed Taip Nurisha Hamid  
 
-18. [Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif(.pdf, 809.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper18---j2-kertas-kerja-st-hilda-sec-final.pdf?sfvrsn=4becb29e_2 "Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif") oleh Daneil Phua Nur Khairiani Jamal  
+18. [Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif(.pdf, 809.88 KB)](/files/paper18---j2-kertas-kerja-st-hilda-sec-final.pdf) oleh Daneil Phua Nur Khairiani Jamal  
 
 19. [Penggunaan Comic Life dalam Pengajaran Lisan(.pdf, 675.41 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper19---k1-kertas-kerja-anderson-sec-final.pdf?sfvrsn=c7cd669d_2 "Penggunaan Comic Life dalam Pengajaran Lisan") oleh Razilah Rahya  
 
