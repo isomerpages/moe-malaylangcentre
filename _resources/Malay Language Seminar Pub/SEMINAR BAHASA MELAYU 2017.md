@@ -8,11 +8,11 @@ third_nav_title: Malay Language Seminar Pub
 
 Pusat Bahasa Melayu Singapura telah menganjurkan acara tahunan Seminar Bahasa Melayu 2017 pada 14 Mac 2017. Profesor Madya Dr. Indirawati Binti Zahid, Akademi Pengajian Melayu, Universiti Malaya, Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Encik Masagos Zulkifli Masagos Mohamad, Menteri Sekitaran dan Sumber Air, Kementerian Sekitaran dan Sumber Air, merupakan Tetamu Terhormat pada majlis tersebut.
 
-[Kandungan(.pdf, 1.61 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---kandungan.pdf?sfvrsn=3c999828_2 "Kandungan")
+[Kandungan(.pdf, 1.61 MB)](/files/ml-seminar-2017---paper---kandungan.pdf)
 
-[Sekapur Sirih(.pdf, 4.02 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---sekapur-sirih.pdf?sfvrsn=47ca4104_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 4.02 MB)](/files/ml-seminar-2017---paper---sekapur-sirih.pdf)
 
-[Atur Cara(.pdf, 2.26 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/ml-seminar-2017---paper---atur-cara.pdf?sfvrsn=6376c503_2 "Atur Cara")
+[Atur Cara(.pdf, 2.26 MB)](/files/ml-seminar-2017---paper---atur-cara.pdf)
 
 ### Kertas Ucaptama
 
