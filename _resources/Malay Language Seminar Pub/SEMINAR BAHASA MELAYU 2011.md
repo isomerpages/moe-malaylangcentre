@@ -36,15 +36,15 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 9. [Kajian TIndakan: Keberkesanan Mnemonics(.pdf, 328.35 KB)](/files/paper9---e1-kertas-kerja-xinghua-pri-final.pdf) oleh Ardi Sujak, Farhanah Suratman, Nasreen Haji Shahabuddin Rashidah Rajah  
 
-10. [Penilaian Formatif Menggunakan Glogster(.pdf, 316.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper10---e2-kertas-kerja-yu-neng-final.pdf?sfvrsn=6bd109b2_2 "Penilaian Formatif Menggunakan Glogster") oleh Rosnidar Arshad, Rozana Zainuri, Siti Fatimah Hassan Wahidah Abdul Wahid  
+10. [Penilaian Formatif Menggunakan Glogster(.pdf, 316.15 KB)](/files/paper10---e2-kertas-kerja-yu-neng-final.pdf) oleh Rosnidar Arshad, Rozana Zainuri, Siti Fatimah Hassan Wahidah Abdul Wahid  
 
-11. [Kesan Penggunaan Kata Pinjaman Bahasa Inggeris dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 396.85 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper11---f1-kertas-kerja-pasir-ris-crest-final.pdf?sfvrsn=14c66f57_2 "Kesan Penggunaan Kata Pinjaman Bahasa Inggeris dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Ridzuan Abrahim  
+11. [Kesan Penggunaan Kata Pinjaman Bahasa Inggeris dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 396.85 KB)](/files/paper11---f1-kertas-kerja-pasir-ris-crest-final.pdf) oleh Ridzuan Abrahim  
 
-12. [5E dalam Pedagogi Ingquiry-based Learning(.pdf, 407.49 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper12---f2-kertas-kerja-woodgrove-sec-final.pdf?sfvrsn=bebc3671_2 "5E dalam Pedagogi Ingquiry-based Learning") oleh Farrah Mohd Ghazali, Noraini Washil, Nur Azah Ismai Siti Faridah Omar  
+12. [5E dalam Pedagogi Ingquiry-based Learning(.pdf, 407.49 KB)](/files/paper12---f2-kertas-kerja-woodgrove-sec-final.pdf) oleh Farrah Mohd Ghazali, Noraini Washil, Nur Azah Ismai Siti Faridah Omar  
 
-13. [Meningkatkan Keupayaan Pelajar Menjawab Soalan Kefahaman dan Karangan dengan Menggunakan Penyusun Grafik(.pdf, 390.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper13---g1-kertas-kerja-ping-yi-sec-final.pdf?sfvrsn=f2847f76_2 "Meningkatkan Keupayaan Pelajar Menjawab Soalan Kefahaman dan Karangan dengan Menggunakan Penyusun Grafik") oleh Zainah Mohamed  
+13. [Meningkatkan Keupayaan Pelajar Menjawab Soalan Kefahaman dan Karangan dengan Menggunakan Penyusun Grafik(.pdf, 390.16 KB)](/files/paper13---g1-kertas-kerja-ping-yi-sec-final.pdf) oleh Zainah Mohamed  
 
-14. [Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif(.pdf, 545.59 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper14---g2-kertas-kerja-pei-hwa-sec-final.pdf?sfvrsn=b5d6a16b_2 "Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif") oleh Nur Faizah matnoor Rositah Yusof  
+14. [Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif(.pdf, 545.59 KB)](/files/paper14---g2-kertas-kerja-pei-hwa-sec-final.pdf) oleh Nur Faizah matnoor Rositah Yusof  
 
 15. [Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 571.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper15---h1-kertas-kerja-ngee-ann-sec-final.pdf?sfvrsn=3ada3e0a_2 "Mempertajam Pemahaman Pelajar Melalui Video") oleh Julinda Hassan, Muhammad Irwan Jamal, Ramna Johana Sarimah Ahmad  
 
