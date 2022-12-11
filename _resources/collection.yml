@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Dr Muhammad Ariff Ahmad Words/.keep
       - "Sarkasi Said: Words of Wisdom.md"
       - Anthology/.keep
       - "Anthology/Short stories: Benih.md"
