@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Malay Language Seminar Pub/.keep
       - "Malay Language Journal: Dian Bahasa.md"
       - Dr Muhammad Ariff Ahmad Words/.keep
       - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
