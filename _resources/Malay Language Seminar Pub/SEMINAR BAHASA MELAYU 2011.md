@@ -4,3 +4,64 @@ permalink: /mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publicat
 description: ""
 third_nav_title: Malay Language Seminar Pub
 ---
+### Memperkasa Guru Mempercekap Pelajar
+
+Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar Bahasa Melayu 2011. Prof Madya Dr Zamri Mahamod telah diundang untuk menyampaikan ucaptama dalam seminar tersebut. Berikut ialah senarai kertas kerja yang dibentangkan oleh para guru dan ucaptama.
+
+[Kandungan(.pdf, 239.3 KB)](/files/01-kandungan-2011.pdf)
+
+[Sekapur Sirih(.pdf, 397.33 KB)](/files/02-sekapur-sirih-2011.pdf)
+
+**Kertas Ucaptama**
+
+[Kertas Kerja Ucaptama(.pdf, 677.42 KB)](/files/03-ucaptama-dr-zamri-final-(main-speaker).pdf) oleh Profesor Madya Dr Zamri Mahamod
+
+**Kertas Kerja Sesi Sidang Selari**
+
+1. [Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 293.28 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper1---a1-kertas-kerja-beacon-pri-final.pdf?sfvrsn=c6a55965_2 "Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Zuraidah Saidin
+
+2. [Program ERP-aLIVE@IJ Katong(.pdf, 325.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper2---a2-kertas-kerja-chij-katong-pri-final.pdf?sfvrsn=236ce51e_2 "Program ERP-aLIVE@IJ Katong") oleh Nazeerah Allau'din  
+
+3. [Kajian Pengajaran: Penggunaan ICT dalam Pengajaran dan Pembelajaran Peribahasa(.pdf, 338.26 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper3---b1-kertas-kerja-elias-park-pri-final.pdf?sfvrsn=4f98935e_2 "Kajian Pengajaran: Penggunaan ICT dalam Pengajaran dan Pembelajaran Peribahasa") oleh Hafizzah Bedin, Mohd Izzat Mohd Sarip Suhaida Saptu  
+
+4. [Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama(.pdf, 325.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper4---b2-kertas-kerja-fuchun-pri-final.pdf?sfvrsn=4ae63449_2 "Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama") oleh Hajjah Marzia Abdul Rahman, Rasyidah Bajuri Siti Mariam Mohd Amin  
+
+5. [Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef(.pdf, 295.95 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper5---c1-kertas-kerja-north-spring-pri-final.pdf?sfvrsn=2612fbb1_2 "Kajian Tindakan: Kemahiran Menjawab Soalan Kefahaman dengan Detektif Kef") oleh Noorazamah Razali, Nur Azlin Ramelan, Mohd Fahmy Abdul Fhani Safura Sallim  
+
+6. [Kajian Pengajaran: Pembelajaran Kosa Kata Melalui Visual Cues(.pdf, 425.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper6---c2-kertas-kerja-woodlands-pri-final.pdf?sfvrsn=2b508d56_2 "Kajian Pengajaran: Pembelajaran Kosa Kata Melalui Visual Cues") oleh Hairani Sani, Ibrizi Ishak, Siti Nurashikin Ajmain Siti Suhaida Surir  
+
+7. [Pembelajaran Karangan dengan Menggunakan Kod EZ(.pdf, 300.17 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper7---d1-kertas-kerja-west-view-pri-final.pdf?sfvrsn=95fd5ed7_2 "Pembelajaran Karangan dengan Menggunakan Kod EZ") oleh Khaizuran Supa'at Noor Azleen Sarbini  
+
+8. [P.I.N.T.A.R(.pdf, 496.37 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper8---d2-kertas-kerja-xishan-pri-final.pdf?sfvrsn=4e695129_2 "P.I.N.T.A.R") oleh Khirunnisa Mohd Isa, Muhammad Reduan Yahaya, Saedah Mohamed Hussein Siti Khadijah Ibrahim  
+
+9. [Kajian TIndakan: Keberkesanan Mnemonics(.pdf, 328.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper9---e1-kertas-kerja-xinghua-pri-final.pdf?sfvrsn=c1abca5d_2 "Kajian TIndakan: Keberkesanan Mnemonics") oleh Ardi Sujak, Farhanah Suratman, Nasreen Haji Shahabuddin Rashidah Rajah  
+
+10. [Penilaian Formatif Menggunakan Glogster(.pdf, 316.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper10---e2-kertas-kerja-yu-neng-final.pdf?sfvrsn=6bd109b2_2 "Penilaian Formatif Menggunakan Glogster") oleh Rosnidar Arshad, Rozana Zainuri, Siti Fatimah Hassan Wahidah Abdul Wahid  
+
+11. [Kesan Penggunaan Kata Pinjaman Bahasa Inggeris dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 396.85 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper11---f1-kertas-kerja-pasir-ris-crest-final.pdf?sfvrsn=14c66f57_2 "Kesan Penggunaan Kata Pinjaman Bahasa Inggeris dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Ridzuan Abrahim  
+
+12. [5E dalam Pedagogi Ingquiry-based Learning(.pdf, 407.49 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper12---f2-kertas-kerja-woodgrove-sec-final.pdf?sfvrsn=bebc3671_2 "5E dalam Pedagogi Ingquiry-based Learning") oleh Farrah Mohd Ghazali, Noraini Washil, Nur Azah Ismai Siti Faridah Omar  
+
+13. [Meningkatkan Keupayaan Pelajar Menjawab Soalan Kefahaman dan Karangan dengan Menggunakan Penyusun Grafik(.pdf, 390.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper13---g1-kertas-kerja-ping-yi-sec-final.pdf?sfvrsn=f2847f76_2 "Meningkatkan Keupayaan Pelajar Menjawab Soalan Kefahaman dan Karangan dengan Menggunakan Penyusun Grafik") oleh Zainah Mohamed  
+
+14. [Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif(.pdf, 545.59 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper14---g2-kertas-kerja-pei-hwa-sec-final.pdf?sfvrsn=b5d6a16b_2 "Pengajaran Peribahasa Menggunakan Permainan Papan Putih Interaktif") oleh Nur Faizah matnoor Rositah Yusof  
+
+15. [Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 571.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper15---h1-kertas-kerja-ngee-ann-sec-final.pdf?sfvrsn=3ada3e0a_2 "Mempertajam Pemahaman Pelajar Melalui Video") oleh Julinda Hassan, Muhammad Irwan Jamal, Ramna Johana Sarimah Ahmad  
+
+16. [Humor dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 341.86 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper16---h2-kertas-kerja-yusof-ishak-sec-final.pdf?sfvrsn=530704fb_2 "Humor dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Azriana Abdul Manan Yahida Yahya  
+
+17. [Pengajaran Lisan: Perbualan Berdasarkan Gambar dengan Menggunakan Teknik K2WS2(.pdf, 320.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper17---j1-kertas-kerja-coral-sec-final.pdf?sfvrsn=7e88b9ea_2 "Pengajaran Lisan: Perbualan Berdasarkan Gambar dengan Menggunakan Teknik K2WS2") oleh Norazisza Mohamed Taip Nurisha Hamid  
+
+18. [Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif(.pdf, 809.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper18---j2-kertas-kerja-st-hilda-sec-final.pdf?sfvrsn=4becb29e_2 "Kajian Pengajaran: Pengajaran Penulisan Pengenalan Karangan Deskriptif") oleh Daneil Phua Nur Khairiani Jamal  
+
+19. [Penggunaan Comic Life dalam Pengajaran Lisan(.pdf, 675.41 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper19---k1-kertas-kerja-anderson-sec-final.pdf?sfvrsn=c7cd669d_2 "Penggunaan Comic Life dalam Pengajaran Lisan") oleh Razilah Rahya  
+
+20. [Kajian Pengjaran: Pengajaran dan Pembelajaran Imbuhan Apitan 'meN-...-kan' dan menN-...-i'(.pdf, 312.44 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper20---k2-kertas-kerja-guangyang-sec-final.pdf?sfvrsn=f892eec7_2 "Kajian Pengjaran: Pengajaran dan Pembelajaran Imbuhan Apitan 'meN-...-kan' dan menN-...-i'") oleh Ernie Jacinta Jamaludin, Haniza Abdul Manan Siti Asnah Basir  
+
+21. [Penggunaan ICT dalam Program Penyerapan Budaya(.pdf, 405.5 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper21---l1-kertas-kerja-compassvale-sec-final.pdf?sfvrsn=e104e20_2 "Penggunaan ICT dalam Program Penyerapan Budaya") oleh Mohd Shalleh Suja'ee Noranika Murni Dol Karim  
+
+22. [Menjana Minat Pelajar Terhadap Sastera Melalui Program Bunga-bunga Sastera(.pdf, 661.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper22---l2-kertas-kerja-marsiling-sec-(final).pdf?sfvrsn=b03aa243_2 "Menjana Minat Pelajar Terhadap Sastera Melalui Program Bunga-bunga Sastera") oleh Khairunisak Hussain, Muszalifa Aman Rashidah Abdullah  
+
+23. [Pembelajaran Berdasarkan Projek Mandiri Menerobos Melampaui Jidar Tembok Tradisi: Pengalaman Tiga Peringkat(.pdf, 372.78 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper23---m1-kertas-kerja-raffles-ins-final.pdf?sfvrsn=5c47b519_2 "Pembelajaran Berdasarkan Projek Mandiri Menerobos Melampaui Jidar Tembok Tradisi: Pengalaman Tiga Peringkat") oleh Djohan Abdul Rahan, Eity Norheyah Asyurah Mohamad Ali Hanifiah Abdullah
+
+[Penghargaan(.pdf, 141.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/penghargaan-2011.pdf?sfvrsn=263d3483_2 "Penghargaan")
