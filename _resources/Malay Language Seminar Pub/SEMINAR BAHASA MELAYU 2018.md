@@ -36,16 +36,16 @@ Nur Azah Ismail dan Farrah Mohamed Ghazali
 4. [Kajian Pengajaran: Penggunaan iPad dan E-buku bagi Meningkatkan Minat Membaca(.pdf, 923.72 KB)](/files/paper-04.pdf)  <br>
 Nuraishah Mahmood dan Helmeleya Mohd Jamil  
   
-5. [Keberkesanan App Bitara Kata dalam Pembelajaran Kosa Kata(.pdf, 1.6 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-05.pdf?sfvrsn=d04a1bf6_2 "Keberkesanan App Bitara Kata dalam Pembelajaran Kosa Kata")  <br>
+5. [Keberkesanan App Bitara Kata dalam Pembelajaran Kosa Kata(.pdf, 1.6 MB)](/files/paper-05.pdf)  <br>
 Sharifah Hafsah Mohamed Hanifa dan Dewi Kartika Sudirman  
   
-6. [Keberkesanan Penggunaan Go Formative dalam Pembelajaran Murid(.pdf, 992.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-06.pdf?sfvrsn=edaab6a0_2 "Keberkesanan Penggunaan Go Formative dalam Pembelajaran Murid")  <br>
+6. [Keberkesanan Penggunaan Go Formative dalam Pembelajaran Murid(.pdf, 992.72 KB)](/files/paper-06.pdf)  <br>
 Zaleha Ahmad dan Nailul Azmi Ismail  
   
-7. [Paper 07(.pdf, 844.35 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-07.pdf?sfvrsn=64e78a1_2 "Paper 07")  <br>
+7. [Paper 07(.pdf, 844.35 KB)](/files/paper-07.pdf)  <br>
 Norlela Abdul Rahaman dan Ghazali Mohamed Ibrahim  
   
-8. [Kesan Maklum Balas Berasaskan InstaSense dalam Penulisan Naratif(.pdf, 1.21 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-08.pdf?sfvrsn=65b58561_2 "Kesan Maklum Balas Berasaskan InstaSense dalam Penulisan Naratif")  <br>
+8. [Kesan Maklum Balas Berasaskan InstaSense dalam Penulisan Naratif(.pdf, 1.21 MB)](/files/paper-08.pdf)  <br>
 Aidah Hosni dan Hazlina Yaacob  
   
 9. [Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral(.pdf, 1.44 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-09.pdf?sfvrsn=c9c3d9da_2 "Memahami Emosi Watak dalam Gambar Bersiri Melalui Kaedah Berfikir Secara Lateral")  <br>
