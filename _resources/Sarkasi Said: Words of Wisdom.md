@@ -49,8 +49,16 @@ Video ringkas tentang Sarkasi Said
 
 #### Segmen 1 - Budi 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDXUYbcaR08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Segmen 2 - Batik 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9-yPANMNYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Segmen 3 - Budaya
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onrezfg9jT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Video ringkas tentang Sarkasi Said
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMygmpGDAlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
