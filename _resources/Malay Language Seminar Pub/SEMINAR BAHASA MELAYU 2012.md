@@ -41,13 +41,13 @@ Mohamad Khair Johari, Noraini Abdullah Hee Zubaidah Zainal Abidin
 9. [Nilai Tambah dalam Pengajaran dan Pembelajaran Bahasa Melayu: Bake@Ekabahasa(.pdf, 160.81 KB)](/files/9-nilai-tambah-dalam-pengajaran-dan-pembelajaran-bahasa-melayu@bake-ekabahasa-nurul-hakimah.pdf) 
 Nurul Hakimah Abdul Rahim Rosmani Ramin  
   
-10. [Pakej Imbuhan: Meningkatkan Penguasaan Imbuhan Pelajar(.pdf, 321.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/10-pakej-imbuhan-meningkatkan-penguasaan-imbuhan-pelajar-ganda-sari.pdf?sfvrsn=73d113b9_2 "Pakej Imbuhan: Meningkatkan Penguasaan Imbuhan Pelajar")  
+10. [Pakej Imbuhan: Meningkatkan Penguasaan Imbuhan Pelajar(.pdf, 321.16 KB)](/files/10-pakej-imbuhan-meningkatkan-penguasaan-imbuhan-pelajar-ganda-sari.pdf)
 Ganda Sari Chokri Rafidah Abdul Razak  
   
-11. [Pembelajaran Silang Budaya Berlandaskan Integrasi Kaum(.pdf, 126.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/11-pembelajaran-silang-budaya-berlandaskan-kepada-integrasi-kaum-rozanah-kasnan.pdf?sfvrsn=e7d957ba_2 "Pembelajaran Silang Budaya Berlandaskan Integrasi Kaum")  
+11. [Pembelajaran Silang Budaya Berlandaskan Integrasi Kaum(.pdf, 126.94 KB)](/files/11-pembelajaran-silang-budaya-berlandaskan-kepada-integrasi-kaum-rozanah-kasnan.pdf) 
 Hazlian Karim Rozanah Kasnan  
   
-12. [Penerapan Nilai: Penggunaan Klip Video dan Iklan(.pdf, 445.92 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/12-penerapan-nilai-penggunaan-klip-video-dan-iklan-emelda-jumari.pdf?sfvrsn=71f21cd7_2 "Penerapan Nilai: Penggunaan Klip Video dan Iklan")  
+12. [Penerapan Nilai: Penggunaan Klip Video dan Iklan(.pdf, 445.92 KB)](/files/12-penerapan-nilai-penggunaan-klip-video-dan-iklan-emelda-jumari.pdf)
 Nur Emelda Jumari Zainah Mohamed  
   
 13. [Penerapan Nilai dalam Pengajaran Berdasarkan Pengalaman(.pdf, 76.09 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/13-penerapan-nilai-dalam-pengajaran-berdasarkan-pengalaman-norazian-mohamed-yahya.pdf?sfvrsn=b90e3a0a_2 "Penerapan Nilai dalam Pengajaran Berdasarkan Pengalaman")  
