@@ -18,7 +18,7 @@ Pada 1 Jun 2011, Pusat Bahasa Melayu telah menganjurkan acara tahunan, Seminar B
 
 **Kertas Kerja Sesi Sidang Selari**
 
-1. [Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 293.28 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper1---a1-kertas-kerja-beacon-pri-final.pdf?sfvrsn=c6a55965_2 "Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu") oleh Zuraidah Saidin
+1. [Web 2.0 dalam Pengajaran dan Pembelajaran Bahasa Melayu(.pdf, 293.28 KB)](/files/paper1---a1-kertas-kerja-beacon-pri-final.pdf) oleh Zuraidah Saidin
 
 2. [Program ERP-aLIVE@IJ Katong(.pdf, 325.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2011/kertas-kerja-sesi-sidang-selari/paper2---a2-kertas-kerja-chij-katong-pri-final.pdf?sfvrsn=236ce51e_2 "Program ERP-aLIVE@IJ Katong") oleh Nazeerah Allau'din  
 
