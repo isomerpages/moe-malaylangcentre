@@ -33,7 +33,7 @@ Alia Moreta
 3. [Kajian Pembelajaran: Penggunaan Rutin Berfikir MAKB dan Fikir-Tulis dalam Pengajaran Lisan(.pdf, 943.2 KB)](/files/paper-03.pdf)  <br>
 Nur Azah Ismail dan Farrah Mohamed Ghazali  
   
-4. [Kajian Pengajaran: Penggunaan iPad dan E-buku bagi Meningkatkan Minat Membaca(.pdf, 923.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-04.pdf?sfvrsn=3933dca7_2 "Kajian Pengajaran: Penggunaan iPad dan E-buku bagi Meningkatkan Minat Membaca")  <br>
+4. [Kajian Pengajaran: Penggunaan iPad dan E-buku bagi Meningkatkan Minat Membaca(.pdf, 923.72 KB)](/files/paper-04.pdf)  <br>
 Nuraishah Mahmood dan Helmeleya Mohd Jamil  
   
 5. [Keberkesanan App Bitara Kata dalam Pembelajaran Kosa Kata(.pdf, 1.6 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-05.pdf?sfvrsn=d04a1bf6_2 "Keberkesanan App Bitara Kata dalam Pembelajaran Kosa Kata")  <br>
