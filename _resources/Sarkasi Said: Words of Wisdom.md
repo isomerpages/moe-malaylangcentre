@@ -18,7 +18,7 @@ Semoga penghasilan bahan ini dapat dijadikan sebagai sumber rujukan dan pencetus
 
 Berikut bahan-bahan yang telah diusahakan bagi kegunaan para guru dan pelajar:
 
-1\. Buku [Bicara Budiman Sarkasi Said](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/bicara-budiman-sarkasi-said/bicara-budiman-sarkasi-said-(mlcs).pdf) 
+1\. Buku [Bicara Budiman Sarkasi Said](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/bicara-budiman-sarkasi-said/bicara-budiman-sarkasi-said-(mlcs).pdf) ***(PDF file too big!***)
 
 2. [Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said](/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf)
 
