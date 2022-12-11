@@ -8,15 +8,15 @@ third_nav_title: Malay Language Seminar Pub
 
 Pusat Bahasa Melayu Singapura akan menganjurkan acara tahunan, Seminar Bahasa Melayu 2014 pada 05 Jun 2014. Datuk Zainal Abidin Borhan, Ketua Pegawai Eksekutif dan Ketua Editor, Yayasan Warisan, Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Bagi guru yang berminat untuk mengikuti Seminar Bahasa Melayu 2014 sebagai peserta, sila muat turun borang pendaftaran berikut.
 
-[Kandungan(.pdf, 239.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2014/content_ml_seminar_2014.pdf?sfvrsn=d5c07797_2 "Kandungan")
+[Kandungan(.pdf, 239.79 KB)](/files/content_ml_seminar_2014.pdf)
 
-[Sekapur Sirih(.pdf, 244.87 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2014/sekapur_sirih_ml_seminar_2014.pdf?sfvrsn=5188385c_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 244.87 KB)](/files/sekapur_sirih_ml_seminar_2014.pdf)
 
-[Program(.pdf, 39.87 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2014/program_ml_seminar_2014.pdf?sfvrsn=c9eaa91d_2 "Program")
+[Program(.pdf, 39.87 KB)](/files/program_ml_seminar_2014.pdf)
 
 **Kertas Ucaptama**  
 
-[Menyemai Bahasa Menuai Budi: Membentuk Generasi Pengguna Bahasa yang Aktif dan Cekap serta Kukuh Jati Diri(.pdf, 209.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2014/kertas_ucaptama.pdf?sfvrsn=2ba256e6_2 "Menyemai Bahasa Menuai Budi: Membentuk Generasi Pengguna Bahasa yang Aktif dan Cekap serta Kukuh Jati Diri") oleh Datuk Zainal Abidin Borhan Ketua Eksekutif dan Ketua Editor  
+[Menyemai Bahasa Menuai Budi: Membentuk Generasi Pengguna Bahasa yang Aktif dan Cekap serta Kukuh Jati Diri(.pdf, 209.94 KB)](/files/kertas_ucaptama.pdf) oleh Datuk Zainal Abidin Borhan Ketua Eksekutif dan Ketua Editor  
 Yayasan Warisan, Malaysia
 
 **Kertas Kerja Sesi Sidang Selari**
