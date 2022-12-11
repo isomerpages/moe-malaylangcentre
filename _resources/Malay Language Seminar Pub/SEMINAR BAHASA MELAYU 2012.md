@@ -59,13 +59,13 @@ Azizah Ahmad
 15. [Penerapan Pendidikan Celik Kewangan dalam Pembelajaran Bahasa Melayu(.pdf, 145.9 KB)](/files/15-penerapan-pendidikan-celik-kewangan-dalam-pembelajaran-bahasa-melayu-rosnidar-arshad.pdf)  
 Khairiah Abdulmajid Harharah, Rosnidah Arshad, Sadhana Yusop Wahida Abdul Wahid  
   
-16. [Penerapan Sastera dalam Pengajaran Bahasa di Sekolah Rendah(.pdf, 116.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/16-penerapan-sastera-dalam-pengajaran-bahasa-di-sekolah-rendah-rosnita-sarifah.pdf?sfvrsn=3f55c216_2 "Penerapan Sastera dalam Pengajaran Bahasa di Sekolah Rendah")  
+16. [Penerapan Sastera dalam Pengajaran Bahasa di Sekolah Rendah(.pdf, 116.75 KB)](/files/16-penerapan-sastera-dalam-pengajaran-bahasa-di-sekolah-rendah-rosnita-sarifah.pdf) 
 Rosnita Hamid Sarifah Hassan  
   
-17. [Penerapan Suggestopedia dan Pengajaran Pembezaan dalam Penulisan Deskriptif(.pdf, 449.77 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/17-penerapan-suggestopedia-dan-pengajaran-pembezaan-dalam-penulisan-deskriptif-daniel-phua-repaired.pdf?sfvrsn=6d767258_2 "Penerapan Suggestopedia dan Pengajaran Pembezaan dalam Penulisan Deskriptif")  
+17. [Penerapan Suggestopedia dan Pengajaran Pembezaan dalam Penulisan Deskriptif(.pdf, 449.77 KB)](/files/17-penerapan-suggestopedia-dan-pengajaran-pembezaan-dalam-penulisan-deskriptif-daniel-phua.pdf)
 Daniel Phua Nur Khairiani Jamal  
   
-18. [Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis(.pdf, 430.28 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/18-penggunaan-ict-dan-peta-minda-bagi-meningkatkan-kemahiran-menulis-hanizah-abu-samah.pdf?sfvrsn=f79721ad_2 "Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis")  
+18. [Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis(.pdf, 430.28 KB)](/files/18-penggunaan-ict-dan-peta-minda-bagi-meningkatkan-kemahiran-menulis-hanizah-abu-samah.pdf) 
 Hanizah Abu Samah Norfadilah Sufke  
   
 19. [Penggunaan ICT bagi Meningkatkan Kemahiran Membaca Murid(.pdf, 682.49 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2012/kertas-kerja-sesi-sidang-selari/19-penggunaan-ictbagi-meningkatkan-kemahiran-membaca-murid-pei-tong.pdf?sfvrsn=804d0e9d_2 "Penggunaan ICT bagi Meningkatkan Kemahiran Membaca Murid")  
