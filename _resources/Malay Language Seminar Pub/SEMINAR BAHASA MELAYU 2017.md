@@ -34,19 +34,19 @@ Nurain Tajudeen dan Nur Umaira Mohamad Zulkifli
 4. [Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan(.pdf, 2.56 MB)](/files/ml-seminar-2017---paper---04.pdf) 
 Muhammad Luqman Mohd Shapie dan Siti Fadhilah Saneb
 
-5. [LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata(.pdf, 3.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---05.pdf?sfvrsn=fe405c48_2 "LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata")  
+5. [LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata(.pdf, 3.09 MB)](/files/ml-seminar-2017---paper---05.pdf) 
 Khairiah Harharah Abdulmajid dan Nur Ain Mohd Amin
 
-6. [Membina Kosa Kata Murid bagi Menjana Idea bagi Isi Karangan Melalui konsep Curriculum Redesign(.pdf, 2.2 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---06.pdf?sfvrsn=2d07abb4_2 "Membina Kosa Kata Murid bagi Menjana Idea bagi Isi Karangan Melalui konsep Curriculum Redesign")  
+6. [Membina Kosa Kata Murid bagi Menjana Idea bagi Isi Karangan Melalui konsep Curriculum Redesign(.pdf, 2.2 MB)](/files/ml-seminar-2017---paper---06.pdf) 
 Azah Abdul Aziz dan Sheikha Fadzlon Shaik Yakob
 
-7. [Memperkaya Kata Adjektif Melalui Penerokaan Taman Herba dan Rempah Ratus(.pdf, 2.06 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---07.pdf?sfvrsn=2e5ae696_2 "Memperkaya Kata Adjektif Melalui Penerokaan Taman Herba dan Rempah Ratus")  
+7. [Memperkaya Kata Adjektif Melalui Penerokaan Taman Herba dan Rempah Ratus(.pdf, 2.06 MB)](/files/ml-seminar-2017---paper---07.pdf) 
 Zarina Sidik dan Nur Adawiyah Rosli
 
-8. [Memperkaya Kosa Kata Murid-murid Bukan Melayu Melalui Pendekatan Leksikal(.pdf, 2.55 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---08.pdf?sfvrsn=a3912c3c_2 "Memperkaya Kosa Kata Murid-murid Bukan Melayu Melalui Pendekatan Leksikal")  
+8. [Memperkaya Kosa Kata Murid-murid Bukan Melayu Melalui Pendekatan Leksikal(.pdf, 2.55 MB)](/files/ml-seminar-2017---paper---08.pdf)  
 Rashidah Rajah
 
-9. [Memperkaya Kosa Kata Murid Melalui Puisi(.pdf, 2.23 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---09.pdf?sfvrsn=3f22a849_2 "Memperkaya Kosa Kata Murid Melalui Puisi")  
+9. [Memperkaya Kosa Kata Murid Melalui Puisi(.pdf, 2.23 MB)](/files/ml-seminar-2017---paper---09.pdf)  
 Daing Noor Ashikin Bahnan
 
 10. [Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---10.pdf?sfvrsn=4ee3a4e0_2 "Memperkaya Kosa Kata Murid dengan Menggunakan Strategi Pengelompokan Kata dan Teknik Lakonan")  
