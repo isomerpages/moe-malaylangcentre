@@ -22,16 +22,16 @@ Ucaptama, Profesor Madya Dr. Indirawati Zahid
 
 ### Kertas Kerja Sesi Sidang Selari
 
-1. [Analisis Wacana Maklum Balas Pembelajaran Imbuhan Kata Nama(.pdf, 3.03 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---01.pdf?sfvrsn=7549118e_2 "Analisis Wacana Maklum Balas Pembelajaran Imbuhan Kata Nama")  
+1. [Analisis Wacana Maklum Balas Pembelajaran Imbuhan Kata Nama(.pdf, 3.03 MB)](/files/ml-seminar-2017---paper---01.pdf)  
 Effendy Ahmadi dan Norliza Ali
 
-2. [Keberkesanan ICT dalam Pengajaran Imbuhan Awalan peN(.pdf, 2.39 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---02.pdf?sfvrsn=8d499336_2 "Keberkesanan ICT dalam Pengajaran Imbuhan Awalan peN")  
+2. [Keberkesanan ICT dalam Pengajaran Imbuhan Awalan peN(.pdf, 2.39 MB)](/files/ml-seminar-2017---paper---02.pdf) 
 Sanisah Rahim dan Nuraishah Mahmood
 
-3. [Keberkesanan Nearpod dalam Merangsang Minat Pelajar Mempelajari Kata Ganda(.pdf, 2.43 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---03.pdf?sfvrsn=288c6693_2 "Keberkesanan Nearpod dalam Merangsang Minat Pelajar Mempelajari Kata Ganda")  
+3. [Keberkesanan Nearpod dalam Merangsang Minat Pelajar Mempelajari Kata Ganda(.pdf, 2.43 MB)](/files/ml-seminar-2017---paper---03.pdf)  
 Nurain Tajudeen dan Nur Umaira Mohamad Zulkifli
 
-4. [Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan(.pdf, 2.56 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---04.pdf?sfvrsn=1382f432_2 "Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan")  
+4. [Keberkesanan Penggunaan Buku Kecil Frasa Menarik dan Penilaian Formatif dalam Penulisan Karangan(.pdf, 2.56 MB)](/files/ml-seminar-2017---paper---04.pdf) 
 Muhammad Luqman Mohd Shapie dan Siti Fadhilah Saneb
 
 5. [LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata(.pdf, 3.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2017/kertas-kerja-sesi-sidang-selari/ml-seminar-2017---paper---05.pdf?sfvrsn=fe405c48_2 "LEGO® dalam Pengajaran dan Pembelajaran Kosa Kata")  
