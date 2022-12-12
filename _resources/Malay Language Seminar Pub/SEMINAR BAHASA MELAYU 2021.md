@@ -64,19 +64,19 @@ _Junainah Mohamed Yusoff dan Nur Adilah Khamsani_
 
 _Alia Moreta dan Radziah Mohamed_
 
-[9\. Keberkesanan Strategi SPN Dalam Merangsang Perbualan Lisan Melalui Portal SLS](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-9.pdf?sfvrsn=b4fcc56c_2 "9. Keberkesanan Strategi SPN Dalam Merangsang Perbualan Lisan Melalui Portal SLS")
+[9\. Keberkesanan Strategi SPN Dalam Merangsang Perbualan Lisan Melalui Portal SLS](/files/paper-9.pdf)
 
 _Siti Khadijah Ahmad dan Fatihah Johari_
 
-[10\. Keberkesanan Teknik Permainan Bahasa Melalui Perisian Deck.Toys Dalam Merangsang Minat Murid Belajar](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-10.pdf?sfvrsn=cb02e5a1_2 "10. Keberkesanan Teknik Permainan Bahasa Melalui Perisian Deck.Toys Dalam Merangsang Minat Murid Belajar")
+[10\. Keberkesanan Teknik Permainan Bahasa Melalui Perisian Deck.Toys Dalam Merangsang Minat Murid Belajar](/files/paper-%2010.pdf)
 
 _Shanom Farsa Sarry dan Aishah Nasyeera Rizdwan_
 
-[11\. Kit Penulisan Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Penulisan Karangan Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-11.pdf?sfvrsn=6619b3b2_2 "11. Kit Penulisan Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Penulisan Karangan Naratif")
+[11\. Kit Penulisan Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Penulisan Karangan Naratif](/files/paper-%2011.pdf)
 
 _Norhayati Jidin dan Qurnyaningsy Ahmad Mokhtar_
 
-[12\. Laman Web WIX Dalam Pembelajaran Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-12.pdf?sfvrsn=72271369_2 "12. Laman Web WIX Dalam Pembelajaran Penulisan")
+[12\. Laman Web WIX Dalam Pembelajaran Penulisan](/files/paper-%2012.pdf)
 
 _Abdul Matiin Kassim_
 
