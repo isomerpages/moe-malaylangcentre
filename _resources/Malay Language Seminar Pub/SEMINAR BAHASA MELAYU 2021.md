@@ -60,7 +60,7 @@ _Sri Nabilah Basri dan Janisah Johari_
 
 _Junainah Mohamed Yusoff dan Nur Adilah Khamsani_
 
-[8\. Keberkesanan Penggunaan Permainan Bahasa Dalam Pembelajaran Kosa Kata Berasaskan Pengajaran Pembezaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-8.pdf?sfvrsn=6db3d8ff_2 "8. Keberkesanan Penggunaan Permainan Bahasa Dalam Pembelajaran Kosa Kata Berasaskan Pengajaran Pembezaan")
+[8\. Keberkesanan Penggunaan Permainan Bahasa Dalam Pembelajaran Kosa Kata Berasaskan Pengajaran Pembezaan](/files/paper-8.pdf)
 
 _Alia Moreta dan Radziah Mohamed_
 
