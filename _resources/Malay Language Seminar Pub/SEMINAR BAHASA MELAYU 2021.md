@@ -144,11 +144,11 @@ _Aniza Samat dan Naelah Nor Othman_
 
 _Ibrizi Ishak dan Muliana Mohammad_
 
-[29\. Pengajaran Pembezaan Menggunakan Portal SLS Dan Wordwall](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-29.pdf?sfvrsn=753f9e6d_2 "29. Pengajaran Pembezaan Menggunakan Portal SLS Dan Wordwall")
+[29\. Pengajaran Pembezaan Menggunakan Portal SLS Dan Wordwall](/files/paper-%2029.pdf)
 
 _Siti Nur Baeyah Karim dan Rita Salamoon_
 
-[30\. Penggunaan Strategi T.O.P Dalam Menjawab Kefahaman Subjektif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-30.pdf?sfvrsn=b5b36f41_2 "30. Penggunaan Strategi T.O.P Dalam Menjawab Kefahaman Subjektif")
+[30\. Penggunaan Strategi T.O.P Dalam Menjawab Kefahaman Subjektif](/files/paper-%2030.pdf)
 
 _Noraini Karsani dan Mohamad Iskandar Mohd Yaakop_
 
