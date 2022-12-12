@@ -159,32 +159,32 @@ Norhajjarrillah Abdul Baki dan Iryianna Ahmad
 45. [Penggunaan Teknik Drama dalam Penulisan Karangan Bergambar(.pdf, 1.14 MB)](/files/paper-45.pdf)  <br>
 Siti Fadiah Ramdan dan Nurhidayah Ashari  
   
-46. [Penggunaan Teknik Drama dan Rutin Berfikir FTT dalam Pengajaran Golongan Kata(.pdf, 951.87 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-46.pdf?sfvrsn=b47f1f6d_2 "Penggunaan Teknik Drama dan Rutin Berfikir FTT dalam Pengajaran Golongan Kata")  <br>
+46. [Penggunaan Teknik Drama dan Rutin Berfikir FTT dalam Pengajaran Golongan Kata(.pdf, 951.87 KB)](/files/paper-46.pdf)  <br>
 Humairiah Ahmad dan Ribut Nawi  
   
-47. [Penggunaan Teknik TEPAT dalam Pengajaran dan Pembelajaran Interaksi Lisan(.pdf, 810.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-47.pdf?sfvrsn=54ad2265_2 "Penggunaan Teknik TEPAT dalam Pengajaran dan Pembelajaran Interaksi Lisan")  <br>
+47. [Penggunaan Teknik TEPAT dalam Pengajaran dan Pembelajaran Interaksi Lisan(.pdf, 810.79 KB)](/files/paper-47.pdf)  <br>
 Tuty Erahayu Abdul Hakim dan Nur Idayu Yusi  
   
-48. [Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pembelajaran Imbuhan ‘-an’(.pdf, 3.48 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-48.pdf?sfvrsn=dc86d5bf_2 "Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pembelajaran Imbuhan ‘-an’")  <br>
+48. [Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pembelajaran Imbuhan ‘-an’(.pdf, 3.48 MB)](/files/paper-48.pdf)  <br>
 Sadhana Yusop dan Siti Raihani Husainni  
   
-49. [Penilaian Rakan Sebaya dan Penggunaan Aplikasi Letsrecap dalam Interaksi Lisan(.pdf, 1.07 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-49.pdf?sfvrsn=9ad5e9d7_2 "Penilaian Rakan Sebaya dan Penggunaan Aplikasi Letsrecap dalam Interaksi Lisan")  <br>
+49. [Penilaian Rakan Sebaya dan Penggunaan Aplikasi Letsrecap dalam Interaksi Lisan(.pdf, 1.07 MB)](/files/paper-49.pdf)  <br>
 Jariah Ramlee dan Zuraidah Abdul Karim  
   
-50. [Penulisan Kreatif yang Cemerlang(.pdf, 1.07 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-50.pdf?sfvrsn=ea04be4a_2 "Penulisan Kreatif yang Cemerlang")  <br>
+50. [Penulisan Kreatif yang Cemerlang(.pdf, 1.07 MB)](/files/paper-50.pdf)  <br>
 Yasmin Azahari dan Rozana Zainuri  
   
-51. [Pidato sebagai Wahana Penilaian Alternatif bagi Kemahiran Lisan(.pdf, 808.65 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-51.pdf?sfvrsn=3b416d1f_2 "Pidato sebagai Wahana Penilaian Alternatif bagi Kemahiran Lisan")  <br>
+51. [Pidato sebagai Wahana Penilaian Alternatif bagi Kemahiran Lisan(.pdf, 808.65 KB)](/files/paper-51.pdf)  <br>
 Faizal Farouk dan Zulhafiz Zainal  
   
-52. [Sastera@Spaceroom: Manifestasi Kedinamikan Pembelajaran Berasaskan Kumpulan(.pdf, 1.46 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-52.pdf?sfvrsn=9f13b098_2 "Sastera@Spaceroom: Manifestasi Kedinamikan Pembelajaran Berasaskan Kumpulan")  <br>
+52. [Sastera@Spaceroom: Manifestasi Kedinamikan Pembelajaran Berasaskan Kumpulan(.pdf, 1.46 MB)](/files/paper-52.pdf)  <br>
 Tetty Juliana Sujono  
   
-53.  [Teknologi Awan (Cloud Technology) Menggalakkan Pembelajaran Kendiri dan Kolaboratif(.pdf, 1.28 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-53.pdf?sfvrsn=5940cf2b_2 "Teknologi Awan (Cloud Technology) Menggalakkan Pembelajaran Kendiri dan Kolaboratif")  <br>
+53.  [Teknologi Awan (Cloud Technology) Menggalakkan Pembelajaran Kendiri dan Kolaboratif(.pdf, 1.28 MB)](/files/paper-53.pdf)  <br>
 Mohamad Faizal Jasman dan Marlina Ahmad
 
-[Pameran Seminar Bahasa Melayu 2018(.pdf, 909.68 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/pameran-seminar-bahasa-melayu-2018.pdf?sfvrsn=92cbb49e_2 "Pameran Seminar Bahasa Melayu 2018")
+[Pameran Seminar Bahasa Melayu 2018(.pdf, 909.68 KB)](/files/pameran-seminar-bahasa-melayu-2018.pdf)
 
-[Jawatankuasa Penganjur(.pdf, 2.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/jawatankuasa-penganjur.pdf?sfvrsn=93004e9c_2 "Jawatankuasa Penganjur")
+[Jawatankuasa Penganjur(.pdf, 2.25 MB)](/files/jawatankuasa-penganjur.pdf)
 
-[Penghargaan(.pdf, 2.27 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/penghargaan.pdf?sfvrsn=8a6ab92d_2 "Penghargaan")
+[Penghargaan(.pdf, 2.27 MB)](/files/penghargaan.pdf)
