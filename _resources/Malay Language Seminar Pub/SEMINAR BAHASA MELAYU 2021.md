@@ -164,7 +164,7 @@ _Illiany Suhaily Mohd Juhri dan Norfadilah Sufke_
 
 _Maryana Mohamad dan Affarita Abdul Jaffar_
 
-[34\. Penggunaan Kaedah Modeling Dalam Penulisan Berasaskan Pengajaran Pembezaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-34.pdf?sfvrsn=617a903b_2 "34. Penggunaan Kaedah Modeling Dalam Penulisan Berasaskan Pengajaran Pembezaan")
+[34\. Penggunaan Kaedah Modeling Dalam Penulisan Berasaskan Pengajaran Pembezaan](/files/paper-%2034.pdf)
 
 _Haslinda Ibrahim dan Anisah Mustaffa_
 
