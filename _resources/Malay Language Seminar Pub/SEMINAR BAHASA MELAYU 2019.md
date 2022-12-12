@@ -146,27 +146,27 @@ Siti Raudhah Ishak dan Raihanah Mohamed
 
 Zuraidah Mohd Ariff
 
-[31.Pengembangan Isi Karangan Ekspositori Melalui Sistem Komputing 11(.pdf, 349.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/31-pengembangan-isi-karangan-ekspositori-melalui-sistem-komputing-11.pdf?sfvrsn=6fbc954_2 "31.Pengembangan Isi Karangan Ekspositori Melalui Sistem Komputing 11")
+[31.Pengembangan Isi Karangan Ekspositori Melalui Sistem Komputing 11(.pdf, 349.58 KB)](/files/31-pengembangan-isi-karangan-ekspositori-melalui-sistem-komputing-11.pdf)
 
 Siti Aisah Maduri dan Nur Atikah Abdul Hakim
 
-[32.Penggunaan Teks Kesusasteraan Melayu Tradisional Dalam Membina Literasi Kritikal(.pdf, 381.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/32-penggunaan-teks-kesusasteraan-melayu-tradisional-dalam-membina-literasi-kritikal.pdf?sfvrsn=1240fad6_2 "32.Penggunaan Teks Kesusasteraan Melayu Tradisional Dalam Membina Literasi Kritikal")
+[32.Penggunaan Teks Kesusasteraan Melayu Tradisional Dalam Membina Literasi Kritikal(.pdf, 381.72 KB)](/files/32-penggunaan-teks-kesusasteraan-melayu-tradisional-dalam-membina-literasi-kritikal.pdf)
 
 Noorlin Haron
 
-[33.Penggunaan 3P3I Dalam Membina Kemahiran Pelajar Menjawab Soalan Kefahaman Subjektif(.pdf, 445.89 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/33-penggunaan-3p3i-dalam-membina-kemahiran-pelajar-menjawab-soalan-kefahaman-subjektif.pdf?sfvrsn=14dc90f0_2 "33.Penggunaan 3P3I Dalam Membina Kemahiran Pelajar Menjawab Soalan Kefahaman Subjektif")
+[33.Penggunaan 3P3I Dalam Membina Kemahiran Pelajar Menjawab Soalan Kefahaman Subjektif(.pdf, 445.89 KB)](/files/33-penggunaan-3p3i-dalam-membina-kemahiran-pelajar-menjawab-soalan-kefahaman-subjektif.pdf)
 
 Effendy Ahmadi dan Norliza Ali
 
-[34.Penggunaan Aplikasi Flipgrid Dalam PdP Interaksi Lisan(.pdf, 378.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/34-penggunaan-aplikasi-flipgrid-dalam-pdp-interaksi-lisan.pdf?sfvrsn=e428f909_2 "34.Penggunaan Aplikasi Flipgrid Dalam PdP Interaksi Lisan")
+[34.Penggunaan Aplikasi Flipgrid Dalam PdP Interaksi Lisan(.pdf, 378.16 KB)](/files/34-penggunaan-aplikasi-flipgrid-dalam-pdp-interaksi-lisan.pdf)
 
 Hanizah Abu Samah dan Norfadilah Sufke
 
-[35.Penggunaan Aplikasi Kahoot Dalam Meningkatkan Penguasaan Kata Adjektif(.pdf, 215.47 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/35-penggunaan-aplikasi-kahoot-dalam-meningkatkan-penguasaan-kata-adjektif.pdf?sfvrsn=7378bbe3_2 "35.Penggunaan Aplikasi Kahoot Dalam Meningkatkan Penguasaan Kata Adjektif")
+[35.Penggunaan Aplikasi Kahoot Dalam Meningkatkan Penguasaan Kata Adjektif(.pdf, 215.47 KB)](/files/35-penggunaan-aplikasi-kahoot-dalam-meningkatkan-penguasaan-kata-adjektif.pdf)
 
 Hasnah Bte Hassan
 
-[36.Penggunaan Aplikasi Seesaw Dalam Memperkasakan Kemahiran Bertutur(.pdf, 646.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/36-penggunaan-aplikasi-seesaw-dalam-memperkasakan-kemahiran-bertutur.pdf?sfvrsn=13ddc874_2 "36.Penggunaan Aplikasi Seesaw Dalam Memperkasakan Kemahiran Bertutur")
+[36.Penggunaan Aplikasi Seesaw Dalam Memperkasakan Kemahiran Bertutur(.pdf, 646.42 KB)](/files/36-penggunaan-aplikasi-seesaw-dalam-memperkasakan-kemahiran-bertutur.pdf)
 
 Norhidayana Jabar
 
