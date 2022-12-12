@@ -111,10 +111,10 @@ Norlinda Saadon dan Rozana Mohamad Said
 29. [Penggunaan Rutin Berfi kir dalam Penulisan Karangan yang Berkualiti(.pdf, 2.16 MB)](/files/paper-29.pdf)  <br>
 Norlizanah Mohamed Nor dan Kasidah Khatoon Kasim Khan Surattee  
   
-30. [Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pengajaran Kata Adjektif(.pdf, 942.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-30.pdf?sfvrsn=1978840b_2 "Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pengajaran Kata Adjektif")  <br>
+30. [Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pengajaran Kata Adjektif(.pdf, 942.15 KB)](/files/paper-30.pdf)  <br>
 Ruhaidah Rahmat dan Fauziah Muhamad Fadzillah  
   
-31. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Interaksi Lisan(.pdf, 806.77 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-31.pdf?sfvrsn=af87fb47_2 "Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Interaksi Lisan")  <br>
+31. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Interaksi Lisan(.pdf, 806.77 KB)](/files/paper-31.pdf)  <br>
 Norlizah Ali dan Sri Rahayu Ramlan  
   
 32. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Kefahaman(.pdf, 1.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-32.pdf?sfvrsn=8e7eac19_2 "Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Kefahaman")  <br>
