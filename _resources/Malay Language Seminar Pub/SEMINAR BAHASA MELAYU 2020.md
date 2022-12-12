@@ -68,27 +68,27 @@ Muhammad Asyraf Haron dan Siti Zaleha Warti
 
 [13\. Meningkatkan Keupayaan Murid Dalam Interaksi Penulisan Menggunakan Google Slides(.pdf, 1.62 MB)](/files/mlcs-sbm-2020-paper13.pdf)
 
-Wahindah Suhari dan Nurhuda Mohamed[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper14.pdf?sfvrsn=a2ee5e68_2 "MLCS SBM 2020-Paper14")
+Wahindah Suhari dan Nurhuda Mohamed
 
-[14\. Meningkatkan Pelibatan Murid Melalui Portal SLS Bagi PdP Penulisan Karangan(.pdf, 375.83 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper14.pdf?sfvrsn=a2ee5e68_2 "14. Meningkatkan Pelibatan Murid Melalui Portal SLS Bagi PdP Penulisan Karangan")
+[14\. Meningkatkan Pelibatan Murid Melalui Portal SLS Bagi PdP Penulisan Karangan(.pdf, 375.83 KB)](/files/mlcs-sbm-2020-paper14.pdf)
 
-Haslinda Ibrahim dan Haslila Tahir[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper15.pdf?sfvrsn=a03019c9_2 "MLCS SBM 2020-Paper15")
+Haslinda Ibrahim dan Haslila Tahir
 
-[15\. Meningkatkan Pembelajaran Kefahaman Membaca Melalui Aplikasi Nearpod(.pdf, 529.95 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper15.pdf?sfvrsn=a03019c9_2 "15. Meningkatkan Pembelajaran Kefahaman Membaca Melalui Aplikasi Nearpod")
+[15\. Meningkatkan Pembelajaran Kefahaman Membaca Melalui Aplikasi Nearpod(.pdf, 529.95 KB)](/files/mlcs-sbm-2020-paper15.pdf)
 
-Sheikha Fadzlon Shaik Yakob dan Siti Nafisa Mohd Daud[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper16.pdf?sfvrsn=2aed1563_2 "MLCS SBM 2020-Paper16")
+Sheikha Fadzlon Shaik Yakob dan Siti Nafisa Mohd Daud
 
-[16\. Meningkatkan Penulisan Murid Melalui Aplikasi Padlet(.pdf, 837.09 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper16.pdf?sfvrsn=2aed1563_2 "16. Meningkatkan Penulisan Murid Melalui Aplikasi Padlet")
+[16\. Meningkatkan Penulisan Murid Melalui Aplikasi Padlet(.pdf, 837.09 KB)](/files/mlcs-sbm-2020-paper16.pdf)
 
-Kartini Khairi[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper17.pdf?sfvrsn=4951a27d_2 "MLCS SBM 2020-Paper17")
+Kartini Khairi
 
-[17\. Meningkatkan Penulisan Naratif Murid Melalui Portal SLS Dan Backward Design(.pdf, 565.17 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper17.pdf?sfvrsn=4951a27d_2 "17. Meningkatkan Penulisan Naratif Murid Melalui Portal SLS Dan Backward Design")
+[17\. Meningkatkan Penulisan Naratif Murid Melalui Portal SLS Dan Backward Design(.pdf, 565.17 KB)](/files/mlcs-sbm-2020-paper17.pdf)
 
-Noor Ratnawati Osman dan Azah Abdul Aziz[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper18.pdf?sfvrsn=6a603b47_2 "MLCS SBM 2020-Paper18")
+Noor Ratnawati Osman dan Azah Abdul Aziz
 
-[18\. Menjadikan Pembelajaran Jelas: Menggunakan Aplikasi ICT Bagi Membina Kemahiran Menulis(.pdf, 385.83 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper18.pdf?sfvrsn=6a603b47_2 "18. Menjadikan Pembelajaran Jelas: Menggunakan Aplikasi ICT Bagi Membina Kemahiran Menulis")
+[18\. Menjadikan Pembelajaran Jelas: Menggunakan Aplikasi ICT Bagi Membina Kemahiran Menulis(.pdf, 385.83 KB)](/files/mlcs-sbm-2020-paper18.pdf)
 
-Northasia Mohamed Sadekan dan Norhamidah Hassan[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper19.pdf?sfvrsn=12a4ad64_2 "MLCS SBM 2020-Paper19")
+Northasia Mohamed Sadekan dan Norhamidah Hassan
 
 [19\. Penerapan Rutin Berfikir Dalam Pembelajaran Kefahaman Membaca Melalui Portal SLS(.pdf, 731.19 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper19.pdf?sfvrsn=12a4ad64_2 "19. Penerapan Rutin Berfikir Dalam Pembelajaran Kefahaman Membaca Melalui Portal SLS")
 
