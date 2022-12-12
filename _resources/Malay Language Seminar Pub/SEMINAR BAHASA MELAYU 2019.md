@@ -230,20 +230,20 @@ Noraishah Mostapa
 
 Arfah Buang dan Azizah Ahmad
 
-[52.Penggunaan Strategi Tanya dan Respons Bagi PdP Penulisan(.pdf, 451.29 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/52-penggunaan-strategi-tanya-dan-respons-bagi-pdp-penulisan.pdf?sfvrsn=30b6b7b7_2 "52.Penggunaan Strategi Tanya dan Respons Bagi PdP Penulisan")
+[52.Penggunaan Strategi Tanya dan Respons Bagi PdP Penulisan(.pdf, 451.29 KB)](/files/52-penggunaan-strategi-tanya-dan-respons-bagi-pdp-penulisan.pdf)
 
 Ruhaidah Rahmat dan Nuradilah Abdul Wahid
 
-[53.Penggunaan Teknik Menjawab Soalan Literal Bagi Murid Praaras Kebolehan(.pdf, 208.23 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/53-penggunaan-teknik-menjawab-soalan-literal-bagi-murid-praaras-kebolehan.pdf?sfvrsn=f1f3349e_2 "53.Penggunaan Teknik Menjawab Soalan Literal Bagi Murid Praaras Kebolehan")
+[53.Penggunaan Teknik Menjawab Soalan Literal Bagi Murid Praaras Kebolehan(.pdf, 208.23 KB)](/files/53-penggunaan-teknik-menjawab-soalan-literal-bagi-murid-praaras-kebolehan.pdf)
 
 Sanisah Rahim dan Kasimah Kassim
 
-[54.Strategi Brain Gym Untuk Merangsang Minat Dan Meningkatkan Motivasi Murid(.pdf, 401.44 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/54-strategi-brain-gym-untuk-merangsang-minat-dan-meningkatkan-motivasi-murid.pdf?sfvrsn=209fc01a_2 "54.Strategi Brain Gym Untuk Merangsang Minat Dan Meningkatkan Motivasi Murid")
+[54.Strategi Brain Gym Untuk Merangsang Minat Dan Meningkatkan Motivasi Murid(.pdf, 401.44 KB)](/files/54-strategi-brain-gym-untuk-merangsang-minat-dan-meningkatkan-motivasi-murid.pdf)
 
 Masnah Masod dan Mariani Abdul Rahim
 
-[Pameran Seminar Bahasa Melayu 2019(.pdf, 234.03 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/pameran-seminar-bahasa-melayu-2019.pdf?sfvrsn=af8ad5a7_2 "Pameran Seminar Bahasa Melayu 2019")
+[Pameran Seminar Bahasa Melayu 2019(.pdf, 234.03 KB)](/files/pameran-seminar-bahasa-melayu-2019.pdf)
 
-[Jawatankuasa Penganjur(.pdf, 1.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/jawatankuasa-penganjur.pdf?sfvrsn=93f02c7b_2 "Jawatankuasa Penganjur")
+[Jawatankuasa Penganjur(.pdf, 1.66 MB)](/files/jawatankuasa-penganjur%20.pdf)
 
-[Penghargaan(.pdf, 1.09 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/penghargaan.pdf?sfvrsn=3f548fc1_2 "Penghargaan")
+[Penghargaan(.pdf, 1.09 MB)](/files/penghargaan%20.pdf)
