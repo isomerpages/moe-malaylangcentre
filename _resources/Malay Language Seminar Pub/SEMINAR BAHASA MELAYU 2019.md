@@ -62,39 +62,39 @@ Zaleha Ahmad dan Nailul Azmi Ismail
 
 Mohamad Iskandar Mohamad Yaakop
 
-[10.Meningkatkan Kemahiran Berfikir Murid Melalui Aktiviti Yang Kreatif(.pdf, 410.81 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/10-meningkatkan-kemahiran-berfikir-murid-melalui-aktiviti-yang-kreatif.pdf?sfvrsn=fb96b9d6_2 "10.Meningkatkan Kemahiran Berfikir Murid Melalui Aktiviti Yang Kreatif")
+[10.Meningkatkan Kemahiran Berfikir Murid Melalui Aktiviti Yang Kreatif(.pdf, 410.81 KB)](/files/10-meningkatkan-kemahiran-berfikir-murid-melalui-aktiviti-yang-kreatif.pdf)
 
 Muliana Mohammad
 
-[11.Meningkatkan Kemahiran Interaksi Lisan Pelajar Menggunakan Taksonomi Bloom(.pdf, 367.81 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/11-meningkatkan-kemahiran-interaksi-lisan-pelajar-menggunakan-taksonomi-bloom.pdf?sfvrsn=92ae6ba_2 "11.Meningkatkan Kemahiran Interaksi Lisan Pelajar Menggunakan Taksonomi Bloom")
+[11.Meningkatkan Kemahiran Interaksi Lisan Pelajar Menggunakan Taksonomi Bloom(.pdf, 367.81 KB)](/files/11-meningkatkan-kemahiran-interaksi-lisan-pelajar-menggunakan-taksonomi-bloom.pdf)
 
 Siti Nadiah Idris dan Siti Farhana Abdullah
 
-[12.Meningkatkan Minat Membaca Murid Melalui Drama(.pdf, 369.4 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/12-meningkatkan-minat-membaca-murid-melalui-drama.pdf?sfvrsn=6f9c858d_2 "12.Meningkatkan Minat Membaca Murid Melalui Drama")
+[12.Meningkatkan Minat Membaca Murid Melalui Drama(.pdf, 369.4 KB)](/files/12-meningkatkan-minat-membaca-murid-melalui-drama.pdf)
 
 Helmeleya Mohd Jamil dan Nuraishah Mahmood
 
-[13.Meningkatkan Pelibatan Murid Melalui Jejak Bahasa Melayu Berasaskan ICT(.pdf, 345.38 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/13-meningkatkan-pelibatan-murid-melalui-jejak-bahasa-melayu-berasaskan-ict9d4ac807e41b4ced8ebe5d6ac327b470.pdf?sfvrsn=17025471_2 "13.Meningkatkan Pelibatan Murid Melalui Jejak Bahasa Melayu Berasaskan ICT")
+[13.Meningkatkan Pelibatan Murid Melalui Jejak Bahasa Melayu Berasaskan ICT(.pdf, 345.38 KB)](/files/13-meningkatkan-pelibatan-murid-melalui-jejak-bahasa-melayu-berasaskan.pdf)
 
 Mohamed Ali Mohamed Iqbal
 
-[14.Meningkatkan Penggunaan Imbuhan Melalui Strategi Pengajaran Berasaskan ICT(.pdf, 277.6 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/14-meningkatkan-penggunaan-imbuhan-melalui-strategi-pengajaran-berasaskan-ict.pdf?sfvrsn=6c10b4ca_2 "14.Meningkatkan Penggunaan Imbuhan Melalui Strategi Pengajaran Berasaskan ICT")
+[14.Meningkatkan Penggunaan Imbuhan Melalui Strategi Pengajaran Berasaskan ICT(.pdf, 277.6 KB)](/files/14-meningkatkan-penggunaan-imbuhan-melalui-strategi-pengajaran-berasaskan-ict.pdf)
 
 Sheikha Fadzlon Shaik Yakob dan Lyana Sarie Dewi Mohamed
 
-[15.PdP Perumpamaan Berasaskan Pengajaran Pembezaan(.pdf, 306.37 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/15-pdp-perumpamaan-berasaskan-pengajaran-pembezaan.pdf?sfvrsn=a95f44bb_2 "15.PdP Perumpamaan Berasaskan Pengajaran Pembezaan")
+[15.PdP Perumpamaan Berasaskan Pengajaran Pembezaan(.pdf, 306.37 KB)](/files/15-pdp-perumpamaan-berasaskan-pengajaran-pembezaan.pdf)
 
 Nur Yasmin Muhammad Nasser Hussein dan Nurulhuda Ahmad
 
-[16.Pembangunan Pembacaan Efektif Melalui Model Empat Sumber(.pdf, 274.27 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/16-pembangunan-pembacaan-efektif-melalui-model-empat-sumber.pdf?sfvrsn=9e51fd3c_2 "16.Pembangunan Pembacaan Efektif Melalui Model Empat Sumber")
+[16.Pembangunan Pembacaan Efektif Melalui Model Empat Sumber(.pdf, 274.27 KB)](/files/16-pembangunan-pembacaan-efektif-melalui-model-empat-sumber.pdf)
 
 Norhidayat Mohamad Noor dan Aidil Md Idris
 
-[17.Penerapan Kaedah Fonetik Dalam Meningkatkan Kemahiran Membaca Murid(.pdf, 380.1 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/17-penerapan-kaedah-fonetik-dalam-meningkatkan-kemahiran-membaca-murid.pdf?sfvrsn=12f9c8f6_2 "17.Penerapan Kaedah Fonetik Dalam Meningkatkan Kemahiran Membaca Murid")
+[17.Penerapan Kaedah Fonetik Dalam Meningkatkan Kemahiran Membaca Murid(.pdf, 380.1 KB)](/files/17-penerapan-kaedah-fonetik-dalam-meningkatkan-kemahiran-membaca-murid.pdf)
 
 Norlieza Ahmad dan Fadial Jamaludin
 
-[18.Penerapan Nilai Dalam PdP Peribahasa(.pdf, 331.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/18-penerapan-nilai-dalam-pdp-peribahasa.pdf?sfvrsn=4c46fd12_2 "18.Penerapan Nilai Dalam PdP Peribahasa")
+[18.Penerapan Nilai Dalam PdP Peribahasa(.pdf, 331.97 KB)](/files/18-penerapan-nilai-dalam-pdp-peribahasa.pdf)
 
 Rashidah Mohamad Yaakob dan Fadilah Mohamed
 
