@@ -80,23 +80,23 @@ _Norhayati Jidin dan Qurnyaningsy Ahmad Mokhtar_
 
 _Abdul Matiin Kassim_
 
-[13\. Membina Keupayaan Berfikir Dalam Kemahiran Lisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-13.pdf?sfvrsn=78b287b0_2 "13. Membina Keupayaan Berfikir Dalam Kemahiran Lisan")
+[13\. Membina Keupayaan Berfikir Dalam Kemahiran Lisan](/files/paper-%2013.pdf)
 
 _Suriana Mohamed Bakri dan Sri Rahayu Mohamed Amin_
 
-[14\. Memperkaya Kosa Kata Murid Melalui Aplikasi Roda Ejaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-14.pdf?sfvrsn=6854993e_2 "14. Memperkaya Kosa Kata Murid Melalui Aplikasi Roda Ejaan")
+[14\. Memperkaya Kosa Kata Murid Melalui Aplikasi Roda Ejaan](/files/paper-%2014.pdf)
 
 _Hayati Murni Mohamed Yacob dan Muhammad Asyraf Haron_
 
-[15\. Mempertingkatkan Kemahiran Lisan Dan Penulisan Menerusi Literasi Media](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-15.pdf?sfvrsn=b5e49beb_2 "15. Mempertingkatkan Kemahiran Lisan Dan Penulisan Menerusi Literasi Media")
+[15\. Mempertingkatkan Kemahiran Lisan Dan Penulisan Menerusi Literasi Media](/files/paper-%2015.pdf)
 
 _Mazni Abu Bakar dan Esfan Rizal Rahwom_
 
-[16\. Meningkatkan Kemahiran Membaca Pelajar Melalui Pembacaan Skrip](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-16.pdf?sfvrsn=6653ac50_2 "16. Meningkatkan Kemahiran Membaca Pelajar Melalui Pembacaan Skrip")
+[16\. Meningkatkan Kemahiran Membaca Pelajar Melalui Pembacaan Skrip](/files/paper-%2016.pdf)
 
 _Siti Fatimah Muhammad_
 
-[17\. Meningkatkan Kemahiran Menjawab Soalan Kefahaman Melalui Sifat Dan Perwatakan Dalam Cerita](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-17.pdf?sfvrsn=4e13d87a_2 "17. Meningkatkan Kemahiran Menjawab Soalan Kefahaman Melalui Sifat Dan Perwatakan Dalam Cerita")
+[17\. Meningkatkan Kemahiran Menjawab Soalan Kefahaman Melalui Sifat Dan Perwatakan Dalam Cerita](/files/paper-%2017.pdf)
 
 _Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
 
