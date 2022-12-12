@@ -114,23 +114,23 @@ Milahwati Hussain
 
 Kartini Khairi dan Siti Nur Akashah Mustaffa
 
-[23.Pengajaran Kefahaman Membaca Melalui Drama(.pdf, 399.16 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/23-pengajaran-kefahaman-membaca-melalui-drama.pdf?sfvrsn=336536c4_2 "23.Pengajaran Kefahaman Membaca Melalui Drama")
+[23.Pengajaran Kefahaman Membaca Melalui Drama(.pdf, 399.16 KB)](/files/23-pengajaran-kefahaman-membaca-melalui-drama.pdf)
 
 Nur Muhammad Jalil dan Nurhiza Mohamed
 
-[24.Pengajaran Kefahaman Membaca Secara Kreatif Dan Inovatif(.pdf, 350.71 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/24-pengajaran-kefahaman-membaca-secara-kreatif-dan-inovatif.pdf?sfvrsn=370d5360_2 "24.Pengajaran Kefahaman Membaca Secara Kreatif Dan Inovatif")
+[24.Pengajaran Kefahaman Membaca Secara Kreatif Dan Inovatif(.pdf, 350.71 KB)](/files/24-pengajaran-kefahaman-membaca-secara-kreatif-dan-inovatif.pdf)
 
 Yasmin Azahari dan Norashikin Abdul Hamid
 
-[25.Pengajaran Lisan Melalui Kaedah PANS Dalam Kerangka DSKP(.pdf, 289.01 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/25-pengajaran-lisan-melalui-kaedah-pans-dalam-kerangka-dskp.pdf?sfvrsn=af6265cb_2 "25.Pengajaran Lisan Melalui Kaedah PANS Dalam Kerangka DSKP")
+[25.Pengajaran Lisan Melalui Kaedah PANS Dalam Kerangka DSKP(.pdf, 289.01 KB)](/files/25-pengajaran-lisan-melalui-kaedah-pans-dalam-kerangka-dskp.pdf)
 
 Suryadi Mohamed Bajuri dan Nor Sarah Banu
 
-[26.Pengajaran Pembezaan Berasaskan Profil Murid(.pdf, 671.18 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/26-pengajaran-pembezaan-berasaskan-profil-murid.pdf?sfvrsn=b5dc361c_2 "26.Pengajaran Pembezaan Berasaskan Profil Murid")
+[26.Pengajaran Pembezaan Berasaskan Profil Murid(.pdf, 671.18 KB)](/files/26-pengajaran-pembezaan-berasaskan-profil-murid.pdf)
 
 Salina Hussin
 
-[27.Pengajaran Pembezaan Dalam Pengajaran Penulisan Naratif(.pdf, 345.33 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/27-pengajaran-pembezaan-dalam-pengajaran-penulisan-naratif.pdf?sfvrsn=412d509e_2 "27.Pengajaran Pembezaan Dalam Pengajaran Penulisan Naratif")
+[27.Pengajaran Pembezaan Dalam Pengajaran Penulisan Naratif(.pdf, 345.33 KB)](/files/27-pengajaran-pembezaan-dalam-pengajaran-penulisan-naratif.pdf)
 
 Roslie Buang Sidik dan Ifa Hanifah
 
