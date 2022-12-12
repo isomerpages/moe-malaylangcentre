@@ -184,16 +184,16 @@ Zurina Yahya dan Sarifah Rahmat
 
 Muliana Mohammad
 
-[42\. Portal SLS Sebagai WadahBagi Meningkatkan Pembelajaran Kata Kerja(.pdf, 646.47 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper42.pdf?sfvrsn=3f4efa9c_2 "42. Portal SLS Sebagai WadahBagi Meningkatkan Pembelajaran Kata Kerja")
+[42\. Portal SLS Sebagai WadahBagi Meningkatkan Pembelajaran Kata Kerja(.pdf, 646.47 KB)](/files/mlcs-sbm-2020-paper42.pdf)
 
-Noor Faranah Mohamed Yatim dan Humairiah Ahmad[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper43.pdf?sfvrsn=715f770e_2 "MLCS SBM 2020-Paper43")
+Noor Faranah Mohamed Yatim dan Humairiah Ahmad
 
-[43\. Rutin Berfikir Dan Keberkesanan Maklum Balas Guru Dalam PdP Kemahiran Lisan Melalui Portal SLS(.pdf, 790.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper43.pdf?sfvrsn=715f770e_2 "43. Rutin Berfikir Dan Keberkesanan Maklum Balas Guru Dalam PdP Kemahiran Lisan Melalui Portal SLS")
+[43\. Rutin Berfikir Dan Keberkesanan Maklum Balas Guru Dalam PdP Kemahiran Lisan Melalui Portal SLS(.pdf, 790.75 KB)](/files/mlcs-sbm-2020-paper43.pdf)
 
 Marhaini Rahmat dan Siti Aisah Maduri  
 
-[Pameran Seminar(.pdf, 2.04 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/3-mlcs-sbm-2020-pameran-seminar.pdf?sfvrsn=ea914b55_2 "Pameran Seminar")  
+[Pameran Seminar(.pdf, 2.04 MB)](/files/3-mlcs-sbm-2020-pameran-seminar.pdf) 
 
-[Jawatankuasa Penganjur(.pdf, 3.74 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/jawatankuasa-penganjur.pdf?sfvrsn=51a1b8df_2 "Jawatankuasa Penganjur")
+[Jawatankuasa Penganjur(.pdf, 3.74 MB)](/files/jawatankuasa%20-penganjur.pdf)
 
-[Penghargaan(.pdf, 2.05 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/penghargaan.pdf?sfvrsn=860cdaa1_2 "Penghargaan")
+[Penghargaan(.pdf, 2.05 MB)](/files/penghargaan_.pdf)
