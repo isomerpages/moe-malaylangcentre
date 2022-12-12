@@ -124,23 +124,23 @@ Dian Syahidah Abdul Aziz dan Siti Zainab Zainal
 
 [27\. Penggunaan Google Slides Untuk Mengukuhkan Kemahiran Berfikir dan Interaksi Lisan(.pdf, 807.72 KB)](/files/mlcs-sbm-2020-paper27.pdf)
 
-Erfasiah Abdul Rahim dan Hafiza Yahya[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper28.pdf?sfvrsn=e56910ba_2 "MLCS SBM 2020-Paper28")
+Erfasiah Abdul Rahim dan Hafiza Yahya
 
-[28\. Penggunaan Portal SLS Dalam Pengajaran Kefahaman Membaca(.pdf, 397.23 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper28.pdf?sfvrsn=e56910ba_2 "28. Penggunaan Portal SLS Dalam Pengajaran Kefahaman Membaca")
+[28\. Penggunaan Portal SLS Dalam Pengajaran Kefahaman Membaca(.pdf, 397.23 KB)](/files/mlcs-sbm-2020-paper28.pdf)
 
-[MLCS SBM 2020-Paper29(.pdf, 392.64 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper29.pdf?sfvrsn=8e3d5b7e_2 "MLCS SBM 2020-Paper29")
+[MLCS SBM 2020-Paper29(.pdf, 392.64 KB)](/files/mlcs-sbm-2020-paper29.pdf)
 
 Alia Moreta dan Radziah Mohamed
 
-[29\. Penggunaan Portal SLS Bagi Meningkatkan Bacaan Asas Murid(.pdf, 392.64 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper29.pdf?sfvrsn=8e3d5b7e_2 "29. Penggunaan Portal SLS Bagi Meningkatkan Bacaan Asas Murid")
+[29\. Penggunaan Portal SLS Bagi Meningkatkan Bacaan Asas Murid(.pdf, 392.64 KB)](/files/mlcs-sbm-2020-paper29.pdf)
 
-Nur Fadzila Abdul Kadir dan Syafiqah Rihanny Sahrom[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper30.pdf?sfvrsn=2a4d05cd_2 "MLCS SBM 2020-Paper30")
+Nur Fadzila Abdul Kadir dan Syafiqah Rihanny Sahrom
 
-[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper30.pdf?sfvrsn=2a4d05cd_2 "30. Penggunaan Portal SLS Bagi Meningkatkan Bacaan Asas Murid")[30\. Penggunaan Portal SLS Dalam Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri(.pdf, 469.78 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper30.pdf?sfvrsn=2a4d05cd_2 "30. Penggunaan Portal SLS Dalam Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri")[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper31.pdf?sfvrsn=70850cfc_2 "MLCS SBM 2020-Paper31")
+[30\. Penggunaan Portal SLS Dalam Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri(.pdf, 469.78 KB)](/files/mlcs-sbm-2020-paper30.pdf)
 
 Suriani Abdul Bakri dan Majidah Ramli
 
-[31\. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa(.pdf, 471.21 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper31.pdf?sfvrsn=70850cfc_2 "31. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa")
+[31\. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa(.pdf, 471.21 KB)](/files/mlcs-sbm-2020-paper31.pdf)
 
 Norlizah Ali dan Norliza Sukri[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper32.pdf?sfvrsn=61ca7e67_2 "32. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa")
 
