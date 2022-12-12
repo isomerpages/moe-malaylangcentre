@@ -176,19 +176,19 @@ _Sharifah Ayyoo Ali dan Widawati Hanafiah_
 
 _Melati Hallel dan Noor Aisya Buang_
 
-[37\. Penggunaan Portal SLS Dalam Pengajaran Kata Adjektif Pancaindera](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-37.pdf?sfvrsn=8aba3561_2 "37. Penggunaan Portal SLS Dalam Pengajaran Kata Adjektif Pancaindera")
+[37\. Penggunaan Portal SLS Dalam Pengajaran Kata Adjektif Pancaindera](/files/paper-%2037.pdf)
 
 _Fauziah Muhamad Fadzillah dan Muhammad Firdaus Rahmat_
 
-[38\. Penggunaan Portal SLS Dalam Pembelajaran Bersepadu Bahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-38.pdf?sfvrsn=d32c58fd_2 "38. Penggunaan Portal SLS Dalam Pembelajaran Bersepadu Bahasa Melayu")
+[38\. Penggunaan Portal SLS Dalam Pembelajaran Bersepadu Bahasa Melayu](/files/paper-%2038.pdf)
 
 _Suriati Djuahir dan Murshidah Hassan_
 
-[39\. Penggunaan Rutin Berfikir Dalam Penulisan E-mel Rasmi](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-39.pdf?sfvrsn=7c47d1da_2 "39. Penggunaan Rutin Berfikir Dalam Penulisan E-mel Rasmi")
+[39\. Penggunaan Rutin Berfikir Dalam Penulisan E-mel Rasmi](/files/paper-%2039.pdf)
 
 _Dian Syahidah Abdul Aziz dan Siti Zainab Zainal_
 
-[40\. Penggunaan Strategi Permainan Dan ‘Pas Keluar’ Untuk Meningkatkan Kemahiran Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-40.pdf?sfvrsn=7499342c_2 "40. Penggunaan Strategi Permainan Dan ‘Pas Keluar’ Untuk Meningkatkan Kemahiran Membaca")
+[40\. Penggunaan Strategi Permainan Dan ‘Pas Keluar’ Untuk Meningkatkan Kemahiran Membaca](/files/paper-%2040.pdf)
 
 _Siti Nurashikin Ajmain dan Hyeryanti Suradi_
 
