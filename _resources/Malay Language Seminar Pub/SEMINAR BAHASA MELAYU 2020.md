@@ -54,19 +54,19 @@ Rosela Hashim dan Nuradilah Abdul Wahid
 
 Asmidah Mohd Jailani dan Hajjah Marzia Abdul Rahman
 
-[10\. Meningkatkan Kemahiran Interaksi Lisan Melalui Portal SLS(.pdf, 880.82 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper10.pdf?sfvrsn=c69ecf42_2 "10. Meningkatkan Kemahiran Interaksi Lisan Melalui Portal SLS")
+[10\. Meningkatkan Kemahiran Interaksi Lisan Melalui Portal SLS(.pdf, 880.82 KB)](/files/mlcs-sbm-2020-paper10.pdf)
 
 Elna Hussin dan Syu’ib Ahmad
 
-[11\. Meningkatkan Kemahiran Lisan Melalui Aplikasi Clips(.pdf, 495.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper11.pdf?sfvrsn=73d3c524_2 "11. Meningkatkan Kemahiran Lisan Melalui Aplikasi Clips")
+[11\. Meningkatkan Kemahiran Lisan Melalui Aplikasi Clips(.pdf, 495.94 KB)](/files/mlcs-sbm-2020-paper11.pdf)
 
-Arfah Buang dan Azizah Ahmad[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper12.pdf?sfvrsn=c1be08b3_2 "MLCS SBM 2020-Paper12")
+Arfah Buang dan Azizah Ahmad
 
-[12\. Meningkatkan Kemahiran Membaca Murid Praaras Kebolehan Melalui Portal SLS(.pdf, 429.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper12.pdf?sfvrsn=c1be08b3_2 "12. Meningkatkan Kemahiran Membaca Murid Praaras Kebolehan Melalui Portal SLS")
+[12\. Meningkatkan Kemahiran Membaca Murid Praaras Kebolehan Melalui Portal SLS(.pdf, 429.98 KB)](/files/mlcs-sbm-2020-paper12.pdf)
 
-Muhammad Asyraf Haron dan Siti Zaleha Warti[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper13.pdf?sfvrsn=86502917_2 "MLCS SBM 2020-Paper13")
+Muhammad Asyraf Haron dan Siti Zaleha Warti
 
-[13\. Meningkatkan Keupayaan Murid Dalam Interaksi Penulisan Menggunakan Google Slides(.pdf, 1.62 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper13.pdf?sfvrsn=86502917_2 "13. Meningkatkan Keupayaan Murid Dalam Interaksi Penulisan Menggunakan Google Slides")
+[13\. Meningkatkan Keupayaan Murid Dalam Interaksi Penulisan Menggunakan Google Slides(.pdf, 1.62 MB)](/files/mlcs-sbm-2020-paper13.pdf)
 
 Wahindah Suhari dan Nurhuda Mohamed[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper14.pdf?sfvrsn=a2ee5e68_2 "MLCS SBM 2020-Paper14")
 
