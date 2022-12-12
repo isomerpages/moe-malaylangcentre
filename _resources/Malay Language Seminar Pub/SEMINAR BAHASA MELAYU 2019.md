@@ -4,7 +4,7 @@ permalink: /mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publicat
 description: ""
 third_nav_title: Malay Language Seminar Pub
 ---
-##### Amalan Pengajaran Bahasa Melayu Di Singapura
+##### **Amalan Pengajaran Bahasa Melayu Di Singapura**
 
 Pusat Bahasa Melayu Singapura menganjurkan acara tahunan Seminar Bahasa Melayu pada Selasa, 19 Mac 2019. Prof Madya Dr Norliza Jamaluddin, Ketua Jabatan Bahasa dan Kesusasteraan Melayu, Universiti Pendidikan Sultan Idris, Malaysia diundang untuk menyampaikan ucaptama dalam seminar tersebut. Tema bagi Seminar Bahasa Melayu 2019 ialah Amalan Pengajaran Guru Bahasa Melayu di Singapura.
 
@@ -18,13 +18,13 @@ Selain dapat mengikuti pembentangan yang disampaikan oleh penyampai ucaptama, pa
 
 [Kandungan(.pdf, 98.89 KB)](/files/kandungan%20.pdf)
 
-##### Kertas Ucaptama
+##### **Kertas Ucaptama**
 
 [Amalan Pengajaran Bahasa Melayu: Cabaran dan Harapan(.pdf, 287.71 KB)](/files/ucaptama%20.pdf)
 
 Norliza Jamaluddin
 
-##### Kertas Kerja Sesi Sidang Selari
+##### **Kertas Kerja Sesi Sidang Selari**
 
 [1.Aplikasi Struktur Plot Gustav Freytag Dalam PdP Karangan Naratif(.pdf, 316.36 KB)](/files/1-aplikasi-struktur-plot-gustav-freytag-dalam-pdp-karangan-naratif.pdf)
 
