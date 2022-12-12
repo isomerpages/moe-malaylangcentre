@@ -142,19 +142,19 @@ Suriani Abdul Bakri dan Majidah Ramli
 
 [31\. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa(.pdf, 471.21 KB)](/files/mlcs-sbm-2020-paper31.pdf)
 
-Norlizah Ali dan Norliza Sukri[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper32.pdf?sfvrsn=61ca7e67_2 "32. Penggunaan Portal SLS Dalam Meningkatkan Keseronokan Pembelajaran Peribahasa")
+Norlizah Ali dan Norliza Sukri
 
-[32\. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Interaksi Lisan(.pdf, 498 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper32.pdf?sfvrsn=61ca7e67_2 "32. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Interaksi Lisan")
+[32\. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Interaksi Lisan(.pdf, 498 KB)](/files/mlcs-sbm-2020-paper32.pdf)
 
-Siti Noordiana Sulaiman dan Fasihah Rahmat[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper33.pdf?sfvrsn=a9555ed9_2 "MLCS SBM 2020-Paper33")
+Siti Noordiana Sulaiman dan Fasihah Rahmat
 
-[33\. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Penulisan Karangan Naratif(.pdf, 496.5 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper33.pdf?sfvrsn=a9555ed9_2 "33. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Penulisan Karangan Naratif")
+[33\. Penggunaan Portal SLS Dalam Meningkatkan Kemahiran Penulisan Karangan Naratif(.pdf, 496.5 KB)](/files/mlcs-sbm-2020-paper33.pdf)
 
-Hasrita Hosnin dan Nur Atiqah Ahmad Jamaludin[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper34.pdf?sfvrsn=2938857_2 "MLCS SBM 2020-Paper34")
+Hasrita Hosnin dan Nur Atiqah Ahmad Jamaludin
 
-[34\. Penggunaan Portal SLS Dalam PdP Interaksi Lisan(.pdf, 663.74 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper34.pdf?sfvrsn=2938857_2 "34. Penggunaan Portal SLS Dalam PdP Interaksi Lisan")
+[34\. Penggunaan Portal SLS Dalam PdP Interaksi Lisan(.pdf, 663.74 KB)](/files/mlcs-sbm-2020-paper34.pdf)
 
-[MLCS SBM 2020-Paper35(.pdf, 372.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper35.pdf?sfvrsn=6beb9352_2 "MLCS SBM 2020-Paper35")
+[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper35.pdf?sfvrsn=6beb9352_2 "MLCS SBM 2020-Paper35")
 
 Hafidah Mahat dan Fatihah Johari
 
