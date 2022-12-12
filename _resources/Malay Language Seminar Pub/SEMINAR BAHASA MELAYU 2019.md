@@ -26,11 +26,11 @@ Norliza Jamaluddin
 
 ##### Kertas Kerja Sesi Sidang Selari
 
-[1.Aplikasi Struktur Plot Gustav Freytag Dalam PdP Karangan Naratif(.pdf, 316.36 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/1-aplikasi-struktur-plot-gustav-freytag-dalam-pdp-karangan-naratif.pdf?sfvrsn=e6c1151_2 "1.Aplikasi Struktur Plot Gustav Freytag Dalam PdP Karangan Naratif")[316.36 KB)](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/(malay-language-seminar)-seminar-bahasa-melayu-publications/0e12da71-a72a-46ac-99c1-d569ea18ccce "1.Aplikasi Struktur Plot Gustav Freytag Dalam PdP Karangan Naratif")
+[1.Aplikasi Struktur Plot Gustav Freytag Dalam PdP Karangan Naratif(.pdf, 316.36 KB)](/files/1-aplikasi-struktur-plot-gustav-freytag-dalam-pdp-karangan-naratif.pdf)
 
 Mohamed Arizal Ahmad dan Mur Syairah Azahari
 
-[2.Integrasi Strategi NAH Dan PEEL Dalam Membina Kemahiran Interaksi Lisan(.pdf, 399.05 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/2-integrasi-strategi-nah-dan-peel-dalam-membina-kemahiran-interaksi-lisan.pdf?sfvrsn=b78ed860_2 "2.Integrasi Strategi NAH Dan PEEL Dalam Membina Kemahiran Interaksi Lisan")
+[2.Integrasi Strategi NAH Dan PEEL Dalam Membina Kemahiran Interaksi Lisan(.pdf, 399.05 KB)](/files/2-integrasi-strategi-nah-dan-peel-dalam-membina-kemahiran-interaksi-lisan.pdf)
 
 Fathin Atikah Masud dan Siti Hamesiah Samsudin
 
