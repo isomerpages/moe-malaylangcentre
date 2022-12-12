@@ -32,31 +32,31 @@ Berikut merupakan kandungan buku prosiding Seminar Bahasa Melayu 2021.
 
 _Ucaptama, Profesor Madya Dr. Salinah Jaafar_
 
-[1\. Bahas Sebagai Wahana Meningkatkan Kemahiran Lisan Pelajar](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-1.pdf?sfvrsn=75decad2_2 "1. Bahas Sebagai Wahana Meningkatkan Kemahiran Lisan Pelajar")
+[1\. Bahas Sebagai Wahana Meningkatkan Kemahiran Lisan Pelajar](/files/paper-1.pdf)
 
 _Nur Amalina Shalan dan Jasmiyanti Marhajas_
 
-[2\. Elemen STP Rangkaian IRF Dalam Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-2.pdf?sfvrsn=47779057_2 "2. Elemen STP Rangkaian IRF Dalam Penulisan Karangan")
+[2\. Elemen STP Rangkaian IRF Dalam Penulisan Karangan](/files/paper-2.pdf)
 
 _Nur Umairah Kasmani dan Hartini Hamid_
 
-[3\. Gamifikasi Bacaan(.pdf, 325.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-3.pdf?sfvrsn=381bb3e7_2 "3. Gamifikasi Bacaan")
+[3\. Gamifikasi Bacaan(.pdf, 325.42 KB)](/files/paper-3.pdf)
 
 _Nazarudin Abdul Bakar dan Syaiful Bahri Abdul Latif_
 
-[4\. Kaedah Orton Gillingham Dalam Kemahiran Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-4.pdf?sfvrsn=fb164305_2 "4. Kaedah Orton Gillingham Dalam Kemahiran Membaca")
+[4\. Kaedah Orton Gillingham Dalam Kemahiran Membaca](/files/paper-4.pdf)
 
 _Azah Abdul Aziz dan Aminah Ahmat_
 
-[5\. Keberkesanan Kaedah PdP Berasaskan Tugasan Bagi Meningkatkan Kemahiran Bertutur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-5.pdf?sfvrsn=1fdcc741_2 "5. Keberkesanan Kaedah PdP Berasaskan Tugasan Bagi Meningkatkan Kemahiran Bertutur")
+[5\. Keberkesanan Kaedah PdP Berasaskan Tugasan Bagi Meningkatkan Kemahiran Bertutur](/files/paper-5.pdf)
 
 _Zainaba Omar_
 
-[6\. Keberkesanan Penerapan IMaN+N Dan IHCR Dalam Mengembangkan Respons Pelajar Dalam Interaksi Lisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-6.pdf?sfvrsn=30cdcc8d_2 "6. Keberkesanan Penerapan IMaN+N Dan IHCR Dalam Mengembangkan Respons Pelajar Dalam Interaksi Lisan")
+[6\. Keberkesanan Penerapan IMaN+N Dan IHCR Dalam Mengembangkan Respons Pelajar Dalam Interaksi Lisan](/files/paper-6.pdf)
 
 _Sri Nabilah Basri dan Janisah Johari_
 
-[7\. Keberkesanan Penggunaan Pendekatan Design Thinking Dalam Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-7.pdf?sfvrsn=f4102e07_2 "7. Keberkesanan Penggunaan Pendekatan Design Thinking Dalam Penulisan Karangan")
+[7\. Keberkesanan Penggunaan Pendekatan Design Thinking Dalam Penulisan Karangan](/files/paper-7.pdf)
 
 _Junainah Mohamed Yusoff dan Nur Adilah Khamsani_
 
