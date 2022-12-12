@@ -10,17 +10,17 @@ Pusat Bahasa Melayu Singapura menganjurkan acara tahunan Seminar Bahasa Melayu p
 
 Selain dapat mengikuti pembentangan yang disampaikan oleh penyampai ucaptama, para peserta seminar juga berpeluang untuk mengikuti 50 pembentangan para guru mengenai kajian berasaskan bilik darjah yang telah mereka laksanakan dan 10 reruai pameran mengenai pengajaran dan pembelajaran bahasa Melayu di Singapura.
 
-[Sekapur Sirih(.pdf, 2.74 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/sekapur-sirih.pdf?sfvrsn=d7280a32_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 2.74 MB)](/files/sekapur-sirih.pdf)
 
-[Tunjuk Ajar Melayu(.pdf, 1.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/tunjuk-ajar-melayu.pdf?sfvrsn=ffb4a849_2 "Tunjuk Ajar Melayu")
+[Tunjuk Ajar Melayu(.pdf, 1.66 MB)](/files/tunjuk-ajar-melayu%20.pdf)
 
-[Atur Cara(.pdf, 1.11 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/atur-cara.pdf?sfvrsn=e4d8503f_2 "Atur Cara")
+[Atur Cara(.pdf, 1.11 MB)](/files/atur-cara%20.pdf)
 
-[Kandungan(.pdf, 98.89 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kandungan.pdf?sfvrsn=5250ea3d_2 "Kandungan")
+[Kandungan(.pdf, 98.89 KB)](/files/kandungan%20.pdf)
 
 ##### Kertas Ucaptama
 
-[Amalan Pengajaran Bahasa Melayu: Cabaran dan Harapan(.pdf, 287.71 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/ucaptama.pdf?sfvrsn=3e4fa0f7_2 "Amalan Pengajaran Bahasa Melayu: Cabaran dan Harapan")
+[Amalan Pengajaran Bahasa Melayu: Cabaran dan Harapan(.pdf, 287.71 KB)](/files/ucaptama%20.pdf)
 
 Norliza Jamaluddin
 
