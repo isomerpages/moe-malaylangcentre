@@ -4,3 +4,222 @@ permalink: /mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publicat
 description: ""
 third_nav_title: Malay Language Seminar Pub
 ---
+##### **Memperkukuh Pengajaran dan Pembelajaran, Meningkatkan Kemahiran Berbahasa**
+
+Pusat Bahasa Melayu Singapura (MLCS) menggalakkan budaya belajar bersama dalam kalangan guru-guru Bahasa Melayu di Singapura. Menerusi penganjuran Seminar Bahasa Melayu setiap tahun, guru-guru belajar bersama daripada pembentangan para guru menerusi kajian-kajian berasaskan sekolah dan juga amalan baik yang dilaksanakan di bilik darjah.
+
+Buat julung-julung kalinya, MLCS akan menganjurkan seminar kali ini secara langsung menerusi sidang Zoom.
+
+Pada tahun ini, Seminar Bahasa Melayu akan berlangsung pada 16 Mac 2021. Tema Seminar Bahasa Melayu tahun ini ialah "Memperkukuh Pengajaran dan Pembelajaran, Meningkatkan Kemahiran Berbahasa’. Penyampai Ucaptama bagi seminar kali ini ialah Profesor Madya Dr. Salinah Ja’afar dari Akademi Pengajian Melayu, Universiti Malaya.
+
+Tahun ini sebanyak 47 kertas kajian akan dikongsi semasa sesi sidang selari. Semua guru bahasa Melayu dijemput untuk mengikuti perkongsian para guru yang menjalankan kajian. 
+
+[Slaid Pembentangan Ucaptama](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/slaid-ucaptama-salinah-jaafar---seminar-mlcs.pdf?sfvrsn=28104ecb_2 "Slaid Pembentangan Ucaptama") \- Profesor Madya Dr Salinah Ja'afar
+
+[Klip Video Pembentangan Sesi Sidang Selari](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/(malay-language-seminar)-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2021/sesi-sidang-selari)
+
+Berikut merupakan kandungan buku prosiding Seminar Bahasa Melayu 2021.
+
+[Sekapur Sirih](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/sekapur-sirih.pdf?sfvrsn=7e3a5182_2 "Sekapur Sirih")
+
+[Tunjuk Ajar Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/tunjuk-ajar-melayu.pdf?sfvrsn=99094400_2 "Tunjuk Ajar Melayu")
+
+[Program](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/program.pdf?sfvrsn=53935b5f_2 "Program")
+
+[Kandungan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/01-content4676ce936aaa4c1181e80ca866bce44d.pdf?sfvrsn=b5bed177_2 "Kandungan")
+
+[Cabaran Dalam Memperkukuh PdP Bagi Meningkatkan Kemahiran Pelajar Berbahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/03-ucaptama1ce32ef2dce94872985b6b417c7dee9d.pdf?sfvrsn=2aa6d18e_2 "Cabaran Dalam Memperkukuh PdP Bagi Meningkatkan Kemahiran Pelajar Berbahasa Melayu")
+
+_Ucaptama, Profesor Madya Dr. Salinah Jaafar_
+
+[1\. Bahas Sebagai Wahana Meningkatkan Kemahiran Lisan Pelajar](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-1.pdf?sfvrsn=75decad2_2 "1. Bahas Sebagai Wahana Meningkatkan Kemahiran Lisan Pelajar")
+
+_Nur Amalina Shalan dan Jasmiyanti Marhajas_
+
+[2\. Elemen STP Rangkaian IRF Dalam Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-2.pdf?sfvrsn=47779057_2 "2. Elemen STP Rangkaian IRF Dalam Penulisan Karangan")
+
+_Nur Umairah Kasmani dan Hartini Hamid_
+
+[3\. Gamifikasi Bacaan(.pdf, 325.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-3.pdf?sfvrsn=381bb3e7_2 "3. Gamifikasi Bacaan")
+
+_Nazarudin Abdul Bakar dan Syaiful Bahri Abdul Latif_
+
+[4\. Kaedah Orton Gillingham Dalam Kemahiran Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-4.pdf?sfvrsn=fb164305_2 "4. Kaedah Orton Gillingham Dalam Kemahiran Membaca")
+
+_Azah Abdul Aziz dan Aminah Ahmat_
+
+[5\. Keberkesanan Kaedah PdP Berasaskan Tugasan Bagi Meningkatkan Kemahiran Bertutur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-5.pdf?sfvrsn=1fdcc741_2 "5. Keberkesanan Kaedah PdP Berasaskan Tugasan Bagi Meningkatkan Kemahiran Bertutur")
+
+_Zainaba Omar_
+
+[6\. Keberkesanan Penerapan IMaN+N Dan IHCR Dalam Mengembangkan Respons Pelajar Dalam Interaksi Lisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-6.pdf?sfvrsn=30cdcc8d_2 "6. Keberkesanan Penerapan IMaN+N Dan IHCR Dalam Mengembangkan Respons Pelajar Dalam Interaksi Lisan")
+
+_Sri Nabilah Basri dan Janisah Johari_
+
+[7\. Keberkesanan Penggunaan Pendekatan Design Thinking Dalam Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-7.pdf?sfvrsn=f4102e07_2 "7. Keberkesanan Penggunaan Pendekatan Design Thinking Dalam Penulisan Karangan")
+
+_Junainah Mohamed Yusoff dan Nur Adilah Khamsani_
+
+[8\. Keberkesanan Penggunaan Permainan Bahasa Dalam Pembelajaran Kosa Kata Berasaskan Pengajaran Pembezaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-8.pdf?sfvrsn=6db3d8ff_2 "8. Keberkesanan Penggunaan Permainan Bahasa Dalam Pembelajaran Kosa Kata Berasaskan Pengajaran Pembezaan")
+
+_Alia Moreta dan Radziah Mohamed_
+
+[9\. Keberkesanan Strategi SPN Dalam Merangsang Perbualan Lisan Melalui Portal SLS](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-9.pdf?sfvrsn=b4fcc56c_2 "9. Keberkesanan Strategi SPN Dalam Merangsang Perbualan Lisan Melalui Portal SLS")
+
+_Siti Khadijah Ahmad dan Fatihah Johari_
+
+[10\. Keberkesanan Teknik Permainan Bahasa Melalui Perisian Deck.Toys Dalam Merangsang Minat Murid Belajar](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-10.pdf?sfvrsn=cb02e5a1_2 "10. Keberkesanan Teknik Permainan Bahasa Melalui Perisian Deck.Toys Dalam Merangsang Minat Murid Belajar")
+
+_Shanom Farsa Sarry dan Aishah Nasyeera Rizdwan_
+
+[11\. Kit Penulisan Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Penulisan Karangan Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-11.pdf?sfvrsn=6619b3b2_2 "11. Kit Penulisan Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Penulisan Karangan Naratif")
+
+_Norhayati Jidin dan Qurnyaningsy Ahmad Mokhtar_
+
+[12\. Laman Web WIX Dalam Pembelajaran Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-12.pdf?sfvrsn=72271369_2 "12. Laman Web WIX Dalam Pembelajaran Penulisan")
+
+_Abdul Matiin Kassim_
+
+[13\. Membina Keupayaan Berfikir Dalam Kemahiran Lisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-13.pdf?sfvrsn=78b287b0_2 "13. Membina Keupayaan Berfikir Dalam Kemahiran Lisan")
+
+_Suriana Mohamed Bakri dan Sri Rahayu Mohamed Amin_
+
+[14\. Memperkaya Kosa Kata Murid Melalui Aplikasi Roda Ejaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-14.pdf?sfvrsn=6854993e_2 "14. Memperkaya Kosa Kata Murid Melalui Aplikasi Roda Ejaan")
+
+_Hayati Murni Mohamed Yacob dan Muhammad Asyraf Haron_
+
+[15\. Mempertingkatkan Kemahiran Lisan Dan Penulisan Menerusi Literasi Media](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-15.pdf?sfvrsn=b5e49beb_2 "15. Mempertingkatkan Kemahiran Lisan Dan Penulisan Menerusi Literasi Media")
+
+_Mazni Abu Bakar dan Esfan Rizal Rahwom_
+
+[16\. Meningkatkan Kemahiran Membaca Pelajar Melalui Pembacaan Skrip](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-16.pdf?sfvrsn=6653ac50_2 "16. Meningkatkan Kemahiran Membaca Pelajar Melalui Pembacaan Skrip")
+
+_Siti Fatimah Muhammad_
+
+[17\. Meningkatkan Kemahiran Menjawab Soalan Kefahaman Melalui Sifat Dan Perwatakan Dalam Cerita](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-17.pdf?sfvrsn=4e13d87a_2 "17. Meningkatkan Kemahiran Menjawab Soalan Kefahaman Melalui Sifat Dan Perwatakan Dalam Cerita")
+
+_Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
+
+[18\. Meningkatkan Kemahiran Penulisan Melalui Feed Forward](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-18.pdf?sfvrsn=cb3139f0_2 "18. Meningkatkan Kemahiran Penulisan Melalui Feed Forward")
+
+_Norazian Mohamed Yahya dan Hannah Nadhirah Lokman_
+
+[19\. Meningkatkan Keupayaan Membina Ayat Dengan Menggunakan Kata Tanya](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-19.pdf?sfvrsn=fbcc2b2f_2 "19. Meningkatkan Keupayaan Membina Ayat Dengan Menggunakan Kata Tanya")
+
+_Sanisah Rahim dan Helmeleya Mohd Jamil_
+
+[20\. Meningkatkan Penguasaan Kosa Kata Pelajar Melalui Cerita Rakyat Dan Pemikiran Kritika](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-20.pdf?sfvrsn=3311dbd1_2 "20. Meningkatkan Penguasaan Kosa Kata Pelajar Melalui Cerita Rakyat Dan Pemikiran Kritika")l
+
+_Fawziyah Ali dan Noranika Murni Dol Karim_
+
+[21\. Menjana Pemikiran Kritis Murid Berdasarkan Model Stenhouse](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-21.pdf?sfvrsn=779c0f08_2 "21. Menjana Pemikiran Kritis Murid Berdasarkan Model Stenhouse")
+
+_Faizal Mohamed Yusoff_
+
+[22\. PdP Berasaskan Pengajaran Pembezaan Untuk Menguasai Kosa Kata Melalui Aplikasi Deck.Toys](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-22.pdf?sfvrsn=7d495393_2 "22. PdP Berasaskan Pengajaran Pembezaan Untuk Menguasai Kosa Kata Melalui Aplikasi Deck.Toys")
+
+_Norhidayana Jabar dan Munirah Mohamed_
+
+[23\. Pelaksanaan Ujian Formatif Dalam PdP Peribahasa](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-23.pdf?sfvrsn=60a1fbb6_2 "23. Pelaksanaan Ujian Formatif Dalam PdP Peribahasa")
+
+_Milahwati Hussain dan Asmah Buang_
+
+[24\. Pembelajaran Di Rumah Bagi Meningkatkan Pembelajaran Ejaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-24.pdf?sfvrsn=40678fee_2 "24. Pembelajaran Di Rumah Bagi Meningkatkan Pembelajaran Ejaan")
+
+_Siti Rashidah Abdul Rahim dan Marhaini Mohamad_
+
+[25\. Pembelajaran Peribahasa Berasaskan Zon Perkembangan Proksimal (ZPD) Vgotsky](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-25.pdf?sfvrsn=b58d0fdc_2 "25. Pembelajaran Peribahasa Berasaskan Zon Perkembangan Proksimal (ZPD) Vgotsky")
+
+_Nur Afiqah Mokhtar Kamarudin_
+
+[26\. Pendekatan IPCK Dalam Kemahiran Bertutur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-26.pdf?sfvrsn=b6a859cc_2 "26. Pendekatan IPCK Dalam Kemahiran Bertutur")
+
+_Nailul Shakhira Mohd Rusli dan Siti Asnah Basir_
+
+[27\. Penerapan Rutin Berfikir Dalam Pembelajaran Interaksi Lisan Melalui Lakonan dan Teknik Drama](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-27.pdf?sfvrsn=c97938d0_2 "27. Penerapan Rutin Berfikir Dalam Pembelajaran Interaksi Lisan Melalui Lakonan dan Teknik Drama")
+
+_Aniza Samat dan Naelah Nor Othman_
+
+[28\. Penerapan Rutin Berfikir Dalam Penulisan Frasa Berbunga](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-28.pdf?sfvrsn=a0b4cac3_2 "28. Penerapan Rutin Berfikir Dalam Penulisan Frasa Berbunga")
+
+_Ibrizi Ishak dan Muliana Mohammad_
+
+[29\. Pengajaran Pembezaan Menggunakan Portal SLS Dan Wordwall](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-29.pdf?sfvrsn=753f9e6d_2 "29. Pengajaran Pembezaan Menggunakan Portal SLS Dan Wordwall")
+
+_Siti Nur Baeyah Karim dan Rita Salamoon_
+
+[30\. Penggunaan Strategi T.O.P Dalam Menjawab Kefahaman Subjektif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-30.pdf?sfvrsn=b5b36f41_2 "30. Penggunaan Strategi T.O.P Dalam Menjawab Kefahaman Subjektif")
+
+_Noraini Karsani dan Mohamad Iskandar Mohd Yaakop_
+
+[31\. Penggunaan Bahan Sastera Dalam Pengajaran Kefahaman](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-31.pdf?sfvrsn=25a4e81b_2 "31. Penggunaan Bahan Sastera Dalam Pengajaran Kefahaman")
+
+_Elna Hussin dan Khaizuran Supaat_
+
+[32\. Penggunaan Fitur-fitur SLS Dalam PdP Interaksi Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-32.pdf?sfvrsn=c6acd2f8_2 "32. Penggunaan Fitur-fitur SLS Dalam PdP Interaksi Penulisan")
+
+_Illiany Suhaily Mohd Juhri dan Norfadilah Sufke_
+
+[33\. Penggunaan Kaedah Anotasi Dalam Kemahiran Kefahaman Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-33.pdf?sfvrsn=d6524cd9_2 "33. Penggunaan Kaedah Anotasi Dalam Kemahiran Kefahaman Membaca")
+
+_Maryana Mohamad dan Affarita Abdul Jaffar_
+
+[34\. Penggunaan Kaedah Modeling Dalam Penulisan Berasaskan Pengajaran Pembezaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-34.pdf?sfvrsn=617a903b_2 "34. Penggunaan Kaedah Modeling Dalam Penulisan Berasaskan Pengajaran Pembezaan")
+
+_Haslinda Ibrahim dan Anisah Mustaffa_
+
+[35\. Penggunaan Pakej Penulisan Kreatif Dalam Meningkatkan Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-35.pdf?sfvrsn=5aa29a5d_2 "35. Penggunaan Pakej Penulisan Kreatif Dalam Meningkatkan Penulisan Karangan")
+
+_Sharifah Ayyoo Ali dan Widawati Hanafiah_
+
+[36\. Penggunaan Penyusun Grafik Dan Rutin Berfikir Bagi Mengenal Pasti Idea Dalam Teks Kefahaman Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-36.pdf?sfvrsn=87b817e6_2 "36. Penggunaan Penyusun Grafik Dan Rutin Berfikir Bagi Mengenal Pasti Idea Dalam Teks Kefahaman Naratif")
+
+_Melati Hallel dan Noor Aisya Buang_
+
+[37\. Penggunaan Portal SLS Dalam Pengajaran Kata Adjektif Pancaindera](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-37.pdf?sfvrsn=8aba3561_2 "37. Penggunaan Portal SLS Dalam Pengajaran Kata Adjektif Pancaindera")
+
+_Fauziah Muhamad Fadzillah dan Muhammad Firdaus Rahmat_
+
+[38\. Penggunaan Portal SLS Dalam Pembelajaran Bersepadu Bahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-38.pdf?sfvrsn=d32c58fd_2 "38. Penggunaan Portal SLS Dalam Pembelajaran Bersepadu Bahasa Melayu")
+
+_Suriati Djuahir dan Murshidah Hassan_
+
+[39\. Penggunaan Rutin Berfikir Dalam Penulisan E-mel Rasmi](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-39.pdf?sfvrsn=7c47d1da_2 "39. Penggunaan Rutin Berfikir Dalam Penulisan E-mel Rasmi")
+
+_Dian Syahidah Abdul Aziz dan Siti Zainab Zainal_
+
+[40\. Penggunaan Strategi Permainan Dan ‘Pas Keluar’ Untuk Meningkatkan Kemahiran Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-40.pdf?sfvrsn=7499342c_2 "40. Penggunaan Strategi Permainan Dan ‘Pas Keluar’ Untuk Meningkatkan Kemahiran Membaca")
+
+_Siti Nurashikin Ajmain dan Hyeryanti Suradi_
+
+[41\. Penggunaan Teknik Bercerita Dan Anotasi Dalam Meningkatkan Kemahiran Membaca Murid](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-41.pdf?sfvrsn=99ead204_2 "41. Penggunaan Teknik Bercerita Dan Anotasi Dalam Meningkatkan Kemahiran Membaca Murid")
+
+_Hazwani Harun Rushid dan Suriyana Ghapari_
+
+[42\. Proses Pembelajaran Aktif Dalam Permainan Escape Room Untuk Meningkatkan Penguasaan Peribahasa](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-42.pdf?sfvrsn=1b0ca3b7_2 "42. Proses Pembelajaran Aktif Dalam Permainan Escape Room Untuk Meningkatkan Penguasaan Peribahasa")
+
+_Syairah Nur ‘Amirah Zaid dan Muhammad Asyraf Khalid_
+
+[43\. Strategi Bacaan Berstruktur Bagi Meningkatkan Kosa Kata Dalam Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-43.pdf?sfvrsn=6a10ef57_2 "43. Strategi Bacaan Berstruktur Bagi Meningkatkan Kosa Kata Dalam Penulisan")
+
+_Elyani Mohamed dan Noorlin Haron_
+
+[44\. Strategi SKK Dalam Membina Kemahiran Murid Menjawab Soalan Kefahaman Subjektif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-44.pdf?sfvrsn=5ea8d36f_2 "44. Strategi SKK Dalam Membina Kemahiran Murid Menjawab Soalan Kefahaman Subjektif")
+
+_Siti Raudhah Ismail_
+
+[45\. Taksonomi SOLO Bagi Penilaian Kendiri Dalam PdP Bahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-45.pdf?sfvrsn=ba2c9486_2 "45. Taksonomi SOLO Bagi Penilaian Kendiri Dalam PdP Bahasa Melayu")
+
+_Rita Zarina Mohd Nazeer dan Safidah Samsudin_
+
+[46\. Transliterasi Lakaran Jalan Cerita Karangan Naratif MelaluiAplikasi iMovie Untuk Meningkatkan Kemahiran Penulisan Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-46.pdf?sfvrsn=3fd779a8_2 "46. Transliterasi Lakaran Jalan Cerita Karangan Naratif MelaluiAplikasi iMovie Untuk Meningkatkan Kemahiran Penulisan Naratif")
+
+_Siti_ _Nurhidayah Abdul Aziz dan Nur Umaira Mohamad Zulkifli_
+
+[47\. Usaha Menambah Baik Pembelajaran Di Rumah Bagi Penulisan Kreatif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-47.pdf?sfvrsn=b8d4dc90_2 "47. Usaha Menambah Baik Pembelajaran Di Rumah Bagi Penulisan Kreatif")
+
+_Zuraidah Mohd Ariff_
+
+[Jawatan Penganjur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/jawatan-penganjur.pdf?sfvrsn=b5dc54a_2 "Jawatan Penganjur")
+
+[Penghargaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/penghargaan.pdf?sfvrsn=6b791c3f_2 "Penghargaan")
