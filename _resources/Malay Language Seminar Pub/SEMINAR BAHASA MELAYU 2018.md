@@ -117,19 +117,19 @@ Ruhaidah Rahmat dan Fauziah Muhamad Fadzillah
 31. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Interaksi Lisan(.pdf, 806.77 KB)](/files/paper-31.pdf)  <br>
 Norlizah Ali dan Sri Rahayu Ramlan  
   
-32. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Kefahaman(.pdf, 1.19 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-32.pdf?sfvrsn=8e7eac19_2 "Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Kefahaman")  <br>
+32. [Penggunaan Rutin Berfi kir Lihat-Fikir-Tanya dalam Pengajaran Kefahaman(.pdf, 1.19 MB)](/files/paper-32.pdf)  <br>
 Rosnita Hamid dan Nadhirah Yusope  
   
-33. [Penggunaan Rutin Berfi kir Fikir-Tanya-Teroka dalam Kemahiran Interaksi Lisan(.pdf, 919.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-33.pdf?sfvrsn=a8b8a766_2 "Penggunaan Rutin Berfi kir Fikir-Tanya-Teroka dalam Kemahiran Interaksi Lisan")  <br>
+33. [Penggunaan Rutin Berfi kir Fikir-Tanya-Teroka dalam Kemahiran Interaksi Lisan(.pdf, 919.58 KB)](/files/paper-33.pdf)  <br>
 Zaetun Abbas dan Rahimah Januri  
   
-34. [Penggunaan Rutin Berfikir Lihat-Fikir-Tanya dan Kaitkan-Luaskan- Cabar bagi Kemahiran Interaksi Lisan(.pdf, 1.08 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-34.pdf?sfvrsn=8db8aba_2 "Penggunaan Rutin Berfikir Lihat-Fikir-Tanya dan Kaitkan-Luaskan- Cabar bagi Kemahiran Interaksi Lisan")  <br>
+34. [Penggunaan Rutin Berfikir Lihat-Fikir-Tanya dan Kaitkan-Luaskan- Cabar bagi Kemahiran Interaksi Lisan(.pdf, 1.08 MB)](/files/paper-34.pdf)  <br>
 Irmawati Mascom dan Nurul Aisyah Rosli  
   
-35. [Penggunaan Rutin Berfi kir Mata Kompas bagi Meningkatkan Kemahiran Interaksi Lisan Pelajar(.pdf, 1.14 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-35.pdf?sfvrsn=e0954860_2 "Penggunaan Rutin Berfi kir Mata Kompas bagi Meningkatkan Kemahiran Interaksi Lisan Pelajar")  <br>
+35. [Penggunaan Rutin Berfi kir Mata Kompas bagi Meningkatkan Kemahiran Interaksi Lisan Pelajar(.pdf, 1.14 MB)](/files/paper-35.pdf)  <br>
 Norhamidah Hassan  
   
-36. [Penggunaan Rutin Berfi kir Mata Kompas dalam Pengajaran Penulisan E-mel Tidak Rasmi(.pdf, 967.82 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-36.pdf?sfvrsn=3c92ca2a_2 "Penggunaan Rutin Berfi kir Mata Kompas dalam Pengajaran Penulisan E-mel Tidak Rasmi")  <br>
+36. [Penggunaan Rutin Berfi kir Mata Kompas dalam Pengajaran Penulisan E-mel Tidak Rasmi(.pdf, 967.82 KB)](/files/paper-36.pdf)  <br>
 Sri Nabilah Basri dan Siti Sapiya Mohamad Sumri  
   
 37. [Penggunaan Rutin Berfi kir Mata Kompas dan Nyatakan-Sokong-Soal dalam Pengajaran Lisan(.pdf, 1.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-37.pdf?sfvrsn=6187be5e_2 "Penggunaan Rutin Berfi kir Mata Kompas dan Nyatakan-Sokong-Soal dalam Pengajaran Lisan")  <br>
