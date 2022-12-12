@@ -110,7 +110,7 @@ Sabariah Mohd Samuni dan Noor Aini Jamin
 
 Milahwati Hussain
 
-[22.Penerapan Strategi Rutin Berfikir Dalam Pengajaran Kefahaman Membaca(.pdf, 638.92 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/22-penerapan-strategi-rutin-berfikir-dalam-pengajaran-kefahaman-membaca.pdf?sfvrsn=af08ec98_2 "22.Penerapan Strategi Rutin Berfikir Dalam Pengajaran Kefahaman Membaca")
+[22.Penerapan Strategi Rutin Berfikir Dalam Pengajaran Kefahaman Membaca(.pdf, 638.92 KB)](/files/22-penerapan-strategi-rutin-berfikir-dalam-pengajaran-kefahaman-membaca.pdf)
 
 Kartini Khairi dan Siti Nur Akashah Mustaffa
 
