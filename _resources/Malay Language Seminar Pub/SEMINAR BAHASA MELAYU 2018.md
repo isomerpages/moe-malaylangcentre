@@ -150,13 +150,13 @@ Dian Fitriani Abdol Malik dan Shaheeda Mohamed Ariffin
 42. [Penggunaan Rutin Berfi kir Tumpuan untuk Pengajaran Kata Nama(.pdf, 1.08 MB)](/files/paper-42.pdf)  <br>
 Rosela Hashim dan Nuradilah Abdul Wahid  
   
-43. [Penggunaan Rutin Berfi kir dalam Meningkatkan Penulisan Deskriptif(.pdf, 1.54 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-43.pdf?sfvrsn=d437cac4_2 "Penggunaan Rutin Berfi kir dalam Meningkatkan Penulisan Deskriptif")  <br>
+43. [Penggunaan Rutin Berfi kir dalam Meningkatkan Penulisan Deskriptif(.pdf, 1.54 MB)](/files/paper-43.pdf)  <br>
 Samsiah Mohamed Diah dan Siti Ainah Maduri  
   
-44. [Penggunaan Strategi LAP dalam Pengajaran Interaksi Lisan(.pdf, 834.82 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-44.pdf?sfvrsn=51f7d2c_2 "Penggunaan Strategi LAP dalam Pengajaran Interaksi Lisan")  <br>
+44. [Penggunaan Strategi LAP dalam Pengajaran Interaksi Lisan(.pdf, 834.82 KB)](/files/paper-44.pdf)  <br>
 Norhajjarrillah Abdul Baki dan Iryianna Ahmad  
   
-45. [Penggunaan Teknik Drama dalam Penulisan Karangan Bergambar(.pdf, 1.14 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-45.pdf?sfvrsn=1848e431_2 "Penggunaan Teknik Drama dalam Penulisan Karangan Bergambar")  <br>
+45. [Penggunaan Teknik Drama dalam Penulisan Karangan Bergambar(.pdf, 1.14 MB)](/files/paper-45.pdf)  <br>
 Siti Fadiah Ramdan dan Nurhidayah Ashari  
   
 46. [Penggunaan Teknik Drama dan Rutin Berfikir FTT dalam Pengajaran Golongan Kata(.pdf, 951.87 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-46.pdf?sfvrsn=b47f1f6d_2 "Penggunaan Teknik Drama dan Rutin Berfikir FTT dalam Pengajaran Golongan Kata")  <br>
