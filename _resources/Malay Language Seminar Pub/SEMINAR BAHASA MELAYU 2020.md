@@ -16,43 +16,43 @@ Pusat Bahasa Melayu Singapura akan menganjurkan acara tahunan Seminar Bahasa Mel
 
 [Kandungan(.pdf, 293.94 KB)](/files/kandungan%20%20.pdf) 
 
-##### **Kertas Kerja Sesi Sidang Selari**[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper1.pdf?sfvrsn=97bfdb3b_2 "Keberkesanan Pengalaman Pembelajaran Pemerolehan Dalam Portal SLS untuk Kemahiran Interaksi Penulisan")
+##### **Kertas Kerja Sesi Sidang Selari**
 
-[1\. Keberkesanan Pengalaman Pembelajaran Pemerolehan Dalam Portal SLS untuk Kemahiran Interaksi Penulisan(.pdf, 762.46 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper1.pdf?sfvrsn=97bfdb3b_2 "1. Keberkesanan Pengalaman Pembelajaran Pemerolehan Dalam Portal SLS untuk Kemahiran Interaksi Penulisan")
+[1\. Keberkesanan Pengalaman Pembelajaran Pemerolehan Dalam Portal SLS untuk Kemahiran Interaksi Penulisan(.pdf, 762.46 KB)](/files/mlcs-sbm-2020-paper1.pdf)
 
 Siti Fatimah Omar Bakri dan Zarina Kamaron
 
-[2\. Keberkesanan Penggunaan Google Classroom Dalam PdP Penulisan Karangan(.pdf, 592.24 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper2.pdf?sfvrsn=2e5cc7c4_2 "2. Keberkesanan Penggunaan Google Classroom Dalam PdP Penulisan Karangan")
+[2\. Keberkesanan Penggunaan Google Classroom Dalam PdP Penulisan Karangan(.pdf, 592.24 KB)](/files/mlcs-sbm-2020-paper2.pdf)
 
 Norhidayana Jabar dan Noor Nadiya Abdul Salim
 
-[3\. Keberkesanan Penggunaan Kod QR Untuk Memperluas Kosa Kata Bagi Kemahiran Interaksi Lisan(.pdf, 675.75 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper3.pdf?sfvrsn=b236ad05_2 "3. Keberkesanan Penggunaan Kod QR Untuk Memperluas Kosa Kata Bagi Kemahiran Interaksi Lisan")
+[3\. Keberkesanan Penggunaan Kod QR Untuk Memperluas Kosa Kata Bagi Kemahiran Interaksi Lisan(.pdf, 675.75 KB)](/files/mlcs-sbm-2020-paper3.pdf)
 
-Suryadi Mohamed Bajuri dan Nor Sarah Banu[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper4.pdf?sfvrsn=b98943c3_2 "MLCS SBM 2020-Paper4")
+Suryadi Mohamed Bajuri dan Nor Sarah Banu
 
-[4\. Keberkesanan Penggunaan One Note Bagi Meningkatkan Kemahiran Interaksi Lisan(.pdf, 661.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper4.pdf?sfvrsn=b98943c3_2 "4. Keberkesanan Penggunaan One Note Bagi Meningkatkan Kemahiran Interaksi Lisan")
+[4\. Keberkesanan Penggunaan One Note Bagi Meningkatkan Kemahiran Interaksi Lisan(.pdf, 661.42 KB)](/files/mlcs-sbm-2020-paper4.pdf)
 
-Kartinie Tomin dan Norzaidah Suparman[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper5.pdf?sfvrsn=454642cc_2 "MLCS SBM 2020-Paper5")
+Kartinie Tomin dan Norzaidah Suparman
 
-[5\. Keberkesanan Penggunaan Portal SLS Dalam Penulisan Penutup Karangan Berdasarkan Gambar Bersiri(.pdf, 416.39 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper5.pdf?sfvrsn=454642cc_2 "5. Keberkesanan Penggunaan Portal SLS Dalam Penulisan Penutup Karangan Berdasarkan Gambar Bersiri")
+[5\. Keberkesanan Penggunaan Portal SLS Dalam Penulisan Penutup Karangan Berdasarkan Gambar Bersiri(.pdf, 416.39 KB)](/files/mlcs-sbm-2020-paper5.pdf)
 
-Sanisah Rahim dan Nuraishah Mahmood[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper6.pdf?sfvrsn=c8f59837_2 "MLCS SBM 2020-Paper6")
+Sanisah Rahim dan Nuraishah Mahmood
 
-[6\. Keberkesanan Penggunaan Portal SLS Dalam Penjanaan Idea Bagi Penulisan E-mel(.pdf, 602.51 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper6.pdf?sfvrsn=c8f59837_2 "6. Keberkesanan Penggunaan Portal SLS Dalam Penjanaan Idea Bagi Penulisan E-mel")
+[6\. Keberkesanan Penggunaan Portal SLS Dalam Penjanaan Idea Bagi Penulisan E-mel(.pdf, 602.51 KB)](/files/mlcs-sbm-2020-paper6.pdf)
 
-Hannah Nadhirah Lokman dan Norazian Mohamed Yahya[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper7.pdf?sfvrsn=f319e67a_2 "MLCS SBM 2020-Paper7")
+Hannah Nadhirah Lokman dan Norazian Mohamed Yahya
 
-[7\. Menggunakan Rutin Berfikir Melalui Portal SLS Bagi Pembelajaran Interaksi Lisan(.pdf, 527.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper7.pdf?sfvrsn=f319e67a_2 "7. Menggunakan Rutin Berfikir Melalui Portal SLS Bagi Pembelajaran Interaksi Lisan")
+[7\. Menggunakan Rutin Berfikir Melalui Portal SLS Bagi Pembelajaran Interaksi Lisan(.pdf, 527.34 KB)](/files/mlcs-sbm-2020-paper7.pdf)
 
-Siti Farhana Binte Abdullah dan Nur Azah Binte Ismail[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper8.pdf?sfvrsn=da3d1369_2 "MLCS SBM 2020-Paper8")
+Siti Farhana Binte Abdullah dan Nur Azah Binte Ismail
 
-[8\. Menggunakan Teknik Penyoalan Melalui Portal SLS Bagi Pengajaran Kefahaman Membaca(.pdf, 708.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper8.pdf?sfvrsn=da3d1369_2 "8. Menggunakan Teknik Penyoalan Melalui Portal SLS Bagi Pengajaran Kefahaman Membaca")
+[8\. Menggunakan Teknik Penyoalan Melalui Portal SLS Bagi Pengajaran Kefahaman Membaca(.pdf, 708.42 KB)](/files/mlcs-sbm-2020-paper8.pdf)
 
-Rosela Hashim dan Nuradilah Abdul Wahid[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper9.pdf?sfvrsn=2cfbb1a9_2 "MLCS SBM 2020-Paper9")
+Rosela Hashim dan Nuradilah Abdul Wahid
 
-[9\. Meningkatkan Kemahiran Bertutur Berdasarkan Gambar Melalui Portal SLS(.pdf, 447.38 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper9.pdf?sfvrsn=2cfbb1a9_2 "9. Meningkatkan Kemahiran Bertutur Berdasarkan Gambar Melalui Portal SLS")
+[9\. Meningkatkan Kemahiran Bertutur Berdasarkan Gambar Melalui Portal SLS(.pdf, 447.38 KB)](/files/mlcs-sbm-2020-paper9.pdf)
 
-Asmidah Mohd Jailani dan Hajjah Marzia Abdul Rahman[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper10.pdf?sfvrsn=c69ecf42_2 "MLCS SBM 2020-Paper10")
+Asmidah Mohd Jailani dan Hajjah Marzia Abdul Rahman
 
 [10\. Meningkatkan Kemahiran Interaksi Lisan Melalui Portal SLS(.pdf, 880.82 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper10.pdf?sfvrsn=c69ecf42_2 "10. Meningkatkan Kemahiran Interaksi Lisan Melalui Portal SLS")
 
