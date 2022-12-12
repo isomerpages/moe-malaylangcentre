@@ -212,14 +212,14 @@ _Siti Raudhah Ismail_
 
 _Rita Zarina Mohd Nazeer dan Safidah Samsudin_
 
-[46\. Transliterasi Lakaran Jalan Cerita Karangan Naratif MelaluiAplikasi iMovie Untuk Meningkatkan Kemahiran Penulisan Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-46.pdf?sfvrsn=3fd779a8_2 "46. Transliterasi Lakaran Jalan Cerita Karangan Naratif MelaluiAplikasi iMovie Untuk Meningkatkan Kemahiran Penulisan Naratif")
+[46\. Transliterasi Lakaran Jalan Cerita Karangan Naratif MelaluiAplikasi iMovie Untuk Meningkatkan Kemahiran Penulisan Naratif](/files/paper-%2046.pdf)
 
 _Siti_ _Nurhidayah Abdul Aziz dan Nur Umaira Mohamad Zulkifli_
 
-[47\. Usaha Menambah Baik Pembelajaran Di Rumah Bagi Penulisan Kreatif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-47.pdf?sfvrsn=b8d4dc90_2 "47. Usaha Menambah Baik Pembelajaran Di Rumah Bagi Penulisan Kreatif")
+[47\. Usaha Menambah Baik Pembelajaran Di Rumah Bagi Penulisan Kreatif](/files/paper-%2047.pdf)
 
 _Zuraidah Mohd Ariff_
 
-[Jawatan Penganjur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/jawatan-penganjur.pdf?sfvrsn=b5dc54a_2 "Jawatan Penganjur")
+[Jawatan Penganjur](/files/jawatan-penganjur.pdf)
 
-[Penghargaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/penghargaan.pdf?sfvrsn=6b791c3f_2 "Penghargaan")
+[Penghargaan](/files/penghargaan_%20.pdf)
