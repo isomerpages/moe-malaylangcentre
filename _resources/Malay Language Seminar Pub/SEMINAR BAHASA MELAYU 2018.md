@@ -132,22 +132,22 @@ Norhamidah Hassan
 36. [Penggunaan Rutin Berfi kir Mata Kompas dalam Pengajaran Penulisan E-mel Tidak Rasmi(.pdf, 967.82 KB)](/files/paper-36.pdf)  <br>
 Sri Nabilah Basri dan Siti Sapiya Mohamad Sumri  
   
-37. [Penggunaan Rutin Berfi kir Mata Kompas dan Nyatakan-Sokong-Soal dalam Pengajaran Lisan(.pdf, 1.01 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-37.pdf?sfvrsn=6187be5e_2 "Penggunaan Rutin Berfi kir Mata Kompas dan Nyatakan-Sokong-Soal dalam Pengajaran Lisan")  <br>
+37. [Penggunaan Rutin Berfi kir Mata Kompas dan Nyatakan-Sokong-Soal dalam Pengajaran Lisan(.pdf, 1.01 MB)](/files/paper-37.pdf)  <br>
 Nurhiza Mohamed dan Nurul Hidana Ahmad  
   
-38. [Penggunaan Rutin Berfi kir Melangkah ke Dalam dalam Pengajaran Karangan(.pdf, 973.81 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-38.pdf?sfvrsn=cb113f88_2 "Penggunaan Rutin Berfi kir Melangkah ke Dalam dalam Pengajaran Karangan")  <br>
+38. [Penggunaan Rutin Berfi kir Melangkah ke Dalam dalam Pengajaran Karangan(.pdf, 973.81 KB)](/files/paper-38.pdf)  <br>
 Fadhillah Md Hussin dan Hasimah Hasim  
   
-39. [Penggunaan Rutin Berfi kir Melangkah ke Dalam dan 3-2-1 Bina Titian bagi Memantapkan Keupayaan Menulis Karangan Naratif(.pdf, 1.24 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-39.pdf?sfvrsn=480e6882_2 "Penggunaan Rutin Berfi kir Melangkah ke Dalam dan 3-2-1 Bina Titian bagi Memantapkan Keupayaan Menulis Karangan Naratif")  <br>
+39. [Penggunaan Rutin Berfi kir Melangkah ke Dalam dan 3-2-1 Bina Titian bagi Memantapkan Keupayaan Menulis Karangan Naratif(.pdf, 1.24 MB)](/files/paper-39.pdf)  <br>
 Rita Zarina Mohd Nazeer dan Rashidah Abdullah  
   
-40. [Penggunaan Rutin Berfi kir Nyatakan-Sokong-Soal dalam Pengajaran Kefahaman Subjektif(.pdf, 767.47 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-40.pdf?sfvrsn=a0b307b4_2 "Penggunaan Rutin Berfi kir Nyatakan-Sokong-Soal dalam Pengajaran Kefahaman Subjektif")  <br>
+40. [Penggunaan Rutin Berfi kir Nyatakan-Sokong-Soal dalam Pengajaran Kefahaman Subjektif(.pdf, 767.47 KB)](/files/paper-40.pdf)  <br>
 Melati Hallel dan Noor Aisya Buang  
   
-41. [Penggunaan Rutin Berfi kir Permainan Penerangan dalam Pengajaran Interaksi Lisan(.pdf, 856.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-41.pdf?sfvrsn=c57816cc_2 "Penggunaan Rutin Berfi kir Permainan Penerangan dalam Pengajaran Interaksi Lisan")  <br>
+41. [Penggunaan Rutin Berfi kir Permainan Penerangan dalam Pengajaran Interaksi Lisan(.pdf, 856.32 KB)](/files/paper-41.pdf)  <br>
 Dian Fitriani Abdol Malik dan Shaheeda Mohamed Ariffin  
   
-42. [Penggunaan Rutin Berfi kir Tumpuan untuk Pengajaran Kata Nama(.pdf, 1.08 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-42.pdf?sfvrsn=c2bfa432_2 "Penggunaan Rutin Berfi kir Tumpuan untuk Pengajaran Kata Nama")  <br>
+42. [Penggunaan Rutin Berfi kir Tumpuan untuk Pengajaran Kata Nama(.pdf, 1.08 MB)](/files/paper-42.pdf)  <br>
 Rosela Hashim dan Nuradilah Abdul Wahid  
   
 43. [Penggunaan Rutin Berfi kir dalam Meningkatkan Penulisan Deskriptif(.pdf, 1.54 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-43.pdf?sfvrsn=d437cac4_2 "Penggunaan Rutin Berfi kir dalam Meningkatkan Penulisan Deskriptif")  <br>
