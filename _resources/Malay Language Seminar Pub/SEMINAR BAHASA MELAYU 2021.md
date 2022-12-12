@@ -100,19 +100,19 @@ _Siti Fatimah Muhammad_
 
 _Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
 
-[18\. Meningkatkan Kemahiran Penulisan Melalui Feed Forward](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-18.pdf?sfvrsn=cb3139f0_2 "18. Meningkatkan Kemahiran Penulisan Melalui Feed Forward")
+[18\. Meningkatkan Kemahiran Penulisan Melalui Feed Forward](/files/paper-%2018.pdf)
 
 _Norazian Mohamed Yahya dan Hannah Nadhirah Lokman_
 
-[19\. Meningkatkan Keupayaan Membina Ayat Dengan Menggunakan Kata Tanya](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-19.pdf?sfvrsn=fbcc2b2f_2 "19. Meningkatkan Keupayaan Membina Ayat Dengan Menggunakan Kata Tanya")
+[19\. Meningkatkan Keupayaan Membina Ayat Dengan Menggunakan Kata Tanya](/files/paper-%2019.pdf)
 
 _Sanisah Rahim dan Helmeleya Mohd Jamil_
 
-[20\. Meningkatkan Penguasaan Kosa Kata Pelajar Melalui Cerita Rakyat Dan Pemikiran Kritika](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-20.pdf?sfvrsn=3311dbd1_2 "20. Meningkatkan Penguasaan Kosa Kata Pelajar Melalui Cerita Rakyat Dan Pemikiran Kritika")l
+[20\. Meningkatkan Penguasaan Kosa Kata Pelajar Melalui Cerita Rakyat Dan Pemikiran Kritika](/files/paper-%2020.pdf)l
 
 _Fawziyah Ali dan Noranika Murni Dol Karim_
 
-[21\. Menjana Pemikiran Kritis Murid Berdasarkan Model Stenhouse](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-21.pdf?sfvrsn=779c0f08_2 "21. Menjana Pemikiran Kritis Murid Berdasarkan Model Stenhouse")
+[21\. Menjana Pemikiran Kritis Murid Berdasarkan Model Stenhouse](/files/paper-%2021.pdf)
 
 _Faizal Mohamed Yusoff_
 
