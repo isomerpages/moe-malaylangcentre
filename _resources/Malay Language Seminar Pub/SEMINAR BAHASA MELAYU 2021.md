@@ -168,11 +168,11 @@ _Maryana Mohamad dan Affarita Abdul Jaffar_
 
 _Haslinda Ibrahim dan Anisah Mustaffa_
 
-[35\. Penggunaan Pakej Penulisan Kreatif Dalam Meningkatkan Penulisan Karangan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-35.pdf?sfvrsn=5aa29a5d_2 "35. Penggunaan Pakej Penulisan Kreatif Dalam Meningkatkan Penulisan Karangan")
+[35\. Penggunaan Pakej Penulisan Kreatif Dalam Meningkatkan Penulisan Karangan](/files/paper-%2035.pdf)
 
 _Sharifah Ayyoo Ali dan Widawati Hanafiah_
 
-[36\. Penggunaan Penyusun Grafik Dan Rutin Berfikir Bagi Mengenal Pasti Idea Dalam Teks Kefahaman Naratif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-36.pdf?sfvrsn=87b817e6_2 "36. Penggunaan Penyusun Grafik Dan Rutin Berfikir Bagi Mengenal Pasti Idea Dalam Teks Kefahaman Naratif")
+[36\. Penggunaan Penyusun Grafik Dan Rutin Berfikir Bagi Mengenal Pasti Idea Dalam Teks Kefahaman Naratif](/files/paper-%2036.pdf)
 
 _Melati Hallel dan Noor Aisya Buang_
 
