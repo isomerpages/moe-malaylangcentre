@@ -34,31 +34,31 @@ Mohamed Arizal Ahmad dan Mur Syairah Azahari
 
 Fathin Atikah Masud dan Siti Hamesiah Samsudin
 
-[3.Kaedah Penyoalan Dan Penerapan ICT Dalam Pengajaran Lisan Berdasarkan Klip Video(.pdf, 348.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/3-kaedah-penyoalan-dan-penerapan-ict-dalam-pengajaran-lisan-berdasarkan-klip-video.pdf?sfvrsn=189ccc48_2 "3.Kaedah Penyoalan Dan Penerapan ICT Dalam Pengajaran Lisan Berdasarkan Klip Video")
+[3.Kaedah Penyoalan Dan Penerapan ICT Dalam Pengajaran Lisan Berdasarkan Klip Video(.pdf, 348.88 KB)](/files/3-kaedah-penyoalan-dan-penerapan-ict-dalam-pengajaran-lisan-berdasarkan-klip-video.pdf)
 
 Amilia Baba dan Sarimah Sainin
 
-[4.Keberkesanan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Penulisan E-mel(.pdf, 227.02 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/4-keberkesanan-maklum-balas-sebagai-elemen-penilaian-formatif-dalam-penulisan-e-mel.pdf?sfvrsn=4d4531b9_2 "4.Keberkesanan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Penulisan E-mel")
+[4.Keberkesanan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Penulisan E-mel(.pdf, 227.02 KB)](/files/4-keberkesanan-maklum-balas-sebagai-elemen-penilaian-formatif-dalam-penulisan-e-mel.pdf)
 
 Irmawati Mascom dan Mazalan Ajan
 
-[5.Keberkesanan Penggunaan Kerangka Berfikir Dalam Menjawab Soalan Kefahaman(.pdf, 320.73 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/5-keberkesanan-penggunaan-kerangka-berfikir-dalam-menjawab-soalan-kefahaman.pdf?sfvrsn=c0b1ade4_2 "5.Keberkesanan Penggunaan Kerangka Berfikir Dalam Menjawab Soalan Kefahaman")
+[5.Keberkesanan Penggunaan Kerangka Berfikir Dalam Menjawab Soalan Kefahaman(.pdf, 320.73 KB)](/files/5-keberkesanan-penggunaan-kerangka-berfikir-dalam-menjawab-soalan-kefahaman.pdf)
 
 Azizah Shaik Abdul Kadir dan Noor Haida Mohd Jakaria
 
-[6.Keberkesanan Penggunaan Senarai Semak Bagi Memantau Penggunaan Frasa Deskriptif Dalam Penulisan Karangan(.pdf, 449.4 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/6-keberkesanan-penggunaan-senarai-semak-bagi-memantau-penggunaan-frasa-deskriptif-dalam-penulisan-karangan.pdf?sfvrsn=4f6c63a0_2 "6.Keberkesanan Penggunaan Senarai Semak Bagi Memantau Penggunaan Frasa Deskriptif Dalam Penulisan Karangan")
+[6.Keberkesanan Penggunaan Senarai Semak Bagi Memantau Penggunaan Frasa Deskriptif Dalam Penulisan Karangan(.pdf, 449.4 KB)](/files/6-keberkesanan-penggunaan-senarai-semak-memantau-penggunaan-frasa-deskriptif-penulisan-karangan.pdf)
 
 Lienda Jamali dan Nasibah Idross Alkhatib
 
-[7.Membina Kemahiran Kefahaman Membaca Bagi Murid Praaras Kebolehan(.pdf, 256.24 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/7-membina-kemahiran-kefahaman-membaca-bagi-murid-praaras-kebolehan.pdf?sfvrsn=ae34fb68_2 "7.Membina Kemahiran Kefahaman Membaca Bagi Murid Praaras Kebolehan")
+[7.Membina Kemahiran Kefahaman Membaca Bagi Murid Praaras Kebolehan(.pdf, 256.24 KB)](/files/7-membina-kemahiran-kefahaman-membaca-bagi-murid-praaras-kebolehan.pdf)
 
 Nur Hafizah Ismail dan Roslinda Naim
 
-[8.Menguasai Laras Bahasa Bagi Memperkukuh Kemahiran Interaksi Penulisan(.pdf, 369.82 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/8-menguasai-laras-bahasa-bagi-memperkukuh-kemahiran-interaksi-penulisan.pdf?sfvrsn=3be9f776_2 "8.Menguasai Laras Bahasa Bagi Memperkukuh Kemahiran Interaksi Penulisan")
+[8.Menguasai Laras Bahasa Bagi Memperkukuh Kemahiran Interaksi Penulisan(.pdf, 369.82 KB)](/files/8-menguasai-laras-bahasa-bagi-memperkukuh-kemahiran-interaksi-penulisan.pdf)
 
 Zaleha Ahmad dan Nailul Azmi Ismail
 
-[9.Meningkatkan Kecekapan Murid Dalam Menghasilkan Karangan Naratif(.pdf, 328.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/9-meningkatkan-kecekapan-murid-dalam-menghasilkan-karangan-naratif.pdf?sfvrsn=a0b0613f_2 "9.Meningkatkan Kecekapan Murid Dalam Menghasilkan Karangan Naratif")
+[9.Meningkatkan Kecekapan Murid Dalam Menghasilkan Karangan Naratif(.pdf, 328.58 KB)](/files/9-meningkatkan-kecekapan-murid-dalam-menghasilkan-karangan-naratif.pdf)
 
 Mohamad Iskandar Mohamad Yaakop
 
