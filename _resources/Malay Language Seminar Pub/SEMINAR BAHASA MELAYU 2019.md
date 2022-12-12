@@ -98,15 +98,15 @@ Norlieza Ahmad dan Fadial Jamaludin
 
 Rashidah Mohamad Yaakob dan Fadilah Mohamed
 
-[19.Penerapan Pengajaran Secara Eksplisit Dalam Memantapkan Respons Pelajar Bagi Kemahiran Lisan(.pdf, 235.52 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/19-penerapan-pengajaran-secara-eksplisit-dalam-memantapkan-respons-pelajar-bagi-kemahiran-lisan.pdf?sfvrsn=a763b310_2 "19.Penerapan Pengajaran Secara Eksplisit Dalam Memantapkan Respons Pelajar Bagi Kemahiran Lisan")
+[19.Penerapan Pengajaran Secara Eksplisit Dalam Memantapkan Respons Pelajar Bagi Kemahiran Lisan(.pdf, 235.52 KB)](/files/19-penerapan-pengajaran-secara-eksplisit-dalam-memantapkan-respons-pelajar-bagi-kemahiran-lisan.pdf)
 
 Janisah Johari dan Sri Nabilah Basri
 
-[20.Penerapan Rutin Berfikir Lihat-Fikir-Tanya Bagi Kemahiran Lisan Melalui Penggunaan ICT(.pdf, 224.54 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/20-penerapan-rutin-berfikir-lihat-fikir-tanya-bagi-kemahiran-lisan-melalui-penggunaan-ict.pdf?sfvrsn=2cf4130e_2 "20.Penerapan Rutin Berfikir Lihat-Fikir-Tanya Bagi Kemahiran Lisan Melalui Penggunaan ICT")
+[20.Penerapan Rutin Berfikir Lihat-Fikir-Tanya Bagi Kemahiran Lisan Melalui Penggunaan ICT(.pdf, 224.54 KB)](/files/20-penerapan-rutin-berfikir-lihat-fikir-tanya-bagi-kemahiran-lisan-melalui-penggunaan-ict.pdf)
 
 Sabariah Mohd Samuni dan Noor Aini Jamin
 
-[21.Penerapan Strategi Didik Hibur Dalam Meningkatkan Kosa Kata Bagi Kemahiran Lisan(.pdf, 285.53 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/21-penerapan-strategi-didik-hibur-dalam-meningkatkan-kosa-kata-bagi-kemahiran-lisan.pdf?sfvrsn=4041c2f6_2 "21.Penerapan Strategi Didik Hibur Dalam Meningkatkan Kosa Kata Bagi Kemahiran Lisan")
+[21.Penerapan Strategi Didik Hibur Dalam Meningkatkan Kosa Kata Bagi Kemahiran Lisan(.pdf, 285.53 KB)](/files/21-penerapan-strategi-didik-hibur-dalam-meningkatkan-kosa-kata-bagi-kemahiran-lisan.pdf)
 
 Milahwati Hussain
 
