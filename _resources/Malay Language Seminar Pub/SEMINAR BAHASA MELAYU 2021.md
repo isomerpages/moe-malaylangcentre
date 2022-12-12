@@ -152,15 +152,15 @@ _Siti Nur Baeyah Karim dan Rita Salamoon_
 
 _Noraini Karsani dan Mohamad Iskandar Mohd Yaakop_
 
-[31\. Penggunaan Bahan Sastera Dalam Pengajaran Kefahaman](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-31.pdf?sfvrsn=25a4e81b_2 "31. Penggunaan Bahan Sastera Dalam Pengajaran Kefahaman")
+[31\. Penggunaan Bahan Sastera Dalam Pengajaran Kefahaman](/files/paper-%2031.pdf)
 
 _Elna Hussin dan Khaizuran Supaat_
 
-[32\. Penggunaan Fitur-fitur SLS Dalam PdP Interaksi Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-32.pdf?sfvrsn=c6acd2f8_2 "32. Penggunaan Fitur-fitur SLS Dalam PdP Interaksi Penulisan")
+[32\. Penggunaan Fitur-fitur SLS Dalam PdP Interaksi Penulisan](/files/paper-%2032.pdf)
 
 _Illiany Suhaily Mohd Juhri dan Norfadilah Sufke_
 
-[33\. Penggunaan Kaedah Anotasi Dalam Kemahiran Kefahaman Membaca](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-33.pdf?sfvrsn=d6524cd9_2 "33. Penggunaan Kaedah Anotasi Dalam Kemahiran Kefahaman Membaca")
+[33\. Penggunaan Kaedah Anotasi Dalam Kemahiran Kefahaman Membaca](/files/paper-%2033.pdf)
 
 _Maryana Mohamad dan Affarita Abdul Jaffar_
 
