@@ -8,13 +8,13 @@ third_nav_title: Malay Language Seminar Pub
 
 Pusat Bahasa Melayu Singapura akan menganjurkan acara tahunan Seminar Bahasa Melayu pada Selasa, 17 Mac 2020. MLCS telah mengundang Penolong Profesor Dr Elmie Nekmat, dari Jabatan Komunikasi Dan Media Baharu, Universiti Nasional Singapura sebagai penyampai ucaptama bagi seminar tersebut. Selain itu, para peserta seminar berpeluang untuk mengikuti 43 pembentangan para guru dari sekolah rendah, menengah dan maktab rendah semasa sesi sidang selari berkaitan dengan tema seminar iaitu "Memanfaatkan Teknologi, Meningkatkan Pembelajaran". Para peserta seminar juga berpeluang untuk mengikuti 10 reruai pameran mengenai penerapan ICT dalam pengajaran dan pembelajaran bahasa Melayu di bilik darjah.
 
-[Sekapur Sirih(.pdf, 5.78 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/sekapur-sirih.pdf?sfvrsn=9fb75b82_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 5.78 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/sekapur-sirih.pdf?sfvrsn=9fb75b82_2 "Sekapur Sirih") ***(PDF file too big!)***
 
-[Tunjuk Ajar Melayu(.pdf, 1.96 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/tunjuk-ajar-melayu.pdf?sfvrsn=d3931e45_2 "Tunjuk Ajar Melayu")
+[Tunjuk Ajar Melayu(.pdf, 1.96 MB)](/files/tunjuk-ajar-%20melayu.pdf)
 
-[Atur Cara(.pdf, 3.75 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/atur-cara.pdf?sfvrsn=bb34ff86_2 "Atur Cara")
+[Atur Cara(.pdf, 3.75 MB)](/files/atur-%20cara.pdf)
 
-[Kandungan(.pdf, 293.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kandungan.pdf?sfvrsn=a9ab831e_2 "Kandungan")  
+[Kandungan(.pdf, 293.94 KB)](/files/kandungan%20%20.pdf) 
 
 ##### **Kertas Kerja Sesi Sidang Selari**[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper1.pdf?sfvrsn=97bfdb3b_2 "Keberkesanan Pengalaman Pembelajaran Pemerolehan Dalam Portal SLS untuk Kemahiran Interaksi Penulisan")
 
