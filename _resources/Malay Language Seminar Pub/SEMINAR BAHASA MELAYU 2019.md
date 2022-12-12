@@ -170,27 +170,27 @@ Hasnah Bte Hassan
 
 Norhidayana Jabar
 
-[37.Penggunaan Bahan Visual Dalam Meningkatkan Penguasaan Kemahiran Lisan(.pdf, 561.45 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/37-penggunaan-bahan-visual-dalam-meningkatkan-penguasaan-kemahiran-lisan.pdf?sfvrsn=d34867bd_2 "37.Penggunaan Bahan Visual Dalam Meningkatkan Penguasaan Kemahiran Lisan")
+[37.Penggunaan Bahan Visual Dalam Meningkatkan Penguasaan Kemahiran Lisan(.pdf, 561.45 KB)](/files/37-penggunaan-bahan-visual-dalam-meningkatkan-penguasaan-kemahiran-lisan.pdf)
 
 Nurhayati Nasir dan Siti Nafizah Abu Bakar
 
-[38.Penggunaan Classkick Bagi Meningkatkan Penjanaan Idea bagi PdP Kemahiran Interaksi Lisan(.pdf, 323.48 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/38-penggunaan-classkick-bagi-meningkatkan-penjanaan-idea-bagi-pdp-kemahiran-interaksi-lisan.pdf?sfvrsn=f63dbcfd_2 "38.Penggunaan Classkick Bagi Meningkatkan Penjanaan Idea bagi PdP Kemahiran Interaksi Lisan")
+[38.Penggunaan Classkick Bagi Meningkatkan Penjanaan Idea bagi PdP Kemahiran Interaksi Lisan(.pdf, 323.48 KB)](/files/38-penggunaan-classkick-bagi-meningkatkan-penjanaan-idea-bagi-pdp-kemahiran-interaksi-lisan.pdf)
 
 Rositah Yusof dan Ari Sutanti
 
-[39.Penggunaan Drama Bagi Penjanaan Frasa Kerja Yang Menggambarkan Perasaan Dalam Penulisan Karangan(.pdf, 253.81 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/39-penggunaan-drama-bagi-penjanaan-frasa-kerja-yang-menggambarkan-perasaan-dalam-penulisan-karangan.pdf?sfvrsn=9f5c792f_2 "39.Penggunaan Drama Bagi Penjanaan Frasa Kerja Yang Menggambarkan Perasaan Dalam Penulisan Karangan")
+[39.Penggunaan Drama Bagi Penjanaan Frasa Kerja Yang Menggambarkan Perasaan Dalam Penulisan Karangan(.pdf, 253.81 KB)](/files/39-penggunaan-drama-bagi-penjanaan-frasa-kerja-yang-menggambarkan-perasaan-penulisan-karangan.pdf)
 
 Mahirah Mohd Thoimi dan Norsuhana Binte Sahmat
 
-[40.Penggunaan ICT Dalam Pembelajaran Interaksi Lisan(.pdf, 218.88 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/40-penggunaan-ict-dalam-pembelajaran-interaksi-lisan.pdf?sfvrsn=7490e38_2 "40.Penggunaan ICT Dalam Pembelajaran Interaksi Lisan")
+[40.Penggunaan ICT Dalam Pembelajaran Interaksi Lisan(.pdf, 218.88 KB)](/files/40-penggunaan-ict-dalam-pembelajaran-interaksi-lisan.pdf)
 
 Fazillah Mohamed Ismail dan Tengku Nurhudah T M Khalib
 
-[41.Penggunaan Kad Permainan Bagi Meningkatkan Penguasaan Kosa Kata(.pdf, 354.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/41-penggunaan-kad-permainan-bagi-meningkatkan-penguasaan-kosa-kata.pdf?sfvrsn=e90be0af_2 "41.Penggunaan Kad Permainan Bagi Meningkatkan Penguasaan Kosa Kata")
+[41.Penggunaan Kad Permainan Bagi Meningkatkan Penguasaan Kosa Kata(.pdf, 354.32 KB)](/files/41-penggunaan-kad-permainan-bagi-meningkatkan-penguasaan-kosa-kata.pdf)
 
 Ridzuan Abrahim dan Natasa Liyana Lockman
 
-[42.Penggunaan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Pengajaran Karangan Naratif(.pdf, 389.07 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/42-penggunaan-maklum-balas-sebagai-elemen-penilaian-formatif-dalam-pengajaran-karangan-naratif.pdf?sfvrsn=54d1a8ca_2 "42.Penggunaan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Pengajaran Karangan Naratif")
+[42.Penggunaan Maklum Balas Sebagai Elemen Penilaian Formatif Dalam Pengajaran Karangan Naratif(.pdf, 389.07 KB)](/files/42-penggunaan-maklum-balas-sebagai-elemen-penilaian-formatif-dalam-pengajaran-karangan-naratif.pdf)
 
 Norlizanah Mohamed Nor dan Kasidah Khatoon Kasim Khan Surattee
 
