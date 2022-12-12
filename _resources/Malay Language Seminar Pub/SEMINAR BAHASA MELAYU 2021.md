@@ -192,23 +192,23 @@ _Dian Syahidah Abdul Aziz dan Siti Zainab Zainal_
 
 _Siti Nurashikin Ajmain dan Hyeryanti Suradi_
 
-[41\. Penggunaan Teknik Bercerita Dan Anotasi Dalam Meningkatkan Kemahiran Membaca Murid](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-41.pdf?sfvrsn=99ead204_2 "41. Penggunaan Teknik Bercerita Dan Anotasi Dalam Meningkatkan Kemahiran Membaca Murid")
+[41\. Penggunaan Teknik Bercerita Dan Anotasi Dalam Meningkatkan Kemahiran Membaca Murid](/files/paper-%2041.pdf)
 
 _Hazwani Harun Rushid dan Suriyana Ghapari_
 
-[42\. Proses Pembelajaran Aktif Dalam Permainan Escape Room Untuk Meningkatkan Penguasaan Peribahasa](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-42.pdf?sfvrsn=1b0ca3b7_2 "42. Proses Pembelajaran Aktif Dalam Permainan Escape Room Untuk Meningkatkan Penguasaan Peribahasa")
+[42\. Proses Pembelajaran Aktif Dalam Permainan Escape Room Untuk Meningkatkan Penguasaan Peribahasa](/files/paper-%2042.pdf)
 
 _Syairah Nur ‘Amirah Zaid dan Muhammad Asyraf Khalid_
 
-[43\. Strategi Bacaan Berstruktur Bagi Meningkatkan Kosa Kata Dalam Penulisan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-43.pdf?sfvrsn=6a10ef57_2 "43. Strategi Bacaan Berstruktur Bagi Meningkatkan Kosa Kata Dalam Penulisan")
+[43\. Strategi Bacaan Berstruktur Bagi Meningkatkan Kosa Kata Dalam Penulisan](/files/paper-%2043.pdf)
 
 _Elyani Mohamed dan Noorlin Haron_
 
-[44\. Strategi SKK Dalam Membina Kemahiran Murid Menjawab Soalan Kefahaman Subjektif](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-44.pdf?sfvrsn=5ea8d36f_2 "44. Strategi SKK Dalam Membina Kemahiran Murid Menjawab Soalan Kefahaman Subjektif")
+[44\. Strategi SKK Dalam Membina Kemahiran Murid Menjawab Soalan Kefahaman Subjektif](/files/paper-%2044.pdf)
 
 _Siti Raudhah Ismail_
 
-[45\. Taksonomi SOLO Bagi Penilaian Kendiri Dalam PdP Bahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-45.pdf?sfvrsn=ba2c9486_2 "45. Taksonomi SOLO Bagi Penilaian Kendiri Dalam PdP Bahasa Melayu")
+[45\. Taksonomi SOLO Bagi Penilaian Kendiri Dalam PdP Bahasa Melayu](/files/paper-%2045.pdf)
 
 _Rita Zarina Mohd Nazeer dan Safidah Samsudin_
 
