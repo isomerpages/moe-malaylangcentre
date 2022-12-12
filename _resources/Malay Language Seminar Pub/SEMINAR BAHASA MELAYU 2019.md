@@ -134,15 +134,15 @@ Salina Hussin
 
 Roslie Buang Sidik dan Ifa Hanifah
 
-[28.Pengajaran Penulisan Karangan Dengan Menggunakan DP(FB)M(.pdf, 217.45 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/28-pengajaran-penulisan-karangan-dengan-menggunakan-dp(fb)m.pdf?sfvrsn=1932dee9_2 "28.Pengajaran Penulisan Karangan Dengan Menggunakan DP(FB)M")
+[28.Pengajaran Penulisan Karangan Dengan Menggunakan DP(FB)M(.pdf, 217.45 KB)](/files/28-pengajaran-penulisan-karangan-dengan-menggunakan-dp(fb)m.pdf)
 
 Zurina Yahya dan Safidah Samsuddin
 
-[29.Pengajaran Penulisan Karangan Berdasarkan Gambar Satu Kajian Pembelajaran(.pdf, 587.28 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/29-pengajaran-penulisan-karangan-berdasarkan-gambar-satu-kajian-pembelajaran.pdf?sfvrsn=ab1fbdca_2 "29.Pengajaran Penulisan Karangan Berdasarkan Gambar Satu Kajian Pembelajaran")
+[29.Pengajaran Penulisan Karangan Berdasarkan Gambar Satu Kajian Pembelajaran(.pdf, 587.28 KB)](/files/29-pengajaran-penulisan-karangan-berdasarkan-gambar-satu-kajian-pembelajaran.pdf)
 
 Siti Raudhah Ishak dan Raihanah Mohamed
 
-[30.Pengajaran Penulisan Naratif Secara Inovatif(.pdf, 480.14 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/30-pengajaran-penulisan-naratif-secara-inovatif.pdf?sfvrsn=25f24365_2 "30.Pengajaran Penulisan Naratif Secara Inovatif")
+[30.Pengajaran Penulisan Naratif Secara Inovatif(.pdf, 480.14 KB)](/files/30-pengajaran-penulisan-naratif-secara-inovatif.pdf)
 
 Zuraidah Mohd Ariff
 
