@@ -105,10 +105,10 @@ Rita Zarina Mohd Nazeer
 27. [Penggunaan Popplet bagi Merangsang Pemikiran dalam Penulisan Karangan Ekspositori(.pdf, 1.11 MB)](/files/paper-27.pdf)  <br>
 Nurul Fasha Samsudin dan Farah Diyanah Mohammed Tayib  
   
-28. [Penggunaan Rutin Berfi kir 3-2-1 Bina Titian dan Fikir-Tulis dalam Pembelajaran Interaksi Lisan(.pdf, 1.58 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-28.pdf?sfvrsn=e763acb3_2 "Penggunaan Rutin Berfi kir 3-2-1 Bina Titian dan Fikir-Tulis dalam Pembelajaran Interaksi Lisan")  <br>
+28. [Penggunaan Rutin Berfi kir 3-2-1 Bina Titian dan Fikir-Tulis dalam Pembelajaran Interaksi Lisan(.pdf, 1.58 MB)](/files/paper-28.pdf)  <br>
 Norlinda Saadon dan Rozana Mohamad Said  
   
-29. [Penggunaan Rutin Berfi kir dalam Penulisan Karangan yang Berkualiti(.pdf, 2.16 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-29.pdf?sfvrsn=baf8ad7_2 "Penggunaan Rutin Berfi kir dalam Penulisan Karangan yang Berkualiti")  <br>
+29. [Penggunaan Rutin Berfi kir dalam Penulisan Karangan yang Berkualiti(.pdf, 2.16 MB)](/files/paper-29.pdf)  <br>
 Norlizanah Mohamed Nor dan Kasidah Khatoon Kasim Khan Surattee  
   
 30. [Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pengajaran Kata Adjektif(.pdf, 942.15 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2018/kertas-kerja-sesi-sidang-selari/paper-30.pdf?sfvrsn=1978840b_2 "Penggunaan Rutin Berfi kir Lampu Merah Lampu Kuning dalam Pengajaran Kata Adjektif")  <br>
