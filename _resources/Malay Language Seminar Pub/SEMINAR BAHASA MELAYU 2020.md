@@ -154,37 +154,35 @@ Hasrita Hosnin dan Nur Atiqah Ahmad Jamaludin
 
 [34\. Penggunaan Portal SLS Dalam PdP Interaksi Lisan(.pdf, 663.74 KB)](/files/mlcs-sbm-2020-paper34.pdf)
 
-[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper35.pdf?sfvrsn=6beb9352_2 "MLCS SBM 2020-Paper35")
-
 Hafidah Mahat dan Fatihah Johari
 
-[35\. Penggunaan Portal SLS Dalam Pdp Interaksi Lisan Melalui Kaedah Pembelajaran Melalui Pengalaman(.pdf, 372.94 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper35.pdf?sfvrsn=6beb9352_2 "35. Penggunaan Portal SLS Dalam Pdp Interaksi Lisan Melalui Kaedah Pembelajaran Melalui Pengalaman")
+[35\. Penggunaan Portal SLS Dalam Pdp Interaksi Lisan Melalui Kaedah Pembelajaran Melalui Pengalaman(.pdf, 372.94 KB)](/files/mlcs-sbm-2020-paper35.pdf)
 
-Noor Azleen Sarbini dan Nur Syahirah Sa’adon[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper36.pdf?sfvrsn=8147ef06_2 "MLCS SBM 2020-Paper36")
+Noor Azleen Sarbini dan Nur Syahirah Sa’adon
 
-[36\. Penggunaan Portal SLS dan iMTL Dalam Pembelajaran Interaksi Penulisan(.pdf, 569.47 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper36.pdf?sfvrsn=8147ef06_2 "36. Penggunaan Portal SLS dan iMTL Dalam Pembelajaran Interaksi Penulisan")
+[36\. Penggunaan Portal SLS dan iMTL Dalam Pembelajaran Interaksi Penulisan(.pdf, 569.47 KB)](/files/mlcs-sbm-2020-paper36.pdf)
 
-Zaleha Ahmad dan Nailul Azmi Ismail[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper37.pdf?sfvrsn=fd1366e9_2 "MLCS SBM 2020-Paper37")
+Zaleha Ahmad dan Nailul Azmi Ismail
 
-[37\. Penggunaan Portal SLS untuk Meningkatkan Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri(.pdf, 791.09 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper37.pdf?sfvrsn=fd1366e9_2 "37. Penggunaan Portal SLS untuk Meningkatkan Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri")
+[37\. Penggunaan Portal SLS untuk Meningkatkan Kemahiran Menulis Karangan Berdasarkan Gambar Bersiri(.pdf, 791.09 KB)](/files/mlcs-sbm-2020-paper37.pdf)
 
-Asmara Kamisah Muslim dan Halimatussa’diah Jaffar[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper38.pdf?sfvrsn=3ee92aca_2 "MLCS SBM 2020-Paper38")
+Asmara Kamisah Muslim dan Halimatussa’diah Jaffar
 
-[38\. Penggunaan Rutin Berfikir Bagi PdP Interaksi Lisan Melalui Portal SLS(.pdf, 878.68 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper38.pdf?sfvrsn=3ee92aca_2 "38. Penggunaan Rutin Berfikir Bagi PdP Interaksi Lisan Melalui Portal SLS")
+[38\. Penggunaan Rutin Berfikir Bagi PdP Interaksi Lisan Melalui Portal SLS(.pdf, 878.68 KB)](/files/mlcs-sbm-2020-paper38.pdf)
 
-Safura Mohd Shariff dan Juliana Johari[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper39.pdf?sfvrsn=c62747b3_2 "MLCS SBM 2020-Paper39")
+Safura Mohd Shariff dan Juliana Johari
 
-[39\. Penggunaan Strategi Bacaan Terperinci Melalui Aplikasi Padlet(.pdf, 1.02 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper39.pdf?sfvrsn=c62747b3_2 "39. Penggunaan Strategi Bacaan Terperinci Melalui Aplikasi Padlet")
+[39\. Penggunaan Strategi Bacaan Terperinci Melalui Aplikasi Padlet(.pdf, 1.02 MB)](/files/mlcs-sbm-2020-paper39.pdf)
 
-Melati Hallel dan Noor Aisya Buang[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper40.pdf?sfvrsn=5470b361_2 "MLCS SBM 2020-Paper40")
+Melati Hallel dan Noor Aisya Buang
 
-[40\. Penilaian Formatif Melalui Portal SLS Bagi PdP Interaksi Lisan(.pdf, 499.01 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper40.pdf?sfvrsn=5470b361_2 "40. Penilaian Formatif Melalui Portal SLS Bagi PdP Interaksi Lisan")
+[40\. Penilaian Formatif Melalui Portal SLS Bagi PdP Interaksi Lisan(.pdf, 499.01 KB)](/files/mlcs-sbm-2020-paper40.pdf)
 
-Zurina Yahya dan Sarifah Rahmat[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper41.pdf?sfvrsn=4d81345e_2 "MLCS SBM 2020-Paper41")
+Zurina Yahya dan Sarifah Rahmat
 
-[41\. Penulisan Karangan Berdasarkan Gambar Bersiri Melalui Pengalaman Pembelajaran Kolaborasi Dalam Portal SLS(.pdf, 947.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper41.pdf?sfvrsn=4d81345e_2 "41. Penulisan Karangan Berdasarkan Gambar Bersiri Melalui Pengalaman Pembelajaran Kolaborasi Dalam Portal SLS")
+[41\. Penulisan Karangan Berdasarkan Gambar Bersiri Melalui Pengalaman Pembelajaran Kolaborasi Dalam Portal SLS(.pdf, 947.79 KB)](/files/mlcs-sbm-2020-paper41.pdf)
 
-Muliana Mohammad[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper42.pdf?sfvrsn=3f4efa9c_2 "MLCS SBM 2020-Paper42")
+Muliana Mohammad
 
 [42\. Portal SLS Sebagai WadahBagi Meningkatkan Pembelajaran Kata Kerja(.pdf, 646.47 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper42.pdf?sfvrsn=3f4efa9c_2 "42. Portal SLS Sebagai WadahBagi Meningkatkan Pembelajaran Kata Kerja")
 
