@@ -14,21 +14,21 @@ Pada tahun ini, Seminar Bahasa Melayu akan berlangsung pada 16 Mac 2021. Tema Se
 
 Tahun ini sebanyak 47 kertas kajian akan dikongsi semasa sesi sidang selari. Semua guru bahasa Melayu dijemput untuk mengikuti perkongsian para guru yang menjalankan kajian. 
 
-[Slaid Pembentangan Ucaptama](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/slaid-ucaptama-salinah-jaafar---seminar-mlcs.pdf?sfvrsn=28104ecb_2 "Slaid Pembentangan Ucaptama") \- Profesor Madya Dr Salinah Ja'afar
+[Slaid Pembentangan Ucaptama](/files/slaid-ucaptama-salinah-jaafar---seminar-mlcs.pdf) \- Profesor Madya Dr Salinah Ja'afar
 
-[Klip Video Pembentangan Sesi Sidang Selari](https://academyofsingaporeteachers.moe.edu.sg/mlcs/resources/(malay-language-seminar)-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2021/sesi-sidang-selari)
+[Klip Video Pembentangan Sesi Sidang Selari](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2021/sesi-sidang-selari)
 
 Berikut merupakan kandungan buku prosiding Seminar Bahasa Melayu 2021.
 
-[Sekapur Sirih](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/sekapur-sirih.pdf?sfvrsn=7e3a5182_2 "Sekapur Sirih")
+[Sekapur Sirih](/files/sekapur-sirih_.pdf)
 
-[Tunjuk Ajar Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/tunjuk-ajar-melayu.pdf?sfvrsn=99094400_2 "Tunjuk Ajar Melayu")
+[Tunjuk Ajar Melayu](/files/tunjuk-ajar-melayu_.pdf)
 
-[Program](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/program.pdf?sfvrsn=53935b5f_2 "Program")
+[Program](/files/program.pdf)
 
-[Kandungan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/01-content4676ce936aaa4c1181e80ca866bce44d.pdf?sfvrsn=b5bed177_2 "Kandungan")
+[Kandungan](/files/01-content4676ce936aaa4c1181e80ca866bce44d.pdf)
 
-[Cabaran Dalam Memperkukuh PdP Bagi Meningkatkan Kemahiran Pelajar Berbahasa Melayu](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/03-ucaptama1ce32ef2dce94872985b6b417c7dee9d.pdf?sfvrsn=2aa6d18e_2 "Cabaran Dalam Memperkukuh PdP Bagi Meningkatkan Kemahiran Pelajar Berbahasa Melayu")
+[Cabaran Dalam Memperkukuh PdP Bagi Meningkatkan Kemahiran Pelajar Berbahasa Melayu](/files/03-ucaptama1ce32ef2dce94872985b6b417c7dee9d.pdf)
 
 _Ucaptama, Profesor Madya Dr. Salinah Jaafar_
 
