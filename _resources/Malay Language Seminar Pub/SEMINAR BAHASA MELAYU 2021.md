@@ -16,7 +16,7 @@ Tahun ini sebanyak 47 kertas kajian akan dikongsi semasa sesi sidang selari. Sem
 
 [Slaid Pembentangan Ucaptama](/files/slaid-ucaptama-salinah-jaafar---seminar-mlcs.pdf) \- Profesor Madya Dr Salinah Ja'afar
 
-[Klip Video Pembentangan Sesi Sidang Selari](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2021/sesi-sidang-selari)
+[Klip Video Pembentangan Sesi Sidang Selari](/mlcs/resources/malay-language-seminar-bahasa-melayu/seminar-bahasa-melayu-2021/sesi-sidang-selari)
 
 Berikut merupakan kandungan buku prosiding Seminar Bahasa Melayu 2021.
 
