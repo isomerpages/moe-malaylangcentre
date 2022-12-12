@@ -116,31 +116,31 @@ _Fawziyah Ali dan Noranika Murni Dol Karim_
 
 _Faizal Mohamed Yusoff_
 
-[22\. PdP Berasaskan Pengajaran Pembezaan Untuk Menguasai Kosa Kata Melalui Aplikasi Deck.Toys](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-22.pdf?sfvrsn=7d495393_2 "22. PdP Berasaskan Pengajaran Pembezaan Untuk Menguasai Kosa Kata Melalui Aplikasi Deck.Toys")
+[22\. PdP Berasaskan Pengajaran Pembezaan Untuk Menguasai Kosa Kata Melalui Aplikasi Deck.Toys](/files/paper-%2022.pdf)
 
 _Norhidayana Jabar dan Munirah Mohamed_
 
-[23\. Pelaksanaan Ujian Formatif Dalam PdP Peribahasa](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-23.pdf?sfvrsn=60a1fbb6_2 "23. Pelaksanaan Ujian Formatif Dalam PdP Peribahasa")
+[23\. Pelaksanaan Ujian Formatif Dalam PdP Peribahasa](/files/paper-%2023.pdf)
 
 _Milahwati Hussain dan Asmah Buang_
 
-[24\. Pembelajaran Di Rumah Bagi Meningkatkan Pembelajaran Ejaan](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-24.pdf?sfvrsn=40678fee_2 "24. Pembelajaran Di Rumah Bagi Meningkatkan Pembelajaran Ejaan")
+[24\. Pembelajaran Di Rumah Bagi Meningkatkan Pembelajaran Ejaan](/files/paper-%2024.pdf)
 
 _Siti Rashidah Abdul Rahim dan Marhaini Mohamad_
 
-[25\. Pembelajaran Peribahasa Berasaskan Zon Perkembangan Proksimal (ZPD) Vgotsky](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-25.pdf?sfvrsn=b58d0fdc_2 "25. Pembelajaran Peribahasa Berasaskan Zon Perkembangan Proksimal (ZPD) Vgotsky")
+[25\. Pembelajaran Peribahasa Berasaskan Zon Perkembangan Proksimal (ZPD) Vgotsky](/files/paper-%2025.pdf)
 
 _Nur Afiqah Mokhtar Kamarudin_
 
-[26\. Pendekatan IPCK Dalam Kemahiran Bertutur](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-26.pdf?sfvrsn=b6a859cc_2 "26. Pendekatan IPCK Dalam Kemahiran Bertutur")
+[26\. Pendekatan IPCK Dalam Kemahiran Bertutur](/files/paper-%2026.pdf)
 
 _Nailul Shakhira Mohd Rusli dan Siti Asnah Basir_
 
-[27\. Penerapan Rutin Berfikir Dalam Pembelajaran Interaksi Lisan Melalui Lakonan dan Teknik Drama](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-27.pdf?sfvrsn=c97938d0_2 "27. Penerapan Rutin Berfikir Dalam Pembelajaran Interaksi Lisan Melalui Lakonan dan Teknik Drama")
+[27\. Penerapan Rutin Berfikir Dalam Pembelajaran Interaksi Lisan Melalui Lakonan dan Teknik Drama](/files/paper-%2027.pdf)
 
 _Aniza Samat dan Naelah Nor Othman_
 
-[28\. Penerapan Rutin Berfikir Dalam Penulisan Frasa Berbunga](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2021/paper-28.pdf?sfvrsn=a0b4cac3_2 "28. Penerapan Rutin Berfikir Dalam Penulisan Frasa Berbunga")
+[28\. Penerapan Rutin Berfikir Dalam Penulisan Frasa Berbunga](/files/paper-%2028.pdf)
 
 _Ibrizi Ishak dan Muliana Mohammad_
 
