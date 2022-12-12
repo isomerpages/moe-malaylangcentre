@@ -194,15 +194,15 @@ Ridzuan Abrahim dan Natasa Liyana Lockman
 
 Norlizanah Mohamed Nor dan Kasidah Khatoon Kasim Khan Surattee
 
-[43.Penggunaan Mentimeter Dalam Penulisan Karangan Berdasarkan Gambar(.pdf, 651.78 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/43-penggunaan-mentimeter-dalam-penulisan-karangan-berdasarkan-gambar.pdf?sfvrsn=dafff001_2 "43.Penggunaan Mentimeter Dalam Penulisan Karangan Berdasarkan Gambar")
+[43.Penggunaan Mentimeter Dalam Penulisan Karangan Berdasarkan Gambar(.pdf, 651.78 KB)](/files/43-penggunaan-mentimeter-dalam-penulisan-karangan-berdasarkan-gambar.pdf)
 
 Rozana Mohamad Said dan Siti Raihani Husainni
 
-[44.Penggunaan Modeling Dalam Pengajaran Pola Ayat(.pdf, 214.06 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/44-penggunaan-modeling-dalam-pengajaran-pola-ayat.pdf?sfvrsn=e47ebba0_2 "44.Penggunaan Modeling Dalam Pengajaran Pola Ayat")
+[44.Penggunaan Modeling Dalam Pengajaran Pola Ayat(.pdf, 214.06 KB)](/files/44-penggunaan-modeling-dalam-pengajaran-pola-ayat.pdf)
 
 Nurhasliza Hashim dan Daing Noor Ashikin Bahnan
 
-[45.Penggunaan Padlet Bagi Meningkatkan Penggunaan Penanda Wacana Dalam Karangan(.pdf, 214.04 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/45-penggunaan-padlet-bagi-meningkatkan-penggunaan-penanda-wacana-dalam-karangan.pdf?sfvrsn=b360cc05_2 "45.Penggunaan Padlet Bagi Meningkatkan Penggunaan Penanda Wacana Dalam Karangan")
+[45.Penggunaan Padlet Bagi Meningkatkan Penggunaan Penanda Wacana Dalam Karangan(.pdf, 214.04 KB)](/files/45-penggunaan-padlet-bagi-meningkatkan-penggunaan-penanda-wacana-dalam-karangan.pdf)
 
 Hayati Murni Mohamed Yacob dan Muhammad Asyraf Haron
 
