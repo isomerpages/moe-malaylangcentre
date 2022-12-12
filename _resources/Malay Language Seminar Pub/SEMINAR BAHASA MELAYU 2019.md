@@ -206,27 +206,27 @@ Nurhasliza Hashim dan Daing Noor Ashikin Bahnan
 
 Hayati Murni Mohamed Yacob dan Muhammad Asyraf Haron
 
-[46.Penggunaan Pengajaran Secara Eksplisit Bagi Pembinaan Konflik Dalam Penulisan Karangan Naratif(.pdf, 221.58 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/46-penggunaan-pengajaran-secara-eksplisit-bagi-pembinaan-konflik-dalam-penulisan-karangan-naratif.pdf?sfvrsn=465c5af8_2 "46.Penggunaan Pengajaran Secara Eksplisit Bagi Pembinaan Konflik Dalam Penulisan Karangan Naratif")
+[46.Penggunaan Pengajaran Secara Eksplisit Bagi Pembinaan Konflik Dalam Penulisan Karangan Naratif(.pdf, 221.58 KB)](/files/46-penggunaan-pengajaran-secara-eksplisit-bagi-pembinaan-konflik-penulisan-karangan-naratif.pdf)
 
 Siti Nur Aishah Bte Suparjo dan Dian Farhana
 
-[47.Penggunaan Senarai Semak Bagi Ejaan Dan Tanda baca Dalam Karangan Murid(.pdf, 283.37 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/47-penggunaan-senarai-semak-bagi-ejaan-dan-tanda-baca-dalam-karangan-murid.pdf?sfvrsn=bc4b14e4_2 "47.Penggunaan Senarai Semak Bagi Ejaan Dan Tanda baca Dalam Karangan Murid")
+[47.Penggunaan Senarai Semak Bagi Ejaan Dan Tanda baca Dalam Karangan Murid(.pdf, 283.37 KB)](/files/47-penggunaan-senarai-semak-bagi-ejaan-dan-tanda-baca-dalam-karangan-murid.pdf)
 
 Masayu Mohamed dan Nor Fardilah Mohamed Nasir
 
-[48.Penggunaan Strategi ‘Apa-Isi-Kaitan’ Dalam Pengajaran Kefahaman Objektif(.pdf, 333.84 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/48-penggunaan-strategi-apa-isi-kaitan-dalam-pengajaran-kefahaman-objektif.pdf?sfvrsn=959493ec_2 "48.Penggunaan Strategi ‘Apa-Isi-Kaitan’ Dalam Pengajaran Kefahaman Objektif")
+[48.Penggunaan Strategi ‘Apa-Isi-Kaitan’ Dalam Pengajaran Kefahaman Objektif(.pdf, 333.84 KB)](/files/48-penggunaan-strategi-apa-isi-kaitan-dalam-pengajaran-kefahaman-objektif.pdf)
 
 Rozanah Hj Kasnan dan Azhar Abdul Rashid
 
-[49.Penggunaan Strategi Bijak Baca Bagi Kefahaman Membaca(.pdf, 209.34 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/49-penggunaan-strategi-bijak-baca-bagi-kefahaman-membaca.pdf?sfvrsn=2d36483e_2 "49.Penggunaan Strategi Bijak Baca Bagi Kefahaman Membaca")
+[49.Penggunaan Strategi Bijak Baca Bagi Kefahaman Membaca(.pdf, 209.34 KB)](/files/49-penggunaan-strategi-bijak-baca-bagi-kefahaman-membaca.pdf)
 
 Norlizah Ali dan Sri Rahayu Ramlan
 
-[50.Penggunaan Strategi JAMPI Dan Rutin Berfikir Bagi Meningkatkan Kefahaman Membaca(.pdf, 207.42 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/50-penggunaan-strategi-jampi-dan-rutin-berfikir-bagi-meningkatkan-kefahaman-membaca.pdf?sfvrsn=778887e7_2 "50.Penggunaan Strategi JAMPI Dan Rutin Berfikir Bagi Meningkatkan Kefahaman Membaca")
+[50.Penggunaan Strategi JAMPI Dan Rutin Berfikir Bagi Meningkatkan Kefahaman Membaca(.pdf, 207.42 KB)](/files/50-penggunaan-strategi-jampi-dan-rutin-berfikir-bagi-meningkatkan-kefahaman-membaca.pdf)
 
 Noraishah Mostapa
 
-[51.Penggunaan Pendekatan Talk Moves Di Bilik Darjah(.pdf, 226.1 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2019/kertas-kerja-sesi-hidang-selari/51-penggunaan-pendekatan-talk-moves-di-bilik-darjah.pdf?sfvrsn=409b16af_2 "51.Penggunaan Pendekatan Talk Moves Di Bilik Darjah")
+[51.Penggunaan Pendekatan Talk Moves Di Bilik Darjah(.pdf, 226.1 KB)](/files/51-penggunaan-pendekatan-talk-moves-di-bilik-darjah.pdf)
 
 Arfah Buang dan Azizah Ahmad
 
