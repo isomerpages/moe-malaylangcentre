@@ -90,39 +90,39 @@ Noor Ratnawati Osman dan Azah Abdul Aziz
 
 Northasia Mohamed Sadekan dan Norhamidah Hassan
 
-[19\. Penerapan Rutin Berfikir Dalam Pembelajaran Kefahaman Membaca Melalui Portal SLS(.pdf, 731.19 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper19.pdf?sfvrsn=12a4ad64_2 "19. Penerapan Rutin Berfikir Dalam Pembelajaran Kefahaman Membaca Melalui Portal SLS")
+[19\. Penerapan Rutin Berfikir Dalam Pembelajaran Kefahaman Membaca Melalui Portal SLS(.pdf, 731.19 KB)](/files/mlcs-sbm-2020-paper19.pdf)
 
-Suriana Mohamed Bakri dan Noorasmaedah Ahmad[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper20.pdf?sfvrsn=88af8c45_2 "MLCS SBM 2020-Paper20")
+Suriana Mohamed Bakri dan Noorasmaedah Ahmad
 
-[20\. Penerapan Rutin Berfikir Dalam Penulisan Karangan Ekspositori Melalui Portal SLS(.pdf, 626.43 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper20.pdf?sfvrsn=88af8c45_2 "20. Penerapan Rutin Berfikir Dalam Penulisan Karangan Ekspositori Melalui Portal SLS")
+[20\. Penerapan Rutin Berfikir Dalam Penulisan Karangan Ekspositori Melalui Portal SLS(.pdf, 626.43 KB)](/files/mlcs-sbm-2020-paper20.pdf)
 
-Sarimah Ahmad dan Julinda Hassan[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper21.pdf?sfvrsn=53eb3816_2 "MLCS SBM 2020-Paper21")
+Sarimah Ahmad dan Julinda Hassan
 
-[21\. Pengayaan Kosa Kata Dalam Karangan Berdasarkan Gambar Bersiri Melalui Portal SLS(.pdf, 419.13 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper21.pdf?sfvrsn=53eb3816_2 "21. Pengayaan Kosa Kata Dalam Karangan Berdasarkan Gambar Bersiri Melalui Portal SLS")
+[21\. Pengayaan Kosa Kata Dalam Karangan Berdasarkan Gambar Bersiri Melalui Portal SLS(.pdf, 419.13 KB)](/files/mlcs-sbm-2020-paper21.pdf)
 
 Norah Nordin dan Norasiken Mohamed Noor
 
-[22\. Penggunaan Aplikasi Kahoot Dalam Meningkatkan Pembelajaran Peribahasa(.pdf, 412.12 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper22.pdf?sfvrsn=a1959243_2 "22. Penggunaan Aplikasi Kahoot Dalam Meningkatkan Pembelajaran Peribahasa")
+[22\. Penggunaan Aplikasi Kahoot Dalam Meningkatkan Pembelajaran Peribahasa(.pdf, 412.12 KB)](/files/mlcs-sbm-2020-paper22.pdf)
 
-Abdul Hadi Bakar dan Zamree Mustapha[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper23.pdf?sfvrsn=2c535b6a_2 "MLCS SBM 2020-Paper23")
+Abdul Hadi Bakar dan Zamree Mustapha
 
-[23\. Penggunaan Aplikasi Legenda Singapura Dalam Interaksi Penulisan(.pdf, 768.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper23.pdf?sfvrsn=2c535b6a_2 "23. Penggunaan Aplikasi Legenda Singapura Dalam Interaksi Penulisan")
+[23\. Penggunaan Aplikasi Legenda Singapura Dalam Interaksi Penulisan(.pdf, 768.98 KB)](/files/mlcs-sbm-2020-paper23.pdf)
 
-Sabrina Samsuri dan Jumilah Ahmad[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper24.pdf?sfvrsn=43dcbdc0_2 "MLCS SBM 2020-Paper24")
+Sabrina Samsuri dan Jumilah Ahmad
 
-[24\. Penggunaan Aplikasi Mentimeter Untuk Meningkatkan Pembelajaran Interaksi lisan(.pdf, 712.7 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper24.pdf?sfvrsn=43dcbdc0_2 "24. Penggunaan Aplikasi Mentimeter Untuk Meningkatkan Pembelajaran Interaksi lisan")
+[24\. Penggunaan Aplikasi Mentimeter Untuk Meningkatkan Pembelajaran Interaksi lisan(.pdf, 712.7 KB)](/files/mlcs-sbm-2020-paper24.pdf)
 
-Najiyyah Mohamed Said dan Mohamed Sha’ban Mohamed Rapiai[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper25.pdf?sfvrsn=13a18e65_2 "MLCS SBM 2020-Paper25")
+Najiyyah Mohamed Said dan Mohamed Sha’ban Mohamed Rapiai
 
-[25\. Penggunaan Aplikasi Nearpod Dalam Meningkatkan Interaksi Lisan(.pdf, 517.2 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper25.pdf?sfvrsn=13a18e65_2 "25. Penggunaan Aplikasi Nearpod Dalam Meningkatkan Interaksi Lisan")
+[25\. Penggunaan Aplikasi Nearpod Dalam Meningkatkan Interaksi Lisan(.pdf, 517.2 KB)](/files/mlcs-sbm-2020-paper25.pdf)
 
-Noor Aini Jamin dan Sabariah Mohamed Samuni[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper26.pdf?sfvrsn=60f62465_2 "MLCS SBM 2020-Paper26")
+Noor Aini Jamin dan Sabariah Mohamed Samuni
 
-[26\. Penggunaan Google Classroom Dalam Pelaksanaan Pembelajaran Berasaskan Projek(.pdf, 625.3 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper26.pdf?sfvrsn=60f62465_2 "26. Penggunaan Google Classroom Dalam Pelaksanaan Pembelajaran Berasaskan Projek")
+[26\. Penggunaan Google Classroom Dalam Pelaksanaan Pembelajaran Berasaskan Projek(.pdf, 625.3 KB)](/files/mlcs-sbm-2020-paper26.pdf)
 
-Dian Syahidah Abdul Aziz dan Siti Zainab Zainal[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper27.pdf?sfvrsn=2f250319_2 "MLCS SBM 2020-Paper27")
+Dian Syahidah Abdul Aziz dan Siti Zainab Zainal
 
-[27\. Penggunaan Google Slides Untuk Mengukuhkan Kemahiran Berfikir dan Interaksi Lisan(.pdf, 807.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper27.pdf?sfvrsn=2f250319_2 "27. Penggunaan Google Slides Untuk Mengukuhkan Kemahiran Berfikir dan Interaksi Lisan")
+[27\. Penggunaan Google Slides Untuk Mengukuhkan Kemahiran Berfikir dan Interaksi Lisan(.pdf, 807.72 KB)](/files/mlcs-sbm-2020-paper27.pdf)
 
 Erfasiah Abdul Rahim dan Hafiza Yahya[](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2020/kertas-kerja-sesi-hidang-selari/mlcs-sbm-2020-paper28.pdf?sfvrsn=e56910ba_2 "MLCS SBM 2020-Paper28")
 
