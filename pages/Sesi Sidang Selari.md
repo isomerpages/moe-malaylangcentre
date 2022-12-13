@@ -220,6 +220,28 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan J</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=85zSUf4NTrQ&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/bedok-view-sec.png" alt="bedok-view-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=85zSUf4NTrQ&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Bedok View</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/zhenghua-pri---bercerita-membaca.png" alt="zhenghua-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Zhenghua</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/bedok-green-pri.png" alt="bedok-green-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Bedok Green</a></td>
+  </tr>
+</thead>
+</table>
+
+
 <h2 style="color:black" align="center">Kumpulan K</h2>
 
 <h2 style="color:black" align="center">Kumpulan L</h2>
