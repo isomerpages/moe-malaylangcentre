@@ -80,6 +80,29 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan D</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=a-8YRGsLOsg&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/pasir-ris-whitesand-pri.png" alt="pasir-ris-whitesand-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=a-8YRGsLOsg&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Pasir Ris & Sekolah Rendah White Sands</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=8qlnFGS_M-Q&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/east-spring-pri.png" alt="east-spring-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=8qlnFGS_M-Q&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah East Spring</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=k_06DNpHrxU&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/clementi-pri.png" alt="clementi-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=k_06DNpHrxU&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Clementi</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=hdBiKxa3tg0&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/concord-zhangde-pri.png" alt="concord-zhangde-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=hdBiKxa3tg0&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Concord & Sekolah Rendah Zhangde</a></td>
+  </tr>
+</thead>
+</table>
+
 <h2 style="color:black" align="center">Kumpulan E</h2>
 
 <style type="text/css">
