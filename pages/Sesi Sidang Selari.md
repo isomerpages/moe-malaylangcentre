@@ -191,8 +191,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=As6E11UoBGw&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/si-ling-pri.png" alt="si-ling-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=As6E11UoBGw&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Si Ling</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9PfvSkommn0&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-pri.png" alt="compassvale-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=9PfvSkommn0&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Compassvale</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/zhenghua-pri---bercerita-membaca.png" alt="zhenghua-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Zhenghua</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/westwood-pri---sls.png" alt="westwood-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
   </tr>
