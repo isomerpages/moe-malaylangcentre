@@ -206,7 +206,7 @@ _Nor Hanisah Saphari_
 
 41. [Strategi PSP DAn Rutin Berfikir 'Sudut Pandangan' Bagi Meningkatkan Kemahiran Lisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/41.pdf) 
 
-     _Noor Faranah Mohamed Yatim da Kusumawati Ahmad Dafir_
+_Noor Faranah Mohamed Yatim da Kusumawati Ahmad Dafir_
 
 [Jawatankuasa Penganjur](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/jawatankuasasbm.pdf)
 
