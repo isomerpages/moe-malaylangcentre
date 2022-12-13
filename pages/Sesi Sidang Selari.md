@@ -145,8 +145,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=015xbAZgNlU&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Boon Lay Garden</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=scsnAD0p_1g&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/westwood-pri---kefahaman.png" alt="westwood-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=scsnAD0p_1g&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah New Town</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=M0wn0Pid7h4&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/innova-pri.png" alt="innova-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=M0wn0Pid7h4&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Innova</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
 <br><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura">CHIJ Our Lady of the Nativity</a></td>
   </tr>
