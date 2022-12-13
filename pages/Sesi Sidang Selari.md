@@ -143,8 +143,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=015xbAZgNlU&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/boon-lay-garden-pri.png" alt="boon-lay-garden-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=015xbAZgNlU&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Boon Lay Garden</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=bxRtpysp5_I&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-queen-of-peace.png" alt="chij-our-lady-queen-of-peace"></a></p>
-<br><a href="https://www.youtube.com/watch?v=bxRtpysp5_I&ab_channel=PusatBahasaMelayuSingapura">CHIJ Our Lady Queen of Peace</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=scsnAD0p_1g&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/westwood-pri---kefahaman.png" alt="westwood-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=scsnAD0p_1g&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah New Town</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
