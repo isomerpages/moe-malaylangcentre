@@ -72,8 +72,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=lwYJ47iBZNA&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Kranji</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=wAD0cPoFRuY&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/woodlands-ring-pri.png" alt="woodlands-ring-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=wAD0cPoFRuY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Woodlands Ring</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9fJLZxKph_o&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/springdale-pri.png" alt="springdale-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=9fJLZxKph_o&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Springdale</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=Rzcvv04Xs44&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/huamin-pri.png" alt="huamin-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=Rzcvv04Xs44&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Huamin</a></td>
   </tr>
 </thead>
 </table>
