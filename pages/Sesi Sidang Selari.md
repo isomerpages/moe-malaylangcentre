@@ -267,4 +267,25 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan L</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=GVOmp4QGqAg&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/deyi-sec.png" alt="deyi-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=GVOmp4QGqAg&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Deyi</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-sec.png" alt="compassvale-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Compassvale</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/yusof-ishak-sec.png" alt="yusof-ishak-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Yusof Ishak</a></td>
+  </tr>
+</thead>
+</table>
+
 <h2 style="color:black" align="center">Kumpulan M</h2>
