@@ -97,8 +97,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=j0QUjhUY45s&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Punggol Green</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=x8xXV6zgUVI&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/zhangde-pri.png" alt="zhangde-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=x8xXV6zgUVI&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Zhangde</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=hdBiKxa3tg0&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/concord-zhangde-pri.png" alt="concord-zhangde-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=hdBiKxa3tg0&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Concord & Sekolah Rendah Zhangde</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=xQjIRHWc0L4&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/woodlands-jiemin-pri.png" alt="woodlands-jiemin-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=xQjIRHWc0L4&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Woodlands & Sekolah Rendah Jiemin</a></td>
   </tr>
 </thead>
 </table>
