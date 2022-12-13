@@ -257,8 +257,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=euSacB-0nKs&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/mayflower-sec.png" alt="mayflower-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=euSacB-0nKs&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Mayflower</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/commonwealth-sec.png" alt="commonwealth-sec"></a></p>
-<br><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Commonwealth</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-sec.png" alt="compassvale-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Compassvale</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/changkat-changi-sec---wix.png" alt="changkat-changi-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura">Sekolah Memengah Changkat Changi</a></td>
   </tr>
