@@ -233,8 +233,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=85zSUf4NTrQ&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/bedok-view-sec.png" alt="bedok-view-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=85zSUf4NTrQ&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Bedok View</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/zhenghua-pri---bercerita-membaca.png" alt="zhenghua-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Zhenghua</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/commonwealth-sec.png" alt="commonwealth-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Commonwealth</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/bedok-green-pri.png" alt="bedok-green-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Bedok Green</a></td>
   </tr>
