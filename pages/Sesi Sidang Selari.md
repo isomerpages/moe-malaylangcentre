@@ -193,8 +193,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=As6E11UoBGw&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Si Ling</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/zhenghua-pri---bercerita-membaca.png" alt="zhenghua-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=guX8jrUyi90&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Zhenghua</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/westwood-pri---sls.png" alt="westwood-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/bedok-green-pri.png)" alt="westwood-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Bedok Green</a></td>
   </tr>
 </thead>
 </table>
