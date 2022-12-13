@@ -47,10 +47,10 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=K-meMBQ-Pb8&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/greenwood-pri.png" alt="greenwood-pri"></a></p>
 <br>Sekolah Rendah Greenwood</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-queen-of-peace.png" alt="chij-our-lady-queen-of-peace"></a></p>
-<br>CHIJ Our Lady Queen of Peace</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
-<br>Sekolah Rendah New Town</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=-M4RLdRhxhQ&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/fengshan-pri---spn.png" alt="fengshan-pri"></a></p>
+<br>Sekolah Rendah Fengshan</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/springdale-pri.png)" alt="new-town-pri"></a></p>
+<br>Sekolah Rendah Springdale</td>
   </tr>
 </thead>
 </table>
