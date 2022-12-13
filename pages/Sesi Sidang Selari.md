@@ -201,6 +201,23 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan I</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=m7cQJ7kLpYI&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/casuarina-pri---peribahasa.png" alt="casuarina-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=m7cQJ7kLpYI&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Casuarina</a></td>
+  </tr>
+</thead>
+</table>
+
 <h2 style="color:black" align="center">Kumpulan J</h2>
 
 <h2 style="color:black" align="center">Kumpulan K</h2>
