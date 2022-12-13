@@ -20,13 +20,13 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/pasir-ris-whitesand-pri.png)" alt="pasir-ris-whitesand-pri"></a></p>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=a-8YRGsLOsg&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/pasir-ris-whitesand-pri.png" alt="pasir-ris-whitesand-pri"></a></p>
 <br>Sekolah Rendah Pasir Ris & Sekolah Rendah White Sands</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/east-spring-pri.png)" alt="east-spring-pri"></a></p>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=8qlnFGS_M-Q&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/east-spring-pri.png" alt="east-spring-pri"></a></p>
 <br>Sekolah Rendah East Spring</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/clementi-pri.png)" alt="clementi-pri"></a></p>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=k_06DNpHrxU&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/clementi-pri.png" alt="clementi-pri"></a></p>
 <br>Sekolah Rendah Clementi</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/concord-zhangde-pri.png)" alt="concord-zhangde-pri"></a></p>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=hdBiKxa3tg0&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/concord-zhangde-pri.png" alt="concord-zhangde-pri"></a></p>
 <br>Sekolah Rendah Concord & Sekolah Rendah Zhangde</td>
   </tr>
 </thead>
