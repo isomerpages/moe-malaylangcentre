@@ -22,9 +22,12 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/henry-park-pri.png" alt="henry-park-pri"></a></p>
 <br>Sekolah Rendah Henry Park</td>
-    <td class="tg-0lax">CHIJ Our Lady Queen of Peace</td>
-    <td class="tg-0lax">Sekolah Rendah New Town</td>
-    <td class="tg-0lax">CHIJ Our Lady of the Nativity</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-queen-of-peace.png" alt="chij-our-lady-queen-of-peace"></a></p>
+<br>CHIJ Our Lady Queen of Peace</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
+<br>Sekolah Rendah New Town</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
+<br>CHIJ Our Lady of the Nativity</td>
   </tr>
 </thead>
 </table>
@@ -52,4 +55,3 @@ description: ""
 <h2 style="color:black" align="center">Kumpulan L</h2>
 
 <h2 style="color:black" align="center">Kumpulan M</h2>
-
