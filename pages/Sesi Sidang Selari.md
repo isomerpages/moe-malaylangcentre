@@ -259,8 +259,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=euSacB-0nKs&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Mayflower</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-sec.png" alt="compassvale-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Compassvale</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/changkat-changi-sec---wix.png" alt="changkat-changi-sec"></a></p>
-<br><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura">Sekolah Memengah Changkat Changi</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/yusof-ishak-sec.png" alt="yusof-ishak-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Yusof Ishak</a></td>
   </tr>
 </thead>
 </table>
