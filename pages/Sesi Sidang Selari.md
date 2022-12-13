@@ -147,8 +147,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=scsnAD0p_1g&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=M0wn0Pid7h4&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/innova-pri.png" alt="innova-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=M0wn0Pid7h4&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Innova</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
-<br><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura">CHIJ Our Lady of the Nativity</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=-Ms7gY1HPkQ&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/fengshan-pri---sls.png" alt="fengshan-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=-Ms7gY1HPkQ&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Fengshan</a></td>
   </tr>
 </thead>
 </table>
