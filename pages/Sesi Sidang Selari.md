@@ -305,8 +305,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=XGia2_TG5Hc&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Guangyang</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=bVTemW8e8B8&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/changkat-changi-sec---imovie.png" alt="changkat-changi-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=bVTemW8e8B8&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Changkat Changi</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=rt7OWy09vpI&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-katong-convent.png" alt="chij-katong-convent"></a></p>
-<br><a href="https://www.youtube.com/watch?v=rt7OWy09vpI&ab_channel=PusatBahasaMelayuSingapura">CHIJ Katong Convent</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=iWgf29FDYjY&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/marsiling-sec-jingshan-pri.png" alt="marsiling-sec-jingshan-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=iWgf29FDYjY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Marsiling & Sekolah Rendah Jing Shan</a></td>
   </tr>
 </thead>
 </table>
