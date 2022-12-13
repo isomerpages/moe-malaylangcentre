@@ -280,10 +280,10 @@ description: ""
   <tr>
     <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=GVOmp4QGqAg&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/deyi-sec.png" alt="deyi-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=GVOmp4QGqAg&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Deyi</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-sec.png" alt="compassvale-sec"></a></p>
-<br><a href="https://www.youtube.com/watch?v=nKN5YACbQmk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Compassvale</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/yusof-ishak-sec.png" alt="yusof-ishak-sec"></a></p>
-<br><a href="https://www.youtube.com/watch?v=gprq4d9Mpzk&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Yusof Ishak</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=oPtaETVuczs&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/canberra-sec.png" alt="canberra-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=oPtaETVuczs&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Canberra</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=rt7OWy09vpI&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-katong-convent.png" alt="chij-katong-convent"></a></p>
+<br><a href="https://www.youtube.com/watch?v=rt7OWy09vpI&ab_channel=PusatBahasaMelayuSingapura">CHIJ Katong Convent</a></td>
   </tr>
 </thead>
 </table>
