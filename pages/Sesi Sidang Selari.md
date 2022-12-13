@@ -178,6 +178,27 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan H</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=As6E11UoBGw&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/si-ling-pri.png" alt="si-ling-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=As6E11UoBGw&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Si Ling</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9PfvSkommn0&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/compassvale-pri.png" alt="compassvale-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=9PfvSkommn0&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Compassvale</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/westwood-pri---sls.png" alt="westwood-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=YdLj5Xk6IjY&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Westwood</a></td>
+  </tr>
+</thead>
+</table>
+
 <h2 style="color:black" align="center">Kumpulan I</h2>
 
 <h2 style="color:black" align="center">Kumpulan J</h2>
