@@ -223,3 +223,6 @@ _Zuraidah Mohd Ariff_
 [Jawatan Penganjur](/files/jawatan-penganjur.pdf)
 
 [Penghargaan](/files/penghargaan_%20.pdf)
+
+
+## [Sesi Sidang Selari](/mlcs/resources/malay-language-seminar-bahasa-melayu/seminar-bahasa-melayu-2021/sesi-sidang-selari)
