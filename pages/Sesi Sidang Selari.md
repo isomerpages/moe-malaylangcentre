@@ -91,8 +91,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=a-8YRGsLOsg&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/pasir-ris-whitesand-pri.png" alt="pasir-ris-whitesand-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=a-8YRGsLOsg&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Pasir Ris & Sekolah Rendah White Sands</a></td>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=MJapgOAYhb4&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/telok-kurau-pri.png" alt="telok-kurau-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=MJapgOAYhb4&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Telok Kurau</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=8qlnFGS_M-Q&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/east-spring-pri.png" alt="east-spring-pri"></a></p>
 <br><a href="https://www.youtube.com/watch?v=8qlnFGS_M-Q&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah East Spring</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=k_06DNpHrxU&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/clementi-pri.png" alt="clementi-pri"></a></p>
