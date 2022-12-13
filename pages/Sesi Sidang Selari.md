@@ -20,14 +20,14 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/henry-park-pri.png" alt="henry-park-pri"></a></p>
-<br>Sekolah Rendah Henry Park</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-queen-of-peace.png" alt="chij-our-lady-queen-of-peace"></a></p>
-<br>CHIJ Our Lady Queen of Peace</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
-<br>Sekolah Rendah New Town</td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
-<br>CHIJ Our Lady of the Nativity</td>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/pasir-ris-whitesand-pri.png)" alt="pasir-ris-whitesand-pri"></a></p>
+<br>Sekolah Rendah Pasir Ris & Sekolah Rendah White Sands</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/east-spring-pri.png)" alt="east-spring-pri"></a></p>
+<br>Sekolah Rendah East Spring</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/clementi-pri.png)" alt="clementi-pri"></a></p>
+<br>Sekolah Rendah Clementi</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=9a_4UHpd5q4&amp;ab_channel=PusatBahasaMelayuSingapura"><img src="![](/images/concord-zhangde-pri.png)" alt="concord-zhangde-pri"></a></p>
+<br>Sekolah Rendah Concord & Sekolah Rendah Zhangde</td>
   </tr>
 </thead>
 </table>
