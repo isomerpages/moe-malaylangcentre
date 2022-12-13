@@ -29,3 +29,185 @@ Terima kasih.
 ##### Klik pautan berikut untuk mendapatkan [slaid PowerPoint penyampai Ucaptama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/slaid_dr-hadijah_visi-arif-budiman-sbm-2022.pdf) ***(PDF file too big!)***, Prof. Madya Dr. Hadijah Rahmat.
 
 ![slaid PowerPoint penyampai Ucaptama](/images/cover-sbm-2022a.png)
+
+**Kandungan Buku Prosiding Seminar Bahasa Melayu 2022**
+
+[Seulas Pinang](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/01c-sekapursirih.pdf)
+
+[](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)
+
+[Ucaptama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/01d-ucaptama.pdf)
+
+Visi Arif Budiman: [](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)M[](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)enyulam Kecemerlangan Pengajaran dan Pembelajaran Bahasa
+
+dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan
+
+_Penyampai Ucaptama, Profesor Madya Dr. Hadijah Rahmat_
+
+1. [Google Earth Sebagai Strategi Prapenulisan Bagi Peningkatan Kosa Kata](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/1.pdf)
+
+    _Dewi Kartika Sudirman dan Ribut Nawi_
+
+2. [Keberkesanan Aplikasi Wordwall Dalam PdP Imbihan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/2.pdf)
+
+    _Siti Maizruah Amzah dan Wahindah Suhari_
+
+3. [Keberkesanan Maklum Balas Bagi Pembetulan Bertulis (WCF) Untuk Mempertingkatkan Karangan Murid](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/3.pdf)
+
+_Hanita Abd Aziz dan Nafisah Nurraudhah Sado_
+
+4. [Keberkesanan Penggunaan Bahan Sokongan Dan Strategi DI Untuk Meningkatkan Kemahiran Membaca Murid Darjah Satu](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/4.pdf)
+
+_Norita Rahmad dan Ramlah Begam_
+
+5. [Keberkesanan Penggunaan Pendekatan _Patchwork Text Assessment_ Dalam Mereka Bentuk Pembelajaran Teradun](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/5.pdf)
+
+_Norlin Mansor dan Nurul Syahidah Bahari_
+
+6. [Keberkesanan Penggunaan Teknik PEdANG Dalam Meningkatkan Kemahiran Membaca](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/6.pdf)
+
+_Mohamed Sha’ban Mohd Rapiai dan Nur Sakinah Mohammed Salim_
+
+7. [Keberkesanan Perancangan CSI Dan Dialog ABC Dalam Mempertingkatkan Penulisan Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/7.pdf)
+
+_Muhammad Shukri Shuhaimi dan Noorlinda Abdullah_
+
+8. [Keberkesanan Strategi 3S Dalam Membina Kemahiran Berfikir Bagi Menjana Idea Penulisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/8.pdf)
+
+_Sri Syazwani Mohd Yazid dan Siti Nor Amilin Haji_
+
+9. [Keberkesanan Teknik Perkaitan Soalan-Jawapan Dalam Pengajaran Dan Pembelajaran Kefahaman Membaca](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/9.pdf)
+
+_Nur Fadhillah Musa dan Khairiah Abdulmajid Harharah_
+
+10. [Membina Kemahiran Bertutur Pelajar Melalui Penggunaan Media Podcast](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/10.pdf)
+
+_Nurul Huda Muhammad Yassin dan Nurfaeza Rahmat_
+
+11. [Memupuk Minat Menulis Dalam Kalangan Murid Melalui Kaedah _Choice Board_](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/11.pdf)
+
+_Nuraihan Abdul Subhan dan Nur Farah Mohamad Shukor_
+
+12. [Mengaplikasi Rutin Berfikir ‘Lihat-Fikir-Tanya’ Dan ‘Nyatakan-Sokong-Soal’ Bagi Meningkatkan Kemahiran Lisan Pelajar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/12.pdf)
+
+_Mastura Ashari dan Nur Atikah Abd Hakim_
+
+13. [Menghidupkan Watak Dalam Karangan Melalui Strategi Pemprofilan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/13.pdf)
+
+_Norfarhana Sabtu dan Nur Lydia Johari_
+
+14. [Meningkatkan Kecekapan Pelajar Dalam Menjawab Soalan Kefahaman Melalui Aplikasi Nearpod](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/14.pdf)
+
+_Dian Syahidah Abdul Aziz dan Muhammad Muslihuddin Abdul Raza_
+
+15. [Meningkatkan Kemahiran Interaksi Lisan Melalui Pembelajaran Berdasarkan Pengalaman](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/15.pdf)
+
+_Norhidayana Jabar dan Munirah Mohamed_
+
+16. [Meningkatkan Kemahiran Interaksi Lisan Pelajar Melalui Penggunaan Podcast](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/16.pdf)
+
+_Shariffa Amalsharaff Aledroos dan Noor Farhanah Mohamed Amin_
+
+17. [Meningkatkan Kemahiran Menulis Karangan Peribahasa Dengan Menggunakan IBL Dan Realiti Terimbuh (AR)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/17.pdf)
+
+_Noranika Murni Dol Karim dan Fawziyah Ali_
+
+18. [Meningkatkan Motivasi Dan Prestasi Pelajar Dalam Penggunaan Bahasa Melayu Melalui Teknik Drama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/18.pdf)
+
+_Nur Shiqah Hashim dan Siti Nur Aisyah Shawall_
+
+19. [Meningkatkan Mutu Penulisan E-mel Pelajar Melalui E-Pedagogi](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/19.pdf)
+
+_Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
+
+20. [Meningkatkan Pemerolehan Kosa Kata Pelajar Melalui Wadah Penyaring Instagram](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/20.pdf)  
+
+_Zulfiqar Sukiman dan Siti Radziah Mustafa_
+
+21. [Meningkatkan Pemikiran Kreatif Dan Inovatif Melalui Penerapan Model _Creative Problem Solving_](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/21.pdf)
+
+_Siti Nurdianah Md Muhdi dan Haslinda Ibrahim_
+
+22. [Merangsang Sikap Belajar Bersama Dengan Menuil Penggunaan Aplikasi Canva](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/22.pdf)
+
+_Syairah Nur 'Amirah Zaid dan Siti Hajar Ali_
+
+23. [Pembinaan Kemahiran Bertutur Melalui Kaedah Penerapan Kosa Kata Secara Eksplisit](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/23.pdf)
+
+_Norhafizah Samsudin dan Nazihah Na’amsah_
+
+24. [Penerapan Elemen E-Pedagogi dalam Pembelajaran Teradun Bagi Penulisan Karangan Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/24.pdf)
+
+_Irmawati Mascom_
+
+25. [Penerapan E-Pedagogi Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Pemahaman](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/25.pdf)
+
+_Norazian Mohamed Yahya dan Hannah Nadhirah Lokman_
+
+26. [Penerapan Kaedah _Station Rotation_ Dalam Pengajaran Pembezaan Untuk Meningkatkan Pelibatan Pelajar Dalam PdP](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/26.pdf)
+
+_Julaiha Haron_
+
+27. [Penerapan Kaedah _Tiering_ Dalam Pengajaran Pembezaan Bagi Meningkatkan Penyampaian Lisan Pelajar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/27.pdf)
+
+_Siti Nurhani Kamsani dan Norimahlizah Ramli_
+
+28. [Penerapan Kitaran RPAOR Dalam Meningkatkan Mutu Penulisan Karangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/28.pdf)
+
+_Noor Ratnawati Osman dan Anisah Mustaffa_
+
+29. [Penerapan Pengajaran Pembezaan Dan Rutin Berfikir Bagi Meningkatkan Kemahiran Menulis](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/29.pdf)
+
+_Norah Nordin dan Norasiken Mohamed Noor_
+
+30. [Penerapan Rutin Berfikir MTV ‘Apa Yang Menyebabkan Awak Kata Begitu’ Dalam Pembelajaran Kata Hubung](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/30.pdf)
+
+_Ruhaidah Rahmat dan Raba'ah Ismail_
+
+31. [Penggunaan Jurnal Interaktif Bagi Meningkatkan Minat Murid Dalam Pembelajaran Imbuhan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/31.pdf)
+
+_Nur Hafizah Ismail dan Elisha Jaafar_
+
+32. [Penggunaan Kaedah Akrostik Dalam Pengajaran Imbuhan ‘meN-’](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/32.pdf)
+
+_Siti Aishah Junaidi dan Halina Taib_
+
+33. [Penggunaan Kaedah V4PI Bagi Meningkatkan Kemahiran Interaksi Lisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/33.pdf)
+
+_Zuraidah Mohd Ariff_
+
+34. [Penggunaan Penjodoh Bilangan Dalam Penulisan Karangan Melalui Pembelajaran Teradun](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/34.pdf)
+
+_Aniza Samat dan Naelah Nor Othman_
+
+35. [Penggunaan Pola-pola Ayat Untuk Meningkatkan Kemahiran Menulis Murid Dalam Kumpulan MTSP](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/35.pdf)
+
+_Mislimah Misti dan Sanisah Rahim_
+
+36. [Penggunaan Portal SLS Dalam Pembelajaran Peluasan Ayat Dalam Karangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/36.pdf)
+
+_Sudriyanti Samsudin dan Muhammad Syafiq Hashim_
+
+37. [Penggunaan Rutin Berfikir MTV ‘Saya Akan Pastikan’ Dalam Pengajaran Karangan Berdasarkan Gambar Bersiri](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/37.pdf)
+
+_Harshad Ismail_
+
+38. [Penggunaan Rutin Berfikir ‘Tumpuan’ Dalam Meningkatkan Penguasaan Kosa Kata](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/38.pdf)
+
+      _Rosela Hashim dan Nuradilah Abdul Wahid_
+
+39. [Penggunaan Teknik Menceritakan Semula Dalam Memahami Kandungan Teks Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/39.pdf)
+
+_Melati Hallel_
+
+40. [Projek Nusantara: Pembelajaran Bertumpu Bagi Merangsang Keyakinan Berbahasa](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/40.pdf)
+
+_Nor Hanisah Saphari_  
+
+41. [Strategi PSP DAn Rutin Berfikir 'Sudut Pandangan' Bagi Meningkatkan Kemahiran Lisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/41.pdf) 
+
+     _Noor Faranah Mohamed Yatim da Kusumawati Ahmad Dafir_
+
+[Jawatankuasa Penganjur](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/jawatankuasasbm.pdf)
+
+[Penghargaan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/penghargaan.pdf)
