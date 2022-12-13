@@ -130,6 +130,29 @@ description: ""
 
 <h2 style="color:black" align="center">Kumpulan F</h2>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="https://www.youtube.com/watch?v=015xbAZgNlU&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/boon-lay-garden-pri.png" alt="boon-lay-garden-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=015xbAZgNlU&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Boon Lay Garden</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=bxRtpysp5_I&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-queen-of-peace.png" alt="chij-our-lady-queen-of-peace"></a></p>
+<br><a href="https://www.youtube.com/watch?v=bxRtpysp5_I&ab_channel=PusatBahasaMelayuSingapura">CHIJ Our Lady Queen of Peace</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/newton-pri.png" alt="new-town-pri"></a></p>
+<br><a href="https://www.youtube.com/watch?v=LTYR91w9L24&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah New Town</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/chij-our-lady-of-nativity.png" alt="chij-our-lady-of-nativity"></a></p>
+<br><a href="https://www.youtube.com/watch?v=3sGjrPbud60&ab_channel=PusatBahasaMelayuSingapura">CHIJ Our Lady of the Nativity</a></td>
+  </tr>
+</thead>
+</table>
+
 <h2 style="color:black" align="center">Kumpulan G</h2>
 
 <h2 style="color:black" align="center">Kumpulan H</h2>
