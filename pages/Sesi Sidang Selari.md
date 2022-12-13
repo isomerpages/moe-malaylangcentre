@@ -235,8 +235,8 @@ description: ""
 <br><a href="https://www.youtube.com/watch?v=85zSUf4NTrQ&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Bedok View</a></td>
     <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/commonwealth-sec.png" alt="commonwealth-sec"></a></p>
 <br><a href="https://www.youtube.com/watch?v=ImicatDHY30&ab_channel=PusatBahasaMelayuSingapura">Sekolah Menengah Commonwealth</a></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/bedok-green-pri.png" alt="bedok-green-pri"></a></p>
-<br><a href="https://www.youtube.com/watch?v=h--rnVEowb8&ab_channel=PusatBahasaMelayuSingapura">Sekolah Rendah Bedok Green</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura"><img src="/images/changkat-changi-sec---wix.png" alt="changkat-changi-sec"></a></p>
+<br><a href="https://www.youtube.com/watch?v=jJKWDdB85dA&ab_channel=PusatBahasaMelayuSingapura">Sekolah Memengah Changkat Changi</a></td>
   </tr>
 </thead>
 </table>
