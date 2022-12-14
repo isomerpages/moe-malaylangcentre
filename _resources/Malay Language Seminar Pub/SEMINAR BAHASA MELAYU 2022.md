@@ -34,8 +34,6 @@ Terima kasih.
 
 [Seulas Pinang](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/01c-sekapursirih.pdf)
 
-[](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)
-
 [Ucaptama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/01d-ucaptama.pdf)
 
 Visi Arif Budiman: Menyulam Kecemerlangan Pengajaran dan Pembelajaran Bahasa
@@ -46,29 +44,29 @@ _Penyampai Ucaptama, Profesor Madya Dr. Hadijah Rahmat_
 
 1. [Google Earth Sebagai Strategi Prapenulisan Bagi Peningkatan Kosa Kata](/files/1%20.pdf)
 
-    _Dewi Kartika Sudirman dan Ribut Nawi_
+ _Dewi Kartika Sudirman dan Ribut Nawi_
 
-2. [Keberkesanan Aplikasi Wordwall Dalam PdP Imbihan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/2.pdf)
+2. [Keberkesanan Aplikasi Wordwall Dalam PdP Imbihan](/files/2%20.pdf)
 
-    _Siti Maizruah Amzah dan Wahindah Suhari_
+_Siti Maizruah Amzah dan Wahindah Suhari_
 
-3. [Keberkesanan Maklum Balas Bagi Pembetulan Bertulis (WCF) Untuk Mempertingkatkan Karangan Murid](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/3.pdf)
+3. [Keberkesanan Maklum Balas Bagi Pembetulan Bertulis (WCF) Untuk Mempertingkatkan Karangan Murid](/files/3%20.pdf)
 
 _Hanita Abd Aziz dan Nafisah Nurraudhah Sado_
 
-4. [Keberkesanan Penggunaan Bahan Sokongan Dan Strategi DI Untuk Meningkatkan Kemahiran Membaca Murid Darjah Satu](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/4.pdf)
+4. [Keberkesanan Penggunaan Bahan Sokongan Dan Strategi DI Untuk Meningkatkan Kemahiran Membaca Murid Darjah Satu](/files/4%20.pdf)
 
 _Norita Rahmad dan Ramlah Begam_
 
-5. [Keberkesanan Penggunaan Pendekatan _Patchwork Text Assessment_ Dalam Mereka Bentuk Pembelajaran Teradun](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/5.pdf)
+5. [Keberkesanan Penggunaan Pendekatan _Patchwork Text Assessment_ Dalam Mereka Bentuk Pembelajaran Teradun](/files/5%20.pdf)
 
 _Norlin Mansor dan Nurul Syahidah Bahari_
 
-6. [Keberkesanan Penggunaan Teknik PEdANG Dalam Meningkatkan Kemahiran Membaca](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/6.pdf)
+6. [Keberkesanan Penggunaan Teknik PEdANG Dalam Meningkatkan Kemahiran Membaca](/files/6%20.pdf)
 
 _Mohamed Sha’ban Mohd Rapiai dan Nur Sakinah Mohammed Salim_
 
-7. [Keberkesanan Perancangan CSI Dan Dialog ABC Dalam Mempertingkatkan Penulisan Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/7.pdf)
+7. [Keberkesanan Perancangan CSI Dan Dialog ABC Dalam Mempertingkatkan Penulisan Naratif](/files/7%20.pdf)
 
 _Muhammad Shukri Shuhaimi dan Noorlinda Abdullah_
 
