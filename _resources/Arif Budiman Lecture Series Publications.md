@@ -68,15 +68,15 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 
 ![Jilid 4 - Cetakan 2020](/images/Jilid-4-Cetakan-2020.jpeg)
 
-[Kandungan(.pdf, 365.3 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/2-kandungan.pdf?sfvrsn=47aa6c41_2 "2.Kandungan")
+[Kandungan(.pdf, 365.3 KB)](/files/2-kandungan.pdf)
 
-[Sekapur Sirih(.pdf, 673.97 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/3-sekapur-sirih.pdf?sfvrsn=95509d7b_2 "3.Sekapur Sirih")
+[Sekapur Sirih(.pdf, 673.97 KB)](/files/3-sekapur-sirih.pdf)
 
-[Seulas Pinang(.pdf, 674.96 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/4-seulas-pinang.pdf?sfvrsn=b17f8685_2 "4.Seulas Pinang")
+[Seulas Pinang(.pdf, 674.96 KB)](/files/4-seulas-pinang.pdf)
 
-[Objektif(.pdf, 550.27 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/5-objektif.pdf?sfvrsn=e160118b_2 "5.Objektif")
+[Objektif(.pdf, 550.27 KB)](/files/5-objektif.pdf)
 
-[CAB 13 - Prof Dr Mikihiro Moriyama(.pdf, 10.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/6-cab-13---prof-dr-mikihiro-moriyama.pdf?sfvrsn=768e8dc7_2 "6.CAB 13 - Prof Dr Mikihiro Moriyama")
+[CAB 13 - Prof Dr Mikihiro Moriyama(.pdf, 10.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/6-cab-13---prof-dr-mikihiro-moriyama.pdf?sfvrsn=768e8dc7_2 "6.CAB 13 - Prof Dr Mikihiro Moriyama") ***(PDF file too big!)***
 
 [CAB 13 - Tanya Jawab(.pdf, 4.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/7-cab-13---tanya-jawab.pdf?sfvrsn=80d65116_2 "7. CAB 13 - Tanya Jawab")
 
