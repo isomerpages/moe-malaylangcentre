@@ -41,3 +41,5 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
     </div>
   </li>
 </ul>
+
+![Jilid 1 - Cetakan Pertama 2010](/images/jilid-1---cetakan-pertama-2010.png)
