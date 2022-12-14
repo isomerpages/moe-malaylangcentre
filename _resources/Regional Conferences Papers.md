@@ -33,22 +33,22 @@ description: ""
   <tr>
     <td class="tg-ag2m">Djohan Abdul Rahman</td>
     <td class="tg-ag2m">Senior Teacher / Bishan Park Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/21-djohan_rahman_2013_upsi_150813.pdf?sfvrsn=49c9fa0e_2"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu (Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)(.pdf, 438.65 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/21-djohan_rahman_2013_upsi_150813.pdf)"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu (Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)(.pdf, 438.65 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Mohamed Izzat Mohd Sarip</td>
     <td class="tg-rfng">Teacher / Elias Park Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf?sfvrsn=21dd439c_2"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)(.pdf, 1004.13 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf)"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)(.pdf, 1004.13 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Hajjah Marzia </td>
     <td class="tg-ag2m">Teacher / Fuchun Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf?sfvrsn=3dbe21be_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills. (Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)(.pdf, 209.52 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills. (Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)(.pdf, 209.52 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Ramna Johana</td>
     <td class="tg-rfng">Teacher / St Hilda Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/24-ramna_johana_-_kertas_kerja_upsi_2013150813.pdf?sfvrsn=d4c454ae_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of D.M.A Method in Narative Compostion (Keberkesanan Kaedah D.M.A dalam Karangan Naratif)(.pdf, 580.97 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/24-ramna_johana_-_kertas_kerja_upsi_2013150813.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of D.M.A Method in Narative Compostion (Keberkesanan Kaedah D.M.A dalam Karangan Naratif)(.pdf, 580.97 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -83,22 +83,22 @@ description: ""
   <tr>
     <td class="tg-ag2m">Nur Ain Binte Mohamed Amin</td>
     <td class="tg-ag2m">Teacher / Tanjong Katong Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/25-voa_nur_ain_mohd_amin.pdf?sfvrsn=4b318802_2"><span style="color:#CA2126;background-color:transparent">iMotivate: Using Mobile Apps to Motivate Learners of Second Language (iMotivate: Penggunaann Apps Bergerak bagi Memotivasi Pelajar Bahasa Kedua)(.pdf, 327.26 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/25-voa_nur_ain_mohd_amin.pdf)"><span style="color:#CA2126;background-color:transparent">iMotivate: Using Mobile Apps to Motivate Learners of Second Language (iMotivate: Penggunaann Apps Bergerak bagi Memotivasi Pelajar Bahasa Kedua)(.pdf, 327.26 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Nuraisha Mahmood</td>
     <td class="tg-rfng">Teacher / Huamin Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/26-voa_nuraishah_mahmood__helmeleya_mohd_jamil.pdf?sfvrsn=11a5830a_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Improving Conversation Skills Based on Picture for Primary 4 Pupils (Kajian Pengajaran: Meningkatkan Kemahiran Perbualan Berdasarkan Gambar bagi Murid Darjah 4)(.pdf, 163.75 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/26-voa_nuraishah_mahmood__helmeleya_mohd_jamil.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Improving Conversation Skills Based on Picture for Primary 4 Pupils (Kajian Pengajaran: Meningkatkan Kemahiran Perbualan Berdasarkan Gambar bagi Murid Darjah 4)(.pdf, 163.75 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Roslinda Johari</td>
     <td class="tg-ag2m">Teacher / Gongshang Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/27-voa_roslinda_johari.pdf?sfvrsn=4856038_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills. (Keberkesanan Pembelajaran Lisan Berstruktur dan Penggunaan ICT bagi Penilaian Lisan)(.pdf, 533.43 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/27-voa_roslinda_johari.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills. (Keberkesanan Pembelajaran Lisan Berstruktur dan Penggunaan ICT bagi Penilaian Lisan)(.pdf, 533.43 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Yahida Yahya </td>
     <td class="tg-rfng">Teacher / Yusof Ishak Secondary School </td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/28-voa_yahida_yahya.pdf?sfvrsn=708470ab_2"><span style="color:#CA2126;background-color:transparent">Drama Based Teaching Activity to Improve Student Achievement and Motivation (Pengajaran Berdasarkan Aktiviti Drama dalam Meningkatkan Pencapaian dan Motivasi Pelajar)ambar bagi Murid Darjah 4)(.pdf, 274.86 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/28-voa_yahida_yahya.pdf)"><span style="color:#CA2126;background-color:transparent">Drama Based Teaching Activity to Improve Student Achievement and Motivation (Pengajaran Berdasarkan Aktiviti Drama dalam Meningkatkan Pencapaian dan Motivasi Pelajar)ambar bagi Murid Darjah 4)(.pdf, 274.86 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -133,7 +133,7 @@ description: ""
   <tr>
     <td class="tg-ag2m">Rozana Kasnan</td>
     <td class="tg-ag2m">Head of Department / St Patrick’s School </td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/29-rozanah_kasnan_sekolah_menengah_mlcs.pdf?sfvrsn=2639eb60_2"><span style="color:#CA2126;background-color:transparent">Effectiveness TJPSP @ SPS to Improve Structured Delivery of Ideas and Views in Picture Conversation (Keberkesanan TJPSP@SPS bagi Meningkatkan Penyampaian Idea dan Pandangan Secara Tersusun dalam Perbualan Berdasarkan Gambar)(.pdf, 183.31 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/29-rozanah_kasnan_sekolah_menengah_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Effectiveness TJPSP @ SPS to Improve Structured Delivery of Ideas and Views in Picture Conversation (Keberkesanan TJPSP@SPS bagi Meningkatkan Penyampaian Idea dan Pandangan Secara Tersusun dalam Perbualan Berdasarkan Gambar)(.pdf, 183.31 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Zuraidah Saidin</td>
