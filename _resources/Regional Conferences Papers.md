@@ -386,7 +386,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">Bedok Green Primary School</td>
     <td class="tg-ag2m" rowspan="3">Malaysia<br>National Educational Research Seminar (SPPK2015)<br>Date: 5 – 7 August 2015<br>Organiser: Institute of Teachers Education (IPG) and Malaysian Ministry of Education</td>
-    <td class="tg-dewj"><a href="[](/files/46-sppk2015_abs65_zaimah_mohd_ali.pdf)"><span style="color:#CA2126;background-color:transparent">Interaction with the text by ’PAS’ Method(.pdf, 355.21 KB)</span></a>(Berinteraksi dengan Teks melalui Kaedah ‘PAS’(Probable Passage, Anticipation Guide and Summarization of Text))</td>
+    <td class="tg-dewj"><a href="/files/46-sppk2015_abs65_zaimah_mohd_ali.pdf"><span style="color:#CA2126;background-color:transparent">Interaction with the text by ’PAS’ Method(.pdf, 355.21 KB)</span></a>(Berinteraksi dengan Teks melalui Kaedah ‘PAS’(Probable Passage, Anticipation Guide and Summarization of Text))</td>
     <td class="tg-ag2m" rowspan="3">2015</td>
   </tr>
   <tr>
@@ -394,14 +394,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Siti Fadhilah Saneb</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Gongshang Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/47-sppk2015_abs92_siti_fadilah_saneb.pdf)"><span style="color:#CA2126;background-color:transparent">Proverb Learning Through the Use of Narrative Techniques and Comic Life Software(.pdf, 348.26 KB)</span></a><br>(Pembelajaran Peribahasa melalui Penggunaan Teknik Penceritaan dan Perisian Comic Life)</td>
+    <td class="tg-rhd3"><a href="/files/47-sppk2015_abs92_siti_fadilah_saneb.pdf"><span style="color:#CA2126;background-color:transparent">Proverb Learning Through the Use of Narrative Techniques and Comic Life Software(.pdf, 348.26 KB)</span></a><br>(Pembelajaran Peribahasa melalui Penggunaan Teknik Penceritaan dan Perisian Comic Life)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">48</td>
     <td class="tg-ag2m">Taufek Siniwi</td>
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">Xingnan Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/48-sppk2015_abs64_taufek_bin_siniwi.pdf)"><span style="color:#CA2126;background-color:transparent">Structured conversations and Application Value in Oral(.pdf, 269.27 KB)</span></a><br>(Perbualan Berstruktur dan Penerapan Nilai Dalam Lisan)</td>
+    <td class="tg-dewj"><a href="/files/48-sppk2015_abs64_taufek_bin_siniwi.pdf"><span style="color:#CA2126;background-color:transparent">Structured conversations and Application Value in Oral(.pdf, 269.27 KB)</span></a><br>(Perbualan Berstruktur dan Penerapan Nilai Dalam Lisan)</td>
   </tr>
   <tr>
     <td class="tg-rfng">49</td>
@@ -409,7 +409,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Huamin Primary School</td>
     <td class="tg-rfng" rowspan="4">Indonesia<br>6th Indonesian Conference on Lesson Study (6th ICLS)<br>Date: 17 – 19 September 2015<br>Organiser: Ganesha University of Education, Bali Indonesia<br></td>
-    <td class="tg-rhd3"><a href="[](/files/49-kajian_pengajaran_meningkatkan_kemahiran_bertutur_bagi_murid_sekolah_rendah.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study : Enhancing Oral Skills For Primary School Pupils(.pdf, 268.21 KB)</span></a><br>(Kajian Pengajaran: Meningkatkan Kemahiran Bertutur Bagi Murid Sekolah Rendah)</td>
+    <td class="tg-rhd3"><a href="/files/49-kajian_pengajaran_meningkatkan_kemahiran_bertutur_bagi_murid_sekolah_rendah.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study : Enhancing Oral Skills For Primary School Pupils(.pdf, 268.21 KB)</span></a><br>(Kajian Pengajaran: Meningkatkan Kemahiran Bertutur Bagi Murid Sekolah Rendah)</td>
     <td class="tg-rfng" rowspan="4">2015</td>
   </tr>
   <tr>
@@ -417,21 +417,21 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Alifa Ismail</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">St Andrews Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/50-kajian_pengajaran___pbl_dalam_penulisan_karangan_ekspositori.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: PBL in Writing Expository Essays(.pdf, 159.66 KB)</span></a><br>(Kajian Pengajaran: PBL dalam Penulisan Karangan Ekspositori)</td>
+    <td class="tg-dewj"><a href="/files/50-kajian_pengajaran___pbl_dalam_penulisan_karangan_ekspositori.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study: PBL in Writing Expository Essays(.pdf, 159.66 KB)</span></a><br>(Kajian Pengajaran: PBL dalam Penulisan Karangan Ekspositori)</td>
   </tr>
   <tr>
     <td class="tg-rfng">51</td>
     <td class="tg-rfng">Nurisha Hamid</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Coral Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/51-kajian_pengajaran_perbualan_berdasarkan_gambar_dengan_menggunakan_teknik_ktwp.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Use of KTWP Techniques in Teaching Oral Based Picture(Kajian Pengajaran: Penggunaan Teknik KTWP dalam Pengajaran Lisan Berdasarkan Gambar)(.pdf, 337.52 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/51-kajian_pengajaran_perbualan_berdasarkan_gambar_dengan_menggunakan_teknik_ktwp.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study: Use of KTWP Techniques in Teaching Oral Based Picture(Kajian Pengajaran: Penggunaan Teknik KTWP dalam Pengajaran Lisan Berdasarkan Gambar)(.pdf, 337.52 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">52</td>
     <td class="tg-ag2m">Siti Raihanni Selamat</td>
     <td class="tg-ag2m">Senior Teacher</td>
     <td class="tg-ag2m">Hai Sing Catholic Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/52-kajian_pengajaran_penerapan_teori_kecerdasan_pelbagai_dalam_pengajaran_jenis-jenis_ayat.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Application of Multiple Intelligences Theory in Teaching Types of Sentences(Kajian Pengajaran: Penerapan Teori Kecerdasan Pelbagai dalam Pengajaran Jenis-jenis Ayat)(.pdf, 110.33 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/52-kajian_pengajaran_penerapan_teori_kecerdasan_pelbagai_dalam_pengajaran_jenis-jenis_ayat.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study: Application of Multiple Intelligences Theory in Teaching Types of Sentences(Kajian Pengajaran: Penerapan Teori Kecerdasan Pelbagai dalam Pengajaran Jenis-jenis Ayat)(.pdf, 110.33 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">53</td>
@@ -439,7 +439,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Greenwood Primary School</td>
     <td class="tg-rfng" rowspan="3">Malaysia<br>International Conference on Language Learning: Evolution and Revolution (SoLLS.INTEC.15)<br>Date: 29 – 30 September 2015<br>Organiser : The School of Language and Linguistic, National University of Malaysia</td>
-    <td class="tg-rhd3"><a href="[](/files/53-kemahiran_membaca_strategi_dekon_dalam_mempertingkat_kelakonan_bacaan_lantang_mohd_shaaban.pdf)"><span style="color:#CA2126;background-color:transparent">Enhancing Reading Aloud Performance through DEKON strategies (Strategi DEKON dalam Mempertingkat Kelakonan Bacaan Lantang)(.pdf, 252.14 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/53-kemahiran_membaca_strategi_dekon_dalam_mempertingkat_kelakonan_bacaan_lantang_mohd_shaaban.pdf"><span style="color:#CA2126;background-color:transparent">Enhancing Reading Aloud Performance through DEKON strategies (Strategi DEKON dalam Mempertingkat Kelakonan Bacaan Lantang)(.pdf, 252.14 KB)</span></a></td>
     <td class="tg-rfng" rowspan="4">2015</td>
   </tr>
   <tr>
@@ -447,14 +447,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Norazlina Abdul Jalil</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Naval Base Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/54-cerpen_sebagai_wahana_memupuk_minat_membaca_norazlina_abdul_jalil.pdf)"><span style="color:#CA2126;background-color:transparent">Short Stories as a Catalyst to Foster Interests in Reading (Cerpen sebagai Wahana Memupuk Minat Membaca)(.pdf, 222.18 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/54-cerpen_sebagai_wahana_memupuk_minat_membaca_norazlina_abdul_jalil.pdf"><span style="color:#CA2126;background-color:transparent">Short Stories as a Catalyst to Foster Interests in Reading (Cerpen sebagai Wahana Memupuk Minat Membaca)(.pdf, 222.18 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">55</td>
     <td class="tg-rfng">Nuraini Abdul Gapor</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Raffles Girls Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/55-meningkatkan_keberkesanan_kembara_ilmu_berpandukan_pembelajaran_berasaskan_pengalaman.pdf)"><span style="color:#CA2126;background-color:transparent">Improving the Effectiveness of Guided Adventure Learning Based on Experiential Learning (Meningkatkan Keberkesanan Kembara Ilmu Berpandukan Pembelajaran Berasaskan Pengalaman)(.pdf, 349.49 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/55-meningkatkan_keberkesanan_kembara_ilmu_berpandukan_pembelajaran_berasaskan_pengalaman.pdf"><span style="color:#CA2126;background-color:transparent">Improving the Effectiveness of Guided Adventure Learning Based on Experiential Learning (Meningkatkan Keberkesanan Kembara Ilmu Berpandukan Pembelajaran Berasaskan Pengalaman)(.pdf, 349.49 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">56</td>
@@ -462,7 +462,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Pei Hwa Secondary School</td>
     <td class="tg-ag2m"> </td>
-    <td class="tg-dewj"><a href="[](/files/56-meningkatkan_kemahiran_berfikir_kreatif_penerokaan_pantun_muhd_arizal_ahmad.pdf)"><span style="color:#CA2126;background-color:transparent">Exploring Pantun: A Research on Creative Thinking Skills (Meneroka Pantun: Satu Kajian Kemahiran Berfikir Secara Kreatif)(.pdf, 350.76 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/56-meningkatkan_kemahiran_berfikir_kreatif_penerokaan_pantun_muhd_arizal_ahmad.pdf"><span style="color:#CA2126;background-color:transparent">Exploring Pantun: A Research on Creative Thinking Skills (Meneroka Pantun: Satu Kajian Kemahiran Berfikir Secara Kreatif)(.pdf, 350.76 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">57</td>
@@ -470,7 +470,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">ML Teacher</td>
     <td class="tg-rfng">Chongzheng Primary School</td>
     <td class="tg-rfng" rowspan="3">Malaysia<br>5th International Language Learning Conference<br>Date: 2 - 4 November 2015<br>Organiser: The School of Languages, Literacies and Translation, Universiti Sains Malaysia</td>
-    <td class="tg-rhd3"><a href="[](/files/57-kaedah_kritikan_untuk_memperkasa_pelajar_dengan_kemahiran_penulisan_karangan_noor_haida.pdf)"><span style="color:#CA2126;background-color:transparent">Criticism Method in Essay Writing Skills (Kaedah Kritikan Dalam Kemahiran Penulisan Karangan)(.pdf, 276.54 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/57-kaedah_kritikan_untuk_memperkasa_pelajar_dengan_kemahiran_penulisan_karangan_noor_haida.pdf"><span style="color:#CA2126;background-color:transparent">Criticism Method in Essay Writing Skills (Kaedah Kritikan Dalam Kemahiran Penulisan Karangan)(.pdf, 276.54 KB)</span></a></td>
     <td class="tg-rfng" rowspan="3">2015</td>
   </tr>
   <tr>
@@ -478,14 +478,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Nurul Ain Kamarulzaman</td>
     <td class="tg-ag2m">ML Teacher</td>
     <td class="tg-ag2m">Tanjong Katong Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/58-program_bacalah_adikku_nurul_ain_kamarulzaman.pdf)"><span style="color:#CA2126;background-color:transparent">Bacalah Adikku' Programme: Cultivating Community Service Through Writing (Program 'Bacalah Adikku': Membudayakan Khidmat Masyarakat Menerusi Penulisan)(.pdf, 274.86 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/58-program_bacalah_adikku_nurul_ain_kamarulzaman.pdf"><span style="color:#CA2126;background-color:transparent">Bacalah Adikku' Programme: Cultivating Community Service Through Writing (Program 'Bacalah Adikku': Membudayakan Khidmat Masyarakat Menerusi Penulisan)(.pdf, 274.86 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">59</td>
     <td class="tg-rfng">Siti Fatimah Hassan</td>
     <td class="tg-rfng">ML Teacher</td>
     <td class="tg-rfng">Yu Neng Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/59-meningkatkan_kemahiran_murid_siti_fatimah_hassan.pdf)"><span style="color:#CA2126;background-color:transparent">Enhancing Pupils Skills in Answering Comprehension Subjective Questions Using Text Assumptions Technique (Meningkatkan Kemahiran Murid dalam Menjawab Soalan Kefahaman Subjektif Menggunakan Teknik Teks Andaian)(.pdf, 701.94 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/59-meningkatkan_kemahiran_murid_siti_fatimah_hassan.pdf"><span style="color:#CA2126;background-color:transparent">Enhancing Pupils Skills in Answering Comprehension Subjective Questions Using Text Assumptions Technique (Meningkatkan Kemahiran Murid dalam Menjawab Soalan Kefahaman Subjektif Menggunakan Teknik Teks Andaian)(.pdf, 701.94 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
