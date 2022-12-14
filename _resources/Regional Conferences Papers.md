@@ -45,7 +45,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Guru Kanan</td>
     <td class="tg-rfng">Sek Men Springfield</td>
     <td class="tg-rfng">Brunei<br><br>Kongress Antarabangsa Bahasa dan Budaya Melayu 16 – 19 September 2011 Dewan Bahasa dan Pustaka , Brunei</td>
-    <td class="tg-rhd3"><a href="[](/files/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf)"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning(.pdf, 283.37 KB)</span></a><br>(Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)</td>
+    <td class="tg-rhd3"><a href="/files/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning(.pdf, 283.37 KB)</span></a><br>(Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)</td>
     <td class="tg-rfng">2011</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Pegawai Kurikulum</td>
     <td class="tg-ag2m">MLU CPDD</td>
     <td class="tg-ag2m" rowspan="3">Malaysia<br><br>5th International Malaysian Educational Technology Convention 2011 (IMETC 2011) 15 – 20 October 2011 Organiser: Universiti Sains Malaysia, Penang<br></td>
-    <td class="tg-dewj"><a href="[](/files/2-singapore_experience_rahayu_zainal_from_singapore.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 743.62 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)</td>
+    <td class="tg-dewj"><a href="/files/2-singapore_experience_rahayu_zainal_from_singapore.pdf"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 743.62 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)</td>
     <td class="tg-ag2m" rowspan="3">2011</td>
   </tr>
   <tr>
@@ -62,14 +62,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Nur Azah Ismail</td>
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Sek Men Woodgrove</td>
-    <td class="tg-rhd3"><a href="[](/files/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 255.6 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )</td>
+    <td class="tg-rhd3"><a href="/files/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 255.6 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )</td>
   </tr>
   <tr>
     <td class="tg-ag2m">4</td>
     <td class="tg-ag2m">Sarimah Ahmad</td>
     <td class="tg-ag2m">Ketua Subjek</td>
     <td class="tg-ag2m">Ngee Ann Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 312.03 KB)</span></a> (Enhancing Student’s Understanding through the Use of Video)</td>
+    <td class="tg-dewj"><a href="/files/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 312.03 KB)</span></a> (Enhancing Student’s Understanding through the Use of Video)</td>
   </tr>
   <tr>
     <td class="tg-rfng">5</td>
@@ -77,7 +77,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Ketua Subjek</td>
     <td class="tg-rfng">Telok Kurau Primary School</td>
     <td class="tg-rfng" rowspan="2">Malaysia<br><br>3rd International Conference on Teaching and Learning (ICTL2011)<br>13 – 17 November 2011<br>Park Royal Hotel, Penang , Malaysia</td>
-    <td class="tg-rhd3"><a href="[](/files/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore(.pdf, 329.86 KB)</span></a> (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)</td>
+    <td class="tg-rhd3"><a href="/files/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore(.pdf, 329.86 KB)</span></a> (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)</td>
     <td class="tg-rfng" rowspan="2">2011</td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Wan Alfida Suleiman</td>
     <td class="tg-ag2m">Guru</td>
     <td class="tg-ag2m">Beacon Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/6-digital_storytelling_to_sharpen_language_skills.pdf)"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills(.pdf, 456.61 KB)</span></a> (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)</td>
+    <td class="tg-dewj"><a href="/files/6-digital_storytelling_to_sharpen_language_skills.pdf"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills(.pdf, 456.61 KB)</span></a> (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)</td>
   </tr>
   <tr>
     <td class="tg-rfng">7</td>
@@ -93,7 +93,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Tampines Primary School</td>
     <td class="tg-rfng"> </td>
-    <td class="tg-rhd3"><a href="[](/files/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning(.pdf, 234.27 KB)</span></a> (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="/files/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning(.pdf, 234.27 KB)</span></a> (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
     <td class="tg-rfng">2011</td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Master Teacher</td>
     <td class="tg-ag2m">Malay Language Centre of Singapore (MLCS)</td>
     <td class="tg-ag2m" rowspan="5">Indonesia<br>Seminar on Pedagogy of Malay, Indonesian and Other Languages (PMIOL)<br>13 – 16 June 2012<br>Organiser: Indonesian University of Education, Bandung Indonesia</td>
-    <td class="tg-dewj"><a href="[](/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf)"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(.pdf, 746.12 KB)</span></a>(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
+    <td class="tg-dewj"><a href="/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(.pdf, 746.12 KB)</span></a>(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
     <td class="tg-ag2m" rowspan="5">2012</td>
   </tr>
   <tr>
@@ -110,28 +110,28 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Haryati Surana</td>
     <td class="tg-rfng">Subject Head</td>
     <td class="tg-rfng">West View Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast(.pdf, 246.22 KB)</span></a> (Pembelajaran Kefahaman Mendengar Melalui Podcast)</td>
+    <td class="tg-rhd3"><a href="/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast(.pdf, 246.22 KB)</span></a> (Pembelajaran Kefahaman Mendengar Melalui Podcast)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">10</td>
     <td class="tg-ag2m">Asmidah Mohd Jailani</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Fuchun Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama(.pdf, 259.74 KB)</span></a> (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)</td>
+    <td class="tg-dewj"><a href="/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama(.pdf, 259.74 KB)</span></a> (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)</td>
   </tr>
   <tr>
     <td class="tg-rfng">11</td>
     <td class="tg-rfng">Ganda Sari Chokri</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Yishun Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation(.pdf, 325.8 KB)</span></a> (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)</td>
+    <td class="tg-rhd3"><a href="/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation(.pdf, 325.8 KB)</span></a> (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">12</td>
     <td class="tg-ag2m">Irmawati Mascom</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Tanglin Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language(.pdf, 379.83 KB)</span></a> (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)<br></td>
+    <td class="tg-dewj"><a href="/files/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language(.pdf, 379.83 KB)</span></a> (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)<br></td>
   </tr>
   <tr>
     <td class="tg-rfng">13</td>
@@ -139,7 +139,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">First Toa Payoh Secondary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>National Seminar on Strengthening Practice Teaching and Effective Learning Malay Language<br>16 – 20 September 2012<br>Kucing, Sarawak</td>
-    <td class="tg-rhd3"><a href="[](/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf)"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods(.pdf, 397.35 KB)</span></a> (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)</td>
+    <td class="tg-rhd3"><a href="/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods(.pdf, 397.35 KB)</span></a> (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)</td>
     <td class="tg-rfng" rowspan="4">2012</td>
   </tr>
   <tr>
@@ -147,21 +147,21 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Hanizah Abu Samah</td>
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">CHIJ Our Lady of The Nativity Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/14-kkpenuh_-_hanizah_abu_samah.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills(.pdf, 387.17 KB)</span></a> (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)</td>
+    <td class="tg-dewj"><a href="/files/14-kkpenuh_-_hanizah_abu_samah.pdf"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills(.pdf, 387.17 KB)</span></a> (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)</td>
   </tr>
   <tr>
     <td class="tg-rfng">15</td>
     <td class="tg-rfng">Daniel Phua</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">St Hilda Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/15-kkpenuh_-_daniel_phua.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing(.pdf, 554.75 KB)</span></a> (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)</td>
+    <td class="tg-rhd3"><a href="/files/15-kkpenuh_-_daniel_phua.pdf"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing(.pdf, 554.75 KB)</span></a> (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">16</td>
     <td class="tg-ag2m">Fauziah Osman</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Greenwood Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/16-kkpenuh_-_fauziah_osman.pdf)"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning(.pdf, 276.24 KB)</span></a> (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)</td>
+    <td class="tg-dewj"><a href="/files/16-kkpenuh_-_fauziah_osman.pdf"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning(.pdf, 276.24 KB)</span></a> (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)</td>
   </tr>
   <tr>
     <td class="tg-rfng">17</td>
@@ -169,7 +169,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Senior Teacher</td>
     <td class="tg-rfng">Endeavor Primary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br><br>Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)<br>14 – 17 October 2012<br>Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)</td>
-    <td class="tg-rhd3"><a href="[](/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils(.pdf, 667.25 KB)</span></a> (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils(.pdf, 667.25 KB)</span></a> (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)</td>
     <td class="tg-rfng" rowspan="4">2012</td>
   </tr>
   <tr>
@@ -184,14 +184,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Siti Rashidah Abdul Rahim</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Fuchun Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories(.pdf, 174.5 KB)</span></a> (Penilian untuk Pembelajaran: Cerita Digital Saya)</td>
+    <td class="tg-rhd3"><a href="/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories(.pdf, 174.5 KB)</span></a> (Penilian untuk Pembelajaran: Cerita Digital Saya)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">20</td>
     <td class="tg-ag2m">Rositah Yusof</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Pei Hwa Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials(.pdf, 244.81 KB)</span></a> (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)</td>
+    <td class="tg-dewj"><a href="/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials(.pdf, 244.81 KB)</span></a> (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)</td>
   </tr>
   <tr>
     <td class="tg-rfng">21</td>
@@ -199,7 +199,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Senior Teacher</td>
     <td class="tg-rfng">Bishan Park Secondary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)<br>24 – 28 October 2013<br>Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)</td>
-    <td class="tg-rhd3"><a href="[](/files/21-djohan_rahman_2013_upsi_150813.pdf)"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu(.pdf, 438.65 KB)</span></a>(Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="/files/21-djohan_rahman_2013_upsi_150813.pdf"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu(.pdf, 438.65 KB)</span></a>(Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)</td>
     <td class="tg-rfng" rowspan="4">2013</td>
   </tr>
   <tr>
@@ -207,14 +207,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Mohamed Izzat Mohd Sarip</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Elias Park Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf)"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning(.pdf, 1004.13 KB)</span></a> (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)</td>
+    <td class="tg-dewj"><a href="/files/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning(.pdf, 1004.13 KB)</span></a> (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)</td>
   </tr>
   <tr>
     <td class="tg-rfng">23</td>
     <td class="tg-rfng">Hajjah Marzia</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Fuchun Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 209.52 KB)</span></a>(Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)</td>
+    <td class="tg-rhd3"><a href="/files/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 209.52 KB)</span></a>(Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">24</td>
