@@ -54,7 +54,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Pegawai Kurikulum</td>
     <td class="tg-ag2m">MLU CPDD</td>
     <td class="tg-ag2m" rowspan="3">Malaysia<br><br>5th International Malaysian Educational Technology Convention 2011 (IMETC 2011) 15 – 20 October 2011 Organiser: Universiti Sains Malaysia, Penang<br></td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/2-singapore_experience_rahayu_zainal_from_singapore.pdf?sfvrsn=d612a9ff_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 743.62 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)</td>
+    <td class="tg-dewj"><a href="[](/files/2-singapore_experience_rahayu_zainal_from_singapore.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 743.62 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)</td>
     <td class="tg-ag2m" rowspan="3">2011</td>
   </tr>
   <tr>
@@ -62,14 +62,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Nur Azah Ismail</td>
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Sek Men Woodgrove</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf?sfvrsn=4ad67ac_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 255.6 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )</td>
+    <td class="tg-rhd3"><a href="[](/files/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning(.pdf, 255.6 KB)</span></a> (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )</td>
   </tr>
   <tr>
     <td class="tg-ag2m">4</td>
     <td class="tg-ag2m">Sarimah Ahmad</td>
     <td class="tg-ag2m">Ketua Subjek</td>
     <td class="tg-ag2m">Ngee Ann Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf?sfvrsn=1bc456ac_2"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 312.03 KB)</span></a> (Enhancing Student’s Understanding through the Use of Video)</td>
+    <td class="tg-dewj"><a href="[](/files/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video(.pdf, 312.03 KB)</span></a> (Enhancing Student’s Understanding through the Use of Video)</td>
   </tr>
   <tr>
     <td class="tg-rfng">5</td>
@@ -77,7 +77,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Ketua Subjek</td>
     <td class="tg-rfng">Telok Kurau Primary School</td>
     <td class="tg-rfng" rowspan="2">Malaysia<br><br>3rd International Conference on Teaching and Learning (ICTL2011)<br>13 – 17 November 2011<br>Park Royal Hotel, Penang , Malaysia</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf?sfvrsn=ebe00ee_2"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore(.pdf, 329.86 KB)</span></a> (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)</td>
+    <td class="tg-rhd3"><a href="[](/files/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore(.pdf, 329.86 KB)</span></a> (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)</td>
     <td class="tg-rfng" rowspan="2">2011</td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Wan Alfida Suleiman</td>
     <td class="tg-ag2m">Guru</td>
     <td class="tg-ag2m">Beacon Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/6-digital_storytelling_to_sharpen_language_skills.pdf?sfvrsn=6942c547_2"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills(.pdf, 456.61 KB)</span></a> (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)</td>
+    <td class="tg-dewj"><a href="[](/files/6-digital_storytelling_to_sharpen_language_skills.pdf)"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills(.pdf, 456.61 KB)</span></a> (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)</td>
   </tr>
   <tr>
     <td class="tg-rfng">7</td>
@@ -93,7 +93,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Tampines Primary School</td>
     <td class="tg-rfng"> </td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf?sfvrsn=8dd890d7_2"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning(.pdf, 234.27 KB)</span></a> (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="[](/files/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning(.pdf, 234.27 KB)</span></a> (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
     <td class="tg-rfng">2011</td>
   </tr>
   <tr>
