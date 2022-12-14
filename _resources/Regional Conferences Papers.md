@@ -689,17 +689,17 @@ Organiser: Indonesian University of Education, Bandung Indonesia**
   <tr>
     <td class="tg-ag2m">Dr Fadilah Isnin</td>
     <td class="tg-ag2m">Master Teacher / Malay Language Centre of Singapore (MLCS)</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/8-kurikulum_berasaskan_sekolah_bagi_meningkatkan_inovasi_dalam_pengajaran_dan_pembelajaran_bahasa_melayu_fadilah_isnin.pdf?sfvrsn=61bf0019_2"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 746.12 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf)"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 746.12 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Haryati Surana</td>
     <td class="tg-rfng">Subject Head / West View Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf?sfvrsn=ab1ef247_2"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast (Pembelajaran Kefahaman Mendengar Melalui Podcast)(.pdf, 246.22 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast (Pembelajaran Kefahaman Mendengar Melalui Podcast)(.pdf, 246.22 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Asmidah Mohd Jailani</td>
     <td class="tg-ag2m">Teacher / Fuchun Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani_-_mlcsupdated.pdf?sfvrsn=99931595_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)(.pdf, 259.74 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)(.pdf, 259.74 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Ganda Sari Chokri</td>
