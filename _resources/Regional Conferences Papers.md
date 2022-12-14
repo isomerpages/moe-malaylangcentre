@@ -124,14 +124,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Ganda Sari Chokri</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Yishun Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf?sfvrsn=9af522fc_2"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation(.pdf, 325.8 KB)</span></a> (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)</td>
+    <td class="tg-rhd3"><a href="[](/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation(.pdf, 325.8 KB)</span></a> (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">12</td>
     <td class="tg-ag2m">Irmawati Mascom</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Tanglin Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf?sfvrsn=ea82746f_2"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language(.pdf, 379.83 KB)</span></a> (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)<br></td>
+    <td class="tg-dewj"><a href="[](/files/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language(.pdf, 379.83 KB)</span></a> (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)<br></td>
   </tr>
   <tr>
     <td class="tg-rfng">13</td>
@@ -139,7 +139,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">First Toa Payoh Secondary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>National Seminar on Strengthening Practice Teaching and Effective Learning Malay Language<br>16 – 20 September 2012<br>Kucing, Sarawak</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/13-kkpenuh_-_effendy_bin_ahmadi.pdf?sfvrsn=bf8b0d66_2"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods(.pdf, 397.35 KB)</span></a> (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)</td>
+    <td class="tg-rhd3"><a href="[](/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf)"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods(.pdf, 397.35 KB)</span></a> (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)</td>
     <td class="tg-rfng" rowspan="4">2012</td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Hanizah Abu Samah</td>
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">CHIJ Our Lady of The Nativity Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/14-kkpenuh_-_hanizah_abu_samah.pdf?sfvrsn=dce015ae_2"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills(.pdf, 387.17 KB)</span></a> (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)</td>
+    <td class="tg-dewj"><a href="[](/files/14-kkpenuh_-_hanizah_abu_samah.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills(.pdf, 387.17 KB)</span></a> (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)</td>
   </tr>
   <tr>
     <td class="tg-rfng">15</td>
