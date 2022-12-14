@@ -267,21 +267,21 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Zuraidah Saidin</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Beacon Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/30-zuraidahsaidin_sekolah_rendah_beacon_mlcs.pdf?sfvrsn=45111a19_2"><span style="color:#CA2126;background-color:transparent">Upholding Language and Culture Through use of ICT and Children Literature In the Extensive Reading Program(.pdf, 167.1 KB)</span></a> (Memperkasa Bahasa dan Budaya Melalui Penggunaan ICT dan Sastera Kanak-kanak Dalam Program Bacaan Luas)</td>
+    <td class="tg-dewj"><a href="[](/files/30-zuraidahsaidin_sekolah_rendah_beacon_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Upholding Language and Culture Through use of ICT and Children Literature In the Extensive Reading Program(.pdf, 167.1 KB)</span></a> (Memperkasa Bahasa dan Budaya Melalui Penggunaan ICT dan Sastera Kanak-kanak Dalam Program Bacaan Luas)</td>
   </tr>
   <tr>
     <td class="tg-rfng">31</td>
     <td class="tg-rfng">Alia Moreta</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Dunman Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/31-alia_moreta_sekolah_menengah_dunman_mlcs.pdf?sfvrsn=6d9f420e_2"><span style="color:#CA2126;background-color:transparent">Usage of iPad Application in Oral Lesson Through the Malay Language Program: Speak with Confidence' (Penggunaan Aplikasi iPad dalam Pembelajaran Lisan Menerusi Program Bahasa Melayu: Tuturlah Dengan Yakin’)(.pdf, 500.21 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/31-alia_moreta_sekolah_menengah_dunman_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Usage of iPad Application in Oral Lesson Through the Malay Language Program: Speak with Confidence' (Penggunaan Aplikasi iPad dalam Pembelajaran Lisan Menerusi Program Bahasa Melayu: Tuturlah Dengan Yakin’)(.pdf, 500.21 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">32</td>
     <td class="tg-ag2m">Khairunnisa Mohd Isa</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Xishan Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/32-khairunnisa_sekolah_rendah_xishan_mlcs.pdf?sfvrsn=48482bcf_2"><span style="color:#CA2126;background-color:transparent">Implementation of Stellar In the Usage of Mekar Big Book - Pintar Package (Penerapan Stellar Dalam Penggunaan Buku Besar Mekar - Pakej Pintar)(.pdf, 374.04 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/32-khairunnisa_sekolah_rendah_xishan_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Stellar In the Usage of Mekar Big Book - Pintar Package (Penerapan Stellar Dalam Penggunaan Buku Besar Mekar - Pakej Pintar)(.pdf, 374.04 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">33</td>
@@ -289,7 +289,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Singapore Sains and Technology School</td>
     <td class="tg-rfng" rowspan="5">Malaysia<br>Language and Education Conference 2014 (Konferens Bahasa dan Pendidikan 2014)<br>20 - 21 October 2014<br>Oragniser: Universiti Sains Islam Malaysia</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/33-arfah_kemahiran_menulis_penulisan_refleksi_menerusi_blog_sst_final.pdf?sfvrsn=58e399d4_2"><span style="color:#CA2126;background-color:transparent">Empowering Thoughts and Writing Through Reflection Taxonomy (Memperkasa Pemikiran dan Penulisan Melalui Taksonomi Refleksi)(.pdf, 214.67 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/33-arfah_kemahiran_menulis_penulisan_refleksi_menerusi_blog_sst_final.pdf)"><span style="color:#CA2126;background-color:transparent">Empowering Thoughts and Writing Through Reflection Taxonomy (Memperkasa Pemikiran dan Penulisan Melalui Taksonomi Refleksi)(.pdf, 214.67 KB)</span></a></td>
     <td class="tg-rfng" rowspan="5">2014</td>
   </tr>
   <tr>
