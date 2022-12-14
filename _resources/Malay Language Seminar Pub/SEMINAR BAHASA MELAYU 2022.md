@@ -126,39 +126,39 @@ _Zulfiqar Sukiman dan Siti Radziah Mustafa_
 
 _Siti Nurdianah Md Muhdi dan Haslinda Ibrahim_
 
-22. [Merangsang Sikap Belajar Bersama Dengan Menuil Penggunaan Aplikasi Canva](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/22.pdf)
+22. [Merangsang Sikap Belajar Bersama Dengan Menuil Penggunaan Aplikasi Canva](/files/22.pdf)
 
 _Syairah Nur 'Amirah Zaid dan Siti Hajar Ali_
 
-23. [Pembinaan Kemahiran Bertutur Melalui Kaedah Penerapan Kosa Kata Secara Eksplisit](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/23.pdf)
+23. [Pembinaan Kemahiran Bertutur Melalui Kaedah Penerapan Kosa Kata Secara Eksplisit](/files/23.pdf)
 
 _Norhafizah Samsudin dan Nazihah Na’amsah_
 
-24. [Penerapan Elemen E-Pedagogi dalam Pembelajaran Teradun Bagi Penulisan Karangan Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/24.pdf)
+24. [Penerapan Elemen E-Pedagogi dalam Pembelajaran Teradun Bagi Penulisan Karangan Naratif](/files/24.pdf)
 
 _Irmawati Mascom_
 
-25. [Penerapan E-Pedagogi Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Pemahaman](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/25.pdf)
+25. [Penerapan E-Pedagogi Dalam Pengajaran Pembezaan Bagi Meningkatkan Kemahiran Pemahaman](/files/25.pdf)
 
 _Norazian Mohamed Yahya dan Hannah Nadhirah Lokman_
 
-26. [Penerapan Kaedah _Station Rotation_ Dalam Pengajaran Pembezaan Untuk Meningkatkan Pelibatan Pelajar Dalam PdP](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/26.pdf)
+26. [Penerapan Kaedah _Station Rotation_ Dalam Pengajaran Pembezaan Untuk Meningkatkan Pelibatan Pelajar Dalam PdP](/files/26.pdf)
 
 _Julaiha Haron_
 
-27. [Penerapan Kaedah _Tiering_ Dalam Pengajaran Pembezaan Bagi Meningkatkan Penyampaian Lisan Pelajar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/27.pdf)
+27. [Penerapan Kaedah _Tiering_ Dalam Pengajaran Pembezaan Bagi Meningkatkan Penyampaian Lisan Pelajar](/files/27.pdf)
 
 _Siti Nurhani Kamsani dan Norimahlizah Ramli_
 
-28. [Penerapan Kitaran RPAOR Dalam Meningkatkan Mutu Penulisan Karangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/28.pdf)
+28. [Penerapan Kitaran RPAOR Dalam Meningkatkan Mutu Penulisan Karangan](/files/28.pdf)
 
 _Noor Ratnawati Osman dan Anisah Mustaffa_
 
-29. [Penerapan Pengajaran Pembezaan Dan Rutin Berfikir Bagi Meningkatkan Kemahiran Menulis](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/29.pdf)
+29. [Penerapan Pengajaran Pembezaan Dan Rutin Berfikir Bagi Meningkatkan Kemahiran Menulis](/files/29.pdf)
 
 _Norah Nordin dan Norasiken Mohamed Noor_
 
-30. [Penerapan Rutin Berfikir MTV ‘Apa Yang Menyebabkan Awak Kata Begitu’ Dalam Pembelajaran Kata Hubung](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/30.pdf)
+30. [Penerapan Rutin Berfikir MTV ‘Apa Yang Menyebabkan Awak Kata Begitu’ Dalam Pembelajaran Kata Hubung](/files/30.pdf)
 
 _Ruhaidah Rahmat dan Raba'ah Ismail_
 
