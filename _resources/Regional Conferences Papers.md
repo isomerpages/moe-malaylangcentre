@@ -237,21 +237,21 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Nuraisha Mahmood</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Huamin Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/26-voa_nuraishah_mahmood__helmeleya_mohd_jamil.pdf?sfvrsn=11a5830a_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Improving Conversation Skills Based on Picture for Primary 4 Pupils(.pdf, 163.75 KB)</span></a> (Kajian Pengajaran: Meningkatkan Kemahiran Perbualan Berdasarkan Gambar bagi Murid Darjah 4)</td>
+    <td class="tg-dewj"><a href="[](/files/26-voa_nuraishah_mahmood__helmeleya_mohd_jamil.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Improving Conversation Skills Based on Picture for Primary 4 Pupils(.pdf, 163.75 KB)</span></a> (Kajian Pengajaran: Meningkatkan Kemahiran Perbualan Berdasarkan Gambar bagi Murid Darjah 4)</td>
   </tr>
   <tr>
     <td class="tg-rfng">27</td>
     <td class="tg-rfng">Roslinda Johari</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Gongshang Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/27-voa_roslinda_johari.pdf?sfvrsn=4856038_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 533.43 KB)</span></a> (Keberkesanan Pembelajaran Lisan Berstruktur dan Penggunaan ICT bagi Penilaian Lisan)</td>
+    <td class="tg-rhd3"><a href="[](/files/27-voa_roslinda_johari.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 533.43 KB)</span></a> (Keberkesanan Pembelajaran Lisan Berstruktur dan Penggunaan ICT bagi Penilaian Lisan)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">28</td>
     <td class="tg-ag2m">Yahida Yahya</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Yusof Ishak Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/28-voa_yahida_yahya.pdf?sfvrsn=708470ab_2"><span style="color:#CA2126;background-color:transparent">Drama Based Teaching Activity to Improve Student Achievement and Motivation(.pdf, 274.86 KB)</span></a> (Pengajaran Berdasarkan Aktiviti Drama dalam Meningkatkan Pencapaian dan Motivasi Pelajar)</td>
+    <td class="tg-dewj"><a href="[](/files/28-voa_yahida_yahya.pdf)"><span style="color:#CA2126;background-color:transparent">Drama Based Teaching Activity to Improve Student Achievement and Motivation(.pdf, 274.86 KB)</span></a> (Pengajaran Berdasarkan Aktiviti Drama dalam Meningkatkan Pencapaian dan Motivasi Pelajar)</td>
   </tr>
   <tr>
     <td class="tg-rfng">29</td>
