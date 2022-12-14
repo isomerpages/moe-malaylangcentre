@@ -597,7 +597,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
   <tr>
     <td class="tg-ag2m">Sarimah Ahmad</td>
     <td class="tg-ag2m">Ketua Subjek / Ngee Ann Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf?sfvrsn=1bc456ac_2"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video (Enhancing Student’s Understanding through the Use of Video)(.pdf, 312.03 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video (Enhancing Student’s Understanding through the Use of Video)(.pdf, 312.03 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -632,12 +632,12 @@ Park Royal Hotel, Penang , Malaysia**
   <tr>
     <td class="tg-ag2m">Ramlah Begum</td>
     <td class="tg-ag2m">Ketua Subjek / Telok Kurau Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf?sfvrsn=ebe00ee_2"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)(.pdf, 329.86 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)(.pdf, 329.86 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Wan Alfida Suleiman</td>
     <td class="tg-rfng">Guru / Beacon Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/6-digital_storytelling_to_sharpen_language_skills.pdf?sfvrsn=6942c547_2"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)(.pdf, 456.61 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/6-digital_storytelling_to_sharpen_language_skills.pdf)"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)(.pdf, 456.61 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -664,7 +664,7 @@ Park Royal Hotel, Penang , Malaysia**
   <tr>
     <td class="tg-ag2m">Zalinah Hassan</td>
     <td class="tg-ag2m">Guru / Tampines Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf?sfvrsn=8dd890d7_2"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 234.27 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf)"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 234.27 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
