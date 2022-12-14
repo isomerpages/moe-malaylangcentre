@@ -54,11 +54,11 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 
 [Sekapur Sirih(.pdf, 496.32 KB)](/files/cab-jilid-2-sekapur-sirih.pdf)
 
-[Ceramah Arif Budiman 5 - Prof George Quinn(.pdf, 7.26 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-5-prof-dr-george-quinn.pdf?sfvrsn=74e88c55_2 "Ceramah Arif Budiman 5 - Prof George Quinn")
+[Ceramah Arif Budiman 5 - Prof George Quinn(.pdf, 7.26 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-5-prof-dr-george-quinn.pdf?sfvrsn=74e88c55_2 "Ceramah Arif Budiman 5 - Prof George Quinn") ***(PDF file too big!)***
 
-[CAB 5 - Tanya Jawab(.pdf, 2.5 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-5-prof-dr-george-quinn-tanya-jawab.pdf?sfvrsn=3cebad1_2 "CAB 5 - Tanya Jawab")
+[CAB 5 - Tanya Jawab(.pdf, 2.5 MB)](/files/cab-5-prof-dr-george-quinn-tanya-jawab.pdf)
 
-[Ceramah Arif Budiman 6 - Prof Wu Zongyu(.pdf, 4.44 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-6-prof-wu-zongyu.pdf?sfvrsn=6cfb8ecd_2 "Ceramah Arif Budiman 6 - Prof Wu Zongyu")
+[Ceramah Arif Budiman 6 - Prof Wu Zongyu(.pdf, 4.44 MB)](/files/cab-6-prof-wu-zongyu.pdf)
 
 [CAB 6 - Tanya Jawab(.pdf, 1018.44 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-6-prof-wu-zongyu-tanya-jawab.pdf?sfvrsn=244b44cf_0 "CAB 6 - Tanya Jawab")
 
