@@ -341,7 +341,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Daing Noor Ashikin Binte Bahnan</td>
     <td class="tg-ag2m">Guru</td>
     <td class="tg-ag2m">Sekolah Rendah Admiralty</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/40-penggunaa_linoit_dan_cartoonist_untuk_menjana_idea_dan_plot_karangan_naratif_final.pdf?sfvrsn=66afff65_2"><span style="color:#CA2126;background-color:transparent">Penggunaan Perisian Linoit dan Cartoonist Untuk Menjana Idea dan Plot Karangan Naratif Murid(.pdf, 537.71 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/40-penggunaa_linoit_dan_cartoonist_untuk_menjana_idea_dan_plot_karangan_naratif_final.pdf)"><span style="color:#CA2126;background-color:transparent">Penggunaan Perisian Linoit dan Cartoonist Untuk Menjana Idea dan Plot Karangan Naratif Murid(.pdf, 537.71 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">41</td>
