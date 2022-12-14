@@ -754,12 +754,12 @@ Kucing, Sarawak**
   <tr>
     <td class="tg-ag2m">Daniel Phua</td>
     <td class="tg-ag2m">Teacher / St Hilda Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/15-kkpenuh_-_daniel_phua.pdf?sfvrsn=be11911_2"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)(.pdf, 554.75 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/15-kkpenuh_-_daniel_phua.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)(.pdf, 554.75 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Fauziah Osman</td>
     <td class="tg-rfng">Teacher / Greenwood Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/16-kkpenuh_-_fauziah_osman.pdf?sfvrsn=719315e7_2"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)(.pdf, 276.24 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/16-kkpenuh_-_fauziah_osman.pdf)"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)(.pdf, 276.24 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
