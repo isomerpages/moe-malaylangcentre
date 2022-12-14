@@ -70,51 +70,51 @@ _Mohamed Sha’ban Mohd Rapiai dan Nur Sakinah Mohammed Salim_
 
 _Muhammad Shukri Shuhaimi dan Noorlinda Abdullah_
 
-8. [Keberkesanan Strategi 3S Dalam Membina Kemahiran Berfikir Bagi Menjana Idea Penulisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/8.pdf)
+8. [Keberkesanan Strategi 3S Dalam Membina Kemahiran Berfikir Bagi Menjana Idea Penulisan](/files/8%20.pdf)
 
 _Sri Syazwani Mohd Yazid dan Siti Nor Amilin Haji_
 
-9. [Keberkesanan Teknik Perkaitan Soalan-Jawapan Dalam Pengajaran Dan Pembelajaran Kefahaman Membaca](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/9.pdf)
+9. [Keberkesanan Teknik Perkaitan Soalan-Jawapan Dalam Pengajaran Dan Pembelajaran Kefahaman Membaca](/files/9%20.pdf)
 
 _Nur Fadhillah Musa dan Khairiah Abdulmajid Harharah_
 
-10. [Membina Kemahiran Bertutur Pelajar Melalui Penggunaan Media Podcast](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/10.pdf)
+10. [Membina Kemahiran Bertutur Pelajar Melalui Penggunaan Media Podcast](/files/10.pdf)
 
 _Nurul Huda Muhammad Yassin dan Nurfaeza Rahmat_
 
-11. [Memupuk Minat Menulis Dalam Kalangan Murid Melalui Kaedah _Choice Board_](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/11.pdf)
+11. [Memupuk Minat Menulis Dalam Kalangan Murid Melalui Kaedah _Choice Board_](/files/11.pdf)
 
 _Nuraihan Abdul Subhan dan Nur Farah Mohamad Shukor_
 
-12. [Mengaplikasi Rutin Berfikir ‘Lihat-Fikir-Tanya’ Dan ‘Nyatakan-Sokong-Soal’ Bagi Meningkatkan Kemahiran Lisan Pelajar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/12.pdf)
+12. [Mengaplikasi Rutin Berfikir ‘Lihat-Fikir-Tanya’ Dan ‘Nyatakan-Sokong-Soal’ Bagi Meningkatkan Kemahiran Lisan Pelajar](/files/12.pdf)
 
 _Mastura Ashari dan Nur Atikah Abd Hakim_
 
-13. [Menghidupkan Watak Dalam Karangan Melalui Strategi Pemprofilan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/13.pdf)
+13. [Menghidupkan Watak Dalam Karangan Melalui Strategi Pemprofilan](/files/13.pdf)
 
 _Norfarhana Sabtu dan Nur Lydia Johari_
 
-14. [Meningkatkan Kecekapan Pelajar Dalam Menjawab Soalan Kefahaman Melalui Aplikasi Nearpod](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/14.pdf)
+14. [Meningkatkan Kecekapan Pelajar Dalam Menjawab Soalan Kefahaman Melalui Aplikasi Nearpod](/files/14.pdf)
 
 _Dian Syahidah Abdul Aziz dan Muhammad Muslihuddin Abdul Raza_
 
-15. [Meningkatkan Kemahiran Interaksi Lisan Melalui Pembelajaran Berdasarkan Pengalaman](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/15.pdf)
+15. [Meningkatkan Kemahiran Interaksi Lisan Melalui Pembelajaran Berdasarkan Pengalaman](/files/15.pdf)
 
 _Norhidayana Jabar dan Munirah Mohamed_
 
-16. [Meningkatkan Kemahiran Interaksi Lisan Pelajar Melalui Penggunaan Podcast](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/16.pdf)
+16. [Meningkatkan Kemahiran Interaksi Lisan Pelajar Melalui Penggunaan Podcast](/files/16.pdf)
 
 _Shariffa Amalsharaff Aledroos dan Noor Farhanah Mohamed Amin_
 
-17. [Meningkatkan Kemahiran Menulis Karangan Peribahasa Dengan Menggunakan IBL Dan Realiti Terimbuh (AR)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/17.pdf)
+17. [Meningkatkan Kemahiran Menulis Karangan Peribahasa Dengan Menggunakan IBL Dan Realiti Terimbuh (AR)](/files/17.pdf)
 
 _Noranika Murni Dol Karim dan Fawziyah Ali_
 
-18. [Meningkatkan Motivasi Dan Prestasi Pelajar Dalam Penggunaan Bahasa Melayu Melalui Teknik Drama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/18.pdf)
+18. [Meningkatkan Motivasi Dan Prestasi Pelajar Dalam Penggunaan Bahasa Melayu Melalui Teknik Drama](/files/18.pdf)
 
 _Nur Shiqah Hashim dan Siti Nur Aisyah Shawall_
 
-19. [Meningkatkan Mutu Penulisan E-mel Pelajar Melalui E-Pedagogi](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/19.pdf)
+19. [Meningkatkan Mutu Penulisan E-mel Pelajar Melalui E-Pedagogi](/files/19.pdf)
 
 _Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
 
