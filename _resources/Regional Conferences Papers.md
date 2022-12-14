@@ -554,7 +554,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
   <tr>
     <td class="tg-ag2m">Ghazali Bin Mohamed Ibrahim</td>
     <td class="tg-ag2m">Guru Kanan / Sek Men Springfield</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf?sfvrsn=46270ec1_2"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning (Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)(.pdf, 283.37 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf)"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning (Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)(.pdf, 283.37 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -587,12 +587,12 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
   <tr>
     <td class="tg-ag2m">Sri Rahayu Zainal</td>
     <td class="tg-ag2m">Pegawai Kurikulum / MLU CPDD</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/2-singapore_experience_rahayu_zainal_from_singapore.pdf?sfvrsn=d612a9ff_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)(.pdf, 743.62 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/2-singapore_experience_rahayu_zainal_from_singapore.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)(.pdf, 743.62 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Nur Azah Ismail</td>
     <td class="tg-rfng">Guru / Sek Men Woodgrove</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf?sfvrsn=4ad67ac_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )(.pdf, 255.6 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf)"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )(.pdf, 255.6 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Sarimah Ahmad</td>
