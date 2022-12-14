@@ -78,16 +78,16 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 
 [CAB 13 - Prof Dr Mikihiro Moriyama(.pdf, 10.53 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/6-cab-13---prof-dr-mikihiro-moriyama.pdf?sfvrsn=768e8dc7_2 "6.CAB 13 - Prof Dr Mikihiro Moriyama") ***(PDF file too big!)***
 
-[CAB 13 - Tanya Jawab(.pdf, 4.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/7-cab-13---tanya-jawab.pdf?sfvrsn=80d65116_2 "7. CAB 13 - Tanya Jawab")
+[CAB 13 - Tanya Jawab(.pdf, 4.66 MB)](/files/7-cab-13---tanya-jawab.pdf)
 
-[CAB 14 - Tuan Haji Sidek Bin Haji Saniff(.pdf, 5.51 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/8-cab-14---tuan-haji-sidek-bin-haji-saniff.pdf?sfvrsn=44dcd0e8_2 "8.CAB 14 - Tuan Haji Sidek Bin Haji Saniff")
+[CAB 14 - Tuan Haji Sidek Bin Haji Saniff(.pdf, 5.51 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/8-cab-14---tuan-haji-sidek-bin-haji-saniff.pdf?sfvrsn=44dcd0e8_2 "8.CAB 14 - Tuan Haji Sidek Bin Haji Saniff") ***(PDF file too big!)***
 
-[CAB 14 - Tanya Jawab(.pdf, 4.18 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/9-cab-14---tanya-jawab.pdf?sfvrsn=eb39b963_2 "9.CAB 14 - Tanya Jawab")
+[CAB 14 - Tanya Jawab(.pdf, 4.18 MB)](/files/9-cab-14---tanya-jawab.pdf)
 
-[CAB 15 - Prof Madya Dr Farish A. Noor(.pdf, 8.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/10-cab-15---prof-madya-dr-farish-a-noor.pdf?sfvrsn=e8684a64_2 "10.CAB 15 - Prof Madya Dr Farish A. Noor")
+[CAB 15 - Prof Madya Dr Farish A. Noor(.pdf, 8.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/10-cab-15---prof-madya-dr-farish-a-noor.pdf?sfvrsn=e8684a64_2 "10.CAB 15 - Prof Madya Dr Farish A. Noor") ***(PDF file too big!)***
 
-[CAB 15 - Tanya Jawab(.pdf, 5.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/11-cab-15---tanya-jawab.pdf?sfvrsn=79da2ade_2 "11.CAB 15 - Tanya Jawab")
+[CAB 15 - Tanya Jawab(.pdf, 5.66 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/11-cab-15---tanya-jawab.pdf?sfvrsn=79da2ade_2 "11.CAB 15 - Tanya Jawab") ***(PDF file too big!)***
 
-[CAB 16 - Prof Datuk Dr Awang Sariyan(.pdf, 9.91 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/12-cab-16---prof-datuk-dr-awang-sariyan.pdf?sfvrsn=d36bec90_2 "12.CAB 16 - Prof Datuk Dr Awang Sariyan")
+[CAB 16 - Prof Datuk Dr Awang Sariyan(.pdf, 9.91 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/12-cab-16---prof-datuk-dr-awang-sariyan.pdf?sfvrsn=d36bec90_2 "12.CAB 16 - Prof Datuk Dr Awang Sariyan") ***(PDF file too big!)***
 
-[CAB 16 - Tanya Jawab(.pdf, 538.72 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-4/cab-16---tanya-jawab.pdf?sfvrsn=1187f662_4 "CAB 16 - Tanya Jawab")
+[CAB 16 - Tanya Jawab(.pdf, 538.72 KB)](/files/cab-16---tanya-jawab.pdf)
