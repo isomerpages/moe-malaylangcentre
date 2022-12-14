@@ -794,7 +794,7 @@ Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Id
   <tr>
     <td class="tg-ag2m">Fauziah Mohamed Ata</td>
     <td class="tg-ag2m">Senior Teacher / Endeavor Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf?sfvrsn=f915a012_2"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)(.pdf, 667.25 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)(.pdf, 667.25 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Rosnidar Arshad</td>
@@ -804,12 +804,12 @@ Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Id
   <tr>
     <td class="tg-ag2m">Siti Rashidah Abdul Rahim</td>
     <td class="tg-ag2m">Teacher / Fuchun Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf?sfvrsn=a3d43ebb_2"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories (Penilian untuk Pembelajaran: Cerita Digital Saya)(.pdf, 174.5 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories (Penilian untuk Pembelajaran: Cerita Digital Saya)(.pdf, 174.5 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Rositah Yusof </td>
     <td class="tg-rfng">Teacher / Pei Hwa Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf?sfvrsn=9409a5c4_2"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)(.pdf, 244.81 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)(.pdf, 244.81 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
