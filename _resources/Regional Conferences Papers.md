@@ -33,27 +33,27 @@ Oragniser: Universiti Sains Islam Malaysia**
   <tr>
     <td class="tg-ag2m">Arfah Buang</td>
     <td class="tg-ag2m">Teacher / Singapore Science and Technology School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/33-arfah_kemahiran_menulis_penulisan_refleksi_menerusi_blog_sst_final.pdf?sfvrsn=58e399d4_2"><span style="color:#CA2126;background-color:transparent">Empowering Thoughts and Writing Through Reflection Taxonomy (Memperkasa Pemikiran dan Penulisan Melalui Taksonomi Refleksi)(.pdf, 214.67 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/33-arfah_kemahiran_menulis_penulisan_refleksi_menerusi_blog_sst_final.pdf)"><span style="color:#CA2126;background-color:transparent">Empowering Thoughts and Writing Through Reflection Taxonomy (Memperkasa Pemikiran dan Penulisan Melalui Taksonomi Refleksi)(.pdf, 214.67 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Norashikin Mohamed Ali</td>
     <td class="tg-rfng">Teacher / Yu Neng Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/34-norashikin_kertas_kerja_sekolah_rendah_yu_neng_final_160914.pdf?sfvrsn=974134a7_2"><span style="color:#CA2126;background-color:transparent">Use of Wallwisher to Enhance Understanding of Text Through Lesson on Vocabulary (Penggunaan Wallwisher untuk Mempertingkatkan Pemahaman Teks Melalui Pengajaran Perbendaharaan Kata)(.pdf, 165.61 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/34-norashikin_kertas_kerja_sekolah_rendah_yu_neng_final_160914.pdf)"><span style="color:#CA2126;background-color:transparent">Use of Wallwisher to Enhance Understanding of Text Through Lesson on Vocabulary (Penggunaan Wallwisher untuk Mempertingkatkan Pemahaman Teks Melalui Pengajaran Perbendaharaan Kata)(.pdf, 165.61 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Sarimah Ahmad</td>
     <td class="tg-ag2m">Teacher / Ngee Ann Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/35-sarimah_memahami_peribahasa_dengan_aurasma_ngee_ann_final.pdf?sfvrsn=91d2ce72_2"><span style="color:#CA2126;background-color:transparent">Learning of Proverb Through AURASMA Application (Pembelajaran Peribahasa melalui Aplikasi AURASMA)(.pdf, 467.22 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/35-sarimah_memahami_peribahasa_dengan_aurasma_ngee_ann_final.pdf)"><span style="color:#CA2126;background-color:transparent">Learning of Proverb Through AURASMA Application (Pembelajaran Peribahasa melalui Aplikasi AURASMA)(.pdf, 467.22 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Nor Zakiah Arif</td>
     <td class="tg-rfng">Teacher / Pei Tong Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/36-zakiah_penggunaan_ictbagi_meningkatkan_kemahiran_membaca_murid_pei_tong_final.pdf?sfvrsn=d3235bf4_2"><span style="color:#CA2126;background-color:transparent">The use of ICT to Improve Pupils Reading Skills (Penggunaan ICT Bagi Meningkatkan Kemahiran Membaca Murid)(.pdf, 716.26 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/36-zakiah_penggunaan_ictbagi_meningkatkan_kemahiran_membaca_murid_pei_tong_final.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT to Improve Pupils Reading Skills (Penggunaan ICT Bagi Meningkatkan Kemahiran Membaca Murid)(.pdf, 716.26 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Zaleha Ahmad </td>
     <td class="tg-ag2m">Senior Teacher / Park View Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/37-zaleha_kemahiran_menulis_peningkatan_kemahiran_sekolah_rendah_park_view_final.pdf?sfvrsn=fff65586_2"><span style="color:#CA2126;background-color:transparent">Writing skills: Pupils Skills Enhancement Through t 'Tinta Emas' Programme (Kemahiran Menulis: Peningkatan Kemahiran Dalam Kalangan Pelajar Melalui Program ‘Tinta Emas’)(.pdf, 182.31 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/37-zaleha_kemahiran_menulis_peningkatan_kemahiran_sekolah_rendah_park_view_final.pdf)"><span style="color:#CA2126;background-color:transparent">Writing skills: Pupils Skills Enhancement Through t 'Tinta Emas' Programme (Kemahiran Menulis: Peningkatan Kemahiran Dalam Kalangan Pelajar Melalui Program ‘Tinta Emas’)(.pdf, 182.31 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ Oragniser: Universiti Sains Islam Malaysia**
   <tr>
     <td class="tg-ag2m">Mohammad Farris bin Salleh</td>
     <td class="tg-ag2m">Guru / Sekolah Menengah Siglap</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/38-mohd_farris_keberkesanan_alat_seni_visualfinal.pdf?sfvrsn=4d3b4eba_2"><span style="color:#CA2126;background-color:transparent">Keberkesanan Alat Seni Visual bagi Penerapan Sastera Rakyat Melalui Pembelajaran Bahasa Melayu(.pdf, 556.52 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/38-mohd_farris_keberkesanan_alat_seni_visualfinal.pdf)"><span style="color:#CA2126;background-color:transparent">Keberkesanan Alat Seni Visual bagi Penerapan Sastera Rakyat Melalui Pembelajaran Bahasa Melayu(.pdf, 556.52 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Marini Bte Hassan </td>
