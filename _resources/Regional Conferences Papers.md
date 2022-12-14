@@ -454,7 +454,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Nuraini Abdul Gapor</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Raffles Girls Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/55-meningkatkan_keberkesanan_kembara_ilmu_berpandukan_pembelajaran_berasaskan_pengalaman.pdf?sfvrsn=3a5aacff_2"><span style="color:#CA2126;background-color:transparent">Improving the Effectiveness of Guided Adventure Learning Based on Experiential Learning (Meningkatkan Keberkesanan Kembara Ilmu Berpandukan Pembelajaran Berasaskan Pengalaman)(.pdf, 349.49 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/55-meningkatkan_keberkesanan_kembara_ilmu_berpandukan_pembelajaran_berasaskan_pengalaman.pdf)"><span style="color:#CA2126;background-color:transparent">Improving the Effectiveness of Guided Adventure Learning Based on Experiential Learning (Meningkatkan Keberkesanan Kembara Ilmu Berpandukan Pembelajaran Berasaskan Pengalaman)(.pdf, 349.49 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">56</td>
@@ -462,7 +462,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Pei Hwa Secondary School</td>
     <td class="tg-ag2m"> </td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/56-meningkatkan_kemahiran_berfikir_kreatif_penerokaan_pantun_muhd_arizal_ahmad.pdf?sfvrsn=ced48a34_2"><span style="color:#CA2126;background-color:transparent">Exploring Pantun: A Research on Creative Thinking Skills (Meneroka Pantun: Satu Kajian Kemahiran Berfikir Secara Kreatif)(.pdf, 350.76 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/56-meningkatkan_kemahiran_berfikir_kreatif_penerokaan_pantun_muhd_arizal_ahmad.pdf)"><span style="color:#CA2126;background-color:transparent">Exploring Pantun: A Research on Creative Thinking Skills (Meneroka Pantun: Satu Kajian Kemahiran Berfikir Secara Kreatif)(.pdf, 350.76 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">57</td>
@@ -470,7 +470,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">ML Teacher</td>
     <td class="tg-rfng">Chongzheng Primary School</td>
     <td class="tg-rfng" rowspan="3">Malaysia<br>5th International Language Learning Conference<br>Date: 2 - 4 November 2015<br>Organiser: The School of Languages, Literacies and Translation, Universiti Sains Malaysia</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/57-kaedah_kritikan_untuk_memperkasa_pelajar_dengan_kemahiran_penulisan_karangan_noor_haida.pdf?sfvrsn=fc992282_2"><span style="color:#CA2126;background-color:transparent">Criticism Method in Essay Writing Skills (Kaedah Kritikan Dalam Kemahiran Penulisan Karangan)(.pdf, 276.54 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/57-kaedah_kritikan_untuk_memperkasa_pelajar_dengan_kemahiran_penulisan_karangan_noor_haida.pdf)"><span style="color:#CA2126;background-color:transparent">Criticism Method in Essay Writing Skills (Kaedah Kritikan Dalam Kemahiran Penulisan Karangan)(.pdf, 276.54 KB)</span></a></td>
     <td class="tg-rfng" rowspan="3">2015</td>
   </tr>
   <tr>
@@ -478,14 +478,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Nurul Ain Kamarulzaman</td>
     <td class="tg-ag2m">ML Teacher</td>
     <td class="tg-ag2m">Tanjong Katong Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/58-program_bacalah_adikku_nurul_ain_kamarulzaman.pdf?sfvrsn=d1ddff02_2"><span style="color:#CA2126;background-color:transparent">Bacalah Adikku' Programme: Cultivating Community Service Through Writing (Program 'Bacalah Adikku': Membudayakan Khidmat Masyarakat Menerusi Penulisan)(.pdf, 274.86 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/58-program_bacalah_adikku_nurul_ain_kamarulzaman.pdf)"><span style="color:#CA2126;background-color:transparent">Bacalah Adikku' Programme: Cultivating Community Service Through Writing (Program 'Bacalah Adikku': Membudayakan Khidmat Masyarakat Menerusi Penulisan)(.pdf, 274.86 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">59</td>
     <td class="tg-rfng">Siti Fatimah Hassan</td>
     <td class="tg-rfng">ML Teacher</td>
     <td class="tg-rfng">Yu Neng Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/59-meningkatkan_kemahiran_murid_siti_fatimah_hassan.pdf?sfvrsn=c56f5b14_2"><span style="color:#CA2126;background-color:transparent">Enhancing Pupils Skills in Answering Comprehension Subjective Questions Using Text Assumptions Technique (Meningkatkan Kemahiran Murid dalam Menjawab Soalan Kefahaman Subjektif Menggunakan Teknik Teks Andaian)(.pdf, 701.94 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/59-meningkatkan_kemahiran_murid_siti_fatimah_hassan.pdf)"><span style="color:#CA2126;background-color:transparent">Enhancing Pupils Skills in Answering Comprehension Subjective Questions Using Text Assumptions Technique (Meningkatkan Kemahiran Murid dalam Menjawab Soalan Kefahaman Subjektif Menggunakan Teknik Teks Andaian)(.pdf, 701.94 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
