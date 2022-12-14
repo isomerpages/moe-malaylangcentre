@@ -45,7 +45,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Guru Kanan</td>
     <td class="tg-rfng">Sek Men Springfield</td>
     <td class="tg-rfng">Brunei<br><br>Kongress Antarabangsa Bahasa dan Budaya Melayu 16 – 19 September 2011 Dewan Bahasa dan Pustaka , Brunei</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf?sfvrsn=46270ec1_2"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning(.pdf, 283.37 KB)</span></a><br>(Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)</td>
+    <td class="tg-rhd3"><a href="[](/files/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf)"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning(.pdf, 283.37 KB)</span></a><br>(Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)</td>
     <td class="tg-rfng">2011</td>
   </tr>
   <tr>
