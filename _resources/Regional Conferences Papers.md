@@ -102,7 +102,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Master Teacher</td>
     <td class="tg-ag2m">Malay Language Centre of Singapore (MLCS)</td>
     <td class="tg-ag2m" rowspan="5">Indonesia<br>Seminar on Pedagogy of Malay, Indonesian and Other Languages (PMIOL)<br>13 – 16 June 2012<br>Organiser: Indonesian University of Education, Bandung Indonesia</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/8-kurikulum_berasaskan_sekolah_bagi_meningkatkan_inovasi_dalam_pengajaran_dan_pembelajaran_bahasa_melayu_fadilah_isnin.pdf?sfvrsn=61bf0019_2"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(.pdf, 746.12 KB)</span></a>(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
+    <td class="tg-dewj"><a href="[](/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf)"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(.pdf, 746.12 KB)</span></a>(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)</td>
     <td class="tg-ag2m" rowspan="5">2012</td>
   </tr>
   <tr>
@@ -110,14 +110,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Haryati Surana</td>
     <td class="tg-rfng">Subject Head</td>
     <td class="tg-rfng">West View Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf?sfvrsn=ab1ef247_2"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast(.pdf, 246.22 KB)</span></a> (Pembelajaran Kefahaman Mendengar Melalui Podcast)</td>
+    <td class="tg-rhd3"><a href="[](/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast(.pdf, 246.22 KB)</span></a> (Pembelajaran Kefahaman Mendengar Melalui Podcast)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">10</td>
     <td class="tg-ag2m">Asmidah Mohd Jailani</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Fuchun Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani_-_mlcsupdated.pdf?sfvrsn=99931595_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama(.pdf, 259.74 KB)</span></a> (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)</td>
+    <td class="tg-dewj"><a href="[](/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama(.pdf, 259.74 KB)</span></a> (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)</td>
   </tr>
   <tr>
     <td class="tg-rfng">11</td>
