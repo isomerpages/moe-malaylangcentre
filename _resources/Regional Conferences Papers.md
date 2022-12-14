@@ -138,17 +138,17 @@ description: ""
   <tr>
     <td class="tg-rfng">Zuraidah Saidin</td>
     <td class="tg-rfng">Teacher / Huamin Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/30-zuraidahsaidin_sekolah_rendah_beacon_mlcs.pdf?sfvrsn=45111a19_2"><span style="color:#CA2126;background-color:transparent">Upholding Language and Culture Through use of ICT and Children Literature In the Extensive Reading Program (Memperkasa Bahasa dan Budaya Melalui Penggunaan ICT dan Sastera Kanak-kanak Dalam Program Bacaan Luas)(.pdf, 167.1 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/30-zuraidahsaidin_sekolah_rendah_beacon_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Upholding Language and Culture Through use of ICT and Children Literature In the Extensive Reading Program (Memperkasa Bahasa dan Budaya Melalui Penggunaan ICT dan Sastera Kanak-kanak Dalam Program Bacaan Luas)(.pdf, 167.1 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Alia Moreta</td>
     <td class="tg-ag2m">Teacher / Dunman Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/31-alia_moreta_sekolah_menengah_dunman_mlcs.pdf?sfvrsn=6d9f420e_2"><span style="color:#CA2126;background-color:transparent">Usage of iPad Application in Oral Lesson Through the Malay Language Program: Speak with Confidence' (Penggunaan Aplikasi iPad dalam Pembelajaran Lisan Menerusi Program Bahasa Melayu: Tuturlah Dengan Yakin’)(.pdf, 500.21 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/31-alia_moreta_sekolah_menengah_dunman_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Usage of iPad Application in Oral Lesson Through the Malay Language Program: Speak with Confidence' (Penggunaan Aplikasi iPad dalam Pembelajaran Lisan Menerusi Program Bahasa Melayu: Tuturlah Dengan Yakin’)(.pdf, 500.21 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Khairunnisa Mohd Isa</td>
     <td class="tg-rfng">Teacher / Xishan Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/32-khairunnisa_sekolah_rendah_xishan_mlcs.pdf?sfvrsn=48482bcf_2"><span style="color:#CA2126;background-color:transparent">Implementation of Stellar In the Usage of Mekar Big Book - Pintar Package (Penerapan Stellar Dalam Penggunaan Buku Besar Mekar - Pakej Pintar)(.pdf, 374.04 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/32-khairunnisa_sekolah_rendah_xishan_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Stellar In the Usage of Mekar Big Book - Pintar Package (Penerapan Stellar Dalam Penggunaan Buku Besar Mekar - Pakej Pintar)(.pdf, 374.04 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
