@@ -38,13 +38,13 @@ Terima kasih.
 
 [Ucaptama](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/01d-ucaptama.pdf)
 
-Visi Arif Budiman: [](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)M[](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/0-2-ucaptama_final.pdf)enyulam Kecemerlangan Pengajaran dan Pembelajaran Bahasa
+Visi Arif Budiman: Menyulam Kecemerlangan Pengajaran dan Pembelajaran Bahasa
 
 dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan
 
 _Penyampai Ucaptama, Profesor Madya Dr. Hadijah Rahmat_
 
-1. [Google Earth Sebagai Strategi Prapenulisan Bagi Peningkatan Kosa Kata](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/1.pdf)
+1. [Google Earth Sebagai Strategi Prapenulisan Bagi Peningkatan Kosa Kata](/files/1%20.pdf)
 
     _Dewi Kartika Sudirman dan Ribut Nawi_
 
