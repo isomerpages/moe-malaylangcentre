@@ -191,7 +191,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Rositah Yusof</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Pei Hwa Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf?sfvrsn=9409a5c4_2"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials(.pdf, 244.81 KB)</span></a> (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)</td>
+    <td class="tg-dewj"><a href="[](/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials(.pdf, 244.81 KB)</span></a> (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)</td>
   </tr>
   <tr>
     <td class="tg-rfng">21</td>
@@ -199,7 +199,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Senior Teacher</td>
     <td class="tg-rfng">Bishan Park Secondary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)<br>24 – 28 October 2013<br>Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/21-djohan_rahman_2013_upsi_150813.pdf?sfvrsn=49c9fa0e_2"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu(.pdf, 438.65 KB)</span></a>(Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="[](/files/21-djohan_rahman_2013_upsi_150813.pdf)"><span style="color:#CA2126;background-color:transparent">Application of SDL and COL Through Advertisement Publication: Alternative Approaches in the Effort to Empower Bahasa Melayu(.pdf, 438.65 KB)</span></a>(Penerapan Kaedah SDL dan COL Melalui Penerbitan Iklan: Pendekatan Alternatif dalam Usaha untuk Memperkas Bahasa Melayu)</td>
     <td class="tg-rfng" rowspan="4">2013</td>
   </tr>
   <tr>
@@ -207,21 +207,21 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Mohamed Izzat Mohd Sarip</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Elias Park Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf?sfvrsn=21dd439c_2"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning(.pdf, 1004.13 KB)</span></a> (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)</td>
+    <td class="tg-dewj"><a href="[](/files/22-muhd_izzat_-_kertas_kerja_upsi_2013_150813.pdf)"><span style="color:#CA2126;background-color:transparent">The effectiveness of teaching Malay Language Through Collaboration and Application of ICT in Learning(.pdf, 1004.13 KB)</span></a> (Keberkesanan Pengajaran Bahasa Melayu Secara Kolaborasi dan Penerapan ICT dalam Pembelajaran)</td>
   </tr>
   <tr>
     <td class="tg-rfng">23</td>
     <td class="tg-rfng">Hajjah Marzia</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Fuchun Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf?sfvrsn=3dbe21be_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 209.52 KB)</span></a>(Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)</td>
+    <td class="tg-rhd3"><a href="[](/files/23-hajjah_marzia_-_kertas_kerja_upsi_2013150813.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of Scaffolding Replacement of Vocabulary in Writing Skills.(.pdf, 209.52 KB)</span></a>(Keberkesanan Perancahan dan Penggantian Kosa kata dalam kemahiran menulis)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">24</td>
     <td class="tg-ag2m">Ramna Johana</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">St Hilda Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/24-ramna_johana_-_kertas_kerja_upsi_2013150813.pdf?sfvrsn=d4c454ae_2"><span style="color:#CA2126;background-color:transparent">The Effectiveness of D.M.A Method in Narative Compostion(.pdf, 580.97 KB)</span></a>(Keberkesanan Kaedah D.M.A dalam Karangan Naratif)</td>
+    <td class="tg-dewj"><a href="[](/files/24-ramna_johana_-_kertas_kerja_upsi_2013150813.pdf)"><span style="color:#CA2126;background-color:transparent">The Effectiveness of D.M.A Method in Narative Compostion(.pdf, 580.97 KB)</span></a>(Keberkesanan Kaedah D.M.A dalam Karangan Naratif)</td>
   </tr>
   <tr>
     <td class="tg-rfng">25</td>
@@ -229,7 +229,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Tanjong Katong Secondary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>2nd International Conference on Language and Teaching: Passing the baton: Revitalising, preserving and sustaining languages of the world.<br>06 – 09 November 2013<br>Organiser: Academy of Language, Universiti Teknologi MARA Kedah</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/25-voa_nur_ain_mohd_amin.pdf?sfvrsn=4b318802_2"><span style="color:#CA2126;background-color:transparent">iMotivate: Using Mobile Apps to Motivate Learners of Second Language(.pdf, 327.26 KB)</span></a> (iMotivate: Penggunaann Apps Bergerak bagi Memotivasi Pelajar Bahasa Kedua)</td>
+    <td class="tg-rhd3"><a href="[](/files/25-voa_nur_ain_mohd_amin.pdf)"><span style="color:#CA2126;background-color:transparent">iMotivate: Using Mobile Apps to Motivate Learners of Second Language(.pdf, 327.26 KB)</span></a> (iMotivate: Penggunaann Apps Bergerak bagi Memotivasi Pelajar Bahasa Kedua)</td>
     <td class="tg-rfng" rowspan="4">2013</td>
   </tr>
   <tr>
