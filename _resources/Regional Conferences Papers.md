@@ -378,7 +378,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Rohani Mohamed Ismail</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Broadrick Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/45-rohani_ismail_konsep_padi_dalam_penulisan_karangan_naratif.pdf?sfvrsn=3e870599_2"><span style="color:#CA2126;background-color:transparent">‘PADI’ Concept in Narrative Composition Writing(.pdf, 342.01 KB)</span></a> (Konsep ‘PADI’ dalam Penulisan Karangan Naratif)</td>
+    <td class="tg-rhd3"><a href="[](/files/45-rohani_ismail_konsep_padi_dalam_penulisan_karangan_naratif.pdf)"><span style="color:#CA2126;background-color:transparent">‘PADI’ Concept in Narrative Composition Writing(.pdf, 342.01 KB)</span></a> (Konsep ‘PADI’ dalam Penulisan Karangan Naratif)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">46</td>
@@ -386,7 +386,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">Bedok Green Primary School</td>
     <td class="tg-ag2m" rowspan="3">Malaysia<br>National Educational Research Seminar (SPPK2015)<br>Date: 5 – 7 August 2015<br>Organiser: Institute of Teachers Education (IPG) and Malaysian Ministry of Education</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/46-sppk2015_abs65_zaimah_mohd_ali.pdf?sfvrsn=aaffa23a_2"><span style="color:#CA2126;background-color:transparent">Interaction with the text by ’PAS’ Method(.pdf, 355.21 KB)</span></a>(Berinteraksi dengan Teks melalui Kaedah ‘PAS’(Probable Passage, Anticipation Guide and Summarization of Text))</td>
+    <td class="tg-dewj"><a href="[](/files/46-sppk2015_abs65_zaimah_mohd_ali.pdf)"><span style="color:#CA2126;background-color:transparent">Interaction with the text by ’PAS’ Method(.pdf, 355.21 KB)</span></a>(Berinteraksi dengan Teks melalui Kaedah ‘PAS’(Probable Passage, Anticipation Guide and Summarization of Text))</td>
     <td class="tg-ag2m" rowspan="3">2015</td>
   </tr>
   <tr>
@@ -394,7 +394,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Siti Fadhilah Saneb</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Gongshang Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/47-sppk2015_abs92_siti_fadilah_saneb.pdf?sfvrsn=5945bc91_2"><span style="color:#CA2126;background-color:transparent">Proverb Learning Through the Use of Narrative Techniques and Comic Life Software(.pdf, 348.26 KB)</span></a><br>(Pembelajaran Peribahasa melalui Penggunaan Teknik Penceritaan dan Perisian Comic Life)</td>
+    <td class="tg-rhd3"><a href="[](/files/47-sppk2015_abs92_siti_fadilah_saneb.pdf)"><span style="color:#CA2126;background-color:transparent">Proverb Learning Through the Use of Narrative Techniques and Comic Life Software(.pdf, 348.26 KB)</span></a><br>(Pembelajaran Peribahasa melalui Penggunaan Teknik Penceritaan dan Perisian Comic Life)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">48</td>
