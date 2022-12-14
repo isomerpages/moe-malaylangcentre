@@ -424,14 +424,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Nurisha Hamid</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Coral Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/51-kajian_pengajaran_perbualan_berdasarkan_gambar_dengan_menggunakan_teknik_ktwp.pdf?sfvrsn=c4d8da1f_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Use of KTWP Techniques in Teaching Oral Based Picture(Kajian Pengajaran: Penggunaan Teknik KTWP dalam Pengajaran Lisan Berdasarkan Gambar)(.pdf, 337.52 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/51-kajian_pengajaran_perbualan_berdasarkan_gambar_dengan_menggunakan_teknik_ktwp.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Use of KTWP Techniques in Teaching Oral Based Picture(Kajian Pengajaran: Penggunaan Teknik KTWP dalam Pengajaran Lisan Berdasarkan Gambar)(.pdf, 337.52 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">52</td>
     <td class="tg-ag2m">Siti Raihanni Selamat</td>
     <td class="tg-ag2m">Senior Teacher</td>
     <td class="tg-ag2m">Hai Sing Catholic Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/52-kajian_pengajaran_penerapan_teori_kecerdasan_pelbagai_dalam_pengajaran_jenis-jenis_ayat.pdf?sfvrsn=cfdcbda5_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Application of Multiple Intelligences Theory in Teaching Types of Sentences(Kajian Pengajaran: Penerapan Teori Kecerdasan Pelbagai dalam Pengajaran Jenis-jenis Ayat)(.pdf, 110.33 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/52-kajian_pengajaran_penerapan_teori_kecerdasan_pelbagai_dalam_pengajaran_jenis-jenis_ayat.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Application of Multiple Intelligences Theory in Teaching Types of Sentences(Kajian Pengajaran: Penerapan Teori Kecerdasan Pelbagai dalam Pengajaran Jenis-jenis Ayat)(.pdf, 110.33 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">53</td>
@@ -439,7 +439,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Greenwood Primary School</td>
     <td class="tg-rfng" rowspan="3">Malaysia<br>International Conference on Language Learning: Evolution and Revolution (SoLLS.INTEC.15)<br>Date: 29 – 30 September 2015<br>Organiser : The School of Language and Linguistic, National University of Malaysia</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/53-kemahiran_membaca_strategi_dekon_dalam_mempertingkat_kelakonan_bacaan_lantang_mohd_shaaban_mohd_papiai.pdf?sfvrsn=cc95c2ab_2"><span style="color:#CA2126;background-color:transparent">Enhancing Reading Aloud Performance through DEKON strategies (Strategi DEKON dalam Mempertingkat Kelakonan Bacaan Lantang)(.pdf, 252.14 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/53-kemahiran_membaca_strategi_dekon_dalam_mempertingkat_kelakonan_bacaan_lantang_mohd_shaaban.pdf)"><span style="color:#CA2126;background-color:transparent">Enhancing Reading Aloud Performance through DEKON strategies (Strategi DEKON dalam Mempertingkat Kelakonan Bacaan Lantang)(.pdf, 252.14 KB)</span></a></td>
     <td class="tg-rfng" rowspan="4">2015</td>
   </tr>
   <tr>
@@ -447,7 +447,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Norazlina Abdul Jalil</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Naval Base Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/54-cerpen_sebagai_wahana_memupuk_minat_membaca_norazlina_abdul_jalil.pdf?sfvrsn=71b7ebe1_2"><span style="color:#CA2126;background-color:transparent">Short Stories as a Catalyst to Foster Interests in Reading (Cerpen sebagai Wahana Memupuk Minat Membaca)(.pdf, 222.18 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/54-cerpen_sebagai_wahana_memupuk_minat_membaca_norazlina_abdul_jalil.pdf)"><span style="color:#CA2126;background-color:transparent">Short Stories as a Catalyst to Foster Interests in Reading (Cerpen sebagai Wahana Memupuk Minat Membaca)(.pdf, 222.18 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">55</td>
