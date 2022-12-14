@@ -48,7 +48,13 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
     <input type="checkbox" id="accordion34">
     <label for="accordion34"><h4>Jilid 3 - Cetakan 2015</h4></label>
     <div>
-      LMAOO
+      <p><img src="/images/jilid-3---cetakan-2015.png" alt="Jilid 3 - Cetakan 2015"></p>
+<p><a href="/files/mlcs_cab_jilid_3_sekapur_sirih.pdf">Sekapur Sirih(.pdf, 903.29 KB)</a></p>
+<p><a href="/files/mlcs_cab_9_-_prof_mahsun_23_feb_2013.pdf">Ceramah Arif Budiman 9 - Prof Dr Mahsun(.pdf, 1.25 MB)</a></p>
+<p><a href="/files/mlcs_cab_10_-_prof_arndt_21_sep_2013.pdf">Ceramah Arif Budiman 10 - Prof Dr Arndt Graf(.pdf, 1.43 MB)</a></p>
+<p><a href="/files/mlcs_cab_11_-_datuk_al_azhar_14_feb_2015.pdf">Ceramah Arif Budiman 11 - Datuk Al Azhar(.pdf, 1.5 MB)</a></p>
+<p><a href="/files/mlcs_cab_12_-_prof_tatiana_19_sep_2015.pdf">Ceramah Arif Budiman 12 - Prof Dr Tatiana Denisova(.pdf, 1.15 MB)</a></p>
+<p><a href="/files/mlcs_cab_penghargaan.pdf">Penghargaan(.pdf, 433.43 KB)</a></p>
     </div>
   </li>
   <li>
@@ -60,16 +66,3 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
   </li>
 </ul>
 
-![Jilid 3 - Cetakan 2015](/images/jilid-3---cetakan-2015.png)
-
-[Sekapur Sirih(.pdf, 903.29 KB)](/files/mlcs_cab_jilid_3_sekapur_sirih.pdf)
-
-[Ceramah Arif Budiman 9 - Prof Dr Mahsun(.pdf, 1.25 MB)](/files/mlcs_cab_9_-_prof_mahsun_23_feb_2013.pdf)
-
-[Ceramah Arif Budiman 10 - Prof Dr Arndt Graf(.pdf, 1.43 MB)](/files/mlcs_cab_10_-_prof_arndt_21_sep_2013.pdf)
-
-[Ceramah Arif Budiman 11 - Datuk Al Azhar(.pdf, 1.5 MB)](/files/mlcs_cab_11_-_datuk_al_azhar_14_feb_2015.pdf)
-
-[Ceramah Arif Budiman 12 - Prof Dr Tatiana Denisova(.pdf, 1.15 MB)](/files/mlcs_cab_12_-_prof_tatiana_19_sep_2015.pdf)
-
-[Penghargaan(.pdf, 433.43 KB)](/files/mlcs_cab_penghargaan.pdf)
