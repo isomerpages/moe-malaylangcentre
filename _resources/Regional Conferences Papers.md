@@ -3,7 +3,160 @@ title: Regional Conferences Papers
 permalink: /mlcs/resources/regional-conferences/
 description: ""
 ---
+##### Malaysia
 
+**Language and Education Conference 2014 (Konferens Bahasa dan Pendidikan 2014)   
+20 - 21 October 2014   
+Oragniser: Universiti Sains Islam Malaysia**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Arfah Buang</td>
+    <td class="tg-ag2m">Teacher / Singapore Science and Technology School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/33-arfah_kemahiran_menulis_penulisan_refleksi_menerusi_blog_sst_final.pdf?sfvrsn=58e399d4_2"><span style="color:#CA2126;background-color:transparent">Empowering Thoughts and Writing Through Reflection Taxonomy (Memperkasa Pemikiran dan Penulisan Melalui Taksonomi Refleksi)(.pdf, 214.67 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Norashikin Mohamed Ali</td>
+    <td class="tg-rfng">Teacher / Yu Neng Primary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/34-norashikin_kertas_kerja_sekolah_rendah_yu_neng_final_160914.pdf?sfvrsn=974134a7_2"><span style="color:#CA2126;background-color:transparent">Use of Wallwisher to Enhance Understanding of Text Through Lesson on Vocabulary (Penggunaan Wallwisher untuk Mempertingkatkan Pemahaman Teks Melalui Pengajaran Perbendaharaan Kata)(.pdf, 165.61 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Sarimah Ahmad</td>
+    <td class="tg-ag2m">Teacher / Ngee Ann Secondary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/35-sarimah_memahami_peribahasa_dengan_aurasma_ngee_ann_final.pdf?sfvrsn=91d2ce72_2"><span style="color:#CA2126;background-color:transparent">Learning of Proverb Through AURASMA Application (Pembelajaran Peribahasa melalui Aplikasi AURASMA)(.pdf, 467.22 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Nor Zakiah Arif</td>
+    <td class="tg-rfng">Teacher / Pei Tong Primary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/36-zakiah_penggunaan_ictbagi_meningkatkan_kemahiran_membaca_murid_pei_tong_final.pdf?sfvrsn=d3235bf4_2"><span style="color:#CA2126;background-color:transparent">The use of ICT to Improve Pupils Reading Skills (Penggunaan ICT Bagi Meningkatkan Kemahiran Membaca Murid)(.pdf, 716.26 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Zaleha Ahmad </td>
+    <td class="tg-ag2m">Senior Teacher / Park View Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/37-zaleha_kemahiran_menulis_peningkatan_kemahiran_sekolah_rendah_park_view_final.pdf?sfvrsn=fff65586_2"><span style="color:#CA2126;background-color:transparent">Writing skills: Pupils Skills Enhancement Through t 'Tinta Emas' Programme (Kemahiran Menulis: Peningkatan Kemahiran Dalam Kalangan Pelajar Melalui Program ‘Tinta Emas’)(.pdf, 182.31 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Malaysia
+
+**International Conference on Language Studies 2014 (iCLS 2014)**   
+**27 – 28 October 2014**   
+**Organiser: Universiti Malaysia, Sarawak**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Mohammad Farris bin Salleh</td>
+    <td class="tg-ag2m">Guru / Sekolah Menengah Siglap</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/38-mohd_farris_keberkesanan_alat_seni_visualfinal.pdf?sfvrsn=4d3b4eba_2"><span style="color:#CA2126;background-color:transparent">Keberkesanan Alat Seni Visual bagi Penerapan Sastera Rakyat Melalui Pembelajaran Bahasa Melayu(.pdf, 556.52 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Marini Bte Hassan </td>
+    <td class="tg-rfng">Guru / Sekolah CHIJ Katong Convent</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/39-marini_hassanmeningkatkan_rasa_hormat_terhadap_bahasa_melayu_dalam_konteks_singapura_melalui_pembelajaran_bergerak.pdf?sfvrsn=d75336b8_2"><span style="color:#CA2126;background-color:transparent">Meningkatkan Rasa Hormat Terhadap Bahasa Melayu dalam Konteks Singapura Melalui Pembelajaran Bergerak: Satu Kajian Kes(.pdf, 408.19 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Daing Noor Ashikin Binte Bahnan</td>
+    <td class="tg-ag2m">Guru / Sekolah Rendah Admiralty</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/40-penggunaa_linoit_dan_cartoonist_untuk_menjana_idea_dan_plot_karangan_naratif_final.pdf?sfvrsn=66afff65_2"><span style="color:#CA2126;background-color:transparent">Penggunaan Perisian Linoit dan Cartoonist Untuk Menjana Idea dan Plot Karangan Naratif Murid(.pdf, 537.71 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Junainah binte Mohamed</td>
+    <td class="tg-rfng">Guru  / Sekolah Rendah Greenwood</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/41-junainah_mohamed_penggunaan_teknik_penyusun_grafik_dan_penyoalan_5w1h_dalam_mengecam_idea_teks_naratif.pdf?sfvrsn=c55e656f_2"><span style="color:#CA2126;background-color:transparent">Penggunaan Teknik Penyusun Grafik dan Penyoalan 5W1H dalam Mengecam Idea Utama Teks Naratif Melalui Pembelajaran Koperatif(.pdf, 419.64 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Indonesia
+
+**World Association of Lesson Studies International Conference 2014   
+25 – 28 November 2014   
+Organiser: Indonesian University of Education (UPI) Bandung**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Lila Salleh</td>
+    <td class="tg-ag2m">Subject Head / Compassvale Secondary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/42-lila_salleh_strategi_penulisan_naratif_untuk_pelajar_menengah_atas.pdf?sfvrsn=a98144b6_2"><span style="color:#CA2126;background-color:transparent">Narrative Writing Strategies for Upper Secondary Students with Low and Medium Abilities (Strategi Penulisan Naratif untuk Pelajar Menengah Atas Yang Berkemahiran Rendah dan Sederhana)(.pdf, 349.6 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Suriana Mohamed Bakri</td>
+    <td class="tg-rfng">Teacher / Kranji Primary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/43-suriana_mohamed_bakri_penggunaan_pembelajaran_terarah_secara_kendiri.pdf?sfvrsn=8d54b6c8_2"><span style="color:#CA2126;background-color:transparent">Use of Student Focused Learning and Collaborative Learning strategies in Writing Narrative Composition Using Idiom for Primary 4 Pupils (Penggunaan Pembelajaran Murid Terarah dan Pembelajaran Kolaboratif Dalam penulisan Karangan Naratif Dengan Menggunakan Simpulan Bahasa untuk Murid Darjah 4)(.pdf, 421.16 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Uma d/o Thiruselvam</td>
+    <td class="tg-ag2m">Teacher  / Chong Boon Secondary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/44-uma_thiruselvam_penggunaan_newsmaker_dalam_membina_kemahiran_bertutur.pdf?sfvrsn=e60b748d_2"><span style="color:#CA2126;background-color:transparent">Use of Newsmaker in Building Oral Skills (Penggunaan Newsmaker Dalam Membina Kemahiran Bertutur)(.pdf, 506.53 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Rohani Mohamed Ismail</td>
+    <td class="tg-rfng">Teacher / Broadrick Secondary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/45-rohani_ismail_konsep_padi_dalam_penulisan_karangan_naratif.pdf?sfvrsn=3e870599_2"><span style="color:#CA2126;background-color:transparent">‘PADI’ Concept in Narrative Composition Writing (Konsep ‘PADI’ dalam Penulisan Karangan Naratif)(.pdf, 342.01 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ##### PROGRAM PERSIDANGAN SERANTAU
 
