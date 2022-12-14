@@ -154,14 +154,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Daniel Phua</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">St Hilda Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/15-kkpenuh_-_daniel_phua.pdf?sfvrsn=be11911_2"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing(.pdf, 554.75 KB)</span></a> (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)</td>
+    <td class="tg-rhd3"><a href="[](/files/15-kkpenuh_-_daniel_phua.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing(.pdf, 554.75 KB)</span></a> (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">16</td>
     <td class="tg-ag2m">Fauziah Osman</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Greenwood Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/16-kkpenuh_-_fauziah_osman.pdf?sfvrsn=719315e7_2"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning(.pdf, 276.24 KB)</span></a> (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)</td>
+    <td class="tg-dewj"><a href="[](/files/16-kkpenuh_-_fauziah_osman.pdf)"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning(.pdf, 276.24 KB)</span></a> (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)</td>
   </tr>
   <tr>
     <td class="tg-rfng">17</td>
@@ -169,7 +169,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Senior Teacher</td>
     <td class="tg-rfng">Endeavor Primary School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br><br>Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)<br>14 – 17 October 2012<br>Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf?sfvrsn=f915a012_2"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils(.pdf, 667.25 KB)</span></a> (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)</td>
+    <td class="tg-rhd3"><a href="[](/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils(.pdf, 667.25 KB)</span></a> (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)</td>
     <td class="tg-rfng" rowspan="4">2012</td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Siti Rashidah Abdul Rahim</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Fuchun Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf?sfvrsn=a3d43ebb_2"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories(.pdf, 174.5 KB)</span></a> (Penilian untuk Pembelajaran: Cerita Digital Saya)</td>
+    <td class="tg-rhd3"><a href="[](/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories(.pdf, 174.5 KB)</span></a> (Penilian untuk Pembelajaran: Cerita Digital Saya)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">20</td>
