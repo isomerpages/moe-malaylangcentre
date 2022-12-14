@@ -401,7 +401,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Taufek Siniwi</td>
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">Xingnan Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/48-sppk2015_abs64_taufek_bin_siniwi.pdf?sfvrsn=cd50979a_2"><span style="color:#CA2126;background-color:transparent">Structured conversations and Application Value in Oral(.pdf, 269.27 KB)</span></a><br>(Perbualan Berstruktur dan Penerapan Nilai Dalam Lisan)</td>
+    <td class="tg-dewj"><a href="[](/files/48-sppk2015_abs64_taufek_bin_siniwi.pdf)"><span style="color:#CA2126;background-color:transparent">Structured conversations and Application Value in Oral(.pdf, 269.27 KB)</span></a><br>(Perbualan Berstruktur dan Penerapan Nilai Dalam Lisan)</td>
   </tr>
   <tr>
     <td class="tg-rfng">49</td>
@@ -409,7 +409,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Huamin Primary School</td>
     <td class="tg-rfng" rowspan="4">Indonesia<br>6th Indonesian Conference on Lesson Study (6th ICLS)<br>Date: 17 – 19 September 2015<br>Organiser: Ganesha University of Education, Bali Indonesia<br></td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/49-kajian_pengajaran_meningkatkan_kemahiran_bertutur_bagi_murid_sekolah_rendah.pdf?sfvrsn=a527beb8_2"><span style="color:#CA2126;background-color:transparent">Lesson Study : Enhancing Oral Skills For Primary School Pupils(.pdf, 268.21 KB)</span></a><br>(Kajian Pengajaran: Meningkatkan Kemahiran Bertutur Bagi Murid Sekolah Rendah)</td>
+    <td class="tg-rhd3"><a href="[](/files/49-kajian_pengajaran_meningkatkan_kemahiran_bertutur_bagi_murid_sekolah_rendah.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study : Enhancing Oral Skills For Primary School Pupils(.pdf, 268.21 KB)</span></a><br>(Kajian Pengajaran: Meningkatkan Kemahiran Bertutur Bagi Murid Sekolah Rendah)</td>
     <td class="tg-rfng" rowspan="4">2015</td>
   </tr>
   <tr>
@@ -417,7 +417,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Alifa Ismail</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">St Andrews Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/50-kajian_pengajaran___pbl_dalam_penulisan_karangan_ekspositori.pdf?sfvrsn=c5244f03_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: PBL in Writing Expository Essays(.pdf, 159.66 KB)</span></a><br>(Kajian Pengajaran: PBL dalam Penulisan Karangan Ekspositori)</td>
+    <td class="tg-dewj"><a href="[](/files/50-kajian_pengajaran___pbl_dalam_penulisan_karangan_ekspositori.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: PBL in Writing Expository Essays(.pdf, 159.66 KB)</span></a><br>(Kajian Pengajaran: PBL dalam Penulisan Karangan Ekspositori)</td>
   </tr>
   <tr>
     <td class="tg-rfng">51</td>
