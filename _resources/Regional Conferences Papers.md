@@ -495,43 +495,8 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <input type="checkbox" id="accordion37">
     <label for="accordion37"><h4>Tahun 2011</h4></label>
     <div>
-      LMAOOO
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion38">
-    <label for="accordion38"><h4>Tahun 2012</h4></label>
-    <div>
-      LMAOOO
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion39">
-    <label for="accordion39"><h4>Tahun 2013</h4></label>
-    <div>
-      LMAOOO
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion40">
-    <label for="accordion40"><h4>Tahun 2014</h4></label>
-    <div>
-      LMAOOO
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion41">
-    <label for="accordion41"><h4>Tahun 2015</h4></label>
-    <div>
-      LMAOOO
-    </div>
-	</li> 
-</ul>
-
-##### **Brunei**   
-  
-**Kongress Antarabangsa Bahasa dan Budaya Melayu 16 – 19 September 2011 Dewan Bahasa dan Pustaka , Brunei**
-
+      <h5 id="brunei"><strong>Brunei</strong></h5>
+<p><strong>Kongress Antarabangsa Bahasa dan Budaya Melayu 16 – 19 September 2011 Dewan Bahasa dan Pustaka , Brunei</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -559,10 +524,8 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
 </tbody>
 </table>
 
-##### Malaysia   
-  
-**5th International Malaysian Educational Technology Convention 2011 (IMETC 2011) 15 – 20 October 2011 Organiser: Universiti Sains Malaysia, Penang**
-
+<h5 id="malaysia">Malaysia</h5>
+<p><strong>5th International Malaysian Educational Technology Convention 2011 (IMETC 2011) 15 – 20 October 2011 Organiser: Universiti Sains Malaysia, Penang</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -602,12 +565,8 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
 </tbody>
 </table>
 
-##### Malaysia  
-  
-**3rd International Conference on Teaching and Learning (ICTL2011)   
-13 – 17 November 2011   
-Park Royal Hotel, Penang , Malaysia**
-
+<h5 id="malaysia-1">Malaysia</h5>
+<p><strong>3rd International Conference on Teaching and Learning (ICTL2011) <br>13 – 17 November 2011 <br>Park Royal Hotel, Penang , Malaysia</strong></p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -668,3 +627,35 @@ Park Royal Hotel, Penang , Malaysia**
   </tr>
 </tbody>
 </table>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion38">
+    <label for="accordion38"><h4>Tahun 2012</h4></label>
+    <div>
+      LMAOOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion39">
+    <label for="accordion39"><h4>Tahun 2013</h4></label>
+    <div>
+      LMAOOO
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion40">
+    <label for="accordion40"><h4>Tahun 2014</h4></label>
+    <div>
+      LMAOOO
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion41">
+    <label for="accordion41"><h4>Tahun 2015</h4></label>
+    <div>
+      LMAOOO
+    </div>
+	</li> 
+</ul>
+
