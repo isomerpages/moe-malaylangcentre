@@ -118,11 +118,11 @@ _Nur Shiqah Hashim dan Siti Nur Aisyah Shawall_
 
 _Siti Norashikin Hassan dan Siti Farhanah Mohd Nasir_
 
-20. [Meningkatkan Pemerolehan Kosa Kata Pelajar Melalui Wadah Penyaring Instagram](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/20.pdf)  
+20. [Meningkatkan Pemerolehan Kosa Kata Pelajar Melalui Wadah Penyaring Instagram](/files/20.pdf) 
 
 _Zulfiqar Sukiman dan Siti Radziah Mustafa_
 
-21. [Meningkatkan Pemikiran Kreatif Dan Inovatif Melalui Penerapan Model _Creative Problem Solving_](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/21.pdf)
+21. [Meningkatkan Pemikiran Kreatif Dan Inovatif Melalui Penerapan Model _Creative Problem Solving_](/files/21.pdf)
 
 _Siti Nurdianah Md Muhdi dan Haslinda Ibrahim_
 
