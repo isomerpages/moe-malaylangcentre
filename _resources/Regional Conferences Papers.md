@@ -633,7 +633,148 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <input type="checkbox" id="accordion38">
     <label for="accordion38"><h4>Tahun 2012</h4></label>
     <div>
-      LMAOOO
+      <h5 id="indonesia">Indonesia</h5>
+<p><strong>Seminar on Pedagogy of Malay, Indonesian and Other Languages (PMIOL) <br>13 – 16 June 2012 <br>Organiser: Indonesian University of Education, Bandung Indonesia</strong></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Dr Fadilah Isnin</td>
+    <td class="tg-ag2m">Master Teacher / Malay Language Centre of Singapore (MLCS)</td>
+    <td class="tg-dewj"><a href="/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 746.12 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Haryati Surana</td>
+    <td class="tg-rfng">Subject Head / West View Primary School</td>
+    <td class="tg-rhd3"><a href="/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast (Pembelajaran Kefahaman Mendengar Melalui Podcast)(.pdf, 246.22 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Asmidah Mohd Jailani</td>
+    <td class="tg-ag2m">Teacher / Fuchun Primary School</td>
+    <td class="tg-dewj"><a href="/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)(.pdf, 259.74 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Ganda Sari Chokri</td>
+    <td class="tg-rfng">Teacher / Yishun Secondary School</td>
+    <td class="tg-rhd3"><a href="/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)(.pdf, 325.8 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Irmawati Mascom</td>
+    <td class="tg-ag2m">Teacher / Tanglin Secondary School</td>
+    <td class="tg-dewj"><a href="/files/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)(.pdf, 379.83 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+<h5 id="malaysia">Malaysia</h5>
+<p><strong>National Seminar on Strengthening Practice Teaching and Effective Learning Malay Language <br>16 – 20 September 2012 <br>Kucing, Sarawak</strong></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Effendy Ahmadi</td>
+    <td class="tg-ag2m">Teacher / First Toa Payoh Secondary School</td>
+    <td class="tg-dewj"><a href="/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)(.pdf, 397.35 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Hanizah Abu Samah</td>
+    <td class="tg-rfng">Subject Head / CHIJ Our Lady of The Nativity Primary School</td>
+    <td class="tg-rhd3"><a href="/files/14-kkpenuh_-_hanizah_abu_samah.pdf"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)(.pdf, 387.17 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Daniel Phua</td>
+    <td class="tg-ag2m">Teacher / St Hilda Secondary School</td>
+    <td class="tg-dewj"><a href="/files/15-kkpenuh_-_daniel_phua.pdf"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)(.pdf, 554.75 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Fauziah Osman</td>
+    <td class="tg-rfng">Teacher / Greenwood Primary School</td>
+    <td class="tg-rhd3"><a href="/files/16-kkpenuh_-_fauziah_osman.pdf"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)(.pdf, 276.24 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+<h5 id="malaysia-1">Malaysia</h5>
+<p><strong>Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)<br>14 – 17 October 2012<br>Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)</strong></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Fauziah Mohamed Ata</td>
+    <td class="tg-ag2m">Senior Teacher / Endeavor Primary School</td>
+    <td class="tg-dewj"><a href="/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)(.pdf, 667.25 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Rosnidar Arshad</td>
+    <td class="tg-rfng">Subject Head / Yu Neng Primary School</td>
+    <td class="tg-rfng"></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Siti Rashidah Abdul Rahim</td>
+    <td class="tg-ag2m">Teacher / Fuchun Secondary School</td>
+    <td class="tg-dewj"><a href="/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories (Penilian untuk Pembelajaran: Cerita Digital Saya)(.pdf, 174.5 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Rositah Yusof </td>
+    <td class="tg-rfng">Teacher / Pei Hwa Secondary School</td>
+    <td class="tg-rhd3"><a href="/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)(.pdf, 244.81 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
@@ -659,157 +800,3 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
 	</li> 
 </ul>
 
-##### Indonesia
-
-**Seminar on Pedagogy of Malay, Indonesian and Other Languages (PMIOL)   
-13 – 16 June 2012   
-Organiser: Indonesian University of Education, Bandung Indonesia**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
-.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m">Dr Fadilah Isnin</td>
-    <td class="tg-ag2m">Master Teacher / Malay Language Centre of Singapore (MLCS)</td>
-    <td class="tg-dewj"><a href="[](/files/8-kurikulum_berasaskan_sekolah_meningkatkan_inovasi_pengajaran_dan_pembelajaran_fadilah_isnin.pdf)"><span style="color:#CA2126;background-color:transparent">School-based Curriculum to Increase Innovation in Teaching and Learning of Malay Language(Kurikulum Berasaskan Sekolah bagi Meningkatkan Inovasi dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 746.12 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Haryati Surana</td>
-    <td class="tg-rfng">Subject Head / West View Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/9-pembelajaran_kefahaman_mendengar_melalui_podcast_haryati_surana_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Learning Listening Comprehension Through the Use of Podcast (Pembelajaran Kefahaman Mendengar Melalui Podcast)(.pdf, 246.22 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ag2m">Asmidah Mohd Jailani</td>
-    <td class="tg-ag2m">Teacher / Fuchun Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/10-kajian_pengajaran_memupuk_keyakinan_murid_menggunakan_bahasa_melalui_drama_asmidah_jailani.pdf)"><span style="color:#CA2126;background-color:transparent">Lesson Study: Developing Pupils Confidence in Using Language Through Drama (Kajian Pengajaran: Memupuk Keyakinan Murid Menggunakan Bahasa Melalui Drama)(.pdf, 259.74 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Ganda Sari Chokri</td>
-    <td class="tg-rfng">Teacher / Yishun Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)(.pdf, 325.8 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ag2m">Irmawati Mascom</td>
-    <td class="tg-ag2m">Teacher / Tanglin Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/12-drama_sebagai_pedagogi_dalam_pembelajaran_bahasa_melayu_di_sekolah_menengah_irmawati_-_mlcs.pdf?sfvrsn=ea82746f_2"><span style="color:#CA2126;background-color:transparent">Drama As Pedagogy in learning of Malay Language (Drama Sebagai Pedagogi dalam Pembelajaran Bahasa Melayu)(.pdf, 379.83 KB)</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-##### Malaysia
-
-**National Seminar on Strengthening Practice Teaching and Effective Learning Malay Language   
-16 – 20 September 2012   
-Kucing, Sarawak**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
-.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m">Effendy Ahmadi</td>
-    <td class="tg-ag2m">Teacher / First Toa Payoh Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf)"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)(.pdf, 397.35 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Hanizah Abu Samah</td>
-    <td class="tg-rfng">Subject Head / CHIJ Our Lady of The Nativity Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/14-kkpenuh_-_hanizah_abu_samah.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)(.pdf, 387.17 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ag2m">Daniel Phua</td>
-    <td class="tg-ag2m">Teacher / St Hilda Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/15-kkpenuh_-_daniel_phua.pdf)"><span style="color:#CA2126;background-color:transparent">Implementation of Suggestopedia and Differentiated Instruction in teaching Descriptive Writing (Penerapan Suggestopedia dan Pengajaran Perbezaan dalam Penulisan Deskriptif)(.pdf, 554.75 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Fauziah Osman</td>
-    <td class="tg-rfng">Teacher / Greenwood Primary School</td>
-    <td class="tg-rhd3"><a href="[](/files/16-kkpenuh_-_fauziah_osman.pdf)"><span style="color:#CA2126;background-color:transparent">The Use of Proverbs in Composition Writing Through Cooperative Learning (Penggunaan Peribahasa dalam Penulisan Karangan Melalui Pembelajaran Kooperatif)(.pdf, 276.24 KB)</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-##### Malaysia  
-  
-**Conference on Upholding Malay Language (Persidangan Memartabatkan Bahasa Melayu)  
-14 – 17 October 2012  
-Organiser: Sultan Idris University of Education (Universiti Pendidikan Sultan Idris)**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
-.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m">Fauziah Mohamed Ata</td>
-    <td class="tg-ag2m">Senior Teacher / Endeavor Primary School</td>
-    <td class="tg-dewj"><a href="[](/files/17-fauziah_md_ata_-_kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Virtual Multicultural Literature Lesson As A Catalyst for Usage of Malay Language for Malay Pupils (Pelajaran Maya Sastera Pelbagai Budaya Pemangkin Kemahiran Pelajar Berbahasa Melayu)(.pdf, 667.25 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Rosnidar Arshad</td>
-    <td class="tg-rfng">Subject Head / Yu Neng Primary School</td>
-    <td class="tg-rfng"></td>
-  </tr>
-  <tr>
-    <td class="tg-ag2m">Siti Rashidah Abdul Rahim</td>
-    <td class="tg-ag2m">Teacher / Fuchun Secondary School</td>
-    <td class="tg-dewj"><a href="[](/files/19-siti_rashidah_-_kertas_kerja_sem_upsi_-_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Assessment for Learning: Digital Stories (Penilian untuk Pembelajaran: Cerita Digital Saya)(.pdf, 174.5 KB)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-rfng">Rositah Yusof </td>
-    <td class="tg-rfng">Teacher / Pei Hwa Secondary School</td>
-    <td class="tg-rhd3"><a href="[](/files/20-rositah_yusof_-kertas_kerja_sem_upsi_2012.pdf)"><span style="color:#CA2126;background-color:transparent">Oral skills Materials Using TV News Materials (Kemahiran Bertutur Dengan Menggunakan Bahan Berita TV)(.pdf, 244.81 KB)</span></a></td>
-  </tr>
-</tbody>
-</table>
