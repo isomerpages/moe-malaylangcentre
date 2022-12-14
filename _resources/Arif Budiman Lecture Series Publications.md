@@ -48,16 +48,4 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
       </ol>
     </div>
   </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
 </ul>
