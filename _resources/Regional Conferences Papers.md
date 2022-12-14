@@ -148,12 +148,12 @@ Organiser: Indonesian University of Education (UPI) Bandung**
   <tr>
     <td class="tg-ag2m">Uma d/o Thiruselvam</td>
     <td class="tg-ag2m">Teacher  / Chong Boon Secondary School </td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/44-uma_thiruselvam_penggunaan_newsmaker_dalam_membina_kemahiran_bertutur.pdf?sfvrsn=e60b748d_2"><span style="color:#CA2126;background-color:transparent">Use of Newsmaker in Building Oral Skills (Penggunaan Newsmaker Dalam Membina Kemahiran Bertutur)(.pdf, 506.53 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/44-uma_thiruselvam_penggunaan_newsmaker_dalam_membina_kemahiran_bertutur.pdf)"><span style="color:#CA2126;background-color:transparent">Use of Newsmaker in Building Oral Skills (Penggunaan Newsmaker Dalam Membina Kemahiran Bertutur)(.pdf, 506.53 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Rohani Mohamed Ismail</td>
     <td class="tg-rfng">Teacher / Broadrick Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/45-rohani_ismail_konsep_padi_dalam_penulisan_karangan_naratif.pdf?sfvrsn=3e870599_2"><span style="color:#CA2126;background-color:transparent">‘PADI’ Concept in Narrative Composition Writing (Konsep ‘PADI’ dalam Penulisan Karangan Naratif)(.pdf, 342.01 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/45-rohani_ismail_konsep_padi_dalam_penulisan_karangan_naratif.pdf)"><span style="color:#CA2126;background-color:transparent">‘PADI’ Concept in Narrative Composition Writing (Konsep ‘PADI’ dalam Penulisan Karangan Naratif)(.pdf, 342.01 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
