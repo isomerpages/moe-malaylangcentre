@@ -48,11 +48,11 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 
 ![Jilid 2 - Cetakan 2012](/images/jilid-2---cetakan-2012.png)
 
-[Kandungan(.pdf, 304.27 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-jilid-2-kandungan.pdf?sfvrsn=d9b978cb_2 "Kandungan")
+[Kandungan(.pdf, 304.27 KB)](/files/cab-jilid-2-kandungan.pdf)
 
-[Objektif(.pdf, 110.9 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-jilid-2-objektif.pdf?sfvrsn=d07ab984_2 "Objektif")
+[Objektif(.pdf, 110.9 KB)](/files/cab-jilid-2-objektif.pdf)
 
-[Sekapur Sirih(.pdf, 496.32 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-jilid-2-sekapur-sirih.pdf?sfvrsn=76d2c619_2 "Sekapur Sirih")
+[Sekapur Sirih(.pdf, 496.32 KB)](/files/cab-jilid-2-sekapur-sirih.pdf)
 
 [Ceramah Arif Budiman 5 - Prof George Quinn(.pdf, 7.26 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-5-prof-dr-george-quinn.pdf?sfvrsn=74e88c55_2 "Ceramah Arif Budiman 5 - Prof George Quinn")
 
