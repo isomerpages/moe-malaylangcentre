@@ -527,3 +527,144 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     </div>
 	</li> 
 </ul>
+
+##### **Brunei**   
+  
+**Kongress Antarabangsa Bahasa dan Budaya Melayu 16 – 19 September 2011 Dewan Bahasa dan Pustaka , Brunei**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Ghazali Bin Mohamed Ibrahim</td>
+    <td class="tg-ag2m">Guru Kanan / Sek Men Springfield</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/1-kertas_kerja_ghazali_bin_mohamed_ibrahim_brunei__mlcs_input.pdf?sfvrsn=46270ec1_2"><span style="color:#CA2126;background-color:transparent">Application of Mnemonic Techniques in Narrative Composition Writing Through Blended Learning (Penerapan Teknik Mnemonik dalam Penulisan Karangan Naratif Melalui Pembelajaran Pengadunan)(.pdf, 283.37 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Malaysia   
+  
+**5th International Malaysian Educational Technology Convention 2011 (IMETC 2011) 15 – 20 October 2011 Organiser: Universiti Sains Malaysia, Penang**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Sri Rahayu Zainal</td>
+    <td class="tg-ag2m">Pegawai Kurikulum / MLU CPDD</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/2-singapore_experience_rahayu_zainal_from_singapore.pdf?sfvrsn=d612a9ff_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning)(.pdf, 743.62 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Nur Azah Ismail</td>
+    <td class="tg-rfng">Guru / Sek Men Woodgrove</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/3-penilaian_alternatif_dan_ict_nur_azah_dari_singapura.pdf?sfvrsn=4ad67ac_2"><span style="color:#CA2126;background-color:transparent">Internalisation of Alternative Assessment and ICT in The Teaching and Learning of Malay Language: 5E in Inquiry Based Learning (Pembudayaan Penilian Alternatif dan ICT dalam Pengajaran Bahasa Melayu: 5E dalam Inquiry-Based Learning )(.pdf, 255.6 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Sarimah Ahmad</td>
+    <td class="tg-ag2m">Ketua Subjek / Ngee Ann Secondary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/4-mempertajam_pemahaman_menerusi_video_sarimah_dari_singapura.pdf?sfvrsn=1bc456ac_2"><span style="color:#CA2126;background-color:transparent">Mempertajam Pemahaman Pelajar Melalui Video (Enhancing Student’s Understanding through the Use of Video)(.pdf, 312.03 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Malaysia  
+  
+**3rd International Conference on Teaching and Learning (ICTL2011)   
+13 – 17 November 2011   
+Park Royal Hotel, Penang , Malaysia**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Ramlah Begum</td>
+    <td class="tg-ag2m">Ketua Subjek / Telok Kurau Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/5-alternative_assessment_ramlah_begam_from_singapore19082011_r.pdf?sfvrsn=ebe00ee_2"><span style="color:#CA2126;background-color:transparent">Teaching and Learning of Malay Language in the 21st Century Alternative Assessment: Teacher Readiness and Parent’s Involvement in Enhancing Teaching and Learning Malay Language – A Case Study in a Primary School in Singapore (Pengajaran dan Pembelajaran Bahasa Melayu di Abad Ke-21 Penilaian Alternatif: Kesediaan Guru dan Penglibatan Ibu Bapa dalam Meningkatkan Pengajaran dan Pembelajaran Bahasa Melayu - Satu Kajian Kes di sebuah Sekolah Rendah di Singapura)(.pdf, 329.86 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Wan Alfida Suleiman</td>
+    <td class="tg-rfng">Guru / Beacon Primary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/6-digital_storytelling_to_sharpen_language_skills.pdf?sfvrsn=6942c547_2"><span style="color:#CA2126;background-color:transparent">Digital Storytelling to Sharpen Language Skills (Bercerita Secara Digital bagi Mempertajam Kemahiran Bahasa)(.pdf, 456.61 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Zalinah Hassan</td>
+    <td class="tg-ag2m">Guru / Tampines Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/7-drama_in_ml_teaching_and_learning_zalinah_hassan_from_singapore19082011_r.pdf?sfvrsn=8dd890d7_2"><span style="color:#CA2126;background-color:transparent">Infusion of Drama Elements in Malay Language Teaching and Learning (Penyerapan Unsur Drama Dalam Pengajaran dan Pembelajaran Bahasa Melayu)(.pdf, 234.27 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
