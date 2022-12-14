@@ -704,7 +704,7 @@ Organiser: Indonesian University of Education, Bandung Indonesia**
   <tr>
     <td class="tg-rfng">Ganda Sari Chokri</td>
     <td class="tg-rfng">Teacher / Yishun Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf?sfvrsn=9af522fc_2"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)(.pdf, 325.8 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/11-pembinaan_pakej_pengajaran_imbuhan_secara_berkesan_ganda_sari_-_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Construction of Effective Teaching Package on Affixation (Pembinaan Pakej Pengajaran Imbuhan Secara Berkesan)(.pdf, 325.8 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Irmawati Mascom</td>
@@ -744,12 +744,12 @@ Kucing, Sarawak**
   <tr>
     <td class="tg-ag2m">Effendy Ahmadi</td>
     <td class="tg-ag2m">Teacher / First Toa Payoh Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/13-kkpenuh_-_effendy_bin_ahmadi.pdf?sfvrsn=bf8b0d66_2"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)(.pdf, 397.35 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/13-kkpenuh_-_effendy_bin_ahmadi.pdf)"><span style="color:#CA2126;background-color:transparent">The beauty of the language – Student Friendly Evaluation Methods (Keindahan Bahasa - Kaedah Penilian Mesra Pelajar)(.pdf, 397.35 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Hanizah Abu Samah</td>
     <td class="tg-rfng">Subject Head / CHIJ Our Lady of The Nativity Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/14-kkpenuh_-_hanizah_abu_samah.pdf?sfvrsn=dce015ae_2"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)(.pdf, 387.17 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/14-kkpenuh_-_hanizah_abu_samah.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT and Mind Maps to Improve Writing Skills (Penggunaan ICT dan Peta Minda bagi Meningkatkan Kemahiran Menulis)(.pdf, 387.17 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Daniel Phua</td>
