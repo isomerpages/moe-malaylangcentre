@@ -14,28 +14,28 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 <ul class="jekyllcodex_accordion"> 
   <li>
     <input type="checkbox" id="accordion32">
-    <label for="accordion32">Multi-line Block</label>
+    <label for="accordion32"><h4>Jilid 1 - Cetakan Pertama 2010</h4></label>
     <div>
       LMAOOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion33">
-    <label for="accordion33">Multi-line Folded</label>
+    <label for="accordion33"><h4>Jilid 2 - Cetakan 2012</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion34">
-    <label for="accordion34">Ordered List</label>
+    <label for="accordion34"><h4>Jilid 3 - Cetakan 2015</h4></label>
     <div>
       LMAOO
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion35">
-    <label for="accordion35">Unordered List</label>
+    <label for="accordion35"><h4>Jilid 4 - Cetakan 2020</h4></label>
     <div>
       LMAOO
     </div>
