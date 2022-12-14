@@ -297,14 +297,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Norashikin Mohamed Ali</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Yu Neng Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/34-norashikin_kertas_kerja_sekolah_rendah_yu_neng_final_160914.pdf?sfvrsn=974134a7_2"><span style="color:#CA2126;background-color:transparent">Use of Wallwisher to Enhance Understanding of Text Through Lesson on Vocabulary(.pdf, 165.61 KB)</span></a>(Penggunaan Wallwisher untuk Mempertingkatkan Pemahaman Teks Melalui Pengajaran Perbendaharaan Kata)</td>
+    <td class="tg-dewj"><a href="[](/files/34-norashikin_kertas_kerja_sekolah_rendah_yu_neng_final_160914.pdf)"><span style="color:#CA2126;background-color:transparent">Use of Wallwisher to Enhance Understanding of Text Through Lesson on Vocabulary(.pdf, 165.61 KB)</span></a>(Penggunaan Wallwisher untuk Mempertingkatkan Pemahaman Teks Melalui Pengajaran Perbendaharaan Kata)</td>
   </tr>
   <tr>
     <td class="tg-rfng">35</td>
     <td class="tg-rfng">Sarimah Ahmad</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Ngee Ann Secondary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/35-sarimah_memahami_peribahasa_dengan_aurasma_ngee_ann_final.pdf?sfvrsn=91d2ce72_2"><span style="color:#CA2126;background-color:transparent">Learning of Proverb Through AURASMA Application (Pembelajaran Peribahasa melalui Aplikasi AURASMA)(.pdf, 467.22 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/35-sarimah_memahami_peribahasa_dengan_aurasma_ngee_ann_final.pdf)"><span style="color:#CA2126;background-color:transparent">Learning of Proverb Through AURASMA Application (Pembelajaran Peribahasa melalui Aplikasi AURASMA)(.pdf, 467.22 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">36</td>
