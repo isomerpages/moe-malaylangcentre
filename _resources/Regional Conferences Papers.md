@@ -311,14 +311,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Nor Zakiah Arif</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Pei Tong Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/36-zakiah_penggunaan_ictbagi_meningkatkan_kemahiran_membaca_murid_pei_tong_final.pdf?sfvrsn=d3235bf4_2"><span style="color:#CA2126;background-color:transparent">The use of ICT to Improve Pupils Reading Skills (Penggunaan ICT Bagi Meningkatkan Kemahiran Membaca Murid)(.pdf, 716.26 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/36-zakiah_penggunaan_ictbagi_meningkatkan_kemahiran_membaca_murid_pei_tong_final.pdf)"><span style="color:#CA2126;background-color:transparent">The use of ICT to Improve Pupils Reading Skills (Penggunaan ICT Bagi Meningkatkan Kemahiran Membaca Murid)(.pdf, 716.26 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">37</td>
     <td class="tg-rfng">Zaleha Ahmad</td>
     <td class="tg-rfng">Senior Teacher</td>
     <td class="tg-rfng">Park View Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/37-zaleha_kemahiran_menulis_peningkatan_kemahiran_sekolah_rendah_park_view_final.pdf?sfvrsn=fff65586_2"><span style="color:#CA2126;background-color:transparent">Writing skills: Pupils Skills Enhancement Through t 'Tinta Emas' Programme (Kemahiran Menulis: Peningkatan Kemahiran Dalam Kalangan Pelajar Melalui Program ‘Tinta Emas’)(.pdf, 182.31 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/37-zaleha_kemahiran_menulis_peningkatan_kemahiran_sekolah_rendah_park_view_final.pdf)"><span style="color:#CA2126;background-color:transparent">Writing skills: Pupils Skills Enhancement Through t 'Tinta Emas' Programme (Kemahiran Menulis: Peningkatan Kemahiran Dalam Kalangan Pelajar Melalui Program ‘Tinta Emas’)(.pdf, 182.31 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">38</td>
@@ -326,7 +326,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Guru</td>
     <td class="tg-ag2m">Sekolah Menengah Siglap</td>
     <td class="tg-ag2m" rowspan="4">Malaysia<br>International Conference on Language Studies 2014 (iCLS 2014)<br>27 – 28 October 2014<br>Organiser: Universiti Malaysia, Sarawak</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/38-mohd_farris_keberkesanan_alat_seni_visualfinal.pdf?sfvrsn=4d3b4eba_2"><span style="color:#CA2126;background-color:transparent">Keberkesanan Alat Seni Visual bagi Penerapan Sastera Rakyat Melalui Pembelajaran Bahasa Melayu(.pdf, 556.52 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/38-mohd_farris_keberkesanan_alat_seni_visualfinal.pdf)"><span style="color:#CA2126;background-color:transparent">Keberkesanan Alat Seni Visual bagi Penerapan Sastera Rakyat Melalui Pembelajaran Bahasa Melayu(.pdf, 556.52 KB)</span></a></td>
     <td class="tg-ag2m" rowspan="4">2014</td>
   </tr>
   <tr>
@@ -334,7 +334,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Marini Bte Hassan</td>
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Sekolah CHIJ Katong Convent</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/39-marini_hassanmeningkatkan_rasa_hormat_terhadap_bahasa_melayu_dalam_konteks_singapura_melalui_pembelajaran_bergerak.pdf?sfvrsn=d75336b8_2"><span style="color:#CA2126;background-color:transparent">Meningkatkan Rasa Hormat Terhadap Bahasa Melayu dalam Konteks Singapura Melalui Pembelajaran Bergerak: Satu Kajian Kes(.pdf, 408.19 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/39-marini_hassanmeningkatkan_rasa_hormat_bahasa_melayu_singapura_melalui_pembelajaran_bergerak.pdf)"><span style="color:#CA2126;background-color:transparent">Meningkatkan Rasa Hormat Terhadap Bahasa Melayu dalam Konteks Singapura Melalui Pembelajaran Bergerak: Satu Kajian Kes(.pdf, 408.19 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">40</td>
