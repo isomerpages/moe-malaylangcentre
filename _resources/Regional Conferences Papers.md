@@ -3,7 +3,217 @@ title: Regional Conferences Papers
 permalink: /mlcs/resources/regional-conferences/
 description: ""
 ---
+##### Malaysia
 
+**National Educational Research Seminar (SPPK2015)   
+Date: 5 – 7 August 2015   
+Organiser: Institute of Teachers Education (IPG) and Malaysian Ministry of Education**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Zaimah Mohd Ali </td>
+    <td class="tg-ag2m">Subject Head / Bedok Green Primary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/46-sppk2015_abs65_zaimah_mohd_ali.pdf?sfvrsn=aaffa23a_2"><span style="color:#CA2126;background-color:transparent">Interaction with the text by ’PAS’ Method (Berinteraksi dengan Teks melalui Kaedah ‘PAS’ (Probable Passage, Anticipation Guide and Summarization of Text)(.pdf, 355.21 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Siti Fadhilah Saneb </td>
+    <td class="tg-rfng">Teacher / Gongshang Primary School</td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/47-sppk2015_abs92_siti_fadilah_saneb.pdf?sfvrsn=5945bc91_2"><span style="color:#CA2126;background-color:transparent">Proverb Learning Through the Use of Narrative Techniques and Comic Life Software (Pembelajaran Peribahasa melalui Penggunaan Teknik Penceritaan dan Perisian Comic Life)(.pdf, 348.26 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Taufek Siniwi </td>
+    <td class="tg-ag2m">Subject Head / Xingnan Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/48-sppk2015_abs64_taufek_bin_siniwi.pdf?sfvrsn=cd50979a_2"><span style="color:#CA2126;background-color:transparent">Structured conversations and Application Value in Oral (Perbualan Berstruktur dan Penerapan Nilai Dalam Lisan)(.pdf, 269.27 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Indonesia
+
+**6th Indonesian Conference on Lesson Study (6th ICLS)   
+Date: 17 – 19 September 2015   
+Organiser: Ganesha University of Education, Bali Indonesia**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Helmeleya Mohd Jamil</td>
+    <td class="tg-ag2m">Teacher / Huamin Primary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/49-kajian_pengajaran_meningkatkan_kemahiran_bertutur_bagi_murid_sekolah_rendah.pdf?sfvrsn=a527beb8_2"><span style="color:#CA2126;background-color:transparent">Lesson Study : Enhancing Oral Skills For Primary School Pupils (Kajian Pengajaran Meningkatkan Kemahiran Bertutur Bagi Murid Sekolah Rendah)(.pdf, 268.21 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Alifa Ismail</td>
+    <td class="tg-rfng">Teacher / St Andrews Secondary School </td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/50-kajian_pengajaran___pbl_dalam_penulisan_karangan_ekspositori.pdf?sfvrsn=c5244f03_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: PBL in Writing Expository Essays (Kajian Pengajaran: PBL dalam Penulisan Karangan Ekspositori)(.pdf, 159.66 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Nurisha Hamid</td>
+    <td class="tg-ag2m">Teacher / Coral Secondary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/51-kajian_pengajaran_perbualan_berdasarkan_gambar_dengan_menggunakan_teknik_ktwp.pdf?sfvrsn=c4d8da1f_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Use of KTWP Techniques in Teaching Oral Based Picture(Kajian Pengajaran: Penggunaan Teknik KTWP dalam Pengajaran Lisan Berdasarkan Gambar)(.pdf, 337.52 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Siti Raihanni Selamat </td>
+    <td class="tg-rfng">Senior Teacher / Hai Sing Catholic Secondary School </td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/52-kajian_pengajaran_penerapan_teori_kecerdasan_pelbagai_dalam_pengajaran_jenis-jenis_ayat.pdf?sfvrsn=cfdcbda5_2"><span style="color:#CA2126;background-color:transparent">Lesson Study: Application of Multiple Intelligences Theory in Teaching Types of Sentences(Kajian Pengajaran: Penerapan Teori Kecerdasan Pelbagai dalam Pengajaran Jenis-jenis Ayat)(.pdf, 110.33 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Malaysia
+
+**International Conference on Language Learning: Evolution and Revolution (SoLLS.INTEC.15)  
+Date: 29 – 30 September 2015   
+Organiser : The School of Language and Linguistic, National University of Malaysia**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Mohamed Sha’aban Mohd Rapiai</td>
+    <td class="tg-ag2m">Teacher / Greenwood Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/53-kemahiran_membaca_strategi_dekon_dalam_mempertingkat_kelakonan_bacaan_lantang_mohd_shaaban_mohd_papiai.pdf?sfvrsn=cc95c2ab_2"><span style="color:#CA2126;background-color:transparent">Enhancing Reading Aloud Performance through DEKON strategies (Strategi DEKON dalam Mempertingkat Kelakonan Bacaan Lantang)(.pdf, 252.14 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Norazlina Abdul Jalil </td>
+    <td class="tg-rfng">Teacher / Naval Base Secondary School </td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/54-cerpen_sebagai_wahana_memupuk_minat_membaca_norazlina_abdul_jalil.pdf?sfvrsn=71b7ebe1_2"><span style="color:#CA2126;background-color:transparent">Short Stories as a Catalyst to Foster Interests in Reading (Cerpen sebagai Wahana Memupuk Minat Membaca)(.pdf, 222.18 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Nuraini Abdul Gapor </td>
+    <td class="tg-ag2m">Teacher / Raffles Girls Secondary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/55-meningkatkan_keberkesanan_kembara_ilmu_berpandukan_pembelajaran_berasaskan_pengalaman.pdf?sfvrsn=3a5aacff_2"><span style="color:#CA2126;background-color:transparent">Improving the Effectiveness of Guided Adventure Learning Based on Experiential Learning (Meningkatkan Keberkesanan Kembara Ilmu Berpandukan Pembelajaran Berasaskan Pengalaman)(.pdf, 349.49 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cysr"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-cysr"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Mohamad Arizal Ahmad </td>
+    <td class="tg-ag2m">Teacher / Pei Hwa Secondary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/56-meningkatkan_kemahiran_berfikir_kreatif_penerokaan_pantun_muhd_arizal_ahmad.pdf?sfvrsn=ced48a34_2"><span style="color:#CA2126;background-color:transparent">Exploring Pantun: A Research on Creative Thinking Skills (Meneroka Pantun: Satu Kajian Kemahiran Berfikir Secara Kreatif)(.pdf, 350.76 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+##### Malaysia
+
+**5th International Language Learning Conference   
+Date: 2 - 4 November 2015   
+Organiser: The School of Languages, Literacies and Translation, Universiti Sains Malaysia**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4ze"><span style="font-weight:600">Nama</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Jawatan/Sekolah</span></th>
+    <th class="tg-c4ze"><span style="font-weight:600">Tajuk Kertas</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Noor Haida Mohd Jakaria </td>
+    <td class="tg-ag2m">ML Teacher / Chongzheng Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/57-kaedah_kritikan_untuk_memperkasa_pelajar_dengan_kemahiran_penulisan_karangan_noor_haida.pdf?sfvrsn=fc992282_2"><span style="color:#CA2126;background-color:transparent">Criticism Method in Essay Writing Skills (Kaedah Kritikan Dalam Kemahiran Penulisan Karangan)(.pdf, 276.54 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Nurul Ain Kamarulzaman </td>
+    <td class="tg-rfng">ML Teacher / Tanjong Katong Secondary School </td>
+    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/58-program_bacalah_adikku_nurul_ain_kamarulzaman.pdf?sfvrsn=d1ddff02_2"><span style="color:#CA2126;background-color:transparent">Bacalah Adikku' Programme: Cultivating Community Service Through Writing (Program 'Bacalah Adikku': Membudayakan Khidmat Masyarakat Menerusi Penulisan)(.pdf, 274.86 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">Siti Fatimah Hassan </td>
+    <td class="tg-ag2m">ML Teacher / Yu Neng Primary School </td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/59-meningkatkan_kemahiran_murid_siti_fatimah_hassan.pdf?sfvrsn=c56f5b14_2"><span style="color:#CA2126;background-color:transparent">Enhancing Pupils Skills in Answering Comprehension Subjective Questions Using Text Assumptions Technique (Meningkatkan Kemahiran Murid dalam Menjawab Soalan Kefahaman Subjektif Menggunakan Teknik Teks Andaian)(.pdf, 701.94 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 ##### PROGRAM PERSIDANGAN SERANTAU
 
