@@ -348,7 +348,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Junainah binte Mohamed</td>
     <td class="tg-rfng">Guru</td>
     <td class="tg-rfng">Sekolah Rendah Greenwood</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/41-junainah_mohamed_penggunaan_teknik_penyusun_grafik_dan_penyoalan_5w1h_dalam_mengecam_idea_teks_naratif.pdf?sfvrsn=c55e656f_2"><span style="color:#CA2126;background-color:transparent">Penggunaan Teknik Penyusun Grafik dan Penyoalan 5W1H dalam Mengecam Idea Utama Teks Naratif Melalui Pembelajaran Koperatif(.pdf, 419.64 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="[](/files/41-junainah_mohamed_penggunaan_teknik_penyusun_grafik_dan_penyoalan_dalam_mengecam_idea_naratif.pdf)"><span style="color:#CA2126;background-color:transparent">Penggunaan Teknik Penyusun Grafik dan Penyoalan 5W1H dalam Mengecam Idea Utama Teks Naratif Melalui Pembelajaran Koperatif(.pdf, 419.64 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">42</td>
@@ -356,7 +356,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-ag2m">Subject Head</td>
     <td class="tg-ag2m">Compassvale Secondary School</td>
     <td class="tg-ag2m" rowspan="4">Indonesia<br>World Association of Lesson Studies International Conference 2014<br>25 – 28 November 2014<br>Organiser: Indonesian University of Education (UPI) Bandung</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/42-lila_salleh_strategi_penulisan_naratif_untuk_pelajar_menengah_atas.pdf?sfvrsn=a98144b6_2"><span style="color:#CA2126;background-color:transparent">Narrative Writing Strategies for Upper Secondary Students with Low and Medium Abilities (Strategi Penulisan Naratif untuk Pelajar Menengah Atas Yang Berkemahiran Rendah dan Sederhana)(.pdf, 349.6 KB)</span></a></td>
+    <td class="tg-dewj"><a href="[](/files/42-lila_salleh_strategi_penulisan_naratif_untuk_pelajar_menengah_atas.pdf)"><span style="color:#CA2126;background-color:transparent">Narrative Writing Strategies for Upper Secondary Students with Low and Medium Abilities (Strategi Penulisan Naratif untuk Pelajar Menengah Atas Yang Berkemahiran Rendah dan Sederhana)(.pdf, 349.6 KB)</span></a></td>
     <td class="tg-ag2m" rowspan="4">2014</td>
   </tr>
   <tr>
@@ -364,14 +364,14 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Suriana Mohamed Bakri</td>
     <td class="tg-rfng">Teacher</td>
     <td class="tg-rfng">Kranji Primary School</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/43-suriana_mohamed_bakri_penggunaan_pembelajaran_terarah_secara_kendiri.pdf?sfvrsn=8d54b6c8_2"><span style="color:#CA2126;background-color:transparent">Use of Student Focused Learning and Collaborative Learning strategies in Writing Narrative Composition Using Idiom for Primary 4 Pupils(.pdf, 421.16 KB)</span></a><br>(Penggunaan Pembelajaran Murid Terarah dan Pembelajaran Kolaboratif Dalam penulisan Karangan Naratif Dengan Menggunakan Simpulan Bahasa untuk Murid Darjah 4)</td>
+    <td class="tg-rhd3"><a href="[](/files/43-suriana_mohamed_bakri_penggunaan_pembelajaran_terarah_secara_kendiri.pdf)"><span style="color:#CA2126;background-color:transparent">Use of Student Focused Learning and Collaborative Learning strategies in Writing Narrative Composition Using Idiom for Primary 4 Pupils(.pdf, 421.16 KB)</span></a><br>(Penggunaan Pembelajaran Murid Terarah dan Pembelajaran Kolaboratif Dalam penulisan Karangan Naratif Dengan Menggunakan Simpulan Bahasa untuk Murid Darjah 4)</td>
   </tr>
   <tr>
     <td class="tg-ag2m">44</td>
     <td class="tg-ag2m">Uma d/o Thiruselvam</td>
     <td class="tg-ag2m">Teacher</td>
     <td class="tg-ag2m">Chong Boon Secondary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/44-uma_thiruselvam_penggunaan_newsmaker_dalam_membina_kemahiran_bertutur.pdf?sfvrsn=e60b748d_2"><span style="color:#CA2126;background-color:transparent">Use of Newsmaker in Building Oral Skills(.pdf, 506.53 KB)</span></a> (Penggunaan Newsmaker Dalam Membina Kemahiran Bertutur)</td>
+    <td class="tg-dewj"><a href="[](/files/44-uma_thiruselvam_penggunaan_newsmaker_dalam_membina_kemahiran_bertutur.pdf)"><span style="color:#CA2126;background-color:transparent">Use of Newsmaker in Building Oral Skills(.pdf, 506.53 KB)</span></a> (Penggunaan Newsmaker Dalam Membina Kemahiran Bertutur)</td>
   </tr>
   <tr>
     <td class="tg-rfng">45</td>
