@@ -259,7 +259,7 @@ Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau atau Reg
     <td class="tg-rfng">Head of Department</td>
     <td class="tg-rfng">St Patrick’s School</td>
     <td class="tg-rfng" rowspan="4">Malaysia<br>5th International Language Learning Conference<br>10 – 14 November 2013<br>Organiser: The School of Languages, Literacies and Translation, Universiti Sains Malaysia</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/regional-conferences/29-rozanah_kasnan_sekolah_menengah_mlcs.pdf?sfvrsn=2639eb60_2"><span style="color:#CA2126;background-color:transparent">Effectiveness TJPSP @ SPS to Improve Structured Delivery of Ideas and Views in Picture Conversation(.pdf, 183.31 KB)</span></a>(Keberkesanan TJPSP@SPS bagi Meningkatkan Penyampaian Idea dan Pandangan Secara Tersusun dalam Perbualan Berdasarkan Gambar)</td>
+    <td class="tg-rhd3"><a href="[](/files/29-rozanah_kasnan_sekolah_menengah_mlcs.pdf)"><span style="color:#CA2126;background-color:transparent">Effectiveness TJPSP @ SPS to Improve Structured Delivery of Ideas and Views in Picture Conversation(.pdf, 183.31 KB)</span></a>(Keberkesanan TJPSP@SPS bagi Meningkatkan Penyampaian Idea dan Pandangan Secara Tersusun dalam Perbualan Berdasarkan Gambar)</td>
     <td class="tg-rfng" rowspan="4">2013</td>
   </tr>
   <tr>
