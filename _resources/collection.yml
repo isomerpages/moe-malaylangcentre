@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Singapore Teaching Practice.md
       - Regional Conferences Papers.md
       - Arif Budiman Lecture Series Publications.md
       - Malay Language Seminar Pub/SEMINAR BAHASA MELAYU 2022.md
