@@ -60,18 +60,18 @@ Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap peng
 
 [Ceramah Arif Budiman 6 - Prof Wu Zongyu(.pdf, 4.44 MB)](/files/cab-6-prof-wu-zongyu.pdf)
 
-[CAB 6 - Tanya Jawab(.pdf, 1018.44 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-6-prof-wu-zongyu-tanya-jawab.pdf?sfvrsn=244b44cf_0 "CAB 6 - Tanya Jawab")
+[CAB 6 - Tanya Jawab(.pdf, 1018.44 KB)](/files/cab-6-prof-wu-zongyu-tanya-jawab.pdf)
 
-[Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 1)(.pdf, 6.89 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-7-dayang-hajah-aminah-binti-haji-momin-part-1.pdf?sfvrsn=4c97b1e5_2 "Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 1)")
+[Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 1)(.pdf, 6.89 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-7-dayang-hajah-aminah-binti-haji-momin-part-1.pdf?sfvrsn=4c97b1e5_2 "Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 1)") ***(PDF file too big!)***
 
-[Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 2)(.pdf, 8.27 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-7-dayang-hajah-aminah-binti-haji-momin-part-2.pdf?sfvrsn=a9fa0de0_2 "Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 2)")
+[Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 2)(.pdf, 8.27 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-7-dayang-hajah-aminah-binti-haji-momin-part-2.pdf?sfvrsn=a9fa0de0_2 "Ceramah Arif Budiman 7 - Dayang Hjh Aminah Hj Momin (Bhg 2)") ***(PDF file too big!)***
 
-[CAB 7 - Tanya Jawab(.pdf, 915.67 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-7-dayang-hajah-aminah-tanya-jawab.pdf?sfvrsn=483aff7d_2 "CAB 7 - Tanya Jawab")
+[CAB 7 - Tanya Jawab(.pdf, 915.67 KB)](/files/cab-7-dayang-hajah-aminah-tanya-jawab.pdf)
 
-[Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun(.pdf, 3.96 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-8-prof-dr-chun-tai-hyun-part-1.pdf?sfvrsn=b5b9de9c_2 "Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun")
+[Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun(.pdf, 3.96 MB)](/files/cab-8-prof-dr-chun-tai-hyun-part-1.pdf)
 
-[Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun (Bhg 2)(.pdf, 7.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-8-prof-dr-chun-tai-hyun-part-2.pdf?sfvrsn=68431add_2 "Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun (Bhg 2)")
+[Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun (Bhg 2)(.pdf, 7.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-8-prof-dr-chun-tai-hyun-part-2.pdf?sfvrsn=68431add_2 "Ceramah Arif Budiman 8 - Prof Chun Tai-Hyun (Bhg 2)") ***(PDF file too big!)***
 
-[Jambangan Bunga(.pdf, 196.07 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-jilid-2-jambangan.pdf?sfvrsn=4deba54_2 "Jambangan Bunga")
+[Jambangan Bunga(.pdf, 196.07 KB)](/files/cab-jilid-2-jambangan.pdf)
 
-[Penghargaan(.pdf, 111.86 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-2/cab-jilid-2-penghargaan.pdf?sfvrsn=440c56fc_2 "Penghargaan")
+[Penghargaan(.pdf, 111.86 KB)](/files/cab-jilid-2-penghargaan.pdf)
