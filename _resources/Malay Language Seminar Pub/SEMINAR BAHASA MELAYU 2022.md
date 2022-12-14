@@ -162,50 +162,50 @@ _Norah Nordin dan Norasiken Mohamed Noor_
 
 _Ruhaidah Rahmat dan Raba'ah Ismail_
 
-31. [Penggunaan Jurnal Interaktif Bagi Meningkatkan Minat Murid Dalam Pembelajaran Imbuhan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/31.pdf)
+31. [Penggunaan Jurnal Interaktif Bagi Meningkatkan Minat Murid Dalam Pembelajaran Imbuhan](/files/31.pdf)
 
 _Nur Hafizah Ismail dan Elisha Jaafar_
 
-32. [Penggunaan Kaedah Akrostik Dalam Pengajaran Imbuhan ‘meN-’](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/32.pdf)
+32. [Penggunaan Kaedah Akrostik Dalam Pengajaran Imbuhan ‘meN-’](/files/32.pdf)
 
 _Siti Aishah Junaidi dan Halina Taib_
 
-33. [Penggunaan Kaedah V4PI Bagi Meningkatkan Kemahiran Interaksi Lisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/33.pdf)
+33. [Penggunaan Kaedah V4PI Bagi Meningkatkan Kemahiran Interaksi Lisan](/files/33.pdf)
 
 _Zuraidah Mohd Ariff_
 
-34. [Penggunaan Penjodoh Bilangan Dalam Penulisan Karangan Melalui Pembelajaran Teradun](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/34.pdf)
+34. [Penggunaan Penjodoh Bilangan Dalam Penulisan Karangan Melalui Pembelajaran Teradun](/files/34.pdf)
 
 _Aniza Samat dan Naelah Nor Othman_
 
-35. [Penggunaan Pola-pola Ayat Untuk Meningkatkan Kemahiran Menulis Murid Dalam Kumpulan MTSP](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/35.pdf)
+35. [Penggunaan Pola-pola Ayat Untuk Meningkatkan Kemahiran Menulis Murid Dalam Kumpulan MTSP](/files/35.pdf)
 
 _Mislimah Misti dan Sanisah Rahim_
 
-36. [Penggunaan Portal SLS Dalam Pembelajaran Peluasan Ayat Dalam Karangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/36.pdf)
+36. [Penggunaan Portal SLS Dalam Pembelajaran Peluasan Ayat Dalam Karangan](/files/36.pdf)
 
 _Sudriyanti Samsudin dan Muhammad Syafiq Hashim_
 
-37. [Penggunaan Rutin Berfikir MTV ‘Saya Akan Pastikan’ Dalam Pengajaran Karangan Berdasarkan Gambar Bersiri](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/37.pdf)
+37. [Penggunaan Rutin Berfikir MTV ‘Saya Akan Pastikan’ Dalam Pengajaran Karangan Berdasarkan Gambar Bersiri](/files/37.pdf)
 
 _Harshad Ismail_
 
-38. [Penggunaan Rutin Berfikir ‘Tumpuan’ Dalam Meningkatkan Penguasaan Kosa Kata](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/38.pdf)
+38. [Penggunaan Rutin Berfikir ‘Tumpuan’ Dalam Meningkatkan Penguasaan Kosa Kata](/files/38.pdf)
 
-      _Rosela Hashim dan Nuradilah Abdul Wahid_
+_Rosela Hashim dan Nuradilah Abdul Wahid_
 
-39. [Penggunaan Teknik Menceritakan Semula Dalam Memahami Kandungan Teks Naratif](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/39.pdf)
+39. [Penggunaan Teknik Menceritakan Semula Dalam Memahami Kandungan Teks Naratif](/files/39.pdf)
 
 _Melati Hallel_
 
-40. [Projek Nusantara: Pembelajaran Bertumpu Bagi Merangsang Keyakinan Berbahasa](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/40.pdf)
+40. [Projek Nusantara: Pembelajaran Bertumpu Bagi Merangsang Keyakinan Berbahasa](/files/40.pdf)
 
 _Nor Hanisah Saphari_  
 
-41. [Strategi PSP DAn Rutin Berfikir 'Sudut Pandangan' Bagi Meningkatkan Kemahiran Lisan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/41.pdf) 
+41. [Strategi PSP DAn Rutin Berfikir 'Sudut Pandangan' Bagi Meningkatkan Kemahiran Lisan](/files/41.pdf) 
 
 _Noor Faranah Mohamed Yatim da Kusumawati Ahmad Dafir_
 
-[Jawatankuasa Penganjur](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/jawatankuasasbm.pdf)
+[Jawatankuasa Penganjur](/files/jawatankuasasbm.pdf)
 
-[Penghargaan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/ml-poetry-sg50/seminar-bahasa-melayu-2022/penghargaan.pdf)
+[Penghargaan](/files/_penghargaan.pdf)
