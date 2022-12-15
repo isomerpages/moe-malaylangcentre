@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Jejak Budaya/Sekolah Menengah Commonwealth.md
       - Jejak Budaya/Sekolah Menengah Outram.md
       - Jejak Budaya/Sekolah Menengah Yishun.md
       - Jejak Budaya/Sekolah Marymount Convent.md
