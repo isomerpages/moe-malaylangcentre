@@ -8,9 +8,8 @@ third_nav_title: MLCS Educational Apps
 
 ##### PINTAR KATA
 
-_Pengumuman:_
-
-_App Pintar Kata telah dikemas kini . Sila padam versi lama App Pintar Kata dalam peranti Cikgu dan muat turun App Pintar Kata yang  terkini di Apple Apps Store._ 
+<p style="color:red"><em>Pengumuman:<br><br>
+App Pintar Kata telah dikemas kini . Sila padam versi lama App Pintar Kata dalam peranti Cikgu dan muat turun App Pintar Kata yang  terkini di Apple Apps Store. </em></p>
 
 App Pintar Kata merupakan permainan bagi merangsang perluasan kosa kata pemain. Selain menggunakan pengetahuan sedia ada, pemain dapat mengenal pasti kosa kata menerusi penerokaan dan percubaan. Selamat mencuba.
 
