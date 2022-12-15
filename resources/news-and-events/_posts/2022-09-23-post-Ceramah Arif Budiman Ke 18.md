@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![Ceramah Arif Budiman Ke-18](/images/cab-18-23-sep-2022.png)
