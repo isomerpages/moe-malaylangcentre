@@ -2,4 +2,5 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Jejak Budaya/Jejak Budaya.md
       - Jejak Budaya/.keep
