@@ -78,8 +78,8 @@ Sekolah Menengah Outram</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
 MOELC Bishan Bahasa Indonesia</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng"><img src="/images/sekolah-gan-eng-seng-(8).jpeg" alt="Sekolah Gan Eng Seng"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng">Sekolah Gan Eng Seng</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Hai Sing Catholic</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior"><img src="/images/sekolah-montfort-junior-(3).jpeg" alt="Sekolah Menengah Broadrick"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior">Sekolah Menengah Broadrick</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic"><img src="/images/sekolah-hai-sing-catholic-(1).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic">Sekolah Hai Sing Catholic</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick"><img src="/images/sekolah-menengah-broadrick-(4).jpeg" alt="Sekolah Menengah Broadrick"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick">Sekolah Menengah Broadrick</a></td>
 			</tr>
 </thead>
 </table>
