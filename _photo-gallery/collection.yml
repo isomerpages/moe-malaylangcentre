@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Jejak Budaya/Sekolah Rendah Woodlands.md
       - Jejak Budaya/Sekolah Menengah Jurong.md
       - Jejak Budaya/Sekolah Rendah Greenwood.md
       - Jejak Budaya/Jejak Budaya.md
