@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - MLCS Educational Apps/Bitara Kata.md
       - MLCS Educational Apps/Cerita Rakyat Nusantara.md
       - MLCS Educational Apps/Pintar Kata.md
       - MLCS Educational Apps/Pintar Peribahasa.md
