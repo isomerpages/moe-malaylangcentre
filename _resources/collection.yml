@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - MLCS Educational Apps/Legenda Singapura.md
       - MLCS Educational Apps/Bitara Kata.md
       - MLCS Educational Apps/Cerita Rakyat Nusantara.md
       - MLCS Educational Apps/Pintar Kata.md
