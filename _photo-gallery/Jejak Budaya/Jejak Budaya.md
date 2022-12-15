@@ -55,11 +55,11 @@ Sekolah Rendah Pioneer</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer" alt="Sekolah Rendah Pioneer"><img src="/images/sekolah-rendah-pioneer-(6).jpeg" alt="Sekolah Rendah Rivervale"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer">
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer" alt="Sekolah Rendah Pioneer"><img src="![](/images/sekolah-menengah-outram-(6).jpeg)" alt="Sekolah Rendah Outram"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer">
 Sekolah Menengah Outram</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands"><img src="/images/sekolah-rendah-white-sands-(6).jpeg" alt="Sekolah Rendah White Sands"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands">Sekolah Menengah Yishun</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer"><img src="/images/sekolah-menengah-bendemeer-(10).jpeg" alt="Sekolah Menengah Bendemeer"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer">Sekolah Marymount Convent</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth"><img src="/images/sekolah-menengah-commonwealth-(2).jpeg" alt="Sekolah Menengah Commonwealth"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth">Sekolah Montfort Junior</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands"><img src="![](/images/sekolah-menengah-yishun-(2).jpeg)" alt="Sekolah Menengah Yishun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands">Sekolah Menengah Yishun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer"><img src="![](/images/sekolah-marymount-convent-(6).jpeg)" alt="Sekolah Marymount Convent"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer">Sekolah Marymount Convent</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth"><img src="![](/images/sekolah-montfort-junior-(3).jpeg)" alt="Sekolah Montfort Junior"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth">Sekolah Montfort Junior</a></td>
 			</tr>
 </thead>
 </table>
