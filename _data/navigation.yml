@@ -6,3 +6,7 @@ links:
     collection: professional-development-prog
   - title: Resources
     collection: resources
+  - title: News & Events
+    resource_room: true
+  - title: Photo Gallery
+    collection: photo-gallery
