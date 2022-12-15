@@ -103,3 +103,23 @@ Sekolah Rendah Ahmad Ibrahim</a></td>
 			</tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/13.11.19-sekolah-rendah-raffles-girls" alt="Sekolah Menengah Outram"><img src="![](/images/dsc_0026.jpeg)" alt="Sekolah Rendah Raffles Girls"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/13.11.19-sekolah-rendah-raffles-girls" alt="Sekolah Menengah Outram">
+Sekolah Rendah Raffles Girls</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-qihua"><img src="/images/sekolah-rendah-qihua-(3).jpeg" alt="Sekolah Rendah Qihua"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-qihua">Sekolah Rendah Qihua</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun"><img src="/images/sekolah-rendah-shuqun-(2).jpeg" alt="Sekolah Rendah Shuqun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun">Sekolah Rendah Shuqun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-tampines-north"><img src="/images/sekolah-rendah-tampines-north-(7).jpeg" alt="Sekolah Rendah Tampines North"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-tampines-north">Sekolah Rendah Tampines North</a></td>
+			</tr>
+</thead>
+</table>
