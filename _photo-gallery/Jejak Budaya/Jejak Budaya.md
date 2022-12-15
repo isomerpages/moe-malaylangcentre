@@ -98,8 +98,8 @@ MOELC Bishan Bahasa Indonesia</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-ahmad-ibrahim" alt="Sekolah Menengah Outram"><img src="/images/sekolah-rendah-ahmad-ibrahim-(10).jpeg" alt="Sekolah Rendah Ahmad Ibrahim"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-ahmad-ibrahim">
 Sekolah Rendah Ahmad Ibrahim</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-qihua"><img src="/images/sekolah-rendah-qihua-(3).jpeg" alt="Sekolah Rendah Qihua"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-qihua">Sekolah Rendah Qihua</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun"><img src="![](/images/sekolah-rendah-shuqun-(2).jpeg)" alt="Sekolah Rendah Shuqun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun">Sekolah Rendah Shuqun</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick"><img src="/images/sekolah-menengah-broadrick-(4).jpeg" alt="Sekolah Rendah Tampines North"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick">Sekolah Rendah Tampines North</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun"><img src="/images/sekolah-rendah-shuqun-(2).jpeg" alt="Sekolah Rendah Shuqun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-shuqun">Sekolah Rendah Shuqun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-tampines-north"><img src="/images/sekolah-rendah-tampines-north-(7).jpeg" alt="Sekolah Rendah Tampines North"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-tampines-north">Sekolah Rendah Tampines North</a></td>
 			</tr>
 </thead>
 </table>
