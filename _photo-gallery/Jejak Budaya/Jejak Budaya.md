@@ -95,11 +95,11 @@ MOELC Bishan Bahasa Indonesia</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
-MOELC Bishan Bahasa Indonesia</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng"><img src="/images/sekolah-gan-eng-seng-(8).jpeg" alt="Sekolah Gan Eng Seng"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng">Sekolah Gan Eng Seng</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic"><img src="/images/sekolah-hai-sing-catholic-(1).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic">Sekolah Hai Sing Catholic</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick"><img src="/images/sekolah-menengah-broadrick-(4).jpeg" alt="Sekolah Menengah Broadrick"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick">Sekolah Menengah Broadrick</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="Sekolah Rendah Ahmad Ibrahim"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
+Sekolah Rendah Ahmad Ibrahim</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng"><img src="/images/sekolah-gan-eng-seng-(8).jpeg" alt="Sekolah Rendah Qihua"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng">Sekolah Rendah Qihua</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic"><img src="/images/sekolah-hai-sing-catholic-(1).jpeg" alt="Sekolah Rendah Shuqun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic">Sekolah Rendah Shuqun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick"><img src="/images/sekolah-menengah-broadrick-(4).jpeg" alt="Sekolah Rendah Tampines North"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick">Sekolah Rendah Tampines North</a></td>
 			</tr>
 </thead>
 </table>
