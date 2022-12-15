@@ -83,3 +83,23 @@ MOELC Bishan Bahasa Indonesia</a></td>
 			</tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
+MOELC Bishan Bahasa Indonesia</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng"><img src="/images/sekolah-gan-eng-seng-(8).jpeg" alt="Sekolah Gan Eng Seng"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng">Sekolah Gan Eng Seng</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic"><img src="/images/sekolah-hai-sing-catholic-(1).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic">Sekolah Hai Sing Catholic</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick"><img src="/images/sekolah-menengah-broadrick-(4).jpeg" alt="Sekolah Menengah Broadrick"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-broadrick">Sekolah Menengah Broadrick</a></td>
+			</tr>
+</thead>
+</table>
