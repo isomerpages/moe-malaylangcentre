@@ -22,3 +22,9 @@ Pusat Bahasa Melayu Singapura telah menterjemah beberapa komponen penting berkai
 Kami berharap, bahan-bahan ini dapat menyokong pembelajaran para guru Bahasa Melayu di Singapura dalam melaksanakan PdP yang berkesan.
 
 Sila terakan nama Pusat Bahasa Melayu Singapura sebagai sumber rujukan. Terima kasih.
+
+##### **PAUTAN KE LAMAN WIKI STP DI OPAL2.0**
+
+![PAUTAN KE LAMAN WIKI STP DI OPAL2.0](/images/stp-opal-qr-code.jpeg)
+
+Sila klik pautan [STP di OPAL2.0](https://www.opal2.moe.edu.sg/csl/s/singapore-teaching-practice/wiki/page/view?title=The+Singapore+Teaching+Practice) untuk log masuk ke laman STP di OPAL2.0. Dalam laman wiki STP di OPAL2.0, para guru boleh mendapatkan maklumat terperinci mengenai pengemaskinian maklumat mengenai Amalan Pengajaran Singapura.
