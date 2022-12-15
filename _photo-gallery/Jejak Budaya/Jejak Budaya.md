@@ -59,7 +59,7 @@ Sekolah Rendah Pioneer</a></td>
 Sekolah Menengah Outram</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands"><img src="![](/images/sekolah-menengah-yishun-(2).jpeg)" alt="Sekolah Menengah Yishun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands">Sekolah Menengah Yishun</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer"><img src="![](/images/sekolah-marymount-convent-(6).jpeg)" alt="Sekolah Marymount Convent"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer">Sekolah Marymount Convent</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth"><img src="![](/images/sekolah-montfort-junior-(3).jpeg)" alt="Sekolah Montfort Junior"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth">Sekolah Montfort Junior</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior"><img src="/images/sekolah-montfort-junior-(3).jpeg" alt="Sekolah Montfort Junior"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior">Sekolah Montfort Junior</a></td>
 			</tr>
 </thead>
 </table>
