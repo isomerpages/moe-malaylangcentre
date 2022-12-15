@@ -115,11 +115,11 @@ Sekolah Rendah Ahmad Ibrahim</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/13.11.19-sekolah-rendah-raffles-girls" alt="Sekolah Menengah Outram"><img src="/images/dsc_0026.jpeg" alt="Sekolah Rendah Raffles Girls"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/13.11.19-sekolah-rendah-raffles-girls">
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/13-11-19-sekolah-rendah-raffles-girls" alt="Sekolah Menengah Outram"><img src="/images/dsc_0026.jpeg" alt="Sekolah Rendah Raffles Girls"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/13-11-19-sekolah-rendah-raffles-girls">
 Sekolah Rendah Raffles Girls</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-woodlands-21.10.19"><img src="/images/img_8756.jpeg" alt="Sekolah Rendah Woodlands"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-woodlands-21.10.19">Sekolah Rendah Woodlands</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-jurong-22.0.19"><img src="/images/img_8973.jpeg" alt="Sekolah Menengah Jurong"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-jurong-22.0.19">Sekolah Menengah Jurong</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-greenwood-24.10.19"><img src="/images/img_9222.jpeg" alt="Sekolah Rendah Greenwood"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-greenwood-24.10.19">Sekolah Rendah Greenwood</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-woodlands-21-10-19"><img src="/images/img_8756.jpeg" alt="Sekolah Rendah Woodlands"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-woodlands-21-10-19">Sekolah Rendah Woodlands</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-jurong-22-0-19"><img src="/images/img_8973.jpeg" alt="Sekolah Menengah Jurong"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-jurong-22-0-19">Sekolah Menengah Jurong</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-greenwood-24-10-19"><img src="/images/img_9222.jpeg" alt="Sekolah Rendah Greenwood"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-greenwood-24-10-19">Sekolah Rendah Greenwood</a></td>
 			</tr>
 </thead>
 </table>
