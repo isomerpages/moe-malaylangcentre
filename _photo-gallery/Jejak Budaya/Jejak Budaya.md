@@ -22,3 +22,11 @@ third_nav_title: Jejak Budaya
   </tr>
 </thead>
 </table>
+
+![Sekolah Rendah Chongfu](/images/sekolah-rendah-chongfu-(12).jpeg)
+
+![Sekolah Rendah Rivervale](/images/sekolah-rendah-rivervale-(1).jpeg)
+
+![Sekolah Rendah Marsiling](/images/sekolah-renah-marsiling-(1).jpeg)
+
+![Sekolah Rendah Montfort](/images/sekolah-rendah-montfort-(1).jpeg)
