@@ -75,13 +75,11 @@ Sekolah Menengah Outram</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Menengah Outram"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="Sekolah Rendah Outram"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
-Sekolah Menengah Outram</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun"><img src="/images/sekolah-menengah-yishun-(2).jpeg" alt="Sekolah Menengah Yishun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun">Sekolah Menengah Yishun</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Marymount Convent"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Marymount Convent</a></td>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior"><img src="/images/sekolah-montfort-junior-(3).jpeg" alt="Sekolah Montfort Junior"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior">Sekolah Montfort Junior</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Menengah Outram"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
+MOELC Bishan Bahasa Indonesia</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun"><img src="/images/sekolah-menengah-yishun-(2).jpeg" alt="Sekolah Gan Eng Seng"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun">Sekolah Gan Eng Seng</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Hai Sing Catholic</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior"><img src="/images/sekolah-montfort-junior-(3).jpeg" alt="Sekolah Menengah Broadrick"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior">Sekolah Menengah Broadrick</a></td>
 			</tr>
 </thead>
 </table>
-
-
