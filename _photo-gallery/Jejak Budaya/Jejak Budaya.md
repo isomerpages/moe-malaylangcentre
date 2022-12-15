@@ -95,7 +95,7 @@ MOELC Bishan Bahasa Indonesia</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="Sekolah Rendah Ahmad Ibrahim"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-ahmad-ibrahim" alt="Sekolah Menengah Outram"><img src="/images/sekolah-rendah-ahmad-ibrahim-(10).jpeg" alt="Sekolah Rendah Ahmad Ibrahim"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-ahmad-ibrahim">
 Sekolah Rendah Ahmad Ibrahim</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng"><img src="/images/sekolah-gan-eng-seng-(8).jpeg" alt="Sekolah Rendah Qihua"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-gan-eng-seng">Sekolah Rendah Qihua</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic"><img src="/images/sekolah-hai-sing-catholic-(1).jpeg" alt="Sekolah Rendah Shuqun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-hai-sing-catholic">Sekolah Rendah Shuqun</a></td>
