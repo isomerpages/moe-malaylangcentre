@@ -43,3 +43,23 @@ Sekolah Rendah Pioneer</a></td>
 			</tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer" alt="Sekolah Rendah Pioneer"><img src="/images/sekolah-rendah-pioneer-(6).jpeg" alt="Sekolah Rendah Rivervale"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-pioneer">
+Sekolah Menengah Outram</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands"><img src="/images/sekolah-rendah-white-sands-(6).jpeg" alt="Sekolah Rendah White Sands"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-rendah-white-sands">Sekolah Menengah Yishun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer"><img src="/images/sekolah-menengah-bendemeer-(10).jpeg" alt="Sekolah Menengah Bendemeer"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-bendemeer">Sekolah Marymount Convent</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth"><img src="/images/sekolah-menengah-commonwealth-(2).jpeg" alt="Sekolah Menengah Commonwealth"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-commonwealth">Sekolah Montfort Junior</a></td>
+			</tr>
+</thead>
+</table>
