@@ -15,18 +15,14 @@ third_nav_title: Jejak Budaya
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax">Sekolah Rendah Chongfu</td>
-    <td class="tg-0lax">Sekolah Rendah Rivervale</td>
-    <td class="tg-0lax">Sekolah Rendah Marsiling</td>
-    <td class="tg-0lax">Sekolah Rendah Montfort</td>
+    <td class="tg-0lax"><p><img src="/images/sekolah-rendah-chongfu-(12).jpeg" alt="Sekolah Rendah Chongfu"></p><br>
+Sekolah Rendah Chongfu</td>
+    <td class="tg-0lax"><p><img src="/images/sekolah-rendah-rivervale-(1).jpeg" alt="Sekolah Rendah Rivervale"></p><br>Sekolah Rendah Rivervale</td>
+    <td class="tg-0lax"><p><img src="/images/sekolah-renah-marsiling-(1).jpeg" alt="Sekolah Rendah Marsiling"></p><br>Sekolah Rendah Marsiling</td>
+    <td class="tg-0lax"><p><img src="/images/sekolah-rendah-montfort-(1).jpeg" alt="Sekolah Rendah Montfort"></p><br>Sekolah Rendah Montfort</td>
   </tr>
 </thead>
 </table>
 
-![Sekolah Rendah Chongfu](/images/sekolah-rendah-chongfu-(12).jpeg)
 
-![Sekolah Rendah Rivervale](/images/sekolah-rendah-rivervale-(1).jpeg)
 
-![Sekolah Rendah Marsiling](/images/sekolah-renah-marsiling-(1).jpeg)
-
-![Sekolah Rendah Montfort](/images/sekolah-rendah-montfort-(1).jpeg)
