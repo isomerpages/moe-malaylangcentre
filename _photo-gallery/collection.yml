@@ -2,6 +2,8 @@ collections:
   photo-gallery:
     output: true
     order:
+      - Jejak Budaya/.keep
+      - Jejak Budaya/Jejak Budaya.md
       - Jejak Budaya/Sekolah Rendah Rivervale.md
       - Jejak Budaya/Sekolah Rendah Marsiling.md
       - Jejak Budaya/Sekolah Rendah Chongfu.md
@@ -26,5 +28,3 @@ collections:
       - Jejak Budaya/Sekolah Rendah Woodlands.md
       - Jejak Budaya/Sekolah Menengah Jurong.md
       - Jejak Budaya/Sekolah Rendah Greenwood.md
-      - Jejak Budaya/Jejak Budaya.md
-      - Jejak Budaya/.keep
