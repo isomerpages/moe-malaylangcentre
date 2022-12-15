@@ -55,7 +55,7 @@ Sekolah Rendah Pioneer</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Rendah Pioneer"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="Sekolah Rendah Outram"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Menengah Outram"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="Sekolah Rendah Outram"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
 Sekolah Menengah Outram</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun"><img src="/images/sekolah-menengah-yishun-(2).jpeg" alt="Sekolah Menengah Yishun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun">Sekolah Menengah Yishun</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Marymount Convent"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Marymount Convent</a></td>
@@ -63,3 +63,25 @@ Sekolah Menengah Outram</a></td>
 			</tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Menengah Outram"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="Sekolah Rendah Outram"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
+Sekolah Menengah Outram</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun"><img src="/images/sekolah-menengah-yishun-(2).jpeg" alt="Sekolah Menengah Yishun"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun">Sekolah Menengah Yishun</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Marymount Convent"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Marymount Convent</a></td>
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior"><img src="/images/sekolah-montfort-junior-(3).jpeg" alt="Sekolah Montfort Junior"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-montfort-junior">Sekolah Montfort Junior</a></td>
+			</tr>
+</thead>
+</table>
+
+
