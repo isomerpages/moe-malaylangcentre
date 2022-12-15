@@ -75,7 +75,7 @@ Sekolah Menengah Outram</a></td>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram" alt="Sekolah Menengah Outram"><img src="/images/sekolah-menengah-outram-(6).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-outram">
+    <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia" alt="Sekolah Menengah Outram"><img src="/images/moelc-bishan-bahasa-indonesia-(8).jpeg" alt="MOELC Bishan Bahasa Indonesia"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/moelc-bishan-bahasa-indonesia">
 MOELC Bishan Bahasa Indonesia</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun"><img src="/images/sekolah-menengah-yishun-(2).jpeg" alt="Sekolah Gan Eng Seng"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-menengah-yishun">Sekolah Gan Eng Seng</a></td>
     <td class="tg-0lax"><p><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent"><img src="/images/sekolah-marymount-convent-(6).jpeg" alt="Sekolah Hai Sing Catholic"></a></p><br><a href="/mlcs/photo-gallery/jejak-budaya/sekolah-marymount-convent">Sekolah Hai Sing Catholic</a></td>
