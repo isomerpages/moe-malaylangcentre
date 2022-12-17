@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2014/.keep
       - 2013/.keep
       - 2013/2013.md
       - 2013/Ceramah Arif Budiman X.md
