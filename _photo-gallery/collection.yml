@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2013/Seminar Bahasa Melayu 2013.md
       - 2013/2013.md
       - 2013/.keep
       - 2012/.keep
