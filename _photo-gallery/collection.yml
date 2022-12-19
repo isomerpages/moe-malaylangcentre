@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2015/.keep
       - 2014/.keep
       - 2014/2014.md
       - 2014/Perasmian Pembukaan Pusat Bahasa Melayu Singapura.md
