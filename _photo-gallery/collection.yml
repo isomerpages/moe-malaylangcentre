@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2016/Membina Item Penilaian.md
       - 2016/Membina Item Penilaian (Guru Permulaan 2015) Pri.md
       - 2016/Membina Item Penilaian (Guru Permulaan 2015) Sec.md
       - 2016/Menjadikan Pemikiran Jelas (Sekolah Rendah).md
