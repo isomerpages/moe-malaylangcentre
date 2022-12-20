@@ -2,6 +2,8 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2016/.keep
+      - 2016/2016.md
       - 2016/8th Teachers' Conference 2016.md
       - 2016/Bahasa Baku bagi Guru Permulaan.md
       - 2016/Ceramah Arif Budiman ke 13.md
@@ -38,8 +40,6 @@ collections:
       - 2016/Strategies for Enhancing Higher Order Thinking Skills Sec.md
       - 2016/Tatabahasa Bahasa Melayu Modul 1.md
       - 2016/Enriching Pupils' Vocab.md
-      - 2016/2016.md
-      - 2016/.keep
       - 2015/.keep
       - 2015/2015.md
       - 2015/Ceramah Arif Budiman 12.md
