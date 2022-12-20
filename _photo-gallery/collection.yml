@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2017/2017.md
       - 2017/.keep
       - 2016/.keep
       - 2016/2016.md
