@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2018/.keep
       - 2017/.keep
       - 2017/2017.md
       - 2017/Bahasa Baku bagi Guru Permulaan.md
