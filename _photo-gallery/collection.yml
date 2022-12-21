@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2018/Singapore Teaching Practice.md
       - 2018/Strategi Pengajar Pengimbuhan bagi Pendidik Bersekutu.md
       - 2018/Tatabahasa 2 Sesi Ulang.md
       - 2018/Teacher Led Workshop.md
