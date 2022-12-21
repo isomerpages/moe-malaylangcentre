@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2017/Kajian Pembelajaran.md
       - 2017/Kemahiran Interaksi Lisan (Rerun).md
       - 2017/Kemahiran Interaksi Lisan.md
       - 2017/Kursus bagi guru Pra sekolah MOE Kindergarten.md
