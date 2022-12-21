@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2017/Program Induksi bagi Guru Permulaan (2017 intake).md
       - 2017/Seminar Bahasa Melayu 2017.md
       - 2017/Sepetang bersama Pak Suratman.md
       - 2017/Strategi Meningkatkan Pemikiran Peringkat Tinggi (Pri).md
