@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2017/MTL Symposium.md
       - 2017/Pengajaran dan Pembelajaran Bahasa melalui Pantun.md
       - 2017/Pengajaran Imbuhan.md
       - 2017/Peraduan App Pintar Kata.md
