@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2018/Peraduan App Pintar Kata.md
       - 2018/Seminar Bahasa Melayu 2018.md
       - 2018/Singapore Teaching Practice.md
       - 2018/Strategi Pengajar Pengimbuhan bagi Pendidik Bersekutu.md
