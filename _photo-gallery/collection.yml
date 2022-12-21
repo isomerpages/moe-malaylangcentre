@@ -2,6 +2,8 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2018/.keep
+      - 2018/2018.md
       - 2018/Flipped Classroom Sesi Ulang.md
       - 2018/Menggunakan Bahan Sastera dalam Bahasa Melayu.md
       - 2018/App Lagenda Singapura dalam Pengajaran dan Pembelajaran.md
@@ -23,8 +25,6 @@ collections:
       - 2018/Strategi Pengajar Pengimbuhan bagi Pendidik Bersekutu.md
       - 2018/Tatabahasa 2 Sesi Ulang.md
       - 2018/Teacher Led Workshop.md
-      - 2018/2018.md
-      - 2018/.keep
       - 2017/.keep
       - 2017/2017.md
       - 2017/Bahasa Baku bagi Guru Permulaan.md
