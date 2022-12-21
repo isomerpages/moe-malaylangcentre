@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2017/Menjadikan Pemikiran Jelas (Rerun).md
       - 2017/Mesyuarat Tahunan bersama Guru 2017 (Sek Men).md
       - 2017/Mesyuarat Tahunan bersama Guru 2017 (Sek Ren).md
       - 2017/MTL Symposium.md
