@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - "2019/6 11 19 : Program Induksi bagi Guru Permulaan (2019 Intake).md"
       - "2019/7 11 19 : Kursus Amalan Pengajaran Singapura.md"
       - "2019/8 11 19 : Kursus Amalan Pengajaran Singapura.md"
       - "2019/8 11 19 : Perkongsian oleh Guru Kanan dan Guru Peneraju.md"
