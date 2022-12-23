@@ -2,4 +2,5 @@ collections:
   syawal-di-mlcs:
     output: true
     order:
+      - 2021.md
       - Syawal di MLCS.md
