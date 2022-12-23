@@ -4,3 +4,4 @@ permalink: /mlcs/photo-gallery/2020/february/6-2-20-pengajaran-dan-pembelajaran-
 description: ""
 third_nav_title: "2020"
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRc3oOXdtds99Jow5wKTacinFj_dLjofzGefaCFzMRjxjy3fdHi-83gL0_Q-Q-CkV5I54po1KyddsBX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
