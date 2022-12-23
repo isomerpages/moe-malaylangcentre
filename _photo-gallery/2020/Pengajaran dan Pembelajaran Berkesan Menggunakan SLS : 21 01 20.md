@@ -4,3 +4,4 @@ permalink: /mlcs/photo-gallery/2020/januari/pengajaran-dan-pembelajaran-berkesan
 description: ""
 third_nav_title: "2020"
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTK-ftcxc2Z4TLmudqQ4sIUu1sIW8KZ8goBwTJwt_ZBBFwzU_2KBb81BsM5N_0J1sCgYKh61Y3q5Zkx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
