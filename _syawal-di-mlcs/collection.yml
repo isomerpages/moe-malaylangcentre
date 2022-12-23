@@ -1,4 +1,5 @@
 collections:
   syawal-di-mlcs:
     output: true
-    order: []
+    order:
+      - Syawal di MLCS.md
