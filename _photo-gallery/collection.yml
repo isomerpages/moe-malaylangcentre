@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - "2019/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 9 7 2019.md"
       - 2019/Ceramah Arif Budiman.md
       - "2019/STP : 17 7 2019.md"
       - "2019/STP : 18 7 2019.md"
