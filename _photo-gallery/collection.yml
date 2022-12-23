@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - "2020/27 02 20 : Literasi Media dalam PdP Bahasa Melayu.md"
       - 2020/Sambutan Ulang Tahun Ke 10 MLCS.md
       - 2020/2020.md
       - 2020/.keep
