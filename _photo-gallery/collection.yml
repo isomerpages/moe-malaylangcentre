@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2019/Menggunakan Bahan Sastera dalam Pembelajaran Bahasa Melayu.md
       - 2019/Pengajaran Pribahasa.md
       - 2019/Penulisan Karangan Berdasarkan Gambar.md
       - 2019/Strategi Bacaan Terperinci.md
