@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/malaylanguagecenter.svg" alt="MLCS Logo" style="width:35%;">  
+<body><img src="/images/malaylanguagecenter.svg" alt="MLCS Logo" style="width:27%;">  
   
 </body>
 
