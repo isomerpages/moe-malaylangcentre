@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2019/Amalan Pengajaran Singapura.md
       - 2019/Pengajaran Lisan Menggunakan Strategi VAK.md
       - 2019/Menggunakan Bahan Sastera dalam Pembelajaran Bahasa Melayu.md
       - 2019/Pengajaran Pribahasa.md
