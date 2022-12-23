@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2019/Strategi Bacaan Terperinci.md
       - "2019/Kursus STP : 17&18 4 2019.md"
       - 2019/Kursus dari Dr Pitchay.md
       - 2019/Kursus Cikgu Rahmat.md
