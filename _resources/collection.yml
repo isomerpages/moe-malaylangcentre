@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - MLCS Publications/.keep
+      - MLCS Publications/MLCS Publications.md
       - MLCS Publications/2021.md
       - MLCS Publications/2020.md
       - MLCS Publications/2019.md
@@ -14,8 +16,6 @@ collections:
       - MLCS Publications/2012.md
       - MLCS Publications/2011.md
       - MLCS Publications/2010.md
-      - MLCS Publications/MLCS Publications.md
-      - MLCS Publications/.keep
       - MLCS Educational Apps/.keep
       - MLCS Educational Apps/MLCS Educational Apps.md
       - MLCS Educational Apps/Legenda Singapura.md
