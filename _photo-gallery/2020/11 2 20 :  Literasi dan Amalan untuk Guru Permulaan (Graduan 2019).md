@@ -4,3 +4,4 @@ permalink: /mlcs/photo-gallery/2020/february/11-2-20-literasi-dan-amalan-untuk-g
 description: ""
 third_nav_title: "2020"
 ---
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRriH_k4xDi0_ldTi3HlpY9rzzakOY7uE4owD-bt_6BJsg04XYnPyXU1l9HHOpdQzR7RqNOOozELAgZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
