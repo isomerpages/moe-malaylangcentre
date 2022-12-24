@@ -75,4 +75,5 @@ sections:
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
+      image: /images/pd8.jpeg
 ---
