@@ -26,6 +26,8 @@ sections:
   - infopic:
       title: Latest Events
       description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
-      button: Button Text
-      alt: Image alt text
+      button: Annual Meeting with ML Teachers via Zoom
+      alt: Annual Meeting with ML Teacher
+      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
+      image: /images/img_0833.jpeg
 ---
