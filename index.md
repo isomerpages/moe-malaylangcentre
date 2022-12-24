@@ -52,4 +52,12 @@ sections:
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
       image: /images/img_5610 2.jpeg
       alt: Ceramah Arif Budiman
+  - infopic:
+      title: Pusat Sumber MLCS
+      description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
+        dan pembelajaran terutama...
+      button: Sila lihat selanjutnya...
+      url: /mlcs/resources/resource-centre/
+      image: /images/copy-of-highlight.gif
+      alt: Pusat Sumber MLCS
 ---
