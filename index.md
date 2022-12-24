@@ -76,4 +76,10 @@ sections:
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
       image: /images/pd8.jpeg
+  - infopic:
+      title: Pusat Sumber
+      button: For more books
+      url: /mlcs/resources/resource-centre/
+      image: /images/Pusat sumber.jpg
+      alt: Pusat Sumber
 ---
