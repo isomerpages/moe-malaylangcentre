@@ -19,9 +19,8 @@ sections:
           description: ""
           url: /mlcs/professional-development-programmes/training-programmes/school-based-workshop/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: About MLCS
+      description: "Pusat Bahasa Melayu Singapura melaksanakan tugas teras untuk
+        memperkaya kurikulum bagi pengajaran dan pembelajaran Bahasa Melayu di
+        Singapura. "
 ---
