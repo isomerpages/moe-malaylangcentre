@@ -60,4 +60,12 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/copy-of-highlight.gif
       alt: Pusat Sumber MLCS
+  - infopic:
+      title: Antologi Janji
+      description: Antologi Janji digital ini mengandungi 10 buah cerpen yang
+        dihasilkan guru bahasa Melayu Singapura dari....
+      button: Sila lihat selanjutnya...
+      url: /mlcs/resources/anthology/secondary/short-stories-janji/
+      image: /images/sbm-2022-antologi-janji-poster.jpeg
+      alt: Antologi Janji
 ---
