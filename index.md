@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Program Latihan MLCS
+          description: ""
+          url: /mlcs/professional-development-programmes/training-programmes/calendar/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
