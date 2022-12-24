@@ -14,7 +14,7 @@ third_nav_title: Hikmah Melayu
 
   
 <img src="/images/pisang3.jpeg"  
-style="width:60%">
+style="width:30%">
 
 **Kegunaan** pisang tidak terbatas kepada buahnya sahaja. Malahan, hampir keseluruhan pohon pisang dapat digunakan. Namun demikian, lebih daripada itu, pisang turut digunakan secara simbolik dalam proses perpaduan. Hal ini dapat dilihat dalam adat perlimau tapak atau majlis penerimaan murid dalam ilmu persilatan. Dalam hal ini, pisang dimakan dengan asam dan garam sebagai simbol perpaduan antara murid-murid seperguruan. Batang pisang pula turut berguna untuk membuang karat pada keris. 
 
