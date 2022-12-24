@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources.md
       - MLCS Publications/.keep
       - MLCS Publications/MLCS Publications.md
       - MLCS Publications/2021.md
@@ -52,13 +53,13 @@ collections:
       - Anthology/.keep
       - "Anthology/Short stories: Benih.md"
       - Anthology/Secondary.md
+      - Hikmah Melayu/.keep
       - Hikmah Melayu/Hikmah Melayu 1.md
       - Hikmah Melayu/Hikmah Melayu 2.md
       - Hikmah Melayu/Hikmah Melayu 3.md
       - Hikmah Melayu/Hikmah Melayu 4.md
       - Hikmah Melayu/Hikmah Melayu 5.md
       - Hikmah Melayu/Hikmah Melayu 6.md
-      - Hikmah Melayu/.keep
       - ML Poetry SG 50 Publication.md
       - Video/.keep
       - Video/Video.md
@@ -70,4 +71,3 @@ collections:
       - MLCS 10th Anniversary.md
       - e MTLS 2022 MLCS.md
       - Tekad Sedekad.md
-      - Resources.md
