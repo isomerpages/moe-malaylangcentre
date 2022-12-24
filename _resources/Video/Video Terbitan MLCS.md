@@ -16,10 +16,6 @@ third_nav_title: Video
 
 #### Bicara Budiman 1
 
-#### Bicara Budiman 1
-
-#### Bicara Budiman 1
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vaZeOb-Uixw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Bicara Budiman 2
@@ -79,4 +75,3 @@ third_nav_title: Video
 Video klip ini memaparkan Raja Ali Haji, seorang intelek Melayu unggul dan karya-karya yang telah beliau hasilkan.
 
 #### Raja Ali Haji Intelek Melayu Unggul
-
