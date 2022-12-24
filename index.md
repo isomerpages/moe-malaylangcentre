@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/mlcs.gif
       key_highlights:
         - title: Program Latihan MLCS
           description: ""
