@@ -12,9 +12,9 @@ sections:
         - title: Program Latihan MLCS
           description: ""
           url: /mlcs/professional-development-programmes/training-programmes/calendar/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Bengkel Kendalian Guru
+          description: ""
+          url: /mlcs/professional-development-programmes/training-programmes/teacher-led-workshop/
         - title: Page A
           description: Page A is important too
           url: /privacy/
