@@ -74,5 +74,5 @@ sections:
         guru-guru Bahasa Melayu di...
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/
-      alt: Image alt text
+      alt: Profesional Development
 ---
