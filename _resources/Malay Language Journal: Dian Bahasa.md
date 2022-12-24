@@ -4,7 +4,7 @@ permalink: /mlcs/resources/malay-language-jurnal-dian-bahasa/
 description: ""
 ---
 <img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg"  
-style="width:69%">
+style="width:50%">
 
 ##### **DIAN BAHASA**
 
@@ -45,7 +45,8 @@ Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan da
   
 [Penghargaan(.pdf, 53.71 KB)](/files/dian_bahasa_penghargaan.pdf)
 
-![Dian Bahasa](/images/dian_bahasa.png)
+<img src="/images/dian_bahasa.png"  
+style="width:60%">
 
 ##### DIAN BAHASA 2
 
