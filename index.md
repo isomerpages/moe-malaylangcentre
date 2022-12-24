@@ -37,4 +37,11 @@ sections:
       url: /mlcs/professional-development-programmes/training-programmes/calendar/
       image: /images/course-schedule-2021_term1.png
       alt: Calendar
+  - infopic:
+      title: Latest Events
+      description: Seminar Bahasa Melayu
+      button: Resources
+      url: /resources/
+      image: /images/219.jpeg
+      alt: Resources
 ---
