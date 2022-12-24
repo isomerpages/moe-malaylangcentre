@@ -15,9 +15,9 @@ sections:
         - title: Bengkel Kendalian Guru
           description: ""
           url: /mlcs/professional-development-programmes/training-programmes/teacher-led-workshop/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Bengkel Berasaskan Sekolah
+          description: ""
+          url: /mlcs/professional-development-programmes/training-programmes/school-based-workshop/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
