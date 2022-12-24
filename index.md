@@ -68,4 +68,11 @@ sections:
       url: /mlcs/resources/anthology/secondary/short-stories-janji/
       image: /images/sbm-2022-antologi-janji-poster.jpeg
       alt: Antologi Janji
+  - infopic:
+      title: Professional Development
+      description: MLCS menawarkan pelbagai program pembangunan profesional bagi
+        guru-guru Bahasa Melayu di...
+      button: Sila lihat selanjutnya...
+      url: /mlcs/professional-development-programmes/
+      alt: Image alt text
 ---
