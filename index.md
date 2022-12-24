@@ -23,4 +23,9 @@ sections:
       description: "Pusat Bahasa Melayu Singapura melaksanakan tugas teras untuk
         memperkaya kurikulum bagi pengajaran dan pembelajaran Bahasa Melayu di
         Singapura. "
+  - infopic:
+      title: Latest Events
+      description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
+      button: Button Text
+      alt: Image alt text
 ---
