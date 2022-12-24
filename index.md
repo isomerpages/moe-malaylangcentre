@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Malay Language Centre of Singapore
+description: Malay Language Centre of Singapore
+image: /images/mlcs-logo-5-march-2013.png
 permalink: /
 notification: ""
 sections:
@@ -83,3 +83,4 @@ sections:
       image: /images/Pusat sumber.jpg
       alt: Pusat Sumber
 ---
+
