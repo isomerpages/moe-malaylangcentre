@@ -15,7 +15,7 @@ locations:
       - days: Sat and Sun
         time: Close
         description: ""
-    maps_link: ""
+    maps_link: https://goo.gl/maps/Q4q596K2D7vPLi3o6
     title: Main Office
   - address:
       - ""
