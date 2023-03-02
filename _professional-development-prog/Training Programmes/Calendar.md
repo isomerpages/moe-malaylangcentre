@@ -4,7 +4,6 @@ permalink: /mlcs/professional-development-programmes/training-programmes/calenda
 description: ""
 third_nav_title: Training Programmes
 ---
-
 ### **PROGRAM PEMBANGUNAN PROFESIONAL GURU 2023**
 
 MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru bagi 2023.
@@ -22,35 +21,4 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 
 5. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
 
-<br>
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10"><h4>Term 1</h4></label>
-    <div>
-    -
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11"><h4>Term 2</h4></label>
-    <div>
-   -
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12"><h4>Term 3</h4></label>
-    <div>
-      -
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13"><h4>Term 4</h4></label>
-    <div>
-     -
-    </div>
-  </li>
-</ul>
