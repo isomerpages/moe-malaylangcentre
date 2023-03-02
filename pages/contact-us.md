@@ -26,8 +26,8 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6354 6960
+      - email: siti_hajjar_mohamed_idrus@schools.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
