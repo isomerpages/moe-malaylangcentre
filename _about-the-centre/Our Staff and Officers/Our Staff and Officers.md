@@ -7,7 +7,7 @@ third_nav_title: Our Staff and Officers
 Professional Staff
 ------------------
 
-<img src="![](/images/cg-rahmat.jpeg)"  
+<img src="/images/cg-rahmat.jpeg"  
 style="width:65%">
 
 #### [Cikgu Rahmat Subadah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-rahmat-subadah)
@@ -16,7 +16,7 @@ Guru Pakar <br>
 [rahmat\_subadah@schools.gov.sg](mailto:rahmat_subadah@schools.gov.sg) <br>
 [6354 6955](tel:6354 6955)
 
-<img src="/images/20220105-edit09.jpeg"  
+<img src="![](/images/cg-rafi.jpeg)"  
 style="width:65%">
 
 #### [Cikgu Muhamad Rafi Abu Bakar](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-muhamad-rafi-abu-bakar)
