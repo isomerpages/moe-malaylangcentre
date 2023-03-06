@@ -74,19 +74,19 @@ Guru Pakar <br>
 style="width:65%">
 
 #### Cikgu Elyyah Kamsin 
-Jurulatih Pusat <br>
+Pegawai Jurulatih Pusat <br>
 [elyyah\_kamsin@schools.gov.sg](mailto:elyyah_kamsin@schools.gov.sg)
 
 [6354 0232](tel:6354 0232)
 
-<img src="![](/images/cg-huda.jpeg)"  
+<img src="/images/cg-huda.jpeg"  
 style="width:65%">
 
-#### Cikgu Elyyah Kamsin 
-Jurulatih Pusat <br>
-[elyyah\_kamsin@schools.gov.sg](mailto:elyyah_kamsin@schools.gov.sg)
+#### Cikgu Nurul Huda Muhammad Yassin
+Pegawai Jurulatih Pusat <br>
+[nurul\_huda\_muhammad\_yassin@schools.gov.sg](mailto:nurul_huda_muhammad_yassin@schools.gov.sg)
 
-[6354 0232](tel:6354 0232)
+[6354 6957](tel:6354 6957)
 
 Administrative Officers
 -----------------------
