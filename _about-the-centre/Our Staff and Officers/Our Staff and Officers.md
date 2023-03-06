@@ -128,16 +128,7 @@ Pegawai Pentadbiran <br>
 [Hezrin\_MOKHTAR@schools.gov.sg](mailto:Hezrin_MOKHTAR@schools.gov.sg) <br>
 [6354 6961](tel:6354 6961)
 
-<img src="/images/20220106-edit11.jpeg"  
-style="width:65%">
-
-#### Bani Muhamad Iyad
-
-Eksekutif ICT <br>
-[bani\_muhamad\_iyad\_bani@moe.edu.sg](mailto:bani_muhamad_iyad_bani@moe.edu.sg) <br>
-[6354 6962](tel:6354 6962)
-
-<img src="/images/20220107-edit15.jpeg"  
+<img src="![](/images/raden.jpeg)"  
 style="width:65%">
 
 #### Raden Muhammad Zulfaiz
