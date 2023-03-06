@@ -20,5 +20,3 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 4. [Bengkel Kendalian Guru Anjuran AST 2023](/files/4-bengkel-kendalian-guru-anjuran-ast-2023.pdf)
 
 5. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
-
-
