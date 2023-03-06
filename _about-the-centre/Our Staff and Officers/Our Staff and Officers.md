@@ -61,7 +61,7 @@ Guru Pakar <br>
 [salina\_hussin@schools.gov.sg](mailto:salina_hussin@schools.gov.sg) <br>
 [6354 6957](tel:6354 6957)
 
-<img src="![](/images/cg-muslim.jpeg)"  
+<img src="/images/cg-muslim.jpeg"  
 style="width:65%">
 
 #### [Cikgu Muslim Hanafiah](/mlcs/about-the-centre/our-staff-officers/staff-officers/cikgu-muslim-hanafiah)
@@ -70,7 +70,7 @@ Guru Pakar <br>
 [Muslim\_Hanafiah@schools.gov.sg](mailto:Muslim_Hanafiah@schools.gov.sg) <br>
 [6354 0235](tel:6354 0235)
 
-<img src="![](/images/cg-elyyah.jpeg)"  
+<img src="/images/cg-elyyah.jpeg"  
 style="width:65%">
 
 #### Cikgu Elyyah Kamsin 
