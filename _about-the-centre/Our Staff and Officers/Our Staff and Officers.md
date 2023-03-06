@@ -70,7 +70,7 @@ Guru Pakar <br>
 [Muslim\_Hanafiah@schools.gov.sg](mailto:Muslim_Hanafiah@schools.gov.sg) <br>
 [6354 0235](tel:6354 0235)
 
-<img src="/images/20220104-edit5.jpeg"  
+<img src="![](/images/cg-elyyah.jpeg)"  
 style="width:65%">
 
 #### Cikgu Elyyah Kamsin 
