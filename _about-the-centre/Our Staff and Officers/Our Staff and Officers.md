@@ -25,7 +25,7 @@ Guru Pakar <br>
 [muhamad\_rafi\_abu\_bakar@schools.gov.sg](mailto:muhamad_rafi_abu_bakar@schools.gov.sg) <br>
 [6354 6953](tel:6354 6953)
 
-<img src="![](/images/cg-arshid.jpeg)"  
+<img src="/images/cg-arshid.jpeg"  
 style="width:65%">
 
 #### [Cikgu Arshid Abdullah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-arshid-abdullah)
@@ -34,7 +34,7 @@ Guru Pakar <br>
 [arshid\_abdullah@schools.gov.sg](mailto:arshid_abdullah@schools.gov.sg) <br>
 [6354 6956](tel:6354 6956)
 
-<img src="/images/20220104-edit6.jpeg"  
+<img src="![](/images/cg-faridah.jpeg)"  
 style="width:65%">
 
 #### [Cikgu Siti Faridah Omar](/mlcs/about-the-centre/our-staff-officers/staff-officers/puan-siti-faridah-omar)
