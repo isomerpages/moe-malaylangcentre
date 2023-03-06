@@ -7,7 +7,7 @@ third_nav_title: Our Staff and Officers
 Professional Staff
 ------------------
 
-<img src="/images/20220116-edit17.jpeg"  
+<img src="![](/images/cg-rahmat.jpeg)"  
 style="width:65%">
 
 #### [Cikgu Rahmat Subadah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-rahmat-subadah)
