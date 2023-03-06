@@ -7,13 +7,7 @@ third_nav_title: Our Staff and Officers
 Professional Staff
 ------------------
 
-![20220105-EDIT8](/images/20220105-edit8.jpeg)
 
-#### [Dr Fadilah Isnin](/mlcs/about-the-centre/our-staff-officers/staff-officers/dr-fadilah-isnin)
-
-Pengetua Guru Pakar <br>
-[fadilah\_isnin@schools.gov.sg](mailto:fadilah_isnin@schools.gov.sg) <br>
-[6354 6951](tel:6354 6951)
 
 ![20220116-EDIT17](/images/20220116-edit17.jpeg)
 
