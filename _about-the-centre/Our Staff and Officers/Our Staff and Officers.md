@@ -79,6 +79,15 @@ Jurulatih Pusat <br>
 
 [6354 0232](tel:6354 0232)
 
+<img src="![](/images/cg-huda.jpeg)"  
+style="width:65%">
+
+#### Cikgu Elyyah Kamsin 
+Jurulatih Pusat <br>
+[elyyah\_kamsin@schools.gov.sg](mailto:elyyah_kamsin@schools.gov.sg)
+
+[6354 0232](tel:6354 0232)
+
 Administrative Officers
 -----------------------
 
