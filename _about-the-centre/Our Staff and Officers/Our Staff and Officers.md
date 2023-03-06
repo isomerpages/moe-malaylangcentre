@@ -119,7 +119,7 @@ Pegawai Pentadbiran <br>
 [Rohaidah\_ZAINAL@schools.gov.sg](mailto:Rohaidah_ZAINAL@schools.gov.sg) <br>
 [6354 6961](tel:6354 6961)
 
-<img src="/images/20220106-edit12.jpeg"  
+<img src="![](/images/hezrin.jpeg)"  
 style="width:65%">
 
 #### Hezrin Mokhtar
