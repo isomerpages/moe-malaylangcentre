@@ -52,7 +52,7 @@ Guru Pakar <br>
 [haryati\_surana@schools.gov.sg](mailto:haryati_surana@schools.gov.sg) <br>
 [6354 6954](tel:6354 6954)
 
-<img src="![](/images/cg-salina.jpeg)"  
+<img src="/images/cg-salina.jpeg"  
 style="width:65%">
 
 #### [Cikgu Salina Hussin](/mlcs/about-the-centre/our-staff-officers/staff-officers/puan-salina-hussin)
@@ -61,7 +61,7 @@ Guru Pakar <br>
 [salina\_hussin@schools.gov.sg](mailto:salina_hussin@schools.gov.sg) <br>
 [6354 6957](tel:6354 6957)
 
-<img src="/images/whatsapp-image-2022-01-18-at-1-12-41-pm-(1).jpeg"  
+<img src="![](/images/cg-muslim.jpeg)"  
 style="width:65%">
 
 #### [Cikgu Muslim Hanafiah](/mlcs/about-the-centre/our-staff-officers/staff-officers/cikgu-muslim-hanafiah)
