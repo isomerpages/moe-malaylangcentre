@@ -91,8 +91,7 @@ Pegawai Jurulatih Pusat <br>
 Administrative Officers
 -----------------------
 
-![20220104-EDIT4]()
-<img src="/images/20220104-edit4.jpeg"  
+<img src="![](/images/hajjar.jpeg)"  
 style="width:65%">
 
 #### Siti Hajjar Mohamed Idrus
@@ -101,7 +100,7 @@ Pengurus Pentadbiran <br>
 [Siti\_hajjar\_Mohamed\_idrus@schools.gov.sg](mailto:Siti_hajjar_Mohamed_idrus@schools.gov.sg) <br>
 [6354 6960](tel:6354 6960)
 
-<img src="/images/20220104-edit3.jpeg"  
+<img src="![](/images/rossita.jpeg)"  
 style="width:65%">
 
 #### Rossita Kasly
@@ -111,7 +110,7 @@ Program Eksekutif <br>
 
 [6354 6963](tel:6354 6963)
 
-<img src="/images/20220403-img_2542.jpeg"  
+<img src="![](/images/rohaidah.jpeg)"  
 style="width:65%">
 
 #### Rohaidah Zainal
