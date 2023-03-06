@@ -16,7 +16,7 @@ Guru Pakar <br>
 [rahmat\_subadah@schools.gov.sg](mailto:rahmat_subadah@schools.gov.sg) <br>
 [6354 6955](tel:6354 6955)
 
-<img src="![](/images/cg-rafi.jpeg)"  
+<img src="/images/cg-rafi.jpeg"  
 style="width:65%">
 
 #### [Cikgu Muhamad Rafi Abu Bakar](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-muhamad-rafi-abu-bakar)
@@ -25,7 +25,7 @@ Guru Pakar <br>
 [muhamad\_rafi\_abu\_bakar@schools.gov.sg](mailto:muhamad_rafi_abu_bakar@schools.gov.sg) <br>
 [6354 6953](tel:6354 6953)
 
-<img src="/images/20220106-edit10.jpeg"  
+<img src="![](/images/cg-arshid.jpeg)"  
 style="width:65%">
 
 #### [Cikgu Arshid Abdullah](/mlcs/about-the-centre/our-staff-officers/staff-officers/encik-arshid-abdullah)
