@@ -128,29 +128,21 @@ Pegawai Pentadbiran <br>
 [Hezrin\_MOKHTAR@schools.gov.sg](mailto:Hezrin_MOKHTAR@schools.gov.sg) <br>
 [6354 6961](tel:6354 6961)
 
-<img src="![](/images/raden.jpeg)"  
+<img src="/images/raden.jpeg"  
 style="width:65%">
 
 #### Raden Muhammad Zulfaiz
 
 Pegawai ICT (DE)
 
-<img src="/images/20220106-edit13.jpeg"  
+<img src="/images/hafiz.jpeg"  
 style="width:65%">
 
 #### Muhammad Hafiz Hamzah
 
 Pegawai ICT (DE)
 
-<img src="/images/20220105-edit7.jpeg"  
-style="width:65%">
-
-#### [Junaidah Hassan](/mlcs/resources/resource-centre)
-
-Pustakawan <br>
-[Junaidah.Hassan@staff.spydus.com.sg](mailto:Junaidah.Hassan@staff.spydus.com.sg)
-
-<img src="/images/20220104-edit2.jpeg"  
+<img src="/images/kumari.jpeg"  
 style="width:65%">
 
 #### Kumari
