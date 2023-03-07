@@ -14,8 +14,8 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | 2.      | 1 | [1B\_SR\_Oasis](/files/1b_sr_oasis.pdf) |
 | 3.      | 1 | [1C\_SM\_Spectra](/files/1c_sm_spectra.pdf) |
 | 4.      | 2 | [2A\_SR\_Compassvale](/files/2a_sr_compassvale.pdf) |
-| 5.      | 2 | [2B\_SR\_Perempuan Haig](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/2b_sr_perempuan-haig.pdf) |
-| 6.      | 3 | [3A\_SR\_St Stephen](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/3a_sr_st-stephen.pdf) |
+| 5.      | 2 | [2B\_SR\_Perempuan Haig](/files/2b_sr_perempuan-haig.pdf) |
+| 6.      | 3 | [3A\_SR\_St Stephen](/files/3a_sr_st-stephen.pdf) |
 | 7.      | 3 | [3B\_SR\_Innova (2)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/3b_sr_innova-(2).pdf) |
 | 8.      | 3 | [3C\_SM\_Queenstown](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/3c_sm_queenstown.pdf) |
 | 9.      | 4 | [4A\_SR\_Pei Tong (1)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/4a_sr_pei-tong-(1).pdf) |
