@@ -16,6 +16,6 @@ Mesyuarat Tahunan Bersama  Guru-Guru Bahasa Melayu (Sekolah Menengah) dilaksana
 
 Mesyuarat Tahunan Bersama  Guru-Guru Bahasa Melayu (Sekolah Rendah) akan dilaksanakan pada **Selasa**, **31** **Januari 2023** di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.
 
-Nota: Klik pautan berikut untuk mendapatkan [slaid Powerpoint](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/annual-mtg-with-ml-teachers-2021/membudayakan-kecemerlangan-profesional-guru-bahasa-melayu.pdf) yang dikongsi semasa Mesyuarat Tahunan tersebut.
+Nota: Klik pautan berikut untuk mendapatkan [slaid Powerpoint](/files/membudayakan-kecemerlangan-profesional-guru-bahasa-melayu.pdf) yang dikongsi semasa Mesyuarat Tahunan tersebut.
 
 ..........................................................................................
