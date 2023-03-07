@@ -8,3 +8,6 @@ Program Bestari Berbicara merupakan program tukikan yang disasarkan untuk para k
 
 Pada tahun 2022, MLCS telah menganjurkan Program Bestari Berbicara pada 27 Oktober. Semasa program ini dilaksanakan, terdapat 9 Guru Kanan dan Guru Peneraju telah berkongsi kepakaran dan pengalaman mereka dengan rakan-rakan ketua pedagogi yang lain.
 
+![Bestari Berbicara](/images/Bestari%20Berbicara_1.jpg)
+
+![](/images/Bestari%20Berbicara_2.jpg)
