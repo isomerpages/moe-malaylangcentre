@@ -15,7 +15,7 @@ MLCS menyediakan platform untuk guru menimba pengetahuan dan pengalaman secara b
 *   mempelajari budaya masyarakat Melayu di rantau ini.
 
 
-**Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju 2023**
+#### **Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju 2023**
 
 Pada tahun 2023, MLCS telah menganjurkan Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju yang dianjurkan bersama oleh Universiti Pendidikan Sultan Idris (UPSI) dan MLCS. Program ini telah berlangsung dari 17 hingga 19 Januari 2023.
 
@@ -32,7 +32,7 @@ Program ini ditaja oleh Jawatankuasa Penggalakan dan Pembelajaran Bahasa Melayu 
 ![Immersion 2023](/images/Immersion%202023.jpg)
   
 
-### **Program Penyerapan Ke Negara Brunei Darussalam**
+#### **Program Penyerapan Ke Negara Brunei Darussalam**
 
 ![Program Penyerapan Ke Negara Brunei Darussalam](/images/immersion20.jpeg)
 
@@ -40,7 +40,7 @@ Setiap tahun, MLCS memberi peluang kepada guru-guru BM untuk mengikuti Program P
 
 Guru-guru bahasa Melayu dari sekolah rendah dan menengah diberi peluang untuk menimba pengetahuan, pengalaman dan memperkukuh kemahiran dalam pengajaran dan pembelajaran BM. Susulan daripada prgram penyerapan ini, para guru membina bahan-bahan pengajaran dan pembelajaran yang kemudiannya dikongsi dengan guru-guru Bahasa Melayu yang lain dalam bentuk perkongsian profesional dan bengkel.
 
-### **Program Penyerapan untuk Guru Kanan dan Guru Peneraju**
+#### **Program Penyerapan untuk Guru Kanan dan Guru Peneraju**
 
 ![Program Penyerapan untuk Guru Kanan dan Guru Peneraju](/images/immersion33.png)
 
