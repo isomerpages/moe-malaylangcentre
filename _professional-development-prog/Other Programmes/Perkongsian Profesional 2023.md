@@ -18,8 +18,8 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | 6.      | 3 | [3A\_SR\_St Stephen](/files/3a_sr_st-stephen.pdf) |
 | 7.      | 3 | [3B\_SR\_Innova (2)](/files/3b_sr_innova-(2).pdf) |
 | 8.      | 3 | [3C\_SM\_Queenstown](/files/3c_sm_queenstown.pdf) |
-| 9.      | 4 | [4A\_SR\_Pei Tong (1)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/4a_sr_pei-tong-(1).pdf) |
-| 10\.   | 4 | [4B\_SR\_Punggol Green](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/4b_sr_punggol-green.pdf) |
+| 9.      | 4 | [4A\_SR\_Pei Tong (1)](/files/4a_sr_pei-tong-(1).pdf) |
+| 10\.   | 4 | [4B\_SR\_Punggol Green](/files/4b_sr_punggol-green.pdf) |
 | 11\.   | 4 | [4C\_SM Woodlands (2)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/4c_sm-woodlands-(2).pdf) |
 | 12\.   | 5 | [5A\_SR\_Frontier](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/5a_sr_frontier.pdf) |
 | 13\.   | 5 | [5B\_SR\_Pei Tong (2)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/5b_sr_pei-tong-(2).pdf) |
