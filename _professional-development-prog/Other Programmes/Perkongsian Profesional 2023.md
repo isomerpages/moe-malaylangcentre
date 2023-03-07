@@ -12,7 +12,7 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | --- | --- | --- |
 | 1.      | 1 | [1A\_SR\_Zhenghua](/files/1a_sr-zhenghua.pdf) |
 | 2.      | 1 | [1B\_SR\_Oasis](/files/1b_sr_oasis.pdf) |
-| 3.      | 1 | [1C\_SM\_Spectra](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/1c_sm_spectra.pdf) |
+| 3.      | 1 | [1C\_SM\_Spectra](/files/1c_sm_spectra.pdf) |
 | 4.      | 2 | [2A\_SR\_Compassvale](/files/2a_sr_compassvale.pdf) |
 | 5.      | 2 | [2B\_SR\_Perempuan Haig](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/2b_sr_perempuan-haig.pdf) |
 | 6.      | 3 | [3A\_SR\_St Stephen](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/3a_sr_st-stephen.pdf) |
