@@ -4,83 +4,57 @@ permalink: /mlcs/professional-development-programmes/other-programmes/jejak-buda
 description: ""
 third_nav_title: Other Programmes
 ---
+Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
 
-Program Jejak Budaya@MLCS merupakan program lawatan pembelajaran anjuran MLCS bagi para pelajar sekolah rendah dan menengah. Program ini memberi peluang kepada pelajar untuk mempelajari bahasa dan budaya Melayu di luar bilik darjah dalam suasana yang menyeronokkan.
+[![Slide1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide1.jpg?sfvrsn=6f62586d_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide1.jpg?sfvrsn=6f62586d_2)
 
-![Jejak Budaya](/images/Jejak%20Budaya.jpg)
+[![Slide2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide2.jpg?sfvrsn=c8077989_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide2.jpg?sfvrsn=c8077989_2)
 
-<table style="box-sizing: border-box; width: 821px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 639.5px;"><td style="box-sizing: border-box; width: 386px;"><p style="box-sizing: border-box; font-size: 1.0625em;">Berikut adalah tarikh-tarikh pelaksanaan</p><span style="box-sizing: border-box; color: rgb(255, 0, 0);"></span><span style="box-sizing: border-box; color: rgb(255, 0, 0);"></span><span style="box-sizing: border-box; color: rgb(255, 0, 0);"><strong style="box-sizing: border-box; font-weight: 600; color: rgb(255, 0, 0);"></strong></span><p style="box-sizing: border-box; font-size: 1.0625em;"><span style="box-sizing: border-box; color: rgb(255, 0, 0);"></span><strong style="box-sizing: border-box; font-weight: 600; color: rgb(255, 0, 0);"></strong></p><p style="box-sizing: border-box; font-size: 1.0625em;">Masa: 2:00 ptg hingga 5:30 ptg</p></td><td style="box-sizing: border-box; width: 430.805px;"><p style="box-sizing: border-box; font-size: 1.0625em;">&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sayugia diingatkan:</p><ol style="box-sizing: border-box; padding-left: 20px; font-size: 1.0625em;"><li style="box-sizing: border-box; padding-left: 10px;">Pemilihan sekolah adalah berdasarkan permohonan yang dahulu, akan didahulukan.</li><li style="box-sizing: border-box; padding-left: 10px;">Jumlah pelajar bagi setiap sesi program antara 30-40 pelajar.</li><li style="box-sizing: border-box; padding-left: 10px;">Peringkat pelajar bagi sekolah rendah: Darjah 4 hingga Darjah 6</li><li style="box-sizing: border-box; padding-left: 10px;">Peringkat pelajar bagi sekolah menengah: Menengah 1 hingga Menengah 3.</li><li style="box-sizing: border-box; padding-left: 10px;">Setiap kelompok pelajar harus diiringi oleh guru sekolah masing-masing berdasarkan nisbah jumlah pelajar dan guru yang ditetapkan oleh Kementerian Pendidikan.</li><li style="box-sizing: border-box; padding-left: 10px;">Sila muat turun&nbsp;<a href="/files/jejak-budaya-application-form.pdf" target="_blank" title="borang permohonan" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);">borang permohonan</a><a href="/files/jejak-budaya-application-form.pdf" target="_blank" title="Borang permohonan" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);">&nbsp;</a>bagi mengikuti program Jejak Budaya.</li></ol><p style="box-sizing: border-box; font-size: 1.0625em;">Sila hubungi Cikgu Muhammad Jailani Abu Talib (<a href="mailto:Muhammad_Jailani_ABU_TALIB@schools.gov.sg" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);">Muhammad_Jailani_ABU_TALIB@schools.gov.sg</a>) sekiranya Cikgu berminat untuk membawa para pelajar Cikgu mengikuti Program Jejak Budaya ini.&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;"><br style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Hind, Arial, Helvetica, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p></td></tr></tbody></table>
+[![Gasing](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/gasing.jpg?sfvrsn=3c4d5de9_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/gasing.jpg?sfvrsn=3c4d5de9_2)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-c4ze{color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-b8q8{background-color:#E7E7E7;text-align:center;vertical-align:top}
-.tg .tg-tsui{background-color:#D4D4D4;text-align:center;vertical-align:top}
-.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c4ze"><span style="font-weight:600">Program Jejak Budaya@MLCS</span></th>
-    <th class="tg-c4ze"><span style="font-weight:600">Tarikh</span></th>
-    <th class="tg-c4ze"><span style="font-weight:600">Aktiviti</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-b8q8">1</td>
-    <td class="tg-b8q8">22 Julai 2020, Rabu</td>
-    <td class="tg-b8q8">Batik (Sek Rendah)</td>
-  </tr>
-  <tr>
-    <td class="tg-tsui">2</td>
-    <td class="tg-tsui">24 Julai 2020, Jumaat</td>
-    <td class="tg-rfng"></td>
-  </tr>
-  <tr>
-    <td class="tg-b8q8">3</td>
-    <td class="tg-b8q8">27 Julai 2020, Isnin</td>
-    <td class="tg-ag2m"></td>
-  </tr>
-  <tr>
-    <td class="tg-tsui">4</td>
-    <td class="tg-tsui">29 Julai 2020, Rabu</td>
-    <td class="tg-rfng"></td>
-  </tr>
-  <tr>
-    <td class="tg-b8q8">5</td>
-    <td class="tg-b8q8">20 Oktober 2020, Selasa</td>
-    <td class="tg-b8q8">Batik (Sek Menengah)</td>
-  </tr>
-  <tr>
-    <td class="tg-tsui">6</td>
-    <td class="tg-tsui">21 Oktober 2020, Rabu</td>
-    <td class="tg-tsui">Batik (Sek Menengah)</td>
-  </tr>
-  <tr>
-    <td class="tg-b8q8">7</td>
-    <td class="tg-b8q8">22 Oktober 2020, Khamis</td>
-    <td class="tg-ag2m"></td>
-  </tr>
-  <tr>
-    <td class="tg-tsui">8</td>
-    <td class="tg-tsui">17 November 2020, Selasa</td>
-    <td class="tg-tsui">Batik (Sek Rendah)</td>
-  </tr>
-  <tr>
-    <td class="tg-b8q8">9</td>
-    <td class="tg-b8q8">18 November 2020, Rabu</td>
-    <td class="tg-ag2m"></td>
-  </tr>
-  <tr>
-    <td class="tg-tsui">10</td>
-    <td class="tg-tsui">19 November 2020, Khamis</td>
-    <td class="tg-rfng"></td>
-  </tr>
-</tbody>
-</table>
+**MAKLUMAT TENTANG BAHAN PENGAJARAN**
+
+**Penggunaan SLS**
+
+*   Pelajaran Jejak Budaya di SLS telah dibina dalam bentuk gamifikasi. Para pelajar perlu melengkapkan misi yang diberikan
+*   Pelajaran Jejak Budaya di SLS akan dikongsi dengan guru sebelum program dimulakan
+*   Guru boleh membuat penyesuaian mengikut profil pelajar dan pendekatan yang digunakan di sekolah masing-masing
+
+**Maklumat di Nearpod**
+
+*   Maklumat mengenai artifak budaya disediakan menggunakan aplikasi Nearpod yang telah dimasukkan dalam pelajaran SLS yang dikongsi
+*   Berdasarkan tarikh pelaksanaan dengan pelajar yang diberikan oleh pihak sekolah, MLCS akan membenarkan **akses pada bahan** **Nearpod selama 2 minggu sahaja**
+*   Pelajar hanya perlu memasukkan kod yang diberikan untuk mendapat akses
+*   Akses pada bahan Nearpod akan diberikan **3 hari sebelum tarikh pelaksanaan dengan pelajar**
+*   Guru boleh meneroka bahan sebelum ‘Assign’ pada pelajar pada tarikh yang ditetapkan. Berdasarkan bahan di Nearpod, pemerancahan atau aktiviti tambahan boleh dimasukkan dalam SLS jika perlu
+
+**Bahan-bahan sokongan**
+
+1.  Rancangan pelajaran saranan
+2.  Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
+3.  Panduan menggunakan Nearpod
+4.  Pautan untuk maklum balas guru
+
+**Langkah susulan**
+
+Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu dilengkapkan oleh guru:
+
+1.  Mengisi borang maklum balas yang diberikan dalam e-mel
+2.  Naik muat **kolaj gambar-gambar hasil kerja** kraftangan pelajar di pautan yang diberikan dalam e-mel
+3.  Menghantar **5 gambar murid** membuat aktiviti ke alamat e-mel: **mlcs.singapore@gmail.com**
+
+**PERSEDIAAN YANG PERLU DILAKUKAN OLEH PIHAK SEKOLAH**
+
+Pastikan perkara-perkara berikut disediakan:
+
+*   Peranti untuk menggunakan aplikasi SLS dan Nearpod (Komputer riba/iPad)
+*   Bahan untuk sesi **membuat gasing**:
+    *   3 helai kertas berwarna untuk setiap pelajar
+    *   Sebatang pengorek gigi (_toothpick)_ untuk setiap pelajar
+    *   gam
+    *   gunting
+*   Bahan untuk sesi **membuat keris**:
+    *   3 helai kertas A4 untuk setiap pelajar
+    *   Pengokot
+    *   Gunting
+    *   Pena berwarna
