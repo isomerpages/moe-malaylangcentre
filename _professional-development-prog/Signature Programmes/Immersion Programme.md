@@ -4,7 +4,6 @@ permalink: /mlcs/professional-development-programmes/signature-programme-program
 description: ""
 third_nav_title: Signature Programmes
 ---
-
 ### **Program Penyerapan**
 
 MLCS menyediakan platform untuk guru menimba pengetahuan dan pengalaman secara berterusan. Dalam usaha ini, MLCS telah menyediakan dua program penyerapan ke luar negara untuk guru-guru BM di Singapura. Program penyerapan ini bertujuan untuk:
@@ -15,6 +14,22 @@ MLCS menyediakan platform untuk guru menimba pengetahuan dan pengalaman secara b
 *   membina jaringan kerja dengan sekolah, maktab rendah dan institusi pendidikan di luar negara
 *   mempelajari budaya masyarakat Melayu di rantau ini.
 
+
+**Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju 2023**
+
+Pada tahun 2023, MLCS telah menganjurkan Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju yang dianjurkan bersama oleh Universiti Pendidikan Sultan Idris (UPSI) dan MLCS. Program ini telah berlangsung dari 17 hingga 19 Januari 2023.
+
+Seramai 28 Guru Kanan dan Guru Peneraju telah mengikuti Program ini secara dalam talian.
+
+Objektif program E-Penyerapan ini adalah seperti yang berikut:
+
+1.  Meningkatkan pengetahuan para guru berkaitan dengan bahasa, nilai dan tamadun Melayu;
+2.  membolehkan para guru untuk mempelajari dan menerapkan ilmu, kemahiran dan pengetahuan yang diperoleh dalam pengajaran dan pembelajaran bahasa Melayu; dan
+3.  Membina jaringan kerja dengan pendidik bahasa Melayu di UPSI.
+
+Program ini ditaja oleh Jawatankuasa Penggalakan dan Pembelajaran Bahasa Melayu (MLLPC).
+
+![Immersion 2023](/images/Immersion%202023.jpg)
   
 
 ### **Program Penyerapan Ke Negara Brunei Darussalam**
