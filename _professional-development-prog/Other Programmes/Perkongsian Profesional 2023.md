@@ -25,9 +25,9 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | 13\.   | 5 | [5B\_SR\_Pei Tong (2)](/files/5b_sr_pei-tong-(2).pdf) |
 | 14\.   | 5 | [5C\_SM\_Kuo Chuan Presbyterian](/files/5c_sm_kuo-chuan-prespyterian.pdf) |
 | 15\.   | 6 | [6A\_MOELC Bishan](/files/6a_moelc-bishan.pdf) |
-| 16\.   | 6 | [6B\_SM\_Anderson](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/6b_sm_anderson.pdf) |
-| 17\.   | 7 | [7A\_SR\_Innova (1)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/7a_sr_innova-(1).pdf) |
-| 18\.   | 7 | [7B\_SR\_Fengshan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/7b_sr_fengshan.pdf) |
+| 16\.   | 6 | [6B\_SM\_Anderson](/files/6b_sm_anderson.pdf) |
+| 17\.   | 7 | [7A\_SR\_Innova (1)](/files/7a_sr_innova-(1).pdf) |
+| 18\.   | 7 | [7B\_SR\_Fengshan](/files/7b_sr_fengshan.pdf) |
 | 19\.   | 7 | [7C\_SM\_Woodlands (1)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/7c_sm_woodlands-(1).pdf) |
 | 20\.   | 8 | [8A\_SM\_Bukit View](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/8a_sm_bukit-view.pdf) |
 | 21\.   | 8 | [8B\_SR\_Naval Base](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/8b_sr_naval-base.pdf) |
