@@ -10,4 +10,8 @@ Pada tahun 2022, MLCS telah menganjurkan Program Bestari Berbicara pada 27 Oktob
 
 ![Bestari Berbicara](/images/Bestari%20Berbicara_1.jpg)
 
-![](/images/Bestari%20Berbicara_2.jpg)
+![Bestari Berbicara](/images/Bestari%20Berbicara_2.jpg)
+
+![Bestari Berbicara](/images/Bestari%20Berbicara_3.jpg)
+
+![Bestari Berbicara](/images/Bestari%20Berbicara_4.jpg)
