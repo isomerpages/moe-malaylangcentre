@@ -35,8 +35,8 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | 23\.   | 9 | [9A\_SR\_Greenwood](/files/9a_sr_greenwood.pdf) |
 | 24\.   | 9 | [9B\_SM\_Tanjong Katong](/files/9b_sm_tanjong-katong.pdf) |
 | 25\.   | 9 | [9C\_SM\_Compassvale](/files/9c_sm_compassvale.pdf) |
-| 26\.   | 10 | [10A\_SR\_Huamin](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/10a_sr_huamin.pdf) |
-| 27\.   | 10 | 1[0B\_SM\_Sekolah Tinggi Perempuan Nanyang](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/10b_sm_sekolah-tinggi-perempuan-nanyang.pdf) |
+| 26\.   | 10 | [10A\_SR\_Huamin](/files/10a_sr_huamin.pdf) |
+| 27\.   | 10 | [10B\_SM\_Sekolah Tinggi Perempuan Nanyang](/files/10b_sm_sekolah-tinggi-perempuan-nanyang.pdf) |
 | 28\.   | 10 | [10C\_SM\_Meridian](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/10c_sm_meridian.pdf) |
 
 Terima kasih.
