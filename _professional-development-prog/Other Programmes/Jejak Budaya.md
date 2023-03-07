@@ -6,11 +6,7 @@ third_nav_title: Other Programmes
 ---
 Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
 
-[![Slide1](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide1.jpg?sfvrsn=6f62586d_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide1.jpg?sfvrsn=6f62586d_2)
-
-[![Slide2](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide2.jpg?sfvrsn=c8077989_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/slide2.jpg?sfvrsn=c8077989_2)
-
-[![Gasing](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/gasing.jpg?sfvrsn=3c4d5de9_2)](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/jejak-budaya/gasing.jpg?sfvrsn=3c4d5de9_2)
+![Jejak Budaya](/images/Jejak_Budaya.jpg)
 
 **MAKLUMAT TENTANG BAHAN PENGAJARAN**
 
