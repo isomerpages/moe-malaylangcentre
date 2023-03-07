@@ -31,7 +31,7 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 | 19\.   | 7 | [7C\_SM\_Woodlands (1)](/files/7c_sm_woodlands-(1).pdf) |
 | 20\.   | 8 | [8A\_SM\_Bukit View](/files/8a_sm_bukit-view.pdf) |
 | 21\.   | 8 | [8B\_SR\_Naval Base](/files/8b_sr_naval-base.pdf) |
-| 22\.   | 8 | [8C\_SM\_Deyi](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/8c_sm_deyi.pdf) |
+| 22\.   | 8 | [8C\_SM\_Deyi](/files/8c_sm_deyi.pdf) |
 | 23\.   | 9 | 9[A\_SR\_Greenwood](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/9a_sr_greenwood.pdf) |
 | 24\.   | 9 | [9B\_SM\_Tanjong Katong](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/9b_sm_tanjong-katong.pdf) |
 | 25\.   | 9 | [9C\_SM\_Compassvale](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/9c_sm_compassvale.pdf) |
