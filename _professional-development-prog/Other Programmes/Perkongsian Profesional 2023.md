@@ -4,7 +4,7 @@ permalink: /mlcs/professional-development-programmes/other-programmes/profession
 description: ""
 third_nav_title: Other Programmes
 ---
-![PP23 WEB POSTER ML](https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider6/posters-banners/pp23-web-poster-ml.jpg?sfvrsn=e1cf50f5_2 "PP23 WEB POSTER ML")
+![PP23 WEB POSTER M](/images/pp23-web-poster-ml.jpeg)
 
 Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesional 2023.
 
