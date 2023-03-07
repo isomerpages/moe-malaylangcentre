@@ -10,7 +10,7 @@ Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesio
 
 | Item | Bilik | Nama Fail |
 | --- | --- | --- |
-| 1.      | 1 | [1A\_SR\_Zhenghua](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/1a_sr-zhenghua.pdf) |
+| 1.      | 1 | [1A\_SR\_Zhenghua](/files/1a_sr-zhenghua.pdf) |
 | 2.      | 1 | [1B\_SR\_Oasis](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/1b_sr_oasis.pdf) |
 | 3.      | 1 | [1C\_SM\_Spectra](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/1c_sm_spectra.pdf) |
 | 4.      | 2 | [2A\_SR\_Compassvale](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/perkongsian-profesional-2023/2a_sr_compassvale.pdf) |
