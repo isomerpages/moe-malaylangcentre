@@ -10,46 +10,46 @@ Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 
 
 **MAKLUMAT TENTANG BAHAN PENGAJARAN**
 
-**Penggunaan SLS**
+**<u>Penggunaan SLS</u>**
 
 *   Pelajaran Jejak Budaya di SLS telah dibina dalam bentuk gamifikasi. Para pelajar perlu melengkapkan misi yang diberikan
 *   Pelajaran Jejak Budaya di SLS akan dikongsi dengan guru sebelum program dimulakan
 *   Guru boleh membuat penyesuaian mengikut profil pelajar dan pendekatan yang digunakan di sekolah masing-masing
 
-**Maklumat di Nearpod**
+**<u>Maklumat di Nearpod</u>**
 
 *   Maklumat mengenai artifak budaya disediakan menggunakan aplikasi Nearpod yang telah dimasukkan dalam pelajaran SLS yang dikongsi
-*   Berdasarkan tarikh pelaksanaan dengan pelajar yang diberikan oleh pihak sekolah, MLCS akan membenarkan **akses pada bahan** **Nearpod selama 2 minggu sahaja**
+*   Berdasarkan tarikh pelaksanaan dengan pelajar yang diberikan oleh pihak sekolah, MLCS akan membenarkan **<u>akses pada bahan</u>** **<u>Nearpod selama 2 minggu sahaja</u>**
 *   Pelajar hanya perlu memasukkan kod yang diberikan untuk mendapat akses
-*   Akses pada bahan Nearpod akan diberikan **3 hari sebelum tarikh pelaksanaan dengan pelajar**
+*   Akses pada bahan Nearpod akan diberikan **<u>3 hari sebelum tarikh pelaksanaan dengan pelajar</u>**
 *   Guru boleh meneroka bahan sebelum ‘Assign’ pada pelajar pada tarikh yang ditetapkan. Berdasarkan bahan di Nearpod, pemerancahan atau aktiviti tambahan boleh dimasukkan dalam SLS jika perlu
 
-**Bahan-bahan sokongan**
+**<u>Bahan-bahan sokongan</u>**
 
 1.  Rancangan pelajaran saranan
 2.  Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
 3.  Panduan menggunakan Nearpod
 4.  Pautan untuk maklum balas guru
 
-**Langkah susulan**
+**<u>Langkah susulan</u>**
 
 Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu dilengkapkan oleh guru:
 
-1.  Mengisi borang maklum balas yang diberikan dalam e-mel
-2.  Naik muat **kolaj gambar-gambar hasil kerja** kraftangan pelajar di pautan yang diberikan dalam e-mel
-3.  Menghantar **5 gambar murid** membuat aktiviti ke alamat e-mel: **mlcs.singapore@gmail.com**
+a.  Mengisi borang maklum balas yang diberikan dalam e-mel <br>
+b.  Naik muat **<u>kolaj gambar-gambar hasil kerja</u>** kraftangan pelajar di pautan yang diberikan dalam e-mel <br>
+c.  Menghantar **<u>5 gambar murid</u>** membuat aktiviti ke alamat e-mel: **mlcs.singapore@gmail.com**
 
 **PERSEDIAAN YANG PERLU DILAKUKAN OLEH PIHAK SEKOLAH**
 
 Pastikan perkara-perkara berikut disediakan:
 
 *   Peranti untuk menggunakan aplikasi SLS dan Nearpod (Komputer riba/iPad)
-*   Bahan untuk sesi **membuat gasing**:
+*   Bahan untuk sesi **<u>membuat gasing</u>**:
     *   3 helai kertas berwarna untuk setiap pelajar
     *   Sebatang pengorek gigi (_toothpick)_ untuk setiap pelajar
     *   gam
     *   gunting
-*   Bahan untuk sesi **membuat keris**:
+*   Bahan untuk sesi **<u>membuat keris</u>**:
     *   3 helai kertas A4 untuk setiap pelajar
     *   Pengokot
     *   Gunting
