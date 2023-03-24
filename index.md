@@ -8,21 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/mlcs.gif
-      key_highlights:
-        - title: Program Latihan MLCS
-          description: ""
-          url: /mlcs/professional-development-programmes/training-programmes/calendar/
-        - title: Bengkel Kendalian Guru
-          description: ""
-          url: /mlcs/professional-development-programmes/training-programmes/teacher-led-workshop/
-        - title: Bengkel Berasaskan Sekolah
-          description: ""
-          url: /mlcs/professional-development-programmes/training-programmes/school-based-workshop/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: About MLCS
-      description: "Pusat Bahasa Melayu Singapura melaksanakan tugas teras untuk
-        memperkaya kurikulum bagi pengajaran dan pembelajaran Bahasa Melayu di
-        Singapura. "
+      description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
+        latihan guru yang cemerlang bagi pengajaran dan pembelajaran Bahasa
+        Melayu.
   - infopic:
       title: Latest Events
       description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
@@ -83,4 +76,3 @@ sections:
       image: /images/Pusat sumber.jpg
       alt: Pusat Sumber
 ---
-
