@@ -1,0 +1,7 @@
+collections:
+  secondary:
+    output: true
+    order:
+      - "Short stories: Janji.md"
+      - "Short Stories: Rahsia.md"
+      - "Short stories: Citra.md"

@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/mlcs-logo-5-march-2013.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About the Centre
+    collection: about-the-centre
+  - title: Professional Development Prog
+    collection: professional-development-prog
+  - title: Resources
+    collection: resources
+  - title: News & Events
+    resource_room: true
+  - title: Photo Gallery
+    collection: photo-gallery
+  - title: Syawal di MLCS
+    collection: syawal-di-mlcs

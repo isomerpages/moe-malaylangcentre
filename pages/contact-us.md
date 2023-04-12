@@ -2,31 +2,37 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Malay Language Centre of Singapore
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - MLCS
+      - 13 Bishan Street 14
+      - Singapore 579787
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Sat and Sun
+        time: Close
+        description: ""
+    maps_link: https://goo.gl/maps/Q4q596K2D7vPLi3o6
+    title: Main Office
+  - address:
+      - ""
+      - ""
+      - ""
+    operating_hours: []
+    maps_link: "https://goo.gl/maps/Q4q596K2D7vPLi3o6 "
+    title: Location
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6354 6960
+      - email: siti_hajjar_mohamed_idrus@schools.gov.sg
+      - other: Any text here <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6354 6960
+      - email: siti_hajjar_mohamed_idrus@schools.gov.sg
+      - other: ""
+    title: Pertanyaan
 ---

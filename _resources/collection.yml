@@ -1,0 +1,73 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Resources.md
+      - MLCS Publications/.keep
+      - MLCS Publications/MLCS Publications.md
+      - MLCS Publications/2021.md
+      - MLCS Publications/2020.md
+      - MLCS Publications/2019.md
+      - MLCS Publications/2018.md
+      - MLCS Publications/2017.md
+      - MLCS Publications/2016.md
+      - MLCS Publications/2015.md
+      - MLCS Publications/2014.md
+      - MLCS Publications/2013.md
+      - MLCS Publications/2012.md
+      - MLCS Publications/2011.md
+      - MLCS Publications/2010.md
+      - MLCS Educational Apps/.keep
+      - MLCS Educational Apps/MLCS Educational Apps.md
+      - MLCS Educational Apps/Legenda Singapura.md
+      - MLCS Educational Apps/Bitara Kata.md
+      - MLCS Educational Apps/Cerita Rakyat Nusantara.md
+      - MLCS Educational Apps/Pintar Kata.md
+      - MLCS Educational Apps/Pintar Peribahasa.md
+      - Singapore Teaching Practice.md
+      - Regional Conferences Papers.md
+      - Arif Budiman Lecture Series Publications.md
+      - ML Seminar Publications/.keep
+      - ML Seminar Publications/Malay Language Seminar Publications.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2022.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2021.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2020.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2019.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2018.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2017.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2016.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2015.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2014.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2013.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
+      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
+      - "Malay Language Journal: Dian Bahasa.md"
+      - Dr Muhammad Ariff Ahmad Words/.keep
+      - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
+        Wisdom.md"
+      - "Dr Muhammad Ariff Ahmad Words/Pakej Bicara Budiman: Dr Muhammad Ariff
+        Ahmad (PraUniversiti).md"
+      - "Dr Muhammad Ariff Ahmad Words/Pakej Bicara Budiman: Dr Muhammad Ariff
+        Ahmad (Sekolah Menengah).md"
+      - "Sarkasi Said: Words of Wisdom.md"
+      - Anthology/.keep
+      - Anthology/Primary.md
+      - Anthology/Secondary.md
+      - Hikmah Melayu/.keep
+      - Hikmah Melayu/Hikmah Melayu 1.md
+      - Hikmah Melayu/Hikmah Melayu 2.md
+      - Hikmah Melayu/Hikmah Melayu 3.md
+      - Hikmah Melayu/Hikmah Melayu 4.md
+      - Hikmah Melayu/Hikmah Melayu 5.md
+      - Hikmah Melayu/Hikmah Melayu 6.md
+      - ML Poetry SG 50 Publication.md
+      - Video/.keep
+      - Video/Video.md
+      - Video/Video Terbitan MLCS.md
+      - Video/Video Clip on Malay Language Seminar.md
+      - Video/Video Stimulus for Primary Schools.md
+      - Video/Video Stimulus for Seconday Schools.md
+      - Resource Centre.md
+      - MLCS 10th Anniversary.md
+      - e MTLS 2022 MLCS.md
+      - Tekad Sedekad.md
