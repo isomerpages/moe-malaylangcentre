@@ -21,7 +21,11 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
       image: /images/img_0833.jpeg
   - infopic:
-      image: /images/course-schedule-2021_term1.png
+      image: /images/2 .png
+      title: LATEST EVENTS
+      description: PERKONGSIAN PROFESIONAL 2023
+      button: Resources
+      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
   - infopic:
       title: Latest Events
       description: Seminar Bahasa Melayu
