@@ -21,7 +21,6 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
       image: /images/img_0833.jpeg
   - infopic:
-      title: Lastest Events
       image: /images/course-schedule-2021_term1.png
   - infopic:
       title: Latest Events
