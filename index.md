@@ -22,11 +22,7 @@ sections:
       image: /images/img_0833.jpeg
   - infopic:
       title: Lastest Events
-      description: Training Programmes Calendar
-      button: Training Programmes Calendar
-      url: /mlcs/professional-development-programmes/training-programmes/calendar/
       image: /images/course-schedule-2021_term1.png
-      alt: Calendar
   - infopic:
       title: Latest Events
       description: Seminar Bahasa Melayu
