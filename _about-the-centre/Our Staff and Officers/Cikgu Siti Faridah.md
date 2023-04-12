@@ -6,7 +6,7 @@ third_nav_title: Our Staff and Officers
 ---
 ![Cikgu Siti Faridah](/images/siti_2.jpeg)
 
-## Cikgu Siti Faridah
+## Cikgu Siti Faridah Omar
 
 ### Guru Pakar
 
