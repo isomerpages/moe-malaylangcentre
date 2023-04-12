@@ -7,7 +7,7 @@ description: ""
 
 ![Pusat Sumber MLCS](/images/dsc_0072.jpeg)
 
-Pusat Sumber MLCS memiliki lebih daripada 10,000 tajuk buku berkaitan pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam bahasa Melayu dan Inggeris yang boleh dijadikan rujukan. 
+Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;
 
 Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber MLCS.
 
@@ -16,11 +16,11 @@ Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber
 
 #### July 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### September 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P7Yd2iMbELk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7Yd2iMbELk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18
 
@@ -28,7 +28,7 @@ Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber
 
 Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:
 
-<table style="box-sizing: border-box; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 189px;"><td style="box-sizing: border-box; width: 411px;"><span style="box-sizing: border-box; font-size: medium;">Puan Junaidah Hassan</span><br style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">di talian</strong>: 6354-6959</p><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" target="_blank" style="box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">mlcs.librarian@gmail.com</span></a></p></td><td style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">Waktu Operasi</strong>:&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Isnin hingga Khamis - 8.30am - 5.30pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Jumaat - 8.30am - 5.00pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sabtu, Ahad dan Cuti Umum ditutup</p></td></tr></tbody></table>
+<table style="box-sizing: border-box; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 189px;"><td style="box-sizing: border-box; width: 411px;"><span style="box-sizing: border-box; font-size: medium;">Puan Noor Analizah Mahfodz</span><br style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">di talian</strong>: 6354-6959</p><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" target="_blank" style="box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">mlcs.librarian@gmail.com</span></a></p></td><td style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">Waktu Operasi</strong>:&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Isnin hingga Khamis - 8.30am - 5.30pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Jumaat - 8.30am - 5.00pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sabtu, Ahad dan Cuti Umum ditutup</p></td></tr></tbody></table>
 
 Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:
 
@@ -38,7 +38,7 @@ Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:
 
 [https://tinyurl.com/MLCSLibraryLoanForm](https://tinyurl.com/MLCSLibraryLoanForm)
 
-Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyurl.com/MLCSLibraryLoanReceive)
+Borang pengesahan :&nbsp;[https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyurl.com/MLCSLibraryLoanReceive)
 
 ### Pembelian MLCS Buku Inggeris 2021
 
@@ -186,4 +186,3 @@ Borang pengesahan : [https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyur
     </div>
   </li>
 </ul>
-
