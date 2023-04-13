@@ -23,7 +23,7 @@ sections:
   - infopic:
       image: /images/2 .png
       title: Latest Events
-      description: PERKONGSIAN PROFESIONAL 2023
+      description: Perkongsian Profesional 2023
       button: Resources
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
   - infopic:
