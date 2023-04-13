@@ -26,6 +26,7 @@ sections:
       description: Perkongsian Profesional 2023
       button: Resources
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
+      alt: Perkongsian Profesional 2023
   - infopic:
       title: Latest Events
       description: Seminar Bahasa Melayu
