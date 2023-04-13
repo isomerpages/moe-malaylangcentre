@@ -21,7 +21,7 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
       image: /images/img_0833.jpeg
   - infopic:
-      image: /images/2 .png
+      image: /images/pp23-web-poster-ml.jpeg
       title: Latest Events
       description: Perkongsian Profesional 2023
       button: Resources
