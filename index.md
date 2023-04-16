@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/mlcs banner 1.gif
       title: Selamat datang ke laman MLCS
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: About MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
