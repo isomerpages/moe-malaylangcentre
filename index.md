@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/mlcs.gif
-      title: Selamat datang laman MLCS
+      title: Selamat datang ke laman MLCS
       url: https://file.go.gov.sg/mlcsbanner.gif
   - infobar:
       title: About MLCS
