@@ -7,9 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mlcs.gif
+      background: /images/mlcs banner 1.gif
       title: Selamat datang ke laman MLCS
-      url: https://file.go.gov.sg/mlcsbanner.gif
   - infobar:
       title: About MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
