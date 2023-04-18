@@ -3,8 +3,7 @@ title: Contact Us
 permalink: /mlcs/about-the-centre/contact-us/
 description: ""
 ---
-<img src="/images/malaylanguagecenter.svg"  
-style="width:30%">
+<img src="/images/malaylanguagecenter.svg" style="width:30%">
 
 
 
@@ -28,4 +27,4 @@ Pusat Bahasa Melayu Singapura
 
 Singapura 579787
 
-Atau e-mel kepada: [siti\_hajjar\_mohamed\_idrus@schools.gov.sg](mailto:siti_hajjar_mohamed_idrus@schools.gov.sg)
+Atau e-mel kepada:&nbsp;[siti\_hajjar\_mohamed\_idrus@schools.gov.sg](mailto:siti_hajjar_mohamed_idrus@schools.gov.sg)
