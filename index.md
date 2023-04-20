@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mlcs.gif
+      title: Selamat datang ke laman MLCS
   - infobar:
       title: About MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
@@ -21,11 +21,12 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
       image: /images/img_0833.jpeg
   - infopic:
-      image: /images/2 .png
-      title: LATEST EVENTS
-      description: PERKONGSIAN PROFESIONAL 2023
+      image: /images/pp23-web-poster-ml.jpeg
+      title: Latest Events
+      description: Perkongsian Profesional 2023
       button: Resources
-      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
+      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
+      alt: Perkongsian Profesional 2023
   - infopic:
       title: Latest Events
       description: Seminar Bahasa Melayu
