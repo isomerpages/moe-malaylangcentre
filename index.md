@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mlcs banner 1.gif
       title: Selamat datang ke laman MLCS
   - infobar:
       title: About MLCS
