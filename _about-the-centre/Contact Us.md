@@ -18,6 +18,6 @@ Pusat Bahasa Melayu Singapura
 No: 13, Bishan Street 14
 Singapura 579787
 
-No Tel: [+65 6354 6963](+65 6354 6963)
-Atau 
+No Tel: [+65 6354 6963] (+65 6354 6963)
+                                                                                   Atau 
 e-mel kepada: [siti\_hajjar\_mohamed\_idrus@schools.gov.sg](mailto:siti_hajjar_mohamed_idrus@schools.gov.sg)
