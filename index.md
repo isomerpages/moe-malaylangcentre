@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Selamat datang ke laman MLCS
+      title: Pusat Bahasa Melayu Singapura
       background: /images/1 mlcs banner 2.gif
   - infobar:
       title: About MLCS
