@@ -33,10 +33,11 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
       alt: Perkongsian Profesional 2023
   - infopic:
-      title: Latest Events
-      description: Seminar Bahasa Melayu
-      button: Resources
-      url: /resources/
+      title: Seminar Bahasa Melayu
+      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
+        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
+      button: Sila lihat selanjutnya
+      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
       image: /images/219.jpeg
       alt: Resources
   - infopic:
