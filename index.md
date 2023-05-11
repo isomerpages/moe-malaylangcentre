@@ -26,9 +26,10 @@ sections:
       image: /images/01 annual mtg 2023.jpg
   - infopic:
       image: /images/pp23-web-poster-ml.jpeg
-      title: Latest Events
-      description: Perkongsian Profesional 2023
-      button: Resources
+      title: Perkongsian Profesional 2023
+      description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
+        Amalan Terbaik Penilaian di Bilik Darjah
+      button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
       alt: Perkongsian Profesional 2023
   - infopic:
