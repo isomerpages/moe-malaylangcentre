@@ -18,9 +18,9 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
       button: Visi dan Misi
   - infopic:
-      title: Latest Events
-      description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
-      button: Annual Meeting with ML Teachers via Zoom
+      title: Mesyuarat Tahunan
+      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu
+      button: Sila lihat selanjutnya
       alt: Annual Meeting with ML Teacher
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
       image: /images/img_0833.jpeg
