@@ -10,10 +10,12 @@ sections:
       title: Pusat Bahasa Melayu Singapura
       background: /images/1 mlcs banner 2.gif
   - infobar:
-      title: About MLCS
+      title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
         latihan guru yang cemerlang bagi pengajaran dan pembelajaran Bahasa
         Melayu.
+      url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
+      button: Visi dan Misi
   - infopic:
       title: Latest Events
       description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
