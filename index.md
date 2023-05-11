@@ -65,9 +65,9 @@ sections:
       image: /images/sbm-2022-antologi-janji-poster.jpeg
       alt: Antologi Janji
   - infopic:
-      title: Professional Development
-      description: MLCS menawarkan pelbagai program pembangunan profesional bagi
-        guru-guru Bahasa Melayu di...
+      title: Program Pembelajaran Profesional
+      description: Berminatkah kamu untuk menghadiri kursus-kursus dan program-program
+        yang dianjurkan oleh MLCS?
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
