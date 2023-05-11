@@ -23,7 +23,7 @@ sections:
       button: Sila lihat selanjutnya
       alt: Annual Meeting with ML Teacher
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
-      image: /images/img_0833.jpeg
+      image: /images/01 annual mtg 2023.jpg
   - infopic:
       image: /images/pp23-web-poster-ml.jpeg
       title: Latest Events
