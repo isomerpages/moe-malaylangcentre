@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Pusat Bahasa Melayu Singapura
+      title: Selamat Datang
       background: /images/1 mlcs banner 2.gif
+      subtitle: Ke Pusat Bahasa Melayu Singapura
   - infobar:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
