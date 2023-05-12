@@ -19,7 +19,7 @@ sections:
       button: Visi dan Misi
   - infopic:
       title: Mesyuarat Tahunan
-      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu
+      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
       button: Sila lihat selanjutnya
       alt: Annual Meeting with ML Teacher
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
