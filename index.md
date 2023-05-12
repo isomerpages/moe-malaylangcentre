@@ -28,7 +28,7 @@ sections:
       image: /images/pp23-web-poster-ml.jpeg
       title: Perkongsian Profesional 2023
       description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
-        Amalan Terbaik Penilaian di Bilik Darjah
+        Amalan Terbaik Penilaian di Bilik Darjah.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
       alt: Perkongsian Profesional 2023
