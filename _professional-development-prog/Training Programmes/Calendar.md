@@ -4,7 +4,7 @@ permalink: /mlcs/professional-development-programmes/training-programmes/calenda
 description: ""
 third_nav_title: Training Programmes
 ---
-### **PROGRAM PEMBANGUNAN PROFESIONAL GURU 2023**
+### **PROGRAM PEMBELAJARAN PROFESIONAL GURU 2023**
 
 MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru bagi 2023.
 
