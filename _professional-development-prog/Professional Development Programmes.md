@@ -3,7 +3,7 @@ title: Professional Development Programmes
 permalink: /mlcs/professional-development-programmes/
 description: ""
 ---
-#### **Professional Development for Teachers**
+#### **Professional Learning for Teachers**
 
 ![Professional Development for Teachers](/images/profesional_dev_9.jpeg)
 
