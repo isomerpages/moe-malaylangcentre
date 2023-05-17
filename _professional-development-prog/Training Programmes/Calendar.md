@@ -8,8 +8,9 @@ third_nav_title: Training Programmes
 
 MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru bagi 2023.
 
-Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru sebagai rujukan.
+Berikut adalah beberapa dokumen berkaitan program pembelajaran profesional guru sebagai rujukan.
 
+[Program Pembelajaran Profesional 2023 - Semester 2 (Sekolah Rendah)](/files/1%20program%20pembelajaran%20profesional%202023%20anjuran%20mlcs%20(semester%202)%20-%20primary.pdf)
 1. [Program Pembelajaran Profesional - Semester 2 (Sekolah Rendah)](https://cms.isomer.gov.sg/sites/moe-malaylangcentre/media/files/mediaDirectory/files/editMediaSettings/1%20program%20pembelajaran%20profesional%202023%20anjuran%20mlcs%20(semester%202)%20-%20primary.pdf)
 2. [Program Pembelajaran Profesional - Semester 2 (Sekolah Menengah/MR&IP)](https://cms.isomer.gov.sg/sites/moe-malaylangcentre/media/files/mediaDirectory/files/editMediaSettings/2%20program%20pembelajaran%20profesional%202023%20anjuran%20mlcs%20(semester%202)%20-%20secondary.pdf)
 3. [Program Pembangunan Profesional Anjuran MLCS (Semester 1) - Sekolah Rendah](/files/2-program-pembangunan-profesional-2023-anjuran-mlcs-(semester-1)---primary.pdf)
