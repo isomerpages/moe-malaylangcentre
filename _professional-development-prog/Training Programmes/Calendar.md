@@ -18,6 +18,8 @@ Berikut adalah beberapa dokumen berkaitan program pembangunan profesional guru s
 
 4. [ Program Pembelajaran Profesional Anjuran MLCS (Penggal 2) ](/files/mlcs-pd-2023---objektif-dan-sinopsis-(penggal-2).pdf) Sekolah Rendah, Menengah dan Maktab Rendah/Institusi Pusat
 
-5. [Bengkel Kendalian Guru Anjuran AST 2023](/files/4-bengkel-kendalian-guru-anjuran-ast-2023.pdf)
+5. Program Pembelajaran Profesional - Semester 2 (2023)
 
-6. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
+6. [Bengkel Kendalian Guru Anjuran AST 2023](/files/4-bengkel-kendalian-guru-anjuran-ast-2023.pdf)
+
+7. [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
