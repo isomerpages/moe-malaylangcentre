@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Selamat Datang
-      background: /images/1 mlcs banner 2.gif
+      background: /images/1 new mlcs 3  (1920 × 720 px).gif
       subtitle: Ke Pusat Bahasa Melayu Singapura
   - infobar:
       title: Tentang MLCS
