@@ -7,32 +7,37 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Selamat datang ke laman MLCS
+      title: Selamat Datang
       background: /images/1 mlcs banner 2.gif
+      subtitle: Ke Pusat Bahasa Melayu Singapura
   - infobar:
-      title: About MLCS
+      title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
         latihan guru yang cemerlang bagi pengajaran dan pembelajaran Bahasa
         Melayu.
+      url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
+      button: Visi dan Misi
   - infopic:
-      title: Latest Events
-      description: Mesyuarat Bersama Guru Bahasa Melayu melalui Zoom
-      button: Annual Meeting with ML Teachers via Zoom
+      title: Mesyuarat Tahunan
+      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
+      button: Sila lihat selanjutnya
       alt: Annual Meeting with ML Teacher
       url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
-      image: /images/img_0833.jpeg
+      image: /images/01 annual mtg 2023.jpg
   - infopic:
       image: /images/pp23-web-poster-ml.jpeg
-      title: Latest Events
-      description: Perkongsian Profesional 2023
-      button: Resources
+      title: Perkongsian Profesional 2023
+      description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
+        Amalan Terbaik Penilaian di Bilik Darjah.
+      button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
       alt: Perkongsian Profesional 2023
   - infopic:
-      title: Latest Events
-      description: Seminar Bahasa Melayu
-      button: Resources
-      url: /resources/
+      title: Seminar Bahasa Melayu
+      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
+        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
+      button: Sila lihat selanjutnya
+      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
       image: /images/219.jpeg
       alt: Resources
   - infopic:
@@ -60,17 +65,11 @@ sections:
       image: /images/sbm-2022-antologi-janji-poster.jpeg
       alt: Antologi Janji
   - infopic:
-      title: Professional Development
-      description: MLCS menawarkan pelbagai program pembangunan profesional bagi
-        guru-guru Bahasa Melayu di...
+      title: Program Pembelajaran Profesional
+      description: Berminatkah kamu untuk menghadiri kursus-kursus dan program-program
+        yang dianjurkan oleh MLCS?
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
       image: /images/pd8.jpeg
-  - infopic:
-      title: Pusat Sumber
-      button: For more books
-      url: /mlcs/resources/resource-centre/
-      image: /images/Pusat sumber.jpg
-      alt: Pusat Sumber
 ---
