@@ -28,7 +28,7 @@ Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 
 
 **<u>Bahan-bahan sokongan</u>**
 
-1.  Rancangan pelajaran saranan
+1.  Aktiviti Saranan
 2.  Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
 3.  Panduan menggunakan Nearpod
 4.  Pautan untuk maklum balas guru
@@ -38,8 +38,8 @@ Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 
 Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu dilengkapkan oleh guru:
 
 a.  Mengisi borang maklum balas yang diberikan dalam e-mel <br>
-b.  Naik muat&nbsp;**<u>kolaj gambar-gambar hasil kerja</u>**&nbsp;kraftangan pelajar di pautan yang diberikan dalam e-mel <br>
-c.  Menghantar&nbsp;**<u>5 gambar murid</u>**&nbsp;membuat aktiviti ke alamat e-mel:&nbsp;**mlcs.singapore@gmail.com**
+b.  Naik muat&nbsp;**<u>kolaj mengandungi gambar-gambar hasil kerja</u>**&nbsp;kraftangan pelajar di borang maklum balas <br>
+c.  Naik muat &nbsp;**<u>kolaj mengandungi 5 gambar pelajar</u>**&nbsp;membuat aktiviti di borang maklum balas
 
 **PERSEDIAAN YANG PERLU DILAKUKAN OLEH PIHAK SEKOLAH**
 
