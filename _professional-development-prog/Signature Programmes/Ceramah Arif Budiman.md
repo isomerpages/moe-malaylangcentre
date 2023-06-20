@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 **Ceramah Arif Budiman ke-19 (2023)**
-![CAB 19]()
-
+![](/images/cab%2019%20suratman%20markasan.jpeg)
 
 Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.
 
