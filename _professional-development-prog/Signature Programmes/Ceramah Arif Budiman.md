@@ -10,7 +10,7 @@ third_nav_title: Signature Programmes
 
 Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.
 
-Siri ceramah ini telah melibatkan pensyarah tersohor dan penyertaan aktif para guru dan pelajar.
+Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan aktif para guru dan pelajar.
 
 Objektif CAB adalah seperti yang berikut:
 
