@@ -4,11 +4,9 @@ permalink: /mlcs/professional-development-programmes/signature-programme-program
 description: ""
 third_nav_title: Signature Programmes
 ---
-
-
 Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.
 
-Siri ceramah ini telah melibatkan pensyarah tersohor dan penyertaan aktif para guru dan pelajar.
+Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan aktif para guru serta pelajar.
 
 Objektif CAB adalah seperti yang berikut:
 
@@ -16,21 +14,31 @@ Objektif CAB adalah seperti yang berikut:
 *   memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan Bahasa dan budaya Melayu; dan
 *   menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai, sastera, sejarah dan adat Melayu.
 
+**Ceramah Arif Budiman ke-19 (2023)**
+![](/images/cab%2019%20suratman%20markasan.jpeg)
+
+Acara ini akan dijalankan secara hibrid - bersemuka dan melalui wadah Zoom. Klik pautan berikut untuk mendapatkan slaid pembentangan Cikgu Suratman Markasan.
+
+https://drive.google.com/file/d/1HdDt5mHWywioVjLOeR1FcM8yuoR2rQAM/view?usp=drive_link
+
+*****************************************************
+**Ceramah Arif Budiman ke-18 (2022)**
+
 ![Ceramah Arif Budiman](/images/img_5610%202.jpeg)
 
 **Ceramah Arif Budiman Ke-18, 23 September 2022**
 
-**Tajuk:** Yang Terbilang dan yang Hilang: Menelusuri Sejarah Awal dan Perubahan Peranan Bahasa Melayu Melalui Penamaan dan Peristilahan di Singapura
+**Tajuk:**&nbsp;Yang Terbilang dan yang Hilang: Menelusuri Sejarah Awal dan Perubahan Peranan Bahasa Melayu Melalui Penamaan dan Peristilahan di Singapura
 
-**Penceramah:** **Dr. Imran Tajudeen**
+**Penceramah:**&nbsp;**Dr. Imran Tajudeen**
 
 Pensyarah Kanan, Universiti Nasional Singapura
 
-**Tempat:** Pusat Bahasa Melayu Singapura
+**Tempat:**&nbsp;Pusat Bahasa Melayu Singapura
 
-**Slaid Pembentangan:** Sila klik pautan berikut untuk mendapatkan [slaid pembentangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/cab-2022/cab-18-imran-2022-yg-terbilang-yg-hilang-slaid.pdf) ***(PDF file too big!)*** Dr. Imran Tajudeen.
+**Slaid Pembentangan:**&nbsp;Sila klik pautan berikut untuk mendapatkan&nbsp;[slaid pembentangan](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/cab-2022/cab-18-imran-2022-yg-terbilang-yg-hilang-slaid.pdf) ***(PDF file too big!)***&nbsp;Dr. Imran Tajudeen.
 
-**Abstrak:** Klik pautan berikut untuk mendapatkan[abstrak pembentangan](/files/cab18-yg-terbilang-yg-hilang--abstr-ganti--imran-2022-local.pdf) Dr. Imran Tajudeen.
+**Abstrak:**&nbsp;Klik pautan berikut untuk mendapatkan[abstrak pembentangan](/files/cab18-yg-terbilang-yg-hilang--abstr-ganti--imran-2022-local.pdf)&nbsp;Dr. Imran Tajudeen.
 
 Siri Ceramah Arif Budiman yang lalu ...
 ---------------------------------------
@@ -54,10 +62,10 @@ Siri Ceramah Arif Budiman yang lalu ...
     <div>
       <p><img src="/images/20200221-img_2086.jpeg" alt="Ceramah Arif Budiman Ke-16, 21 Februari 2020"></p>
 <p><strong>Ceramah Arif Budiman Ke-16, 21 Februari 2020</strong></p>
-<p><strong>Tajuk:</strong> Masa Depan Bahasa Melayu Di Nusantara</p>
-<p><strong>Penceramah:</strong> Prof Datuk Dr Awang Sariyan</p>
-<p>Penyandang Kursi Za&#39;ba, Institut Peradaban Melayu, Universiti Pendidikan Sultan Idris (UPSI)</p>
-<p><strong>Tempat:</strong> Pusat Bahasa Melayu Singapura</p>
+<p><strong>Tajuk:</strong>&nbsp;Masa Depan Bahasa Melayu Di Nusantara</p>
+<p><strong>Penceramah:</strong>&nbsp;Prof Datuk Dr Awang Sariyan</p>
+<p>Penyandang Kursi Za'ba, Institut Peradaban Melayu, Universiti Pendidikan Sultan Idris (UPSI)</p>
+<p><strong>Tempat:</strong>&nbsp;Pusat Bahasa Melayu Singapura</p>
     </div>
   </li>
 	<li>
@@ -110,7 +118,7 @@ Siri Ceramah Arif Budiman yang lalu ...
 <p><img src="/images/cab_11_6.jpeg" alt="Ceramah Arif Budiman Ke-11, 14 Februari 2015"></p>
 <p><strong>Tajuk</strong>: Nilai-nilai Asas Jati Diri Melayu Sebagai Perekat Kehidupan Bermasyarakat Berbangsa dan Bernegara</p>
 <p><strong>Penceramah</strong>: Datuk Al Azhar</p>
-<p>Ketua Umum  Dewan Pimpinan Harian</p>
+<p>Ketua Umum&nbsp; Dewan Pimpinan Harian</p>
 <p>Lembaga Adat Melayu, Riau, Indonesia</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
     </div>
