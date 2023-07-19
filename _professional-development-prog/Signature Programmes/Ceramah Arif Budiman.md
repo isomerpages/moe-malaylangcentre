@@ -19,7 +19,9 @@ Objektif CAB adalah seperti yang berikut:
 
 Acara ini akan dijalankan secara hibrid - bersemuka dan melalui wadah Zoom. Klik pautan berikut untuk mendapatkan slaid pembentangan Cikgu Suratman Markasan.
 
-https://drive.google.com/file/d/1HdDt5mHWywioVjLOeR1FcM8yuoR2rQAM/view?usp=drive_link
+[Slaid pembentangan](https://drive.google.com/file/d/1Ozy21OxeGNxjhEeMVdrXncucdOn3Z3JE/view?usp=drive_link)
+
+
 
 *****************************************************
 **Ceramah Arif Budiman ke-18 (2022)**
