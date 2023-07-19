@@ -4,9 +4,6 @@ permalink: /mlcs/professional-development-programmes/signature-programme-program
 description: ""
 third_nav_title: Signature Programmes
 ---
-**Ceramah Arif Budiman ke-19 (2023)**
-![](/images/cab%2019%20suratman%20markasan.jpeg)
-
 Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.
 
 Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan aktif para guru dan pelajar.
@@ -16,6 +13,12 @@ Objektif CAB adalah seperti yang berikut:
 *   meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;
 *   memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan Bahasa dan budaya Melayu; dan
 *   menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai, sastera, sejarah dan adat Melayu.
+
+**Ceramah Arif Budiman ke-19 (2023)**
+![](/images/cab%2019%20suratman%20markasan.jpeg)
+
+Klik pautan berikut untuk mendapatkan slaid pembentangan Cikgu Suratman Markasan.
+
 
 **Ceramah Arif Budiman ke-18 (2022)**
 
