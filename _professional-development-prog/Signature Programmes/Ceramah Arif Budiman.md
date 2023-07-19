@@ -18,7 +18,7 @@ Objektif CAB adalah seperti yang berikut:
 ![](/images/cab%2019%20suratman%20markasan.jpeg)
 
 Klik pautan berikut untuk mendapatkan slaid pembentangan Cikgu Suratman Markasan.
-https://docs.google.com/presentation/d/1NAQxyrJvJ-vaYO4CKJwMfR-w6I-5A3Am/edit?usp=drive_link&amp;ouid=108824374902299213472&amp;rtpof=true&amp;sd=true
+https://drive.google.com/file/d/1HdDt5mHWywioVjLOeR1FcM8yuoR2rQAM/view?usp=drive_link
 
 *****************************************************
 **Ceramah Arif Budiman ke-18 (2022)**
