@@ -41,7 +41,7 @@ sections:
       image: /images/219.jpeg
       alt: Resources
   - infopic:
-      title: Ceramah Arif Budiman Ke-18
+      title: Ceramah Arif Budiman Ke-19
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
