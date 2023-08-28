@@ -72,4 +72,9 @@ sections:
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
       image: /images/pd8.jpeg
+  - infopic:
+      title: Academies and Languages Centre
+      button: Lihat halaman
+      url: /academieslanguagecentres/
+      image: /images/01 ast n other_logo.jpg
 ---
