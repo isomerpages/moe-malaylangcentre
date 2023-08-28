@@ -73,7 +73,7 @@ sections:
       alt: Profesional Development
       image: /images/pd8.jpeg
   - infopic:
-      title: Academies and Languages Centre
+      title: Pusat Akademik dan Bahasa
       button: Lihat halaman
       url: /academieslanguagecentres/
       image: /images/01 ast n other_logo.jpg
