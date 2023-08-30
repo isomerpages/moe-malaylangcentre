@@ -17,28 +17,6 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
       image: /images/001 tentang mlcs - family.jpg
       alt: Image alt text
-  - infobar:
-      title: Tentang MLCS
-      description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
-        latihan guru yang cemerlang bagi pengajaran dan pembelajaran Bahasa
-        Melayu.
-      url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
-      button: Visi dan Misi
-  - infopic:
-      title: Mesyuarat Tahunan
-      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
-      button: Sila lihat selanjutnya
-      alt: Annual Meeting with ML Teacher
-      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
-      image: /images/01 annual mtg 2023.jpg
-  - infopic:
-      image: /images/pp23-web-poster-ml.jpeg
-      title: Perkongsian Profesional 2023
-      description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
-        Amalan Terbaik Penilaian di Bilik Darjah.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
-      alt: Perkongsian Profesional 2023
   - infopic:
       title: Seminar Bahasa Melayu
       description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
@@ -61,7 +39,7 @@ sections:
         dan pembelajaran terutama...
       button: Sila lihat selanjutnya...
       url: /mlcs/resources/resource-centre/
-      image: /images/copy-of-highlight.gif
+      image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
   - infopic:
       title: Antologi Janji
@@ -79,6 +57,21 @@ sections:
       url: /mlcs/professional-development-programmes/
       alt: Profesional Development
       image: /images/pd8.jpeg
+  - infopic:
+      title: Mesyuarat Tahunan
+      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
+      button: Sila lihat selanjutnya
+      alt: Annual Meeting with ML Teacher
+      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
+      image: /images/01 annual mtg 2023.jpg
+  - infopic:
+      image: /images/pp23-web-poster-ml.jpeg
+      title: Perkongsian Profesional 2023
+      description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
+        Amalan Terbaik Penilaian di Bilik Darjah.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
+      alt: Perkongsian Profesional 2023
   - infopic:
       title: Pusat Akademik dan Bahasa
       button: Lihat halaman
