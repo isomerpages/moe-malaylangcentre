@@ -50,13 +50,6 @@ sections:
       image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
   - infopic:
-      title: Mesyuarat Tahunan
-      description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
-      button: Sila lihat selanjutnya
-      alt: Annual Meeting with ML Teacher
-      url: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
-      image: /images/01 annual mtg 2023.jpg
-  - infopic:
       image: /images/pp23-web-poster-ml.jpeg
       title: Perkongsian Profesional 2023
       description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
