@@ -23,7 +23,7 @@ sections:
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
       button: Sila lihat selanjutnya
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/219.jpeg
+      image: /images/001 seminar bahasa melayu 2024 (800 × 580 px).jpg
       alt: Resources
   - infopic:
       title: Ceramah Arif Budiman Ke-19
