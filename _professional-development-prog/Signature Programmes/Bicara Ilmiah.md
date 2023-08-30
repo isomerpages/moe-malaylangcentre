@@ -19,4 +19,4 @@ c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; membolehkan ketua pedagogi untuk membuat 
 
 Bagi program Bicara Ilmiah tahun ini, MLCS telah mengundang Dr. Azhar Ibrahim Alwee untuk berkongsi kepakaran beliau berkaitan tajuk ‘**Darma Pedagogi Pendidik Sebagai Inteligensia’**.
 
-Sila klik pautan berikut ([Bicara Ilmiah](https://drive.google.com/drive/folders/1SCocjqXte8aeBGYAeqeWMGuu56ozyfoL))  untuk mendapatkan bahan-bahan berkaitan Program Bicara Ilmiah termasuklah slaid pembentangan dan kertas yang disampaikan oleh Dr. Azhar Ibrahim Alwee.
+Sila klik pautan berikut ([Bicara Ilmiah](https://drive.google.com/drive/folders/1SCocjqXte8aeBGYAeqeWMGuu56ozyfoL))  untuk mendapatkan bahan-bahan berkaitan Program Bicara Ilmiah termasuklah slaid pembentangan dan kertas kerja yang disampaikan oleh Dr. Azhar Ibrahim Alwee.
