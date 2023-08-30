@@ -31,7 +31,7 @@ sections:
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/img_5610 2.jpeg
+      image: /images/001 cab19 cg rafi.JPG
       alt: Ceramah Arif Budiman
   - infopic:
       title: Pusat Sumber MLCS
