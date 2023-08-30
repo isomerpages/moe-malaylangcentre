@@ -18,14 +18,6 @@ sections:
       image: /images/001 tentang mlcs - family (2).jpg
       alt: Image alt text
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
-        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/001 dr bicara ilmiah.jpg
-      alt: Bicara Ilmiah
-  - infopic:
       title: Seminar Bahasa Melayu
       description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
@@ -33,6 +25,14 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
       image: /images/001 seminar bahasa melayu 2024 (800 × 580 px).jpg
       alt: Resources
+  - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
+        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/001 dr bicara ilmiah.jpg
+      alt: Bicara Ilmiah
   - infopic:
       title: Ceramah Arif Budiman Ke-19
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
@@ -49,14 +49,6 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
-  - infopic:
-      title: Program Pembelajaran Profesional
-      description: Berminatkah kamu untuk menghadiri kursus-kursus dan program-program
-        yang dianjurkan oleh MLCS?
-      button: Sila lihat selanjutnya...
-      url: /mlcs/professional-development-programmes/
-      alt: Profesional Development
-      image: /images/pd8.jpeg
   - infopic:
       title: Mesyuarat Tahunan
       description: Mesyuarat Bersama Guru-Guru Bahasa Melayu dianjurkan setiap tahun.
