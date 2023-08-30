@@ -4,10 +4,10 @@ title: Malay Language Centre of Singapore
 description: Malay Language Centre of Singapore
 image: /images/mlcs-logo-5-march-2013.png
 permalink: /
-notification: Selamat Datang
+notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/01 mlcs banner 2 teachersday.gif
+      background: /images/001 mlcs banner 3 (1920 × 720 px) -teacher n symposium.gif
   - infobar:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
