@@ -18,3 +18,5 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menyediakan platform bagi ketua pedagogi berint
 c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; membolehkan ketua pedagogi untuk membuat refleksi dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.
 
 Bagi program Bicara Ilmiah tahun ini, MLCS telah mengundang Dr. Azhar Ibrahim Alwee untuk berkongsi kepakaran beliau berkaitan tajuk ‘**Darma Pedagogi Pendidik Sebagai Inteligensia’**.
+
+Sila klik pautan berikut untuk mendapatkan bahan-bahan berkaitan program Bicara Ilmiah termasuklah slaid pembentangan dan kertas yang disampaikan oleh Dr. Azhar Ibrahim Alwee.
