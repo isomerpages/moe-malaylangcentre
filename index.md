@@ -18,6 +18,14 @@ sections:
       image: /images/001 tentang mlcs - family (2).jpg
       alt: Image alt text
   - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
+        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/001 dr bicara ilmiah.jpg
+      alt: Bicara Ilmiah
+  - infopic:
       title: Seminar Bahasa Melayu
       description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
@@ -41,14 +49,6 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
-  - infopic:
-      title: Antologi Janji
-      description: Antologi Janji digital ini mengandungi 10 buah cerpen yang
-        dihasilkan guru bahasa Melayu Singapura dari....
-      button: Sila lihat selanjutnya...
-      url: /mlcs/resources/anthology/secondary/short-stories-janji/
-      image: /images/sbm-2022-antologi-janji-poster.jpeg
-      alt: Antologi Janji
   - infopic:
       title: Program Pembelajaran Profesional
       description: Berminatkah kamu untuk menghadiri kursus-kursus dan program-program
@@ -78,12 +78,4 @@ sections:
       url: /academieslanguagecentres/
       image: /images/01 ast n other_logo.jpg
       alt: Academy of Singapore Teachers
-  - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
-        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/001 dr bicara ilmiah.jpg
-      alt: Bicara Ilmiah
 ---
