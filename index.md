@@ -78,4 +78,12 @@ sections:
       url: /academieslanguagecentres/
       image: /images/01 ast n other_logo.jpg
       alt: Academy of Singapore Teachers
+  - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
+        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/001 dr bicara ilmiah.jpg
+      alt: Bicara Ilmiah
 ---
