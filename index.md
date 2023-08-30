@@ -75,5 +75,5 @@ sections:
       button: Lihat halaman
       url: /academieslanguagecentres/
       image: /images/01 ast n other_logo.jpg
-      alt: A
+      alt: Academy of Singapore Teachers
 ---
