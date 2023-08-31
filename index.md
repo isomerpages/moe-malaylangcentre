@@ -58,7 +58,7 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
       alt: Perkongsian Profesional 2023
   - infopic:
-      title: Pusat Akademik dan Bahasa
+      title: Akademi dan Pusat Bahasa
       button: Lihat halaman
       url: /academieslanguagecentres/
       image: /images/01 ast n other_logo.jpg
