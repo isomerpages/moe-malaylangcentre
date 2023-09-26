@@ -6,6 +6,8 @@ third_nav_title: Other Programmes
 ---
 ![PP23 WEB POSTER M](/images/pp23-web-poster-ml.jpeg)
 
+Berikut pautan ke [Bahan Digital ](https://issuu.com/oxfordgraphic/docs/mlcs-perkongsian_profesional-v6_fa_) terbitan MLCS yang berjudul Amalan Terbaik Penilaian Di Bilik Darjah.
+
 Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesional 2023.
 
 | Item | Bilik | Nama Fail |
