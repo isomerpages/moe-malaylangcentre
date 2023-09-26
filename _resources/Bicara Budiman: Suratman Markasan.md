@@ -9,17 +9,16 @@ MLCS menggalakkan para guru untuk menggunakan video dokumentari&nbsp;**Bicara Bu
 
 Video Dokumentari tentang Cikgu Suratman Markasan ini di bahagikan kepada 5 segmen iaitu:
 1. [Menongkah Arus](https://youtu.be/qtwM2jQK46o)
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qtwM2jQK46o?si=Vqp-BMibVS55NhZJ" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qtwM2jQK46o?si=A5Hanr00rHUhJ1li" height="315" width="560"></iframe>
 
 2. [Mencorak Watan](https://youtu.be/yOoTYHXfxkA)
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yOoTYHXfxkA?si=Wn3y6N0wbhP3rBnr" height="315" width="560"></iframe>
 
 3. [Mengukir Juang](https://youtu.be/kehgSRMgsVw)
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kehgSRMgsVw?si=r0xpNeR1KVDHAzgS" height="315" width="560"></iframe>
 
 4. [Menyulam Aksara](https://youtu.be/7IVVKG0WsRQ )
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7IVVKG0WsRQ?si=dUIXc8deRm5unEyB" height="315" width="560"></iframe>
 
 5. [Menjulang Anugerah](https://youtu.be/Bdm-I2xpOss)
-
-![](/images/001_suratman%20markasan.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Bdm-I2xpOss?si=kopwUh40fHDxYCP7" height="315" width="560"></iframe>
