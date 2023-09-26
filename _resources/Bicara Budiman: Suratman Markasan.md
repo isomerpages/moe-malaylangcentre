@@ -3,7 +3,7 @@ title: "Bicara Budiman: Suratman Markasan"
 permalink: /resources/permalink/
 description: ""
 ---
-Pusat Bahasa Melayu Singapura (MLCS) telah menerbitkan video dokumentari **Catatan Seorang Cendekia: Bicara Budiman Suratman Markasan**. Bahan ini merupakan usaha MLCS untuk merakam dan mendokumentasi perjuangan dan pengalaman Cikgu Suratman Markasan sebagai seorang pendidik tersohor dan sasterawan negara. Video dokumentari ini memaparkan latar belakang kehidupan, pendidikan, perjuangan, buah fikiran, pandangan, falsafah dan harapan Cikgu sebagai seorang pendidik dan sasterawan yang terkenal di Singapura.
+Pusat Bahasa Melayu Singapura (MLCS) telah menerbitkan video dokumentari **Bicara Budiman Suratman Markasan: Catatan Seorang Cendekia**. Bahan ini merupakan usaha MLCS untuk merakam dan mendokumentasi perjuangan dan pengalaman Cikgu Suratman Markasan sebagai seorang pendidik tersohor dan sasterawan negara. Video dokumentari ini memaparkan latar belakang kehidupan, pendidikan, perjuangan, buah fikiran, pandangan, falsafah dan harapan Cikgu sebagai seorang pendidik dan sasterawan yang terkenal di Singapura.
 
 MLCS menggalakkan para guru untuk menggunakan video dokumentari **Bicara Budiman Suratman Markasan: Catatan Seorang Cendekia** sebagai bahan Pengajaran dan Pembelajaran (PdP) bagi pelajaran bahasa Melayu. Sebagai usaha sokongan, MLCS akan membina **Panduan Pengajaran dan Pembelajaran (Sekolah Rendah, Sekolah Menengah dan Maktab Rendah)** untuk kegunaan para guru dan pelajar. Bahan ini menyediakan beberapa saranan dan contoh bagaimana guru boleh membina aktiviti-aktiviti pembelajaran berasaskan bahan video dokumentarai**Bicara Budiman Suratman Markasan: Catatan Seorang Cendekia** secara berkesan dan menyeronokkan.
 
