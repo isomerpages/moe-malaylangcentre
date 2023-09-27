@@ -24,7 +24,7 @@ Bagi program Bicara Ilmiah tahun ini, MLCS telah mengundang Dr. Azhar Ibrahim Al
 
 Sila klik pautan berikut ([Bicara Ilmiah](https://drive.google.com/drive/folders/1SCocjqXte8aeBGYAeqeWMGuu56ozyfoL))  untuk mendapatkan bahan-bahan berkaitan Program Bicara Ilmiah termasuklah slaid pembentangan dan kertas kerja yang disampaikan oleh Dr. Azhar Ibrahim Alwee.
 
-Deklamasi sajak 'Bila guru salah pandu [Bila Guru Salah Pandu](https://youtu.be/F0Tjd_1yklw)' oleh Dr. Azhar Ibrahim
+Deklamasi sajak  [Bila Guru Salah Pandu](https://youtu.be/F0Tjd_1yklw)' oleh Dr. Azhar Ibrahim
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F0Tjd_1yklw?si=wTDks8nOQRAWfVqP" height="315" width="560"></iframe>
 
 **Berikut kolaj video Program Bicara Ilmiah**
