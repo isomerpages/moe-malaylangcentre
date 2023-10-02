@@ -22,3 +22,8 @@ Video Dokumentari tentang Cikgu Suratman Markasan ini dibahagikan kepada 5 segme
 
 [Menjulang Anugerah](https://youtu.be/Bdm-I2xpOss)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Bdm-I2xpOss?si=kopwUh40fHDxYCP7" height="315" width="560"></iframe>
+
+**Deklamasi Sajak**
+Cikgu Suratman Markasan telah mendeklamasikan 5 buah sajak. Berikut merupakan klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.
+
+
