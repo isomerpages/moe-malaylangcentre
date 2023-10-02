@@ -26,3 +26,21 @@ Video Dokumentari tentang Cikgu Suratman Markasan ini dibahagikan kepada 5 segme
 **Deklamasi Sajak**
 Cikgu Suratman Markasan telah mendeklamasikan 5 buah sajak. Berikut merupakan klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.
 
+Sajak 'Jalan Permulaan' oleh Cikgu Suratman Markasan
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fzqDQlFIe3A?si=vj3700BEyN6HKxLR" height="315" width="560"></iframe>
+
+Sajak 'Hati Yang Kosong' oleh Cikgu Suratman Markasan
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XK-bbJpniRU?si=euzIB3yCbCwcIu5x" height="315" width="560"></iframe>
+
+Sajak 'Potret Isteri Yang Hilang' oleh Cikgu Suratman Markasan
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GUsndMY0nhI?si=26mdz40_V5JtP5A9" height="315" width="560"></iframe>
+
+Sajak 'Doa dan Wasiat' oleh Cikgu Suratman Markasan
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qZl7KTeGo3o?si=O3poXf9KLsckM2a6" height="315" width="560"></iframe>
+
+Sajak 'Yang Bernama Guru' oleh Cikgu Suratman Markasan
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FzLMY6Z3HLk?si=H25Dp-45UMLUTFD8" height="315" width="560"></iframe>
