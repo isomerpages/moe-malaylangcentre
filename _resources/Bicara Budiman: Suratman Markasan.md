@@ -25,5 +25,3 @@ Video Dokumentari tentang Cikgu Suratman Markasan ini dibahagikan kepada 5 segme
 
 **Deklamasi Sajak**
 Cikgu Suratman Markasan telah mendeklamasikan 5 buah sajak. Berikut merupakan klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.
-
-
