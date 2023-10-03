@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/001nd mlcs banner 3 (1920 × 720 px) td mlcs nd.gif
+      background: /images/001 mlcs banner 3 (1920 × 720 px) welcome mlcs tunas harapan.gif
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
