@@ -26,4 +26,3 @@ Pusat Bahasa Melayu Singapura (MLCS) akan menganjurkan acara tahunan Seminar Bah
 MLCS mengundang guru-guru bahasa Melayu di Singapura untuk menjalankan kajian dan berkongsi dapatan kajian dalam Seminar tersebut. Seminar Bahasa Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.
 
 Klik pautan berikut untuk mengakses buku digital&nbsp;[Prosiding Seminar Bahasa Melayu 2022](https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03).
-
