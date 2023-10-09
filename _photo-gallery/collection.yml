@@ -2,6 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2023/Mother Tongue Language Symposium 2023.md
       - 2023/.keep
       - 2023/2023.md
       - 2023/Sepetang Bersama Tunas Harapan 2023.md
