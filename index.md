@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/001 bicaramlcs banner 3 (1920 × 720 px) (4).gif
+      background: /images/002 bestari berbicara homepage banner 1340x380px.gif
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
