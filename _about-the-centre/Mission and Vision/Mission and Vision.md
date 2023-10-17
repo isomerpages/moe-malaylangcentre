@@ -4,7 +4,7 @@ permalink: /mlcs/about-the-centre/mission-and-vision/
 description: ""
 third_nav_title: Mission and Vision
 ---
-![Mission and Vision]![](/images/mtv-(2).jpeg)
+![](/images/mtv-(2).jpeg)
 
 ### Misi
 
