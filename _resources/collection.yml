@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - test.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources.md
       - MLCS Publications/.keep
