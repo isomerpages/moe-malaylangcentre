@@ -23,4 +23,3 @@ Berikut merupakan slaid pembentangan para ucaptama semasa majlis tersebut:
 ![](/images/001%20tekad%20sedekad.png)
 
 Pusat Bahasa Melayu Singapura (MLCS) telah ditubuhkan oleh Kementerian Pendidikan Singapura pada Januari 2010. MLCS mula beroperasi enam bulan berikutnya setelah menyediakan pejabat sementara di Pusat Bahasa Kementerian Pendidikan (Bishan) dan merancang keperluan pentadbiran dan aktivitinya. Penerbitan ‘Tekad Sedekad’ ini menyusur dan menggalur tekad dan usaha gigih MLCS dalam merancang strategi dan melaksanakan kegiatannya secara tersusun demi ‘memperkasakan guru, mempercekap pelajar dan memperkaya kurikulum’.
-
