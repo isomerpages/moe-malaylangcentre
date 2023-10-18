@@ -35,8 +35,8 @@ Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang
 -----
 ##### SECONDARY  
 
-[Short Stories: Janji](mlcs/resources/anthology/secondary/short-stories-janji/)
+[Short Stories: Janji](/mlcs/resources/anthology/secondary/short-stories-janji/)
 
 [Short Stories : Rahsia](/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/)
 
-[Short Stories: Citra](mlcs/resources/anthology/secondary/short-stories-citra/)
+[Short Stories: Citra](/mlcs/resources/anthology/secondary/short-stories-citra/)
