@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "Bicara Budiman: Suratman Markasan.md"
+      - Resources/Arif Budiman Lecture Series Publications.md
       - Resources/Resources.md
       - Resources/.keep
       - MLCS Publications/.keep
