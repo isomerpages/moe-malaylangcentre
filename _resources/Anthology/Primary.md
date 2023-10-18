@@ -6,7 +6,7 @@ third_nav_title: Anthology
 ---
 ##### PRIMARY:   ANTOLOGI CERPEN BENIH
 
-![Benih](/images/benih.png)
+![](/images/001%20benih-small.png)
 
 Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam kalangan murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.
 
@@ -40,4 +40,3 @@ Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang
 [Short Stories : Rahsia](/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/)
 
 [Short Stories: Citra](mlcs/resources/anthology/secondary/short-stories-citra/)
-
