@@ -32,6 +32,7 @@ Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut perinci
 
 Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang terdapat dalam laman ini.
 
+[Short Stories: Janji](https://cms.isomer.gov.sg/sites/moe-malaylangcentre/folders/resources/subfolders/Anthology/editPage/mlcs/resources/anthology/secondary/short-stories-janji/)
 
 <ul class="jekyllcodex_accordion">
   <li>
