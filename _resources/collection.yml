@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "Bicara Budiman: Suratman Markasan.md"
+      - "Resources/Sarkasi Said: Words of Wisdom.md"
       - "Resources/Malay Language Journal: Dian Bahasa.md"
       - Resources/Arif Budiman Lecture Series Publications.md
       - Resources/Resources.md
