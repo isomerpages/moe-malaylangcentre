@@ -2,9 +2,12 @@ collections:
   resources:
     output: true
     order:
-      - test.md
       - "Bicara Budiman: Suratman Markasan.md"
-      - Resources.md
+      - Resources/.keep
+      - Resources/Resources.md
+      - "Resources/Sarkasi Said: Words of Wisdom.md"
+      - "Resources/Malay Language Journal: Dian Bahasa.md"
+      - Resources/Anthology.md
       - MLCS Publications/.keep
       - MLCS Publications/MLCS Publications.md
       - MLCS Publications/2021.md
@@ -28,7 +31,6 @@ collections:
       - MLCS Educational Apps/Pintar Peribahasa.md
       - Singapore Teaching Practice.md
       - Regional Conferences Papers.md
-      - Arif Budiman Lecture Series Publications.md
       - ML Seminar Publications/.keep
       - ML Seminar Publications/Malay Language Seminar Publications.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2022.md
@@ -43,7 +45,7 @@ collections:
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2013.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
-      - "Malay Language Journal: Dian Bahasa.md"
+      - Arif Budiman Lecture Series Publications.md
       - Dr Muhammad Ariff Ahmad Words/.keep
       - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
         Wisdom.md"
@@ -51,10 +53,6 @@ collections:
         Ahmad (PraUniversiti).md"
       - "Dr Muhammad Ariff Ahmad Words/Pakej Bicara Budiman: Dr Muhammad Ariff
         Ahmad (Sekolah Menengah).md"
-      - "Sarkasi Said: Words of Wisdom.md"
-      - Anthology/.keep
-      - Anthology/Primary.md
-      - Anthology/Secondary.md
       - Hikmah Melayu/.keep
       - Hikmah Melayu/Hikmah Melayu 1.md
       - Hikmah Melayu/Hikmah Melayu 2.md
@@ -72,4 +70,3 @@ collections:
       - Resource Centre.md
       - MLCS 10th Anniversary.md
       - e MTLS 2022 MLCS.md
-      - Tekad Sedekad.md

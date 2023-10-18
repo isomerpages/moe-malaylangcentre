@@ -1,13 +1,12 @@
 ---
-title: Primary
+title: Anthology
 permalink: /mlcs/resources/anthology/
 description: ""
-third_nav_title: Anthology
+third_nav_title: Resources
 ---
+##### PRIMARY:   ANTOLOGI CERPEN BENIH
 
-##### ANTOLOGI CERPEN BENIH  
-
-![Benih](/images/benih.png)
+![](/images/001%20benih-small.png)
 
 Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam kalangan murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.
 
@@ -32,3 +31,12 @@ Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut perinci
 3.  Cerpen ‘Untuk Myra’ – halaman 8, ejaan ‘ngadu Myra…’ dibetulkan menjadi ‘Myra mengadu…’.
 
 Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang terdapat dalam laman ini.
+
+-----
+##### SECONDARY  
+
+[Short Stories: Janji](/mlcs/resources/anthology/secondary/short-stories-janji/)
+
+[Short Stories : Rahsia](/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/)
+
+[Short Stories: Citra](/mlcs/resources/anthology/secondary/short-stories-citra/)

@@ -2,13 +2,13 @@
 title: "Malay Language Journal: Dian Bahasa"
 permalink: /mlcs/resources/malay-language-jurnal-dian-bahasa/
 description: ""
+third_nav_title: Resources
 ---
-<img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg"  
-style="width:50%">
+<img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg" style="width:50%">
 
 ##### **DIAN BAHASA**
 
-Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran  Bahasa Melayu di bilik darjah.
+Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran&nbsp; Bahasa Melayu di bilik darjah.
 
 [Kandungan(.pdf, 87.61 KB)](/files/dian_bahasa_content_page.pdf)
 
@@ -45,8 +45,7 @@ Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan da
   
 [Penghargaan(.pdf, 53.71 KB)](/files/dian_bahasa_penghargaan.pdf)
 
-<img src="/images/dian_bahasa.png"  
-style="width:60%">
+<img src="/images/dian_bahasa.png" style="width:60%">
 
 ##### DIAN BAHASA 2
 
