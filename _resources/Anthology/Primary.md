@@ -51,5 +51,5 @@ Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang
 
 ### [Short stories: Citra](/mlcs/resources/anthology/secondary/short-stories-citra/)
 
-  </div></li>
+  </div>  </li>
 </ul>
