@@ -32,22 +32,12 @@ Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut perinci
 
 Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang terdapat dalam laman ini.
 
-[Short Stories: Janji](https://cms.isomer.gov.sg/sites/moe-malaylangcentre/folders/resources/subfolders/Anthology/editPage/mlcs/resources/anthology/secondary/short-stories-janji/)
+-----
+##### SECONDARY  
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion21">
-		<label for="accordion21"><h4>Secondary</h4></label>
-    <div>
-			
 [Short Stories: Janji](mlcs/resources/anthology/secondary/short-stories-janji/)
 
 [Short Stories : Rahsia](/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/)
-			
+
 [Short Stories: Citra](mlcs/resources/anthology/secondary/short-stories-citra/)
 
-
-
-
-  </div>  </li>
-</ul>
