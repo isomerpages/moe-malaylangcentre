@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - "Bicara Budiman: Suratman Markasan.md"
+      - Resources/.keep
+      - Resources/Resources.md
       - "Resources/Sarkasi Said: Words of Wisdom.md"
       - "Resources/Malay Language Journal: Dian Bahasa.md"
       - Resources/Arif Budiman Lecture Series Publications.md
-      - Resources/Resources.md
-      - Resources/.keep
       - MLCS Publications/.keep
       - MLCS Publications/MLCS Publications.md
       - MLCS Publications/2021.md
