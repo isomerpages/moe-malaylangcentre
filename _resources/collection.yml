@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Arif Budiman Lecture Series Publications.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
@@ -45,6 +44,7 @@ collections:
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2013.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
+      - Arif Budiman Lecture Series Publications.md
       - Dr Muhammad Ariff Ahmad Words/.keep
       - "Dr Muhammad Ariff Ahmad Words/Dr Muhammad Ariff Ahmad: Words of
         Wisdom.md"
