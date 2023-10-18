@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "Bicara Budiman: Suratman Markasan.md"
+      - Resources/Resources.md
       - Resources/.keep
       - MLCS Publications/.keep
       - MLCS Publications/MLCS Publications.md
