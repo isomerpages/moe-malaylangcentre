@@ -10,12 +10,12 @@ third_nav_title: Resources
 
 Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran&nbsp; Bahasa Melayu di bilik darjah.
 
-[Kandungan(.pdf, 87.61 KB)](/files/dian_bahasa_content_page.pdf)<p>
+[Kandungan(.pdf, 87.61 KB)](/files/dian_bahasa_content_page.pdf)<br>
 [Sekapur Sirih(.pdf, 183.64 KB)](/files/dian_bahasa_foreword.pdf)
 
   <a href="/files/dian_bahasa_1.pdf">Kertas 1(.pdf, 1.06 MB)</a><br>
 Dahlia Janan PhD<br>
-	Guru dan Keterampilan Membaca dalam Kalangan Murid</p>
+	Guru dan Keterampilan Membaca dalam Kalangan Murid<p></p>
 	
 <p><a href="/files/dian_bahasa_2.pdf">Kertas 2(.pdf, 919.85 KB)</a><br>Fadilah Isnin PhD<br>Bijak Baca: Membina Kemahiran Membaca Melalui Strategi yang Berkesan</p>
 <p><a href="/files/dian_bahasa_3.pdf">Kertas 3(.pdf, 282.8 KB)</a><br>Sansudin Suhaili PhD<br>Kepelbagaian Budaya dalam Pengajaran Bahasa Melayu</p>
@@ -25,7 +25,7 @@ Pembelajaran Bahasa Melalui App: Pengalaman Singapura</p>
 <p><a href="/files/dian_bahasa_6.pdf">Kertas 6(.pdf, 299.18 KB)</a><br>Norliza Jamaluddin PhD<br>Shaishin Marai-go You Tei Mekar di Bumi Sakura</p>
 
 [Biodata(.pdf, 158.85 KB)](/files/dian_bahasa_biodata.pdf)
-  
+<br>
 [Penghargaan(.pdf, 53.71 KB)](/files/dian_bahasa_penghargaan.pdf)
 
 
