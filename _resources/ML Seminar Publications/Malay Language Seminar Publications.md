@@ -10,7 +10,7 @@ Seminar Bahasa Melayu merupakan acara tahunan yang dianjurkan oleh MLCS. Setiap 
 
 Kertas-kertas kajian yang dihasilkan oleh guru disenaraikan mengikut tahun penerbitannya.
 
-*[Seminar Bahasa Melayu 2022 (e-Penerbitan)](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022/)
+* [Seminar Bahasa Melayu 2022 (e-Penerbitan)](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022)
 * [Seminar Bahasa Melayu 2021](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2021)
 *   [Seminar Bahasa Melayu 2020](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2020)
 *   [Seminar Bahasa Melayu 2019](/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2019)
