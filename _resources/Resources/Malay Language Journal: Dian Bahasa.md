@@ -6,6 +6,7 @@ third_nav_title: Resources
 ---
 <img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg" style="width:50%">
 
+
 ##### **DIAN BAHASA**
 
 Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran&nbsp; Bahasa Melayu di bilik darjah.
@@ -45,9 +46,9 @@ Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan da
   
 [Penghargaan(.pdf, 53.71 KB)](/files/dian_bahasa_penghargaan.pdf)
 
+-----
+##### DIAN BAHASA JILID 2
 <img src="/images/dian_bahasa.png" style="width:60%">
-
-##### DIAN BAHASA 2
 
 Penerbitan DIAN BAHASA JILID 2 merupakan usaha yang berterusan Pusat Bahasa Melayu Singapura (MLCS), Akademi Guru Singapura, Kementerian Pendidikan Singapura untuk menyediakan wadah rujukan berkaitan bahasa, pedagogi, sejarah dan yang berkaitan dengan teknologi. Dalam usia Pusat Bahasa Melayu sedekad ini, Dian Bahasa terus menyediakan ruang untuk para ilmuwan, Guru Pakar dan ketua guru untuk menyumbangkan hasil kajian yang dijalankan bagi memperbaik pengajaran dan pembelajaran bahasa Melayu di bilik darjah.
 
