@@ -6,8 +6,11 @@ third_nav_title: Resources
 ---
 <img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg" style="width:50%">
 
-
-##### **DIAN BAHASA**
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion31">
+    <label for="accordion31"><h4>Dian Bahasa </h4></label>
+    <div>
 
 Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran&nbsp; Bahasa Melayu di bilik darjah.
 
@@ -53,4 +56,4 @@ Penerbitan DIAN BAHASA JILID 2 merupakan usaha yang berterusan Pusat Bahasa Mela
  ***(PDF file too big!***)
     </div>
 	</li>  
-</ul>
+</ul></div></li></ul>
