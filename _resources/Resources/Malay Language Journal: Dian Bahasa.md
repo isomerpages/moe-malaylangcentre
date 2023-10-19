@@ -6,17 +6,11 @@ third_nav_title: Resources
 ---
 <img src="/images/dian-bahasaafc271418f4e4c1dabdc763cdae3488a.jpeg" style="width:50%">
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion31">
-    <label for="accordion31"><h4>Dian Bahasa </h4></label>
-    <div>
+##### **DIAN BAHASA**
 
 Penerbitan ini memuatkan kertas kajian yang berdasarkan pengetahuan kandungan dan amalan pengajaran Bahasa Melayu yang disediakan Guru Pakar dan pensyarah-pensyarah yang telah membimbing guru-guru kita semasa kursus dan seminar. Penerbitan ini dapat dijadikan bahan rujukan bagi menentukan ketepatan dan keberkesanan dalam penggunaan dan pengajaran&nbsp; Bahasa Melayu di bilik darjah.
 
 [Kandungan(.pdf, 87.61 KB)](/files/dian_bahasa_content_page.pdf)
-
-[Sekapur Sirih(.pdf, 183.64 KB)](/files/dian_bahasa_foreword.pdf)
 
   <p><a href="/files/dian_bahasa_1.pdf">Kertas 1(.pdf, 1.06 MB)</a></p>
 <p>Dahlia Janan PhD</p>
@@ -56,4 +50,4 @@ Penerbitan DIAN BAHASA JILID 2 merupakan usaha yang berterusan Pusat Bahasa Mela
  ***(PDF file too big!***)
     </div>
 	</li>  
-</ul></div></li></ul>
+</ul>
