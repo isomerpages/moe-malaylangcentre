@@ -11,7 +11,7 @@ BICARA BUDIMAN: DR MUHAMMAD ARIFF AHMAD - WORDS OF WISDOM
 			
 [Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (PraUniversiti)](/files/pakej-bicara-budiman-dr-muhmmad-ariff-ahmad-(prauniversiti).pdf)
 <hr>
-<p>
+<p></p>
 	<img src="/images/001%20-%20sec%20-%20bicara%20budiman%20-%20dr%20md%20arif%20ahmad.jpg" style="width:30%">
 
-[Pakej1 Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)</p>
+[Pakej1 Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)<p></p>
