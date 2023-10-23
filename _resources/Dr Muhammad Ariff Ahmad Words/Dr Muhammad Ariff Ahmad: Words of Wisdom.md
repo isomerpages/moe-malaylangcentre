@@ -12,7 +12,7 @@ BICARA BUDIMAN: DR MUHAMMAD ARIFF AHMAD - WORDS OF WISDOM
 			</p>
 
 <!--Comment: Text and link to another page or pdf--><center>
-[Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (PraUniversiti)](/files/pakej-bicara-budiman-dr-muhmmad-ariff-ahmad-(prauniversiti).pdf)  
+[Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (PraUniversiti)](/files/pakej-bicara-budiman-dr-muhmmad-ariff-ahmad-(prauniversiti).pdf)  </center>
 <hr><p>
 	
 <!--Comment: Photo link to another page or pdf---> 
@@ -21,4 +21,4 @@ BICARA BUDIMAN: DR MUHAMMAD ARIFF AHMAD - WORDS OF WISDOM
 	<img src="/images/001%20-%20sec%20-%20bicara%20budiman%20-%20dr%20md%20arif%20ahmad.jpg" style="width:30%"></a>
 
 <!--Comment: Text and link to another page or pdf--> </p><center>
-[Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)  </center></center>
+[Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)</center>
