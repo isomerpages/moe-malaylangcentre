@@ -22,4 +22,4 @@ BICARA BUDIMAN: DR MUHAMMAD ARIFF AHMAD - WORDS OF WISDOM
 
 	
 <!--Comment: Text and link to another page or pdf-->
-[Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)</p>
+[Pakej Bicara Budiman1: Dr Muhammad Ariff Ahmad (Sekolah Menengah)](/files/sekolah-menengah.pdf)</p>
