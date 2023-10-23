@@ -14,3 +14,5 @@ Pusat Bahasa Melayu Singapura (MLCS) membina bahan pengajaran dan pembelajaran (
 [Malay Language Journal: Dian Bahasa](/mlcs/resources/malay-language-jurnal-dian-bahasa/)
 
 [Anthology](/mlcs/resources/anthology/)
+
+[Dr Muhammad Ariff Ahmad: Words of Wisdom](/mlcs/resources/dr-muhammad-ariff-ahmad-Words-of-Wisdom/)
