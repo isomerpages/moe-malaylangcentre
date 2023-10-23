@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "Bicara Budiman: Suratman Markasan.md"
+      - "Resources/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
       - Resources/.keep
       - Resources/Resources.md
       - "Resources/Sarkasi Said: Words of Wisdom.md"
