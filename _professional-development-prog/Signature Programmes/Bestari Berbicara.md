@@ -15,6 +15,6 @@ Pada tahun 2023, Program Bestari Berbicara telah dianjurkan pada **26 Oktober 20
 Berikut merupakan maklumat lanjut mengenai program ini.
 <img src="/images/001%20bestari%20berbicara.png" style="width:50%">
 
-
 									 .............................................................................
+									 
 Pada tahun 2022, MLCS telah menganjurkan Program Bestari Berbicara pada 27 Oktober. Sembilan Guru Kanan dan Guru Peneraju telah berkongsi kepakaran dan pengalaman mereka dengan rakan-rakan ketua pedagogi yang lain. Klik pautan berikut untuk mendapatkan bahan digital bagi [Bestari Berbicara 2022](https://issuu.com/oxfordgraphic/docs/mlcs_bestari_berbicara_2022).
