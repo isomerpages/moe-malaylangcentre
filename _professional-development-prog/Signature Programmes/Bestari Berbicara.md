@@ -8,7 +8,7 @@ Program Bestari Berbicara merupakan program tukikan yang disasarkan untuk para k
 
 Pada tahun 2023, Program Bestari Berbicara telah dianjurkan pada **26 Oktober 2023** secara bersemuka di bangunan Pusat Bahasa Melayu Singapura. 
 
-<iframe allowfullscreen="true" height="400" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxMzPcYpAyJauBBJ4XBKaEabtkahDSi0LAXYx0FRg_B83YRXuk1vHsfGfQgBSv_mHjwQqjUD2IK-T/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxMzPcYpAyJauBBJ4XBKaEabtkahDSi0LAXYx0FRg_B83YRXuk1vHsfGfQgBSv_mHjwQqjUD2IK-T/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 
