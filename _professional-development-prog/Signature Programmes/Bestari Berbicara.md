@@ -10,7 +10,7 @@ Pada tahun 2023, Program Bestari Berbicara telah dianjurkan pada **26 Oktober 20
 
 <iframe allowfullscreen="true" height="500" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxMzPcYpAyJauBBJ4XBKaEabtkahDSi0LAXYx0FRg_B83YRXuk1vHsfGfQgBSv_mHjwQqjUD2IK-T/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-
+									 .............................................................................
 
 Berikut merupakan maklumat lanjut mengenai program ini.
 <img src="/images/001%20bestari%20berbicara.png" style="width:50%">
