@@ -2,8 +2,9 @@ collections:
   photo-gallery:
     output: true
     order:
-      - 2023/2023.md
       - 2023/.keep
+      - 2023/2023.md
+      - 2023/Bestari Berbicara 2023.md
       - 2023/Sepetang Bersama Tunas Harapan 2023.md
       - 2023/Bicara Ilmiah 2023.md
       - 2023/Ceramah Arif Budiman 19.md
