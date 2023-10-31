@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/002 bestari berbicara homepage banner 1340x380px.gif
+      background: /images/001 october 2023 - homepage banner 1340x380px (1).gif
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
@@ -50,13 +50,14 @@ sections:
       image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
   - infopic:
-      image: /images/pp23-web-poster-ml.jpeg
-      title: Perkongsian Profesional 2023
-      description: Perkongsian Profesional yang dianjurkan pada tahun 2023 bertemakan
-        Amalan Terbaik Penilaian di Bilik Darjah.
+      image: /images/001 home bestari berbicara 2023.jpg
+      title: Bestari Berbicara 2023
+      description: "Program Bestari Berbicara merupakan program tukikan yang
+        disasarkan untuk para ketua pedagogi khususnya para Guru Kanan dan Guru
+        Peneraju. "
       button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing-2023-package/
-      alt: Perkongsian Profesional 2023
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
+      alt: Bestari Berbicara 2023
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
