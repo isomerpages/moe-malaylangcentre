@@ -26,6 +26,15 @@ sections:
       image: /images/001 seminar bahasa melayu 2024 (800 × 580 px).jpg
       alt: Resources
   - infopic:
+      image: /images/001 home bestari berbicara 2023.jpg
+      title: Bestari Berbicara 2023
+      description: "Program Bestari Berbicara merupakan program tukikan yang
+        disasarkan untuk para ketua pedagogi khususnya para Guru Kanan dan Guru
+        Peneraju. "
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
+      alt: Bestari Berbicara 2023
+  - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
         ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
@@ -49,15 +58,6 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/001 copy of highlight.gif
       alt: Pusat Sumber MLCS
-  - infopic:
-      image: /images/001 home bestari berbicara 2023.jpg
-      title: Bestari Berbicara 2023
-      description: "Program Bestari Berbicara merupakan program tukikan yang
-        disasarkan untuk para ketua pedagogi khususnya para Guru Kanan dan Guru
-        Peneraju. "
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      alt: Bestari Berbicara 2023
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
