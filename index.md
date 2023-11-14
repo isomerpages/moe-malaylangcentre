@@ -28,9 +28,8 @@ sections:
   - infopic:
       image: /images/001 home bestari berbicara 2023.jpg
       title: Bestari Berbicara 2023
-      description: "Program Bestari Berbicara merupakan program tukikan yang
-        disasarkan untuk para ketua pedagogi khususnya para Guru Kanan dan Guru
-        Peneraju. "
+      description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
+        untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
       alt: Bestari Berbicara 2023
@@ -56,7 +55,7 @@ sections:
         dan pembelajaran terutama...
       button: Sila lihat selanjutnya...
       url: /mlcs/resources/resource-centre/
-      image: /images/001 copy of highlight.gif
+      image: /images/001_Copy_of_HIGHLIGHT__2_.gif
       alt: Pusat Sumber MLCS
   - infopic:
       title: Akademi dan Pusat Bahasa

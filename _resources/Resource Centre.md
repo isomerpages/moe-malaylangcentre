@@ -2,6 +2,7 @@
 title: Resource Centre
 permalink: /mlcs/resources/resource-centre/
 description: ""
+variant: markdown
 ---
 ### Pusat Sumber MLCS
 
@@ -11,9 +12,11 @@ Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan penga
 
 Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber MLCS.
 
-### Highlight of the Month
+### Buku terkini di MLCS
 
+![](/images/1___book___teachers_as_cultural_workers.jpg)
 
+![](/images/001___book___teachers_as_intellectuals.jpg)
 #### July 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
