@@ -20,5 +20,6 @@ Berikut adalah beberapa dokumen berkaitan program pembelajaran profesional guru 
 		<!--Comment: Image name and image location---> <img src="/images/001_kursus_sekolah_menengah.jpg" alt="Sekolah Menengah"></a>
 		
 
+</p>
 
- [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)</p>
+ [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
