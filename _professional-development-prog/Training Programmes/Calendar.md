@@ -23,4 +23,3 @@ Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS bagi Semester 1, 2024
 <img src="/images/001___Opal.jpg" style="width:50%">
 
  [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
-
