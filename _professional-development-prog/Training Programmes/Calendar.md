@@ -10,7 +10,7 @@ variant: markdown
 MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru bagi 2024..
 
 Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS bagi Semester 1, 2024 adalah seperti yang berikut.
-#### **Semester 1: 2024**	<p><a href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf">			
+#### **Semester 1: 20241**	<p><a href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf">			
  <img src="/images/001_kursus_sekolah_rendah.jpg" alt="Sekolah Rendah" style="width:75%"></a>
 	<br>[Program Pembelajaran Profesional Guru Semester 1  -Sekolah Rendah](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf)
 			</p>
