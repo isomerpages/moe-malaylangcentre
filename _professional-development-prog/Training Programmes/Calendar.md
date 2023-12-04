@@ -13,11 +13,11 @@ Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS bagi Semester 1, 2024
 #### **Semester 1: 2024**
  <img src="/images/001_kursus_sekolah_rendah.jpg" alt="Sekolah Rendah" style="width:75%">
 	<br>[Program Pembelajaran Profesional Guru Semester 1  -Sekolah Rendah](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf)
-			<p></p>
-			<p>	
+
+	
  <img src="/images/001_kursus_sekolah_menengah.jpg" alt="Sekolah Menengah" style="width:75%"><br>[Program Pembelajaran Profesional Guru Semester 1  -Sekolah Menengah/ Maktab Rendah/ Institusi Pusat](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__MenMR___IP_.pdf)
-			</p>
-						<p>
+		
+	
  <img src="/images/001___Opal.jpg" alt="Sekolah Menengah" style="width:75%"><br>
 	 [Panduan Memohon Kursus MLCS Melalui OPAL2.0](/files/5-panduan-memohon-kursus-mlcs-melalui-portal-opal-2-0%20.pdf)
-			</p>
+
