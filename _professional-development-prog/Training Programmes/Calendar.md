@@ -9,7 +9,8 @@ variant: markdown
 
 MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru bagi 2024..
 
-Berikut adalah beberapa dokumen berkaitan program pembelajaran profesional guru sebagai rujukan.
+Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS bagi Semester 1, 2024 adalah seperti yang berikut.
+
 
 ### **Semester 1: 2024**
 
