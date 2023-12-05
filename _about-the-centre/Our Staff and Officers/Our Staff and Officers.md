@@ -128,6 +128,16 @@ Pegawai ICT (DE)
 
 Pegawai ICT (DE)
 
+<img src="/images/Shaliha.JPG" style="width:65%">
+
+#### Shaliha Rasid
+Pegawai ICT
+
+<img src="/images/Analizah.jpg" style="width:65%">
+
+#### Noor Analizah Mahfodz
+Pustakawan
+
 <img src="/images/kumari.jpeg" style="width:65%">
 
 #### Kumari
