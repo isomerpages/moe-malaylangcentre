@@ -14,8 +14,6 @@ variant: markdown
 	 <img src="/images/001Opal_login.jpg" alt="Login Opal" style="width=60%"></a>
 	</p></td></tr></thead></table>
 
-	
-Klik pautan ini untuk log masuk ke&nbsp;[OPAL2.0](https://idm.opal2.moe.edu.sg/Account/Login)
 			
 &nbsp;[Panduan Memohon Kursus MLCS Melalui OPAL 2.0](/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf)
 
