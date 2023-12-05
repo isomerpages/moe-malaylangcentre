@@ -7,12 +7,15 @@ variant: markdown
 ---
 ##### PERMOHONAN UNTUK MENGIKUTI KURSUS ATAU PROGRAM PEMBANGUNAN PROFESIONAL&nbsp;
 
-
-    
+<table class="tg">
+<thead>
+<tr>
+    <td>
 			<p><a href="https://idm.opal2.moe.edu.sg/Account/Login">			
-	 <img src="/images/001Opal_login.jpg" alt="Login Opal"></a>
-			</p>
-			
+	 <img src="/images/001Opal_login.jpg" alt="Login Opal"></a><br>Klik pautan ini untuk log masuk ke OPAL 2.0
+	</p></td></tr></thead></table>
+
+	
 Klik pautan ini untuk log masuk ke&nbsp;[OPAL2.0](https://idm.opal2.moe.edu.sg/Account/Login)
 			
 Guru boleh memohon untuk mengikuti program pembangunan atau kursus-kursus yang dianjurkan MLCS melalui sistem OPAL 2.0.&nbsp;[Panduan Memohon Kursus MLCS Melalui OPAL 2.0](/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf)
