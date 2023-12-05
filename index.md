@@ -10,14 +10,11 @@ sections:
       background: /images/001 october 2023 - homepage banner 1340x380px (1).gif
       variant: image
       key_highlights:
-        - title: Register Programme
-          description: Opal 2.0
-          url: /mlcs/professional-development-programmes/training-programmes/course-registration/
-        - title: Training Programmes 2024
-          description: Calendar
-          url: /mlcs/professional-development-programmes/training-programmes/calendar/
+        - title: Training Calendar & Registration 2024
+          description: Semester 1
+          url: /mlcs/professional-development-programmes/training-programmes/trainingcalendar-registration/
         - title: Contact Us
-          description: Booking
+          description: Booking Facilites
           url: /mlcs/about-the-centre/contact-us/
   - infopic:
       title: Tentang MLCS
