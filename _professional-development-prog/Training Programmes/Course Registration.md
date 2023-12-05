@@ -25,7 +25,7 @@ Maklumat berkaitan kursus untuk setiap tahun turut dimuatnaikkan di lelaman MLCS
 
 [Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__MenMR___IP_.pdf)
 
-
+---
 ##### BOOKING OF TRAINING ROOMS / FACILITIES AT MLCS
 
 Please click the following link to request for your booking.
