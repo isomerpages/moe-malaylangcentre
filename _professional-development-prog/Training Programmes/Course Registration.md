@@ -28,6 +28,4 @@ Maklumat berkaitan kursus untuk setiap tahun turut dimuatnaikkan di lelaman MLCS
 
 Please click the following link to request for your booking.
 
-[https://form.gov.sg/61c539b047e936001233c5b3](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;
-
-Thank you.
+[Booking Form](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;
