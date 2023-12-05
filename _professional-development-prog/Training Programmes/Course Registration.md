@@ -3,19 +3,31 @@ title: Course Registration
 permalink: /mlcs/professional-development-programmes/training-programmes/course-registration/
 description: ""
 third_nav_title: Training Programmes
+variant: markdown
 ---
-##### PERMOHONAN UNTUK MENGIKUTI KURSUS ATAU PROGRAM PEMBANGUNAN PROFESIONAL 
+##### PERMOHONAN UNTUK MENGIKUTI KURSUS ATAU PROGRAM PEMBANGUNAN PROFESIONAL&nbsp;
 
-Guru boleh memohon untuk mengikuti program pembangunan atau kursus-kursus yang dianjurkan MLCS melalui sistem OPAL 2.0. [Panduan Memohon Kursus MLCS Melalui OPAL 2.0](/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf)
 
-Maklumat berkaitan kursus untuk setiap tahun turut dimuatnaikkan di lelaman MLCS. Senarai kursus akan dikemaskini pada setiap semester. [Program MLCS 2023 Semester 1](/files/1-mlcs-2023---semester-1.pdf).
+    
+			<p><a href="https://idm.opal2.moe.edu.sg/Account/Login">			
+	 <img src="/images/001Opal_login.jpg" alt="Login Opal"></a>
+			</p>
+			
+Klik pautan ini untuk log masuk ke&nbsp;[OPAL2.0](https://idm.opal2.moe.edu.sg/Account/Login)
+			
+Guru boleh memohon untuk mengikuti program pembangunan atau kursus-kursus yang dianjurkan MLCS melalui sistem OPAL 2.0.&nbsp;[Panduan Memohon Kursus MLCS Melalui OPAL 2.0](/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf)
 
-Klik pautan ini untuk log masuk ke [OPAL2.0](https://idm.opal2.moe.edu.sg/Account/Login)
+Maklumat berkaitan kursus untuk setiap tahun turut dimuatnaikkan di lelaman MLCS. Senarai kursus akan dikemaskini pada setiap semester.
+
+[Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf)
+
+[Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__MenMR___IP_.pdf)
+
 
 ##### BOOKING OF TRAINING ROOMS / FACILITIES AT MLCS
 
 Please click the following link to request for your booking.
 
-[https://form.gov.sg/61c539b047e936001233c5b3](https://form.gov.sg/61c539b047e936001233c5b3) 
+[https://form.gov.sg/61c539b047e936001233c5b3](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;
 
 Thank you.
