@@ -8,6 +8,17 @@ notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
       background: /images/001 october 2023 - homepage banner 1340x380px (1).gif
+      variant: image
+      key_highlights:
+        - title: Register Programme
+          description: Opal 2.0
+          url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/training-programmes/course-registration/
+        - title: Training Programmes 2024
+          description: Calendar
+          url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/training-programmes/calendar/
+        - title: Contact Us
+          description: Booking
+          url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/contact-us/
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
