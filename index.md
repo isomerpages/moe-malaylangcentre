@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: Register Programme
           description: Opal 2.0
-          url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/training-programmes/course-registration/
+          url: /mlcs/professional-development-programmes/training-programmes/course-registration/
         - title: Training Programmes 2024
           description: Calendar
-          url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/training-programmes/calendar/
+          url: /mlcs/professional-development-programmes/training-programmes/calendar/
         - title: Contact Us
           description: Booking
-          url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/contact-us/
+          url: /mlcs/about-the-centre/contact-us/
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
