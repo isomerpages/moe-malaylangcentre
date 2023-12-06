@@ -8,6 +8,14 @@ notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
       background: /images/001 october 2023 - homepage banner 1340x380px (1).gif
+      variant: image
+      key_highlights:
+        - title: Training Calendar & Registration 2024
+          description: Semester 1
+          url: /mlcs/professional-development-programmes/training-programmes/trainingcalendar-registration/
+        - title: Contact Us
+          description: Booking Facilites
+          url: /mlcs/about-the-centre/contact-us/
   - infopic:
       title: Tentang MLCS
       description: Pusat Bahasa Melayu Singapura (MLCS) berperanan sebagai pusat
