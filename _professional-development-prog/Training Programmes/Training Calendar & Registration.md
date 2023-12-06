@@ -21,6 +21,6 @@ Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus yang
 ### **Kursus 2024: Semester 1**
 Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS bagi Semester 1, 2024 adalah seperti yang berikut. 
 
-[Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf)
+<a target="_blank" href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf">Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah</a>
 
-[Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat](/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__MenMR___IP_.pdf)
+<a target="_blank" href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__MenMR___IP_.pdf">Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a>
