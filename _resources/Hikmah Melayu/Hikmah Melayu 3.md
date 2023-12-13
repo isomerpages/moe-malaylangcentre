@@ -3,6 +3,7 @@ title: Hikmah Melayu 3
 permalink: /mlcs/resources/hikmah-melayu/hikmah-melayu-3/
 description: ""
 third_nav_title: Hikmah Melayu
+variant: markdown
 ---
 ![Jawa Wayang_Kulit_1890](/images/jawa-wayang_kulit_1890.jpeg)
 
