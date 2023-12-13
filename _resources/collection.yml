@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Hikmah Melayu.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
@@ -48,6 +47,7 @@ collections:
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
       - Arif Budiman Lecture Series Publications.md
+      - Hikmah Melayu.md
       - Hikmah Melayu/.keep
       - ML Poetry SG 50 Publication.md
       - Video/.keep
