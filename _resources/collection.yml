@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Hikmah Melayu.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
