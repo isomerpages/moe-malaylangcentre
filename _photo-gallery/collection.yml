@@ -2,7 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
-      - Past Photos/.keep
       - 2023/.keep
       - 2023/2023.md
       - 2023/Bestari Berbicara 2023.md
