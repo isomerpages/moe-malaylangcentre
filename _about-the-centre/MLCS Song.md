@@ -11,5 +11,6 @@ Lagu ini merupakan Lagu Rasmi Pusat Bahasa Melayu Singapura (MLCS). Lagu ini dil
 <h4 style="color:black" align="center">Lagu Arif Budiman</h4>
 
 <iframe width="695" height="391" src="https://www.youtube.com/embed/lJhHzxGdApM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-![Lirik Lagu Rasmi Pusat Bahasa Melayu ](/images/LirikLaguMLCS2024.jpg)
+<p>
+<img src="/images/LirikLaguMLCS2024.jpg" style="width:90%">
+</p>
