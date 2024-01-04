@@ -2,6 +2,7 @@
 title: MLCS Song
 permalink: /mlcs/about-the-centre/mlcs-song/
 description: ""
+variant: markdown
 ---
 ##### Arif Budiman
 
@@ -9,6 +10,6 @@ Lagu ini merupakan Lagu Rasmi Pusat Bahasa Melayu Singapura (MLCS). Lagu ini dil
 
 <h4 style="color:black" align="center">Lagu Arif Budiman</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJhHzxGdApM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="695" height="391" src="https://www.youtube.com/embed/lJhHzxGdApM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-![Lyrics Arif Budiman](/images/lirik.jpeg)
+![Lirik Lagu Rasmi Pusat Bahasa Melayu ](/images/LirikLaguMLCS2024.jpg)
