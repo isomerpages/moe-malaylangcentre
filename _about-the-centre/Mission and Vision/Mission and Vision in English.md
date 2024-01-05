@@ -3,9 +3,10 @@ title: Mission and Vision in English
 permalink: /mlcs/about-the-centre/mission-and-vision/mission-and-vision-in-english/
 description: ""
 third_nav_title: Mission and Vision
+variant: markdown
 ---
-![Mission and Vision](/images/img_5259.jpeg)
 
+![](/images/028.JPG)
 ### Mission 
 
 Enculturing professional excellence among Malay language teachers to attain the qualities of Arif Budiman.
