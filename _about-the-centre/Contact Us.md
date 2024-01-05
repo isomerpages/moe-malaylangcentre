@@ -6,9 +6,9 @@ variant: markdown
 ---
 <img src="/images/malaylanguagecenter.svg" style="width:30%">
 
-##### Malay Language Centre of Singapore
+#### Malay Language Centre of Singapore
 
-![MLCS building 2024](/images/001MLCSbuilding2024.jpeg)
+
 
 **Sila ajukan pertanyaan anda kepada alamat yang berikut:**
 
@@ -24,6 +24,8 @@ Lelaman:  [Malay Language Centre of Singapore](https://mlcs.moe.edu.sg)
 ----
 #### BOOKING OF TRAINING ROOMS / FACILITIES AT MLCS
 
+![](/images/Training_Room__MLCS.jpeg)
+
 Please click the following link to request for your booking.
 
-[Booking Form](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;
+##### **[Booking Form](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;**
