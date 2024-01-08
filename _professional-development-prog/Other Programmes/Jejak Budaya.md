@@ -3,10 +3,11 @@ title: Jejak Budaya
 permalink: /mlcs/professional-development-programmes/other-programmes/jejak-budaya/
 description: ""
 third_nav_title: Other Programmes
+variant: markdown
 ---
-![Jejak Budaya Banner](/images/website%20banner%20jejak%20budaya.jpg)
+### Jejak Budaya
 
-Pusat Bahasa Melayu Singapura (MLCS) akan mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
+Pusat Bahasa Melayu Singapura (MLCS) telah mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
 
 ![Jejak Budaya](/images/Jejak_Budaya.jpg)
 
