@@ -3,8 +3,9 @@ title: Cikgu Siti Faridah Omar
 permalink: /mlcs/about-the-centre/our-staff-officers/staff-officers/puan-siti-faridah-omar/
 description: ""
 third_nav_title: Our Staff and Officers
+variant: markdown
 ---
-![Cikgu Siti Faridah](/images/siti_2.jpeg)
+![Cikgu Siti Faridah](/images/Cikgu_Faridah.jpg)
 
 ## Cikgu Siti Faridah Omar
 
