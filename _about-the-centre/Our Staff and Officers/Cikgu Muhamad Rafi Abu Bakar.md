@@ -3,8 +3,10 @@ title: Cikgu Muhamad Rafi Abu Bakar
 permalink: /mlcs/about-the-centre/our-staff-officers/staff-officers/encik-muhamad-rafi-abu-bakar/
 description: ""
 third_nav_title: Our Staff and Officers
+variant: markdown
 ---
-![Cikgu Muhamad Rafi Abu Bakar](/images/rafi_2.jpeg)
+![Cikgu Muhamad Rafi Abu Bakar](/images/Cikgu_Rafi.jpg)
+
 
 ## Cikgu Muhamad Rafi Abu Bakar
 
