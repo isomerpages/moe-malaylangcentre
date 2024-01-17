@@ -3,8 +3,9 @@ title: Cikgu Salina Hussin
 permalink: /mlcs/about-the-centre/our-staff-officers/staff-officers/puan-salina-hussin/
 description: ""
 third_nav_title: Our Staff and Officers
+variant: markdown
 ---
-![Cikgu Salina Hussin](/images/salina.jpeg)
+![Cikgu Salina Hussin](/images/Cikgu_Salina.jpg)
 
 ## Cikgu Salina Hussin
 
