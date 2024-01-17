@@ -3,8 +3,9 @@ title: Centre Director's Message
 permalink: /mlcs/about-the-centre/directors-message/
 description: ""
 third_nav_title: Centre Director's Message
+variant: markdown
 ---
-<img src="/images/cdmlcs.jpeg" style="width:60%">
+<img src="/images/Mdm_Hayati__2_.jpg" style="width:60%">
 
 Para guru yang budiman,
 
