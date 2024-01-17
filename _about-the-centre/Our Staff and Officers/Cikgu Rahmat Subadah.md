@@ -3,8 +3,9 @@ title: Cikgu Rahmat Subadah
 permalink: /mlcs/about-the-centre/our-staff-officers/staff-officers/encik-rahmat-subadah/
 description: ""
 third_nav_title: Our Staff and Officers
+variant: markdown
 ---
-![Cikgu Rahmat Subadah](/images/rahmat_2.jpeg)
+![Cikgu Rahmat Subadah](/images/Cikgu_Rahmat.jpg)
 
 ## Cikgu Rahmat Subadah
 

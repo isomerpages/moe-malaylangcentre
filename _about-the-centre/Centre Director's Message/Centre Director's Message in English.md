@@ -3,8 +3,9 @@ title: Centre Director's Message in English
 permalink: /mlcs/about-the-centre/directors-message/directors-message-in-english/
 description: ""
 third_nav_title: Centre Director's Message
+variant: markdown
 ---
-![Centre Director's Message](/images/whatsapp-image-2022-02-15-at-4-51-28-pm.jpeg)
+![Centre Director's Message](/images/Mdm_Hayati.jpg)
 
 Dear Teachers,
 

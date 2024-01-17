@@ -3,9 +3,10 @@ title: Centre Director's Message
 permalink: /mlcs/about-the-centre/directors-message/
 description: ""
 third_nav_title: Centre Director's Message
+variant: markdown
 ---
-<img src="/images/cdmlcs.jpeg" style="width:60%">
-
+!![](/images/Mdm_Hayati__2_.jpg)[](/images/Mdm_Hayati.jpg)
+<br>
 Para guru yang budiman,
 
 Tahun 2022 yang baru sahaja berlalu tidak banyak berbeza dengan tahun yang sebelumnya. Kita terus dicengkam dengan penularan COVID-19 yang masih belum ada penghujungnya. Namun begitu, guru-guru kita tetap gigih memperkasakan diri dengan pelbagai kemahiran dan pedagogi terkini untuk terus kekal relevan dalam norma baharu landskap pendidikan. Kecekalan dan kegigihan para guru kita dalam mempertingkat diri dan menyambut baik program-program pembangunan profesional anjuran Pusat Bahasa Melayu Singapura (MLCS) demi menghasilkan pengalaman pembelajaran yang bermakna, menyeronokkan dan berterusan untuk para pelajar harus dipuji.
