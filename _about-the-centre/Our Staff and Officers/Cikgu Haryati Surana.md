@@ -3,8 +3,9 @@ title: Cikgu Haryati Surana
 permalink: /mlcs/about-the-centre/our-staff-officers/staff-officers/puan-haryati-surana/
 description: ""
 third_nav_title: Our Staff and Officers
+variant: markdown
 ---
-![Cikgu Haryati Surana](/images/haryati_2.jpeg)
+![Cikgu Haryati Surana](/images/Cikgu_Hayati.jpg)
 
 ## Cikgu Haryati Surana
 
