@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: markdown
 ---
-![Cikgu Muhamad Rafi Abu Bakar](/images/Cikgu_Rafi.jpg)
-
+<img src="/images/Cikgu_Rafi.jpg" style="width:80%">
 
 ## Cikgu Muhamad Rafi Abu Bakar
 
