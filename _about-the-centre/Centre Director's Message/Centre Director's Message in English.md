@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Centre Director's Message
 variant: markdown
 ---
-![Centre Director's Message](/images/Mdm_Hayati.jpg)
+<img src="/images/Mdm_Hayati__2_.jpg" style="width:80%">
 
 Dear Teachers,
 
