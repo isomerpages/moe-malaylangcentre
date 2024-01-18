@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: markdown
 ---
-![Cikgu Siti Faridah](/images/Cikgu_Faridah.jpg)
+<img src="/images/Cikgu_Faridah.jpg" style="width:80%">
 
 ## Cikgu Siti Faridah Omar
 
