@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Centre Director's Message
 variant: markdown
 ---
-<img src="/images/Mdm_Hayati__2_.jpg" style="width:80%">
+<img src="/images/Mdm_Hayati.jpg" style="width:80%">
 <br>
 Para guru yang budiman,
 
