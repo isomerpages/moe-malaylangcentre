@@ -534,56 +534,9 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
   </tr>
 </tbody>
 </table>
-			<h3 id="bahasa-melayu-boleh-mekar-di-sini">'Bahasa Melayu boleh mekar di sini'</h3>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m">24/6/2014 </td>
-    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/bahasa-budaya/bahasa-melayu-boleh-mekar-di-sini%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/bahasa-melayu-boleh-mekar-di-sini </span></a></td>
-  </tr>
-</tbody>
-</table>
-			<h3 id="bijak-peribahasa-guna-aplikasi-telefon-bijak">Bijak peribahasa guna aplikasi telefon bijak</h3>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m">14/4/2014 </td>
-    <td class="tg-l3jn"><br><a href="http://www.beritaharian.sg/setempat/bijak-peribahasa-guna-aplikasi-telefon-bijak%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/setempat/bijak-peribahasa-guna-aplikasi-telefon-bijak </span></a></td>
-  </tr>
-</tbody>
-</table>
+			  		
+
+
 			<h3 id="pusat-bahasa-melayu-singapura">Pusat Bahasa Melayu Singapura</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -615,31 +568,9 @@ Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan pelbagai program pembang
   </tr>
 </tbody>
 </table>
-			<h3 id="memperkasa-guru-bahasa">Memperkasa guru bahasa</h3>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cysr{background-color:#E9E9E9;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
-.tg .tg-l3jn{background-color:#E7E7E7;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cysr"><span style="font-weight:600">Tarikh</span></th>
-    <th class="tg-cysr"><span style="font-weight:600">Tajuk</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ag2m"> 11/3/2014</td>
-    <td class="tg-l3jn"><a href="http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa%C2%A0"><span style="color:#CA2126;background-color:transparent">http://www.beritaharian.sg/bahasa-budaya/memperkasa-guru-bahasa </span></a></td>
-  </tr>
-</tbody>
-</table>
+		
+
+
     </div>
   </li>
   <li>
