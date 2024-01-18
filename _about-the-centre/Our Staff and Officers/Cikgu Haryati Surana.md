@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: markdown
 ---
-![Cikgu Haryati Surana](/images/Cikgu_Hayati.jpg)
+<img src="/images/Cikgu_Hayati.jpg" style="width:80%">
 
 ## Cikgu Haryati Surana
 
