@@ -12,27 +12,6 @@ Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan penga
 
 Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber MLCS.
 
-### Buku terkini di MLCS
-
-![](/images/1___book___teachers_as_cultural_workers.jpg)
-
-![](/images/001___book___teachers_as_intellectuals.jpg)
-#### July 2022
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### September 2022
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P7Yd2iMbELk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-### Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18
-
-![Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18](/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg)
-
-Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:
-
-<table style="box-sizing: border-box; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 189px;"><td style="box-sizing: border-box; width: 411px;"><span style="box-sizing: border-box; font-size: medium;">Puan Noor Analizah Mahfodz</span><br style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">di talian</strong>: 6354-6959</p><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" target="_blank" style="box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">mlcs.librarian@gmail.com</span></a></p></td><td style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">Waktu Operasi</strong>:&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Isnin hingga Khamis - 8.30am - 5.30pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Jumaat - 8.30am - 5.00pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sabtu, Ahad dan Cuti Umum ditutup</p></td></tr></tbody></table>
-
 Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:
 
 [https://schoolibrary.moe.edu.sg/mlcs](https://schoolibrary.moe.edu.sg/mlcs/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
@@ -43,14 +22,47 @@ Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:
 
 Borang pengesahan :&nbsp;[https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyurl.com/MLCSLibraryLoanReceive)
 
-### Pembelian MLCS Buku Inggeris 2021
+### Buku terkini di MLCS
 
-[Resource Centre Book Purchased for 2021](/files/resource-centre-book-purchased-for-2021.pdf)
+![](/images/1___book___teachers_as_cultural_workers.jpg)
+![](/images/001___book___teachers_as_intellectuals.jpg)
+
+-------------------------
+### Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS
+
+[https://go.gov.sg/mlcsteachingandlearningresources](https://go.gov.sg/mlcsteachingandlearningresources)&nbsp;
+<br>
+[https://go.gov.sg/mlcsbookspublications](https://go.gov.sg/mlcsbookspublications)
+
+Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan berikut:
+https://go.gov.sg/requestformlcsresources 
+
+-----
+
+Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:
+
+<table style="box-sizing: border-box; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 189px;"><td style="box-sizing: border-box; width: 411px;"><span style="box-sizing: border-box; font-size: medium;">Puan Noor Analizah Mahfodz</span><br style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">di talian</strong>: 6354-6959</p><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" target="_blank" style="box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">mlcs.librarian@gmail.com</span></a></p></td><td style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">Waktu Operasi</strong>:&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Isnin hingga Khamis - 8.30am - 5.30pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Jumaat - 8.30am - 5.00pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sabtu, Ahad dan Cuti Umum ditutup</p></td></tr></tbody></table>
+
+
+------
+#### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P7Yd2iMbELk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+### Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18
+
+![Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18](/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg)
+
+
 
 ### Buku Saranan
 
 
-<ul class="jekyllcodex_accordion">
+</p><ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion23">
     <label for="accordion23"><h4>Bahasa</h4></label>
