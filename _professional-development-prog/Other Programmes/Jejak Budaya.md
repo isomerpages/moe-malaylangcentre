@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Other Programmes
 variant: markdown
 ---
-### Jejak Budaya
+### Jejak Budaya 2024
+
+<img src="/images/Jejak_Budaya_Poster_2024.png" style="width:80%">
 
 Pusat Bahasa Melayu Singapura (MLCS) telah mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
 
