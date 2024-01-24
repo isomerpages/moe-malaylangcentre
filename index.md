@@ -43,6 +43,14 @@ sections:
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
       alt: Perkongsian Profesional 2024
   - infopic:
+      title: Jejak Budaya 2024
+      id: infopic
+      description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS!
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/other-programmes/jejak-budaya/
+      image: /images/Homepage_thumbnail_banner_jejak_budaya.jpg
+      alt: Image alt text
+  - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
         ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
