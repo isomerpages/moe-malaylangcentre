@@ -11,6 +11,7 @@ variant: markdown
 
 Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris. Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.
 
+<img src="/images/jejak_budaya_photos.jpg" style="width:80%">
 
 Pada tahun ini, dua modul baharu akan diperkenalkan. Pelajar akan berpeluang meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.
 
@@ -64,7 +65,8 @@ Pastikan perkara-perkara berikut disediakan:
     *   kertas berwarna
     *   gunting
 *   Bahan untuk sesi&nbsp;**<u>membuat aktiviti batik pilihan 1</u>**:
-    *   Krayon lilin (_oil pastel crayon_)
+    *   Kertas lukis
+	* Krayon lilin (_oil pastel crayon_)
     *   Cat air (_water colour paint_)
     *   Berut Cat
 *   Bahan untuk sesi&nbsp;**<u>membuat aktiviti batik pilihan 2</u>**:
