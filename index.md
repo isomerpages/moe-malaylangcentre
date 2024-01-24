@@ -34,13 +34,14 @@ sections:
       image: /images/001 seminar bahasa melayu 2024 (800 × 580 px).jpg
       alt: Resources
   - infopic:
-      image: /images/001 home bestari berbicara 2023.jpg
-      title: Bestari Berbicara 2023
-      description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
-        untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
+      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
+      title: Perkongsian Profesional 2024
+      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
+        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
+        Pembelajaran Bahasa Melayu.
       button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      alt: Bestari Berbicara 2023
+      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
+      alt: Perkongsian Profesional 2024
   - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
