@@ -76,6 +76,4 @@ Pastikan perkara-perkara berikut disediakan:
     *   Bekas untuk mengisi cat
     *   Berus cat (jika perlu)
 
-
-
 </p>
