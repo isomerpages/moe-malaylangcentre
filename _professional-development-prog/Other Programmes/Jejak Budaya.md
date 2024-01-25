@@ -74,4 +74,4 @@ Pastikan perkara-perkara berikut disediakan:
     *   Getah
     *   Cat akrilik/poster yang dicampur air
     *   Bekas untuk mengisi cat
-    *   Berus cat (jika perlu)</p><p></p>
+    *   Berus cat (jika perlu)</p>
