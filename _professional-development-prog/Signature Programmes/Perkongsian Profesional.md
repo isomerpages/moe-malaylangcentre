@@ -31,9 +31,11 @@ Untuk mengakses **Antologi JANJI Digital**, sila imbas Kod QR dibawah.
 
 <img src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG" style="width:80%">
 
-----
+<p>
+	
+---
 
 ##### Gambar Perkongsian Profesional 2024
 		
 		
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></p>
