@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Perkongsian Profesional 2024
 
-<img src="/images/Perkongsian_Profesional_2024banner.JPG" style="width:90%">
+<img src="/images/Perkongsian_Profesional_2024banner.JPG" style="width:80%">
 
 Perkongsian Profesional dianjurkan pada tahun 2024 bertemakan **Penggunaan Antologi JANJI Digital dalam Pengajaran dan Pembelajaran Bahasa Melayu.**
 
