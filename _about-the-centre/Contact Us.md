@@ -28,4 +28,4 @@ Lelaman:  [Malay Language Centre of Singapore](https://mlcs.moe.edu.sg)
 
 Please click the following link to request for your booking.
 
-##### **[Booking Form](https://form.gov.sg/61c539b047e936001233c5b3)&nbsp;**
+##### **[Booking Form](https://go.gov.sg/bookingofmlcstrainingrooms)**

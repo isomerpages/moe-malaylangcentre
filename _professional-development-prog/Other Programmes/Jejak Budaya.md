@@ -5,9 +5,15 @@ description: ""
 third_nav_title: Other Programmes
 variant: markdown
 ---
-### Jejak Budaya
+### Jejak Budaya 2024
 
-Pusat Bahasa Melayu Singapura (MLCS) telah mengajurkan program Jejak Budaya 2023 secara dalam talian. Dalam program ini, pelajar berpeluang untuk mengetahui dengan lebih lanjut tentang permainan gasing dan juga senjata keris. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.  
+<img src="/images/Jejak_Budaya_Poster_2024.png" style="width:80%">
+
+Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris. Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.
+
+<img src="/images/jejak_budaya_photos.jpg" style="width:80%">
+
+Pada tahun ini, dua modul baharu akan diperkenalkan. Pelajar akan berpeluang meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.
 
 ![Jejak Budaya](/images/Jejak_Budaya.jpg)
 
@@ -27,12 +33,10 @@ Pusat Bahasa Melayu Singapura (MLCS) telah mengajurkan program Jejak Budaya 2023
 *   Akses pada bahan Nearpod akan diberikan&nbsp;**<u>3 hari sebelum tarikh pelaksanaan dengan pelajar</u>**
 *   Guru boleh meneroka bahan sebelum ‘Assign’ pada pelajar pada tarikh yang ditetapkan. Berdasarkan bahan di Nearpod, pemerancahan atau aktiviti tambahan boleh dimasukkan dalam SLS jika perlu
 
-**<u>Bahan-bahan sokongan</u>**
-
-1.  Aktiviti Saranan
-2.  Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
-3.  Panduan menggunakan Nearpod
-4.  Pautan untuk maklum balas guru
+**<u>Bahan-bahan sokongan</u>** <p>
+	1. Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja) <br>
+2.  Panduan menggunakan Nearpod <br>
+3.  Pautan untuk maklum balas guru
 
 **<u>Langkah susulan</u>**
 
@@ -57,3 +61,17 @@ Pastikan perkara-perkara berikut disediakan:
     *   Pengokot
     *   Gunting
     *   Pena berwarna
+*   Bahan untuk sesi&nbsp;**<u>membuat anyaman</u>**:
+    *   kertas berwarna
+    *   gunting
+*   Bahan untuk sesi&nbsp;**<u>membuat aktiviti batik pilihan 1</u>**:
+    *   Kertas lukis
+	* Krayon lilin (_oil pastel crayon_)
+    *   Cat air (_water colour paint_)
+    *   Berut Cat
+*   Bahan untuk sesi&nbsp;**<u>membuat aktiviti batik pilihan 2</u>**:
+    *   Kain terpakai yang tidak bercorak (Contoh: Kemeja T terpakai, kain perca)
+    *   Getah
+    *   Cat akrilik/poster yang dicampur air
+    *   Bekas untuk mengisi cat
+    *   Berus cat (jika perlu)</p>
