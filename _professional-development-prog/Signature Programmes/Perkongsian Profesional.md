@@ -3,39 +3,46 @@ title: Perkongsian Profesional
 permalink: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
 description: ""
 third_nav_title: Signature Programmes
-variant: markdown
+variant: tiptap
 ---
-### Perkongsian Profesional 2024
-
-<img src="/images/Perkongsian_Profesional_2024banner.JPG" style="width:80%">
-
-Perkongsian Profesional dianjurkan pada tahun 2024 bertemakan **Penggunaan Antologi JANJI Digital dalam Pengajaran dan Pembelajaran Bahasa Melayu.**
-
-##### Objektif Perkongsian Profesional pada tahun ini ialah:
-
-<img src="/images/Perkongsian_Profesional_2024objektif.JPG" style="width:80%">
-
-
-##### Slaid perkongsian para pembentang Perkongsian Profesional 2024
-
-Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian Profesional 2024. Bahan rujukan boleh didapati di Kod QR dibawah. Sila imbas kod tersebut.
-
-<img src="/images/Perkongsian_Profesional_2024kumpulanA.JPG" style="width:80%">
-
-<br>
-<img src="/images/Perkongsian_Profesional_2024kumpulanB.JPG" style="width:80%">
-<br>
-<img src="/images/Perkongsian_Profesional_2024kumpulanC.JPG" style="width:80%">
-
-Untuk mengakses **Antologi JANJI Digital**, sila imbas Kod QR dibawah.
-
-<img src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG" style="width:80%">
-
+<h3>Perkongsian Profesional 2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024banner.JPG">
+</div>
+<p>Perkongsian Profesional dianjurkan pada tahun 2024 bertemakan <strong>Penggunaan Antologi JANJI Digital dalam Pengajaran dan Pembelajaran Bahasa Melayu.</strong>
+</p>
+<h5>Objektif Perkongsian Profesional pada tahun ini ialah:</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024objektif.JPG">
+</div>
+<h5>Slaid perkongsian para pembentang Perkongsian Profesional 2024</h5>
+<p>Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian
+Profesional 2024. Bahan rujukan boleh didapati di Kod QR dibawah. Sila
+imbas kod tersebut.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanA.JPG">
+</div>
 <p>
-	
----
-
-##### Gambar Perkongsian Profesional 2024
-		
-		
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanB.JPG">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanC.JPG">
+</div>
+<p>Untuk mengakses <strong>Antologi JANJI Digital</strong>, sila imbas Kod
+QR dibawah.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG">
+</div>
+<p></p>
+<hr>
+<h5>Gambar Perkongsian Profesional 2024</h5>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
