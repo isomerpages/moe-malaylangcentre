@@ -81,7 +81,7 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___05_Bersama_Pemimpin_Negara__page144_151_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bersama Pemimpin Negara</a>
 </p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a> 
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a>
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___07_Jejak_Seni_Sarkasi__page158_164_.pdf" rel="noopener noreferrer nofollow" target="_blank">Jejak Seni Sarkasi</a>
 </p>
@@ -90,16 +90,32 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___09_Rujukan__page166_168_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rujukan</a>
 </p>
 <hr>
-<p></p>
-<h4>2.&nbsp;<a href="/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said</a></h4>
+<h4>2.Panduan Pengajaran and Pembelajaran Sekolah Menengah dan Maktab Rendah&nbsp;Bicara Biudiman Sarkasi Said</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicara_budiman_sarkasi_said__bahan_pengajaran_dan_pembelajaran__men_jc__final_1_page_0001.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicara_budiman_sarkasi_said__bahan_pengajaran_dan_pembelajaran__men_jc__final_6_page_0001.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bicara_budiman_sarkasi_said__bahan_pengajaran_dan_pembelajaran__men_jc__final_8_page_0001.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4><a href="/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said</a></h4>
 <hr>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Berikut ini pula merupakan klip-klip video wawancara Bicara Budiman Sarkasi
-Said.</p>
-</li>
-</ol>
+<h4>3. Video wawancara Bicara Budiman Sarkasi Said</h4>
+<p>Berikut merupakan klip-klip video wawancara Bicara Budiman Sarkasi Said.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Segmen 1 - Budi</p>
