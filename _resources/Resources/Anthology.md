@@ -3,41 +3,74 @@ title: Anthology
 permalink: /mlcs/resources/anthology/
 description: ""
 third_nav_title: Resources
-variant: markdown
+variant: tiptap
 ---
-##### PRIMARY:   ANTOLOGI CERPEN BENIH
-
-<img src="/images/001%20benih-small.png" style="width:50%">
-
-Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam kalangan murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.
-
-1.  [Sahabat(.pdf, 2.77 MB)](/files/1-sahabat.pdf)
-2.  [Sekilas Senyuman(.pdf, 2.38 MB)](/files/2-sekilas.pdf)
-3.  [Benih(.pdf, 2.57 MB)](/files/3-benih.pdf)
-4.  [Untuk Myra(.pdf, 2.56 MB)](/files/4-untuk_myra-r2.pdf)
-5.  [Insaf(.pdf, 2.5 MB)](/files/5-insaf-r2.pdf)
-6.  [Anak Penjual Tisu(.pdf, 2.6 MB)](/files/6-anakpenjualtisu.pdf)
-7.  [Pengganti(.pdf, 2.92 MB)](/files/7-pengganti-r2.pdf)
-
-Selain itu, Benih juga mengandungi sebuah buku panduan berjudul Idea. Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa Melayu menggunakan 7 cerpen yang terkandung dalam koleksi ini.
-
-[Idea Saranan Pengajaran dan Pembelajaran(.pdf, 6.07 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-benih/8-idea_saranan_pengajaran.pdf?sfvrsn=d5a9d7d5_2 "Idea Saranan Pengajaran dan Pembelajaran") ***(PDF file too big!)***
-
-**Ralat:**
-
-Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut perinciannya:
-
-1.  Cerpen ‘Insaf’ – halaman 6, ejaan ‘biadap’ dibetulkan menjadi ‘biadab’.
-2.  Cerpen ‘Pengganti’ – halaman 5, ejaan ‘ana-anak’ dibetulkan menjadi ‘anak-anak’.
-3.  Cerpen ‘Untuk Myra’ – halaman 8, ejaan ‘ngadu Myra…’ dibetulkan menjadi ‘Myra mengadu…’.
-
-Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi PDF yang terdapat dalam laman ini.
-
------
-##### SECONDARY  
-
-[Short Stories: Janji](/mlcs/resources/anthology/secondary/short-stories-janji/)
-
-[Short Stories : Rahsia](/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/)
-
-[Short Stories: Citra](/mlcs/resources/anthology/secondary/short-stories-citra/)
+<h5>PRIMARY: ANTOLOGI CERPEN BENIH</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/001%20benih-small.png">
+</div>
+<p>Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi
+Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen
+ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam kalangan
+murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/1-sahabat.pdf" rel="noopener noreferrer nofollow" target="_blank">Sahabat(.pdf, 2.77 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2-sekilas.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekilas Senyuman(.pdf, 2.38 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/3-benih.pdf" rel="noopener noreferrer nofollow" target="_blank">Benih(.pdf, 2.57 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/4-untuk_myra-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Untuk Myra(.pdf, 2.56 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/5-insaf-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insaf(.pdf, 2.5 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/6-anakpenjualtisu.pdf" rel="noopener noreferrer nofollow" target="_blank">Anak Penjual Tisu(.pdf, 2.6 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/7-pengganti-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Pengganti(.pdf, 2.92 MB)</a>
+</p>
+</li>
+</ol>
+<p>Selain itu, Benih juga mengandungi sebuah buku panduan berjudul Idea.
+Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa Melayu
+menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-benih/8-idea_saranan_pengajaran.pdf?sfvrsn=d5a9d7d5_2" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(.pdf, 6.07 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+</p>
+<p><strong>Ralat:</strong>
+</p>
+<p>Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut
+perinciannya:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Cerpen ‘Insaf’ – halaman 6, ejaan ‘biadap’ dibetulkan menjadi ‘biadab’.</p>
+</li>
+<li>
+<p>Cerpen ‘Pengganti’ – halaman 5, ejaan ‘ana-anak’ dibetulkan menjadi ‘anak-anak’.</p>
+</li>
+<li>
+<p>Cerpen ‘Untuk Myra’ – halaman 8, ejaan ‘ngadu Myra…’ dibetulkan menjadi
+‘Myra mengadu…’.</p>
+</li>
+</ol>
+<p>Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi
+PDF yang terdapat dalam laman ini.</p>
+<hr>
+<h5>SECONDARY</h5>
+<p><a href="/mlcs/resources/anthology/secondary/short-stories-janji/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Janji</a>
+</p>
+<p><a href="/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/" rel="noopener noreferrer nofollow" target="_blank">Short Stories : Rahsia</a>
+</p>
+<p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
+</p>
