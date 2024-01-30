@@ -62,7 +62,7 @@ Bahasa</p>
 </p>
 <p><em>Norita Rahmad dan Ramlah Begam</em>
 </p>
-<p>5.&nbsp;<a href="/files/5%20.pdf" rel="noopener noreferrer nofollow" target="_blank">Keberkesanan Penggunaan Pendekatan&nbsp;</a><em><a href="/files/5%20.pdf" rel="noopener noreferrer nofollow" target="_blank">Patchwork Text Assessment</a></em>
+<p>5.&nbsp;<a href="/files/5%20.pdf" rel="noopener noreferrer nofollow" target="_blank">Keberkesanan Penggunaan Pendekatan&nbsp;</a><em><a href="/files/5%20.pdf" rel="noopener noreferrer nofollow" target="_blank">Patchwork Text Assessment</a></em> 
 <a href="/files/5%20.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Dalam Mereka Bentuk Pembelajaran Teradun</a>
 </p>
 <p><em>Norlin Mansor dan Nurul Syahidah Bahari</em>
@@ -147,13 +147,13 @@ Bahasa</p>
 </p>
 <p><em>Norazian Mohamed Yahya dan Hannah Nadhirah Lokman</em>
 </p>
-<p>26.&nbsp;<a href="/files/26.pdf" rel="noopener noreferrer nofollow" target="_blank">Penerapan Kaedah&nbsp;</a><em><a href="/files/26.pdf" rel="noopener noreferrer nofollow" target="_blank">Station Rotation</a></em>
+<p>26.&nbsp;<a href="/files/26.pdf" rel="noopener noreferrer nofollow" target="_blank">Penerapan Kaedah&nbsp;</a><em><a href="/files/26.pdf" rel="noopener noreferrer nofollow" target="_blank">Station Rotation</a></em> 
 <a href="/files/26.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Dalam Pengajaran Pembezaan Untuk Meningkatkan Pelibatan Pelajar
 Dalam PdP</a>
 </p>
 <p><em>Julaiha Haron</em>
 </p>
-<p>27.&nbsp;<a href="/files/27.pdf" rel="noopener noreferrer nofollow" target="_blank">Penerapan Kaedah&nbsp;</a><em><a href="/files/27.pdf" rel="noopener noreferrer nofollow" target="_blank">Tiering</a></em>
+<p>27.&nbsp;<a href="/files/27.pdf" rel="noopener noreferrer nofollow" target="_blank">Penerapan Kaedah&nbsp;</a><em><a href="/files/27.pdf" rel="noopener noreferrer nofollow" target="_blank">Tiering</a></em> 
 <a href="/files/27.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Dalam Pengajaran Pembezaan Bagi Meningkatkan Penyampaian Lisan Pelajar</a>
 </p>
 <p><em>Siti Nurhani Kamsani dan Norimahlizah Ramli</em>
