@@ -46,49 +46,24 @@ pencetus idea demi merangsang para guru dan para pelajar untuk mempelajari,
 mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.</p>
 <hr>
 <h4><strong>Berikut bahan-bahan yang telah diusahakan bagi kegunaan para guru dan pelajar:</strong></h4>
-<h4>1. Buku&nbsp;Bicara Budiman Sarkasi Said</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Buku Bicara Budiman Sarkasi Said" src="/images/SarkasiSaid_Book_Cover_front.jpg">
 </div>
-<p></p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___07_Jejak_Seni_Sarkasi__page158_164_.pdf" rel="noopener noreferrer nofollow" target="_blank">Jejak Seni Sarkasi</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___08_Jujungan_Budi__page165_.pdf" rel="noopener noreferrer nofollow" target="_blank">Junjungan Budi</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___09_Rujukan__page166_168_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rujukan</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___01_Sekapur_Sirih.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekapur Sirih</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___02_Budi__Page_6_57_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budi</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___03_Batik__page58_125_.pdf" rel="noopener noreferrer nofollow" target="_blank">Batik</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___04_Budaya__page126_143_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budaya</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___05_Bersama_Pemimpin_Negara__page144_151_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bersama Pemimpin Negara</a>
-</p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a>
-</p>
-<p></p>
+<h4>1. Buku&nbsp;Bicara Budiman Sarkasi Said</h4>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Buku Bicara Budiman Sarkasi Said</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Sekapur Sirih</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Budi</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Buku Bicara Budiman Sarkasi Said" src="/images/Bicara_Budiman_Sarkasi_Said__MLCS__1___02_Budi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___01_Sekapur_Sirih.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekapur Sirih</a>
+</p>
 <p></p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___02_Budi__Page_6_57_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +73,8 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Batik</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___03_Batik__page58_125_.pdf" rel="noopener noreferrer nofollow" target="_blank">Batik</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +85,8 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Budaya</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___04_Budaya__page126_143_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budaya</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +97,8 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bersama Pemimpin Negara</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___05_Bersama_Pemimpin_Negara__page144_151_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bersama Pemimpin Negara</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -131,35 +109,21 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bicara Budiman Sesi Wawancara</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jejak Seni Sarkasi Said</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___07_Jejak_Seni_Sarkasi__page158_164_.pdf" rel="noopener noreferrer nofollow" target="_blank">Jejak Seni Sarkasi</a>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junjungan Budi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rujukan</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___08_Jujungan_Budi__page165_.pdf" rel="noopener noreferrer nofollow" target="_blank">Junjungan Budi</a>
+</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___09_Rujukan__page166_168_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rujukan</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <hr>
 <p></p>
 <h4>2.&nbsp;<a href="/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said</a></h4>
