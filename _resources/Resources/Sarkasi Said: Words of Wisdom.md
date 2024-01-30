@@ -90,7 +90,7 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___09_Rujukan__page166_168_.pdf" rel="noopener noreferrer nofollow" target="_blank">Rujukan</a>
 </p>
 <hr>
-<h4>2.Panduan Pengajaran and Pembelajaran Sekolah Menengah dan Maktab Rendah&nbsp;Bicara Biudiman Sarkasi Said</h4>
+<h4>2.Panduan Pengajaran and Pembelajaran Sekolah Menengah dan Maktab Rendah&nbsp;Bicara Budiman Sarkasi Said</h4>
 <table>
 <tbody>
 <tr>
@@ -112,7 +112,8 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </tr>
 </tbody>
 </table>
-<h4><a href="/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said</a></h4>
+<p><a href="/files/bicara-budiman-sarkasi-said_-bahan-pengajaran-dan-pembelajaran-(men-jc)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Pengajaran dan Pembelajaran Sekolah Menengah dan Maktab Rendah Bicara Budiman Sarkasi Said</a>
+</p>
 <hr>
 <h4>3. Video wawancara Bicara Budiman Sarkasi Said</h4>
 <p>Berikut merupakan klip-klip video wawancara Bicara Budiman Sarkasi Said.</p>
