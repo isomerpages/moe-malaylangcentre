@@ -81,8 +81,9 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___05_Bersama_Pemimpin_Negara__page144_151_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bersama Pemimpin Negara</a>
 </p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a>
-<a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___07_Jejak_Seni_Sarkasi__page158_164_.pdf" rel="noopener noreferrer nofollow" target="_blank">ejak Seni Sarkasi</a>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___06_Bicara_Budiman_Sesi_Wawancara__page152_157_.pdf" rel="noopener noreferrer nofollow" target="_blank">Bicara Budiman Sesi Wawancara</a> 
+</p>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___07_Jejak_Seni_Sarkasi__page158_164_.pdf" rel="noopener noreferrer nofollow" target="_blank">Jejak Seni Sarkasi</a>
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___08_Jujungan_Budi__page165_.pdf" rel="noopener noreferrer nofollow" target="_blank">Junjungan Budi</a>
 </p>
