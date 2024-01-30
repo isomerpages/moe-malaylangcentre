@@ -47,7 +47,6 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 <hr>
 <h4><strong>Berikut bahan-bahan yang telah diusahakan bagi kegunaan para guru dan pelajar:</strong></h4>
 <h4>1. Buku&nbsp;Bicara Budiman Sarkasi Said</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Buku Bicara Budiman Sarkasi Said" src="/images/SarkasiSaid_Book_Cover_front.jpg">
 </div>
@@ -62,7 +61,7 @@ mengenali dan menghargai Sarkasi Said sebagai pelukis batik tersohor Singapura.<
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___02_Budi__Page_6_57_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budi</a>
 </p>
-<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___03_Batik__page58_125_.pdf" rel="noopener noreferrer nofollow" target="_blank">Batik </a>
+<p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___03_Batik__page58_125_.pdf" rel="noopener noreferrer nofollow" target="_blank">Batik</a>
 </p>
 <p><a href="/files/Bicara_Budiman_Sarkasi_Said__MLCS__1___04_Budaya__page126_143_.pdf" rel="noopener noreferrer nofollow" target="_blank">Budaya</a>
 </p>
