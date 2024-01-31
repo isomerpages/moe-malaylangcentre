@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h5>ANTOLOGI CERPEN RAHSIA</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="rahsia" src="/images/rahsia.png">
+<img style="width: 50%;" height="auto" width="100%" alt="rahsia" src="/images/rahsia.png">
 </div>
 <p>Rahsia merupakan koleksi cerpen karya guru peserta program penyerapan
 bagi Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi
