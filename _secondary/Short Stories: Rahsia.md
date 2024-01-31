@@ -27,7 +27,7 @@ kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
 </p>
 </li>
 <li>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-rahsia/4-senandika.pdf?sfvrsn=15392c8e_2" rel="noopener noreferrer nofollow" target="_blank">Senandika(.pdf, 2.66 MB)</a>
+<p><a href="/files/Senandika_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Senandika(.pdf, 2.66 MB)</a>
 </p>
 <p></p>
 </li>
@@ -52,7 +52,7 @@ kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
 <p>Selain itu koleksi cerpen ini juga mengandungi sebuah buku panduan berjudul
 Idea. Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa
 Melayu menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
-<p><a href="/files/Idea_Sec_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 1-21)(.pdf 2.98 MB)</a>
+<p><a href="/files/Idea_Sec_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 1-21)(.pdf 2.98 MB)</a> 
 <br><a href="/files/Idea_Sec_path__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 22-43)(.pdf 3.77 MB)</a>
 </p>
 <p><strong>Ralat:</strong>
