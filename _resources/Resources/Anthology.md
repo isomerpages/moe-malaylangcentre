@@ -46,8 +46,11 @@ murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.</p>
 <p>Selain itu, Benih juga mengandungi sebuah buku panduan berjudul Idea.
 Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa Melayu
 menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/short-stories-benih/8-idea_saranan_pengajaran.pdf?sfvrsn=d5a9d7d5_2" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(.pdf, 6.07 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+<p><a href="/files/Idea_path_anthology__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran - Bahagian 1</a>
 </p>
+<p><a href="/files/Idea_path_anthology__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran - Bahagian 2</a>
+</p>
+<p></p>
 <p><strong>Ralat:</strong>
 </p>
 <p>Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut

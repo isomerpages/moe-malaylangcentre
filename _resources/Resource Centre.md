@@ -2,202 +2,373 @@
 title: Resource Centre
 permalink: /mlcs/resources/resource-centre/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Pusat Sumber MLCS
-
-![Pusat Sumber MLCS](/images/dsc_0072.jpeg)
-
-Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;
-
-Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat Sumber MLCS.
-
-Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:
-
-[https://schoolibrary.moe.edu.sg/mlcs](https://schoolibrary.moe.edu.sg/mlcs/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-
-Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:
-
-[https://tinyurl.com/MLCSLibraryLoanForm](https://tinyurl.com/MLCSLibraryLoanForm)
-
-Borang pengesahan :&nbsp;[https://tinyurl.com/MLCSLibraryLoanReceive](https://tinyurl.com/MLCSLibraryLoanReceive)
-
-### Buku terkini di MLCS
-
-![](/images/1___book___teachers_as_cultural_workers.jpg)
-![](/images/001___book___teachers_as_intellectuals.jpg)
-
--------------------------
-### Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS
-
-[https://go.gov.sg/mlcsteachingandlearningresources](https://go.gov.sg/mlcsteachingandlearningresources)&nbsp;
+<h3>Pusat Sumber MLCS</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
+</div>
+<p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
+pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
+dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
+bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
+<p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
+Sumber MLCS.</p>
+<p>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</p>
+<p><a href="https://schoolibrary.moe.edu.sg/mlcs/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/mlcs</a>
+</p>
+<p>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</p>
+<p><a href="https://tinyurl.com/MLCSLibraryLoanForm" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanForm</a>
+</p>
+<p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
+</p>
+<h3>Buku terkini di MLCS</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1___book___teachers_as_cultural_workers.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/001___book___teachers_as_intellectuals.jpg">
+</div>
+<hr>
+<h3>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h3>
+<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
+<br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
+</p>
+<p>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik
+pautan berikut:</p>
+<p><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a>
+</p>
+<hr>
+<p>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan
+kami:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Analizah Mahfodz
 <br>
-[https://go.gov.sg/mlcsbookspublications](https://go.gov.sg/mlcsbookspublications)
-
-Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan berikut:
-https://go.gov.sg/requestformlcsresources 
-
------
-
-Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:
-
-<table style="box-sizing: border-box; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 189px;"><td style="box-sizing: border-box; width: 411px;"><span style="box-sizing: border-box; font-size: medium;">Puan Noor Analizah Mahfodz</span><br style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">di talian</strong>: 6354-6959</p><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" target="_blank" style="box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small;"><span style="box-sizing: border-box; font-size: medium;">mlcs.librarian@gmail.com</span></a></p></td><td style="box-sizing: border-box;"><p style="box-sizing: border-box; font-size: 1.0625em;"><strong style="box-sizing: border-box; font-weight: 600;">Waktu Operasi</strong>:&nbsp;</p><p style="box-sizing: border-box; font-size: 1.0625em;">Isnin hingga Khamis - 8.30am - 5.30pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Jumaat - 8.30am - 5.00pm</p><p style="box-sizing: border-box; font-size: 1.0625em;">Sabtu, Ahad dan Cuti Umum ditutup</p></td></tr></tbody></table>
-
-
-------
-#### Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ueR85p3RWic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<p>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P7Yd2iMbELk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-### Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18
-
-![Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18](/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg)
-
-
-
-### Buku Saranan
-
-
-</p><ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion23">
-    <label for="accordion23"><h4>Bahasa</h4></label>
-    <div>
-      <p><img src="/images/Bahasa_1.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_2.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_3.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_4.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_5.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_6.jpg" alt="Bahasa"></p>
-<p><img src="/images/Bahasa_7.jpg" alt="Bahasa"></p>
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion24">
-    <label for="accordion24"><h4>Budaya</h4></label>
-    <div>
-      <p><img src="/images/Budaya_1.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_2.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_3.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_4.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_5.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_6.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_7.jpg" alt="Budaya"></p>
-<p><img src="/images/Budaya_8.jpg" alt="Budaya"></p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion25">
-    <label for="accordion25"><h4>Karya Penulis Singapura</h4></label>
-    <div>
-      <p><img src="/images/Karya%20Penulis%20Singapura_1.jpg" alt="Karya Penulis Singapura"></p>
-<p><img src="/images/Karya%20Penulis%20Singapura_2.jpg" alt="Karya Penulis Singapura"></p>
-<p><img src="/images/Karya%20Penulis%20Singapura_3.jpg" alt="Karya Penulis Singapura"></p>
-<p><img src="/images/Karya%20Penulis%20Singapura_4.jpg" alt="Karya Penulis Singapura"></p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion26">
-    <label for="accordion26"><h4>Pedagogi</h4></label>
-    <div>
-      <p><img src="/images/Pedagogi_1.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_2.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_3.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_4.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_5.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_6.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_7.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_8.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_9.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_10.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_11.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_12.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_13.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_14.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_15.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_16.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_17.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_18.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_19.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_20.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_21.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_22.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_23.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_24.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_25.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_26.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_27.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_28.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_29.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_30.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_31.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_32.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_33.jpg" alt="Pedagogi"></p>
-<p><img src="/images/Pedagogi_34.jpg" alt="Pedagogi"></p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion27">
-    <label for="accordion27"><h4>Penilaian</h4></label>
-    <div>
-      <p><img src="/images/Penilaian_1.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_2.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_3.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_4.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_5.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_6.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_7.jpg" alt="Penilaian"></p>
-<p><img src="/images/Penilaian_8.jpg" alt="Penilaian"></p>
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion28">
-    <label for="accordion28"><h4>Sastera</h4></label>
-    <div>
-      <p><img src="/images/Sastera_1.jpg" alt="Sastera"></p>
-<p><img src="/images/Sastera_2.jpg" alt="Sastera"></p>
-<p><img src="/images/Sastera_3.jpg" alt="Sastera"></p>
-<p><img src="/images/Sastera_4.jpg" alt="Sastera"></p>
-<p><img src="/images/Sastera_5.jpg" alt="Sastera"></p>
-    </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion29">
-    <label for="accordion29"><h4>Tatabahasa</h4></label>
-    <div>
-      <p><img src="/images/Tatabahasa_1.jpg" alt="Tatabahasa"></p>
-<p><img src="/images/Tatabahasa_2.jpg" alt="Tatabahasa"></p>
-<p><img src="/images/Tatabahasa_3.jpg" alt="Tatabahasa"></p>
-<p><img src="/images/Tatabahasa_4.jpg" alt="Tatabahasa"></p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion30">
-    <label for="accordion30"><h4>Umum</h4></label>
-    <div>
-      <p><img src="/images/Umum_1.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_2.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_3.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_4.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_5.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_6.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_7.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_8.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_9.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_10.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_11.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_12.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_13.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_14.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_15.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_16.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_17.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_18.jpg" alt="Umum"></p>
-<p><img src="/images/Umum_19.jpg" alt="Umum"></p>
-    </div>
-  </li>
+</p>
+<p><strong>di talian</strong>: 6354-6959</p>
+<p><strong>atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mlcs.librarian@gmail.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Operasi</strong>:&nbsp;</p>
+<p>Isnin hingga Khamis - 8.30am - 5.30pm</p>
+<p>Jumaat - 8.30am - 5.00pm</p>
+<p>Sabtu, Ahad dan Cuti Umum ditutup</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>Video</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ueR85p3RWic"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P7Yd2iMbELk"></iframe>
+</div>
+<p></p>
+<h3>Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18" src="/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg">
+</div>
+<h3>Buku Saranan</h3>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bahasa</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_7.jpg">
+</div>
+</li>
+<li>
+<p>Budaya</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_8.jpg">
+</div>
+</li>
+<li>
+<p>Karya Penulis Singapura</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_4.jpg">
+</div>
+</li>
+<li>
+<p>Pedagogi</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_19.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_20.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_21.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_22.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_23.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_24.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_25.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_26.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_27.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_28.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_29.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_30.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_31.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_32.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_33.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_34.jpg">
+</div>
+</li>
+<li>
+<p>Penilaian</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_8.jpg">
+</div>
+</li>
+<li>
+<p>Sastera</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_5.jpg">
+</div>
+</li>
+<li>
+<p>Tatabahasa</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_4.jpg">
+</div>
+</li>
+<li>
+<p>Umum</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_12.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_19.jpg">
+</div>
+</li>
 </ul>
+<p></p>
