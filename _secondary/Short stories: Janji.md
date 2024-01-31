@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Antologi Janji</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
 </div>
 <h5>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>&nbsp;dalam bentuk digital.</h5>
 <p>Antologi Janji merupakan kumpulan cerpen yang dihasilkan oleh guru-guru
@@ -14,12 +14,10 @@ yang mengikuti bengkel yang pernah dianjurkan oleh Cikgu Suratman Markasan.
 Antologi ini mengandungi 10 buah cerpen. Antologi ini telah diterbitkan
 dalam bentuk digital bagi membolehkan lebih ramai guru dan pelajar untuk
 memanfaatkan antologi ini sebagai bahan bacaan dan pengajaran dan pembelajaran.</p>
-<p>Klil pautan berikut untuk mendapatkan Antologi Janji dalam bentuk PDF.</p>
-<p><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider6/janji/mlcs-janji-v4.pdf" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>
-</p>
+<hr>
 <h3><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Cover_PdP_Janji" src="/images/cover_pdp_janji.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Cover_PdP_Janji" src="/images/cover_pdp_janji.png">
 </div>
 <p><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong>&nbsp;ini
 mengandungi saranan pengajaran dan pembelajaran yang boleh digunakan sebagai
