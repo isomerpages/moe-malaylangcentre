@@ -32,7 +32,7 @@ kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
 <p></p>
 </li>
 <li>
-<p><a href="/files/Atuk_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Atuk (Pg1-11)(.pdf4.88 MB)</a>
+<p><a href="/files/Atuk_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Atuk (Pg1-11)(.pdf4.88 MB)</a> 
 <br><a href="/files/Atuk_path__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Atuk (Pg12-17)(.pdf 3.14 MB)</a>
 </p>
 <p></p>
@@ -43,8 +43,8 @@ kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
 <p></p>
 </li>
 <li>
-<p><a href="/files/DendamMergastu_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 1-3)(.pdf 728 KB)</a>
-<br><a href="/files/DendamMergastu_path_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 4-7) (.pdf 4.23 MB)</a>
+<p><a href="/files/DendamMergastu_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 1-3)(.pdf 728 KB)</a> 
+<br><a href="/files/DendamMergastu_path_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 4-7) (.pdf 4.23 MB)</a> 
 <br><a href="/files/DendamMergastu_path_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 8-17)(.pdf 2.72 MB)</a>
 </p>
 </li>
@@ -52,7 +52,9 @@ kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
 <p>Selain itu koleksi cerpen ini juga mengandungi sebuah buku panduan berjudul
 Idea. Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa
 Melayu menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
-<p>Idea Saranan Pengajaran dan Pembelajaran(Pg 1-</p>
+<p><a href="/files/Idea_Sec_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 1-21)(.pdf 2.98 MB)</a>
+<br><a href="/files/Idea_Sec_path__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 22-43)(.pdf 3.77 MB)</a>
+</p>
 <p><strong>Ralat:</strong>
 </p>
 <p>Terdapat kesilapan cetakan dalam Antologi Cerpen Rahsia. Berikut perinciannya:</p>
