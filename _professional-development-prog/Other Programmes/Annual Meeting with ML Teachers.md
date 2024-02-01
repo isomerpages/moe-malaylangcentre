@@ -27,7 +27,7 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__1a_.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__1a_.JPG">
 </div>
 </td>
 </tr>
@@ -77,7 +77,7 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/30Jan2024_AnnualMeet2024__1_.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/30Jan2024_AnnualMeet2024__1_.JPG">
 </div>
 </th>
 </tr>
@@ -110,7 +110,7 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31Jan2024_AnnualMeet2024__1_.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/31Jan2024_AnnualMeet2024__1_.JPG">
 </div>
 </th>
 </tr>
