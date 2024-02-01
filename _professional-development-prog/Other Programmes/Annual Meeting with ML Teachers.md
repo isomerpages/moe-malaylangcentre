@@ -3,19 +3,69 @@ title: Annual Meeting with ML Teachers
 permalink: /mlcs/professional-development-programmes/other-programmes/annual-meeting-with-ml-teachers/
 description: ""
 third_nav_title: Other Programmes
+variant: tiptap
 ---
-#### **MESYUARAT TAHUNAN MLCS**
-
-**Mesyuarat Tahunan Bersama Guru-Guru Bahasa Melayu 2023**
-
-Mesyuarat Tahunan Bersama Guru-Guru Bahasa Melayu 2023 dianjurkan pada tarikh-tarikh yang berikut:
-
-Mesyuarat Tahunan Bersama  Guru-Guru Bahasa Melayu (Maktab Rendah/Institusi Pusat) dilaksanakan pada **Rabu**, **25 Januari 2023** di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.
-
-Mesyuarat Tahunan Bersama  Guru-Guru Bahasa Melayu (Sekolah Menengah) dilaksanakan pada **Khamis**, **26 Januari 2023** di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.
-
-Mesyuarat Tahunan Bersama  Guru-Guru Bahasa Melayu (Sekolah Rendah) akan dilaksanakan pada **Selasa**, **31** **Januari 2023** di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.
-
-Nota: Klik pautan berikut untuk mendapatkan [slaid Powerpoint](/files/membudayakan-kecemerlangan-profesional-guru-bahasa-melayu.pdf) yang dikongsi semasa Mesyuarat Tahunan tersebut.
-
-..........................................................................................
+<h4>MESYUARAT TAHUNAN PEGAWAI UTAMA SEKOLAH RENDAH, MENENGAH DAN MAKTAB RENDAH/INSTITUSI PUSAT 2024</h4>
+<p>Mesyuarat Tahunan Pegawai Utama Bahasa Melayu 2024 dianjurkan pada tarikh-tarikh
+yang berikut:</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Maktab Rendah/Institusi
+Pusat) dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>24 Januari 2024</strong>&nbsp;di
+MOE, TR 1&amp;2, Buona Vista, dari 2.30 - 5.30 petang.</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Menengah)
+dilaksanakan pada&nbsp;<strong>Selasa</strong>,&nbsp;<strong>30 Januari 2024</strong>&nbsp;melalui
+sidang Zoom, dari 2.30 - 5.30 petang.</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Rendah)
+akan dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>31</strong>&nbsp;<strong>Januari 2024</strong>&nbsp;di
+Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.</p>
+<hr>
+<p>Klik pautan berikut untuk mendapatkan&nbsp;slaid Powerpoint&nbsp;yang
+dikongsi semasa Mesyuarat Tahunan tersebut.</p>
+<hr>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__2_.JPG">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__3_.JPG">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__4_.JPG">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__5_.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__6_.JPG">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24Jan2024_AnnualMeet2024__7_.JPG">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
