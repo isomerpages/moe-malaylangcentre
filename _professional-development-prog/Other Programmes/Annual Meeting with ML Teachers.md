@@ -76,7 +76,6 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/30Jan2024_AnnualMeet2024__1_.JPG">
 </div>
@@ -105,4 +104,47 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p>
 </tbody>
 </table>
 <hr>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31Jan2024_AnnualMeet2024__1_.JPG">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/31Jan2024_1_AnnualMeet2024.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/31Jan2024_2_AnnualMeet2024.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31Jan2024_5_AnnualMeet2024.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31Jan2024_4_AnnualMeet2024.JPG">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
