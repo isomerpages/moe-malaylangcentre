@@ -19,7 +19,16 @@ akan dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>31</strong>&nbsp
 Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.</p>
 <hr>
 <p>Klik pautan berikut untuk mendapatkan&nbsp;slaid Powerpoint&nbsp;yang
-dikongsi semasa Mesyuarat Tahunan tersebut.</p>
+dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_presentation_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Slaid Powerpoint</a>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Annual_Meeting_2024_presentation_slides.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AM_ppt_cover.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <hr>
 <table>
 <tbody>
