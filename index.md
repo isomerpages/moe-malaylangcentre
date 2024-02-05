@@ -31,7 +31,7 @@ sections:
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
       button: Sila lihat selanjutnya
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/001 seminar bahasa melayu 2024 (800 × 580 px).jpg
+      image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
   - infopic:
       image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
