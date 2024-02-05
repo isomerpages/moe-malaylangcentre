@@ -32,7 +32,7 @@ dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_
 <hr>
 <h4><strong>Program Pembelajaran Profesional Guru 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rE5kwQ3JoEk?si=6wxC1g3V4_XlBfbi"></iframe>
+<iframe height="391" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rE5kwQ3JoEk?si=6wxC1g3V4_XlBfbi"></iframe>
 </div>
 <hr>
 <table>
