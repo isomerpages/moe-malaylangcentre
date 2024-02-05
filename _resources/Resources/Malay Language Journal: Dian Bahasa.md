@@ -59,25 +59,21 @@ bilik darjah.</p>
 <p><strong><a href="/files/SekapurSirih_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekapur Sirih</a></strong> 
 <br>Mohamed Noh Daipi
 <br>Pengarah Pusat Bahasa Melayu Singapura</p>
-<p><strong><a href="/files/Kertas1_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 1</a></strong>
-<a href="/files/Kertas1_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><strong><a href="/files/Kertas1_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 1</a></strong> 
 <br>Mohamed Noh Daipi
 <br>Tekad Sedekad: Menyusun Langkah, Membina Kecemerlangan</p>
-<p><strong><a href="/files/Kertas2_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 2</a></strong>
-<a href="/files/Kertas2_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><strong><a href="/files/Kertas2_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 2</a></strong> 
 <br>Profesor Emeritus Datuk Dr Nik Safiah Karim
 <br>Pengimbuhan Dalam Bahasa Melayu:
 <br>Gejala Pengulangan Kali Kedua</p>
-<p><strong><a href="/files/Kertas3_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 3</a></strong>
-<a href="/files/Kertas3_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><strong><a href="/files/Kertas3_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 3</a></strong> 
 <br>Profesor Datuk Dr Awang Sariyan
 <br>Sumbangan Manuskrip Melayu Lama Kepada Peradaban Bangsa: Catatan Berdasarkan
 Beberapa Teks</p>
 <p><strong><a href="/files/Kertas4_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 4</a></strong> 
 <br>Profesor Madya Dr Indirawati Zahid
 <br>Pengajaran dan Pembelajaran Sinonim Dalam Bahasa Melayu</p>
-<p><strong><a href="/files/Kertas5_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 5</a></strong>
-<a href="/files/Kertas5_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><strong><a href="/files/Kertas5_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 5</a></strong> 
 <br>Profesor Madya Dr Dahlia Janan
 <br>Pendekatan Pengajaran Bahasa Melayu Sebagai Bahasa Asing</p>
 <p><strong><a href="/files/Kertas6_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 6</a> </strong>
@@ -95,12 +91,10 @@ Bitara Kata: Pengalaman Singapura</p>
 <p><strong><a href="/files/Kertas9_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 9</a></strong> 
 <br>Muhammad Rafi Abu Bakar
 <br>Menyemarakkan Keseronokan Pembelajaran Melalui Aplikasi Lagenda Singapura</p>
-<p><strong><a href="/files/Kertas10_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 10</a></strong>
-<a href="/files/Kertas10_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><strong><a href="/files/Kertas10_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Kertas 10</a></strong> 
 <br>SitI Faridah Omar
 <br>Pintar Baca: Mengayakan Pembacaan Murid Melalui Cerita Asal Usul Nama
 Tempat di Singapura</p>
 <p><strong><a href="/files/BiodataPenghargaan_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Biodata/Penghargaan</a></strong>
-<a href="/files/BiodataPenghargaan_Dian2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p></p>
