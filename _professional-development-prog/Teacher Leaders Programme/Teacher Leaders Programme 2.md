@@ -22,18 +22,18 @@ refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
 <hr>
-<p><strong> Video Kenangan Program Penempatan Bestari 2 </strong>
+<p><strong>Video Kenangan Program Penempatan Bestari 2 </strong>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ADUkVBBLngg?si=H3RIXwcvizvV-5HL"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ADUkVBBLngg?si=H3RIXwcvizvV-5HL"></iframe>
 </div>
 <p></p>
 <hr>
 <p><strong>Gambar Program Penempatan Bestari 2</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7_LcjANyPGfcXsVe6Nf-ePAVr2VNoLmIDuof3eZRvRn4Kw0Be7A3WqP3Z_JqyY-KIA3xGl3KKkBUt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7_LcjANyPGfcXsVe6Nf-ePAVr2VNoLmIDuof3eZRvRn4Kw0Be7A3WqP3Z_JqyY-KIA3xGl3KKkBUt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
