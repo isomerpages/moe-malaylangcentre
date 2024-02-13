@@ -2,6 +2,7 @@ collections:
   professional-development-prog:
     output: true
     order:
+      - "Programme: Teacher Leaders Programme.md"
       - Professional Development Programmes.md
       - Training Programmes/.keep
       - Training Programmes/Training Calendar & Registration.md
