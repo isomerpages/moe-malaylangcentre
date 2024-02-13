@@ -10,10 +10,10 @@ variant: tiptap
 <h4>Malay Language Centre of Singapore</h4>
 <p><strong>Sila ajukan pertanyaan anda kepada alamat yang berikut:</strong>
 </p>
-<p><strong>Pusat Bahasa Melayu Singapura</strong>
-<br><strong>13 Bishan Street 14 Singapura 579787</strong>
-<br><strong>Tel: (+65) 6354 6963</strong>
-<br>E-mel kepada: <a href="mailto:siti_hajjar_mohamed_idrus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajjar_mohamed_idrus@schools.gov.sg</a>
+<p><strong>Pusat Bahasa Melayu Singapura</strong> 
+<br><strong>13 Bishan Street 14 Singapura 579787</strong> 
+<br><strong>Tel: (+65) 6354 6963</strong> 
+<br>E-mel kepada: <a href="mailto:siti_hajjar_mohamed_idrus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajjar_mohamed_idrus@schools.gov.sg</a> 
 <br>Lelaman: <a href="https://mlcs.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Malay Language Centre of Singapore</a>
 </p>
 <hr>
