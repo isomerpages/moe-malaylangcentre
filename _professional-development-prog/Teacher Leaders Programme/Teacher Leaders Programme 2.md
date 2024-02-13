@@ -5,3 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: Teacher Leaders Programme
 ---
+<h4><strong>Programme: Teacher Leaders Programme 2 (TLP2)</strong></h4>
+<p>Teacher Leaders Programme 2 (TLP2) atau Program Ketua Guru 2 merupakan
+program pembelajaran profesional yang dikhaskan untuk para Guru Peneraju.</p>
+<p><strong>Objektif program ini adalah:</strong>
+<br>• Memahami tugas-tugas dan impak Guru Pakar; dan
+<br>• Mendapatkan pemahaman yang mendalam tentang Pengetahuan dan Kemahiran
+yang diharapkan daripada Guru Peneraju sebagai Ketua Pedagogi dan mentor,
+serta menjelmakan pengetahuan dan kemahiran untuk menerajui pembelajaran
+di Sekolah.</p>
+<p>Diharapkan pada akhir program ini, Guru Kanan akan berpeluang untuk melakukan
+refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
+menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
+Pakar yang berperanan sebagai mentor.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
+</div>
+<p></p>
+<p></p>
