@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Teacher Leaders Programme
 ---
 <h4><strong>Programme: Teacher Leaders Programme 2 (TLP2)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
+</div>
 <p>Teacher Leaders Programme 2 (TLP2) atau Program Ketua Guru 2 merupakan
 program pembelajaran profesional yang dikhaskan untuk para Guru Peneraju.</p>
 <p><strong>Objektif program ini adalah:</strong> 
@@ -19,9 +22,8 @@ refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ADUkVBBLngg?si=H3RIXwcvizvV-5HL"></iframe>
 </div>
 <p></p>
 <p></p>
