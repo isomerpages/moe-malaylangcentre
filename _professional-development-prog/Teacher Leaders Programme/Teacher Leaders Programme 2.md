@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teacher Leaders Programme
 ---
-<h4><strong>Programme: Teacher Leaders Programme 2 (TLP2)</strong></h4>
+<h4><strong>Teacher Leaders Programme 2 (TLP2)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
 </div>
