@@ -19,9 +19,6 @@ Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.</p>
 meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
 pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
 pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jejak Budaya" src="/images/Jejak_Budaya.jpg">
-</div>
 <p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong>
 </p>
 <p><strong><u>Penggunaan SLS</u></strong>
