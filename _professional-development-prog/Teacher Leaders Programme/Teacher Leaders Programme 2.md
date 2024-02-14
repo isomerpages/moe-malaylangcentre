@@ -9,7 +9,7 @@ third_nav_title: Teacher Leaders Programme
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
 </div>
-<p>Teacher Leaders Programme 2 (TLP2) atau Program Ketua Guru 2 merupakan
+<p>Teacher Leaders Programme 2 (TLP2) atau Program Penempatan Bestari 2 merupakan
 program pembelajaran profesional yang dikhaskan untuk para Guru Peneraju.</p>
 <p><strong>Objektif program ini adalah:</strong> 
 <br>• Memahami tugas-tugas dan impak Guru Pakar; dan
