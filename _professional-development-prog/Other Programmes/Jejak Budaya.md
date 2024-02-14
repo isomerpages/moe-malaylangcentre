@@ -19,7 +19,7 @@ Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.</p>
 meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
 pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
 pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
-<p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong>
+<p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong> 
 <br>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
 tahun untuk melaksanakan program ini. Tiada had pada jumlah pelajar yang
 boleh ambil bahagian.</p>
@@ -74,8 +74,8 @@ boleh dimasukkan dalam SLS jika perlu</p>
 <p>Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu
 dilengkapkan oleh guru:</p>
 <p>a. Mengisi borang maklum balas yang diberikan dalam e-mel
-<br>b. Naik muat&nbsp;<strong><u>kolaj mengandungi gambar-gambar hasil kerja</u></strong>&nbsp;kraftangan
-pelajar di borang maklum balas
+<br>b. Naik muat&nbsp;<strong><u>kolaj mengandungi gambar-gambar hasil kerja</u></strong>&nbsp;kraf
+tangan pelajar di borang maklum balas
 <br>c. Naik muat &nbsp;<strong><u>kolaj mengandungi 5 gambar pelajar</u></strong>&nbsp;membuat
 aktiviti di borang maklum balas</p>
 <p><strong>PERSEDIAAN YANG PERLU DILAKUKAN OLEH PIHAK SEKOLAH</strong>
