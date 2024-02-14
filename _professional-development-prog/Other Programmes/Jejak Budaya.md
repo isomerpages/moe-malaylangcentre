@@ -20,7 +20,8 @@ meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
 pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
 pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
 <p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong> 
-<br>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
+</p>
+<p>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
 tahun untuk melaksanakan program ini. Tiada had pada jumlah pelajar yang
 boleh ambil bahagian.</p>
 <p></p>
