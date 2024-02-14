@@ -20,7 +20,10 @@ meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
 pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
 pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
 <p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong>
-</p>
+<br>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
+tahun untuk melaksanakan program ini. Tiada had pada jumlah pelajar yang
+boleh ambil bahagian.</p>
+<p></p>
 <p><strong><u>Penggunaan SLS</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -53,7 +56,7 @@ sekolah, MLCS akan membenarkan&nbsp;<strong><u>akses pada bahan</u></strong>&nbs
 <p>Pelajar hanya perlu memasukkan kod yang diberikan untuk mendapat akses</p>
 </li>
 <li>
-<p>Akses pada bahan Nearpod akan diberikan&nbsp;<strong><u>3 hari sebelum tarikh pelaksanaan dengan pelajar</u></strong>
+<p>Akses pada bahan Nearpod akan diberikan&nbsp;<strong><u>2 minggu sebelum tarikh pelaksanaan dengan pelajar</u></strong>
 </p>
 </li>
 <li>
@@ -65,8 +68,7 @@ boleh dimasukkan dalam SLS jika perlu</p>
 <p><strong><u>Bahan-bahan sokongan</u></strong>
 </p>
 <p>1. Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
-<br>2. Panduan menggunakan Nearpod
-<br>3. Pautan untuk maklum balas guru</p>
+<br>2. Pautan untuk maklum balas guru</p>
 <p><strong><u>Langkah susulan</u></strong>
 </p>
 <p>Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu
@@ -129,42 +131,25 @@ aktiviti di borang maklum balas</p>
 </ul>
 </li>
 <li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat aktiviti batik pilihan 1</u></strong>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kertas lukis</p>
-</li>
-<li>
-<p>Krayon lilin (<em>oil pastel crayon</em>)</p>
-</li>
-<li>
-<p>Cat air (<em>water colour paint</em>)</p>
-</li>
-<li>
-<p>Berut Cat</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat aktiviti batik pilihan 2</u></strong>:</p>
+<p>Bahan untuk sesi&nbsp;<strong><u>membuat aktiviti batik:</u></strong>
+</p>
 <ul>
 <li>
-<p>Kain terpakai yang tidak bercorak (Contoh: Kemeja T terpakai, kain perca)</p>
+<p>Kertas lukis yang telah dicetakkan corak batik (Salinan pdf corak-corak
+batik akan dikirimkan melalui e-mel)</p>
 </li>
 <li>
-<p>Getah</p>
+<p>Krayon lilin (oil pastel crayon)</p>
 </li>
 <li>
-<p>Cat akrilik/poster yang dicampur air</p>
+<p>Cat air (water colour paint)</p>
 </li>
 <li>
-<p>Bekas untuk mengisi cat</p>
-</li>
-<li>
-<p>Berus cat (jika perlu)</p>
+<p>Berus cat</p>
 <p></p>
 </li>
 </ul>
+<p></p>
 </li>
 </ul>
 <p></p>
