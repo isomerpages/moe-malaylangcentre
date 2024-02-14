@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teacher Leaders Programme
 ---
 <h4><strong>Teacher Leaders Programme 1 (TLP1)</strong></h4>
-<p>Teacher Leaders Programme 1 (TLP1) atau Program Ketua Guru 1 merupakan
+<p>Teacher Leaders Programme 1 (TLP1) atau Program Penempatan Bestari 1 merupakan
 program pembelajaran profesional yang dikhaskan untuk para Guru Kanan.</p>
 <p><strong>Objektif program ini adalah:</strong>
 </p>
