@@ -27,6 +27,8 @@ refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
 <hr>
+<p><strong>Gambar Program Penempatan Bestari 1</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwLLH1uGnuoXK2DPa91ICj2firZ0lm0JhOTtVbv9srvn1B-nGp3j8ibhNeWwEhDb18QPz-qXpX2qJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
