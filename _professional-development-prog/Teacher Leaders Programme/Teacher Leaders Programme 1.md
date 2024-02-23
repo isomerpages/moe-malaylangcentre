@@ -27,6 +27,14 @@ refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
 <hr>
+<p></p>
+<p><strong>Video Kenangan Program Penempatan Bestari 1</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="596" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3qL4QeqdOmA"></iframe>
+</div>
+<hr>
+<p></p>
 <p><strong>Gambar Program Penempatan Bestari 1</strong>
 </p>
 <div class="iframe-wrapper">
