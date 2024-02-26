@@ -31,13 +31,13 @@ Pakar yang berperanan sebagai mentor.</p>
 <p><strong>Video Kenangan Program Penempatan Bestari 1</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="596" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3qL4QeqdOmA"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3qL4QeqdOmA"></iframe>
 </div>
 <hr>
 <p></p>
 <p><strong>Gambar Program Penempatan Bestari 1</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwLLH1uGnuoXK2DPa91ICj2firZ0lm0JhOTtVbv9srvn1B-nGp3j8ibhNeWwEhDb18QPz-qXpX2qJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVwLLH1uGnuoXK2DPa91ICj2firZ0lm0JhOTtVbv9srvn1B-nGp3j8ibhNeWwEhDb18QPz-qXpX2qJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
