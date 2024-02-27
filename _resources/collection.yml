@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Interaksi Lisan.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
