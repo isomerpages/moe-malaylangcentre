@@ -26,17 +26,17 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Video</p>
+<p>VIDEO</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Panduan Guru</p>
+<p>PANDUAN GURU</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Awak tinggal di mana?  01:25min</strong>
+<p><strong>Awak tinggal di mana? 01:25min</strong>
 </p>
 </li>
 </ol>
@@ -92,34 +92,82 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Doktor Sarah 02:24 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/otXJbbSyLX4?si=2IkS23kNLkKNeUti"></iframe>
+</div>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="/files/IL_P1_Klip_04_Doktor_Sarah.pdf" rel="noopener noreferrer nofollow" target="_blank">04 - Panduan Guru - Doktor Sarah</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Cantiknya ruang tamu!</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_btXO9DGes?si=ZIhHWX4SDYaDd3FK"></iframe>
+</div>
 <p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="/files/IL_P1_Klip_05_Cantiknya_ruang_tamu.pdf" rel="noopener noreferrer nofollow" target="_blank">05 - Panduan Guru - Cantiknya ruang tamu!</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>Aktiviti di rumah</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-anz-2fTGKY?si=TaDAYNTw5rixMlQk"></iframe>
+</div>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="/files/IL_P1_Klip_06_Aktiviti_di_rumah.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - Panduan Guru - Aktiviti di rumah</a></strong>
+</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Pakej Interaksi Lisan 1B</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>VIDEO</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PANDUAN GURU</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Warna-warni</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/imNlVsf2Lyg?si=L5_-k054RJghUIV1"></iframe>
+</div>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
