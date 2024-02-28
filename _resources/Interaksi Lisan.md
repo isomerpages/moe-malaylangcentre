@@ -376,7 +376,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>06 - P2: Panduan Guru - Tumpang tanya</strong>
+<p><strong><a href="/files/IL_P2_KLIP_06_tumpang_tanya.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - P2: Panduan Guru - Tumpang tanya</a></strong>
 </p>
 </td>
 </tr>
@@ -408,7 +408,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>07 - P2: Panduan Guru -Cita-Cita</strong>
+<p><strong><a href="/files/IL_P2_KLIP_07_cita_cita.pdf" rel="noopener noreferrer nofollow" target="_blank">07 - P2: Panduan Guru -Cita-Cita</a></strong>
 </p>
 </td>
 </tr>
@@ -425,7 +425,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>08 - P2: Panduan Guru - Apa menunya</strong>
+<p><strong><a href="/files/IL_P2_KLIP_08_apa_menunya.pdf" rel="noopener noreferrer nofollow" target="_blank">08 - P2: Panduan Guru - Apa menunya</a></strong>
 </p>
 </td>
 </tr>
@@ -442,7 +442,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>09 - P2: Panduan Guru - Jemput makan</strong>
+<p><strong><a href="/files/IL_P2_KLIP_09_Jemput_makan.pdf" rel="noopener noreferrer nofollow" target="_blank">09 - P2: Panduan Guru - Jemput makan</a></strong>
 </p>
 </td>
 </tr>
@@ -459,7 +459,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 - P2: Bersukan bersama rakan</strong>
+<p><strong><a href="/files/IL_P2_KLIP_10_Bersukan_bersama_rakan.pdf" rel="noopener noreferrer nofollow" target="_blank">10 - P2: Bersukan bersama rakan</a></strong>
 </p>
 </td>
 </tr>
@@ -476,7 +476,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 - P2: Panduan Guru - Kad raya kita</strong>
+<p><strong><a href="/files/IL_P2_KLIP_11_kad_raya_kita.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - P2: Panduan Guru - Kad raya kita</a></strong>
 </p>
 </td>
 </tr>
@@ -493,7 +493,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 - P2: Panduan Guru - Berapa harganya</strong>
+<p><strong><a href="/files/IL_P2_KLIP_12_berapa_harganya.pdf" rel="noopener noreferrer nofollow" target="_blank">12 - P2: Panduan Guru - Berapa harganya</a></strong>
 </p>
 </td>
 </tr>
