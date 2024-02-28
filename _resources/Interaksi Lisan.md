@@ -36,7 +36,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Awak tinggal di mana? 01:25min</strong>
+<p><strong>Awak tinggal di mana? -01:25min</strong>
 </p>
 </li>
 </ol>
@@ -54,7 +54,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Boleh saya pinjam? 01:44 min</strong>
+<p><strong>Boleh saya pinjam? -01:44 min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vI36MlOEamU?si=e6td5ULPqL7lBgJ0"></iframe>
@@ -72,7 +72,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Baju kurung biru 02:19 min</strong>
+<p><strong>Baju kurung biru -02:19 min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vnXcp8HDjOk?si=v0f9K4xNmmYzty_V"></iframe>
@@ -90,7 +90,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Doktor Sarah 02:24 min</strong>
+<p><strong>Doktor Sarah -02:24 min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/otXJbbSyLX4?si=2IkS23kNLkKNeUti"></iframe>
@@ -108,7 +108,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p><strong>Cantiknya ruang tamu!</strong>
+<p><strong>Cantiknya ruang tamu! -02:14 min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_btXO9DGes?si=ZIhHWX4SDYaDd3FK"></iframe>
@@ -127,7 +127,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p><strong>Aktiviti di rumah</strong>
+<p><strong>Aktiviti di rumah -02:16 min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-anz-2fTGKY?si=TaDAYNTw5rixMlQk"></iframe>
@@ -159,7 +159,8 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p>Warna-warni</p>
+<p><strong>Warna-warni - 01:25 min</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/imNlVsf2Lyg?si=L5_-k054RJghUIV1"></iframe>
 </div>
@@ -175,10 +176,91 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><strong>Di mana Ibu dan Kakak? -01:44 min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BNdwmo2n0kE?si=WAghEPKhta5jaoSD"></iframe>
+</div>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="/files/IL_P1_Klip_08_Dimana_ibu_dan_kakak.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Panduan Guru - Di mana Ibu dan Kakak?</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><strong>Bersihnya -02:19 min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h9Md7t9JrqQ?si=1m05-cu-GCKglce7"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/files/IL_P1_Klip_09_bersihnya.pdf" rel="noopener noreferrer nofollow" target="_blank">09 - Panduan Guru - Bersihnya</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p><strong>Si Putih dan Si Bulat</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h9Md7t9JrqQ?si=MMOQRNfREwnt9hvU"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/files/IL_P1_Klip_10_Si_Putih_dan_Si_Bulat.pdf" rel="noopener noreferrer nofollow" target="_blank">10 - Panduan Guru - Si Putih dan Si Bulat</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p><strong>Taman Permainan</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k716oovsl3E?si=G6uGgRazt4jGDI6h"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/files/IL_P1_Klip_11_Taman_Permainan.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - Panduan Guru - Taman Permainan</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p>Kemudahan kita</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QdhEiz-ZqlM?si=58G37cDGpvrX3-B4"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/files/IL_P1_Klip_12_Kemudahan_kita.pdf" rel="noopener noreferrer nofollow" target="_blank">12 - Panduan Guru - Kemudahan kita</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
