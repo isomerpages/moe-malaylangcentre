@@ -265,4 +265,191 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Pakej Interaksi Lisan 2A</strong></h4>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>VIDEO</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PANDUAN GURU</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Sedapnya -02:21 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>01 - Panduan Guru - Sedapnya</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Sepatu roda -01:30 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>02 - Panduan Guru - Sepatu roda</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Sihat dan cergas - 02:39 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>03 - Panduan Guru - Sihat dan cergas</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Mari bersukan - 02:16 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>04 - Panduan Guru - Mari bersukan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Jiran baharu -02:19 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>05 - Panduan Guru - Jiran baharu</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>Tumpang tanya? - 01:41 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>06 - Panduan Guru - Tumpang tanya</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>Cita-cita -01:57 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>07 - Panduan Guru -Cita-Cita</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><strong>Apa menunya - 02:47 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>08 -Panduan Guru - Apa menunya</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><strong>Jemput makan -02:10 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>09 - Panduan Guru - Jemput makan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p><strong>Bersukan bersama rakan - 02:06 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10 - Bersukan bersama rakan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p><strong>Kad raya kita - 02:52 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11 - Panduan Guru - Kad raya kita</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p><strong>Berapa harganya -02:21 min</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p><strong>Panduan Guru - Berapa harganya</strong>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
