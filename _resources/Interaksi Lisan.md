@@ -168,6 +168,8 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="/files/IL_P1_Klip_07_warna_warni.pdf" rel="noopener noreferrer nofollow" target="_blank">07 - Panduan Guru - Warna-warni</a></strong>
+</p>
 <p></p>
 </td>
 </tr>
