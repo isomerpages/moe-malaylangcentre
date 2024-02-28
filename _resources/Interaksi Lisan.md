@@ -250,7 +250,8 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <td rowspan="1" colspan="1">
 <ol start="12" data-tight="true" class="tight">
 <li>
-<p>Kemudahan kita</p>
+<p><strong>Kemudahan kita</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QdhEiz-ZqlM?si=58G37cDGpvrX3-B4"></iframe>
 </div>
