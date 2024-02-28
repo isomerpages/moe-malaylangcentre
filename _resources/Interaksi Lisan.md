@@ -325,7 +325,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>03 - P2: Panduan Guru - Sihat dan cergas</strong>
+<p><strong><a href="/files/IL_P2_KLIP_03_Sihat_dan_cergas.pdf" rel="noopener noreferrer nofollow" target="_blank">03 - P2: Panduan Guru - Sihat dan cergas</a></strong>
 </p>
 </td>
 </tr>
@@ -342,7 +342,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>04 - P2: Panduan Guru - Mari bersukan</strong>
+<p><strong><a href="/files/IL_P2_KLIP_04_Mari_bersukan.pdf" rel="noopener noreferrer nofollow" target="_blank">04 - P2: Panduan Guru - Mari bersukan</a></strong>
 </p>
 </td>
 </tr>
@@ -359,7 +359,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>05 - P2: Panduan Guru - Jiran baharu</strong>
+<p><strong><a href="/files/IL_P2_KLIP_05_Jiran_baharu.pdf" rel="noopener noreferrer nofollow" target="_blank">05 - P2: Panduan Guru - Jiran baharu</a></strong>
 </p>
 </td>
 </tr>
@@ -408,7 +408,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>07 - P2:  Panduan Guru -Cita-Cita</strong>
+<p><strong>07 - P2: Panduan Guru -Cita-Cita</strong>
 </p>
 </td>
 </tr>
