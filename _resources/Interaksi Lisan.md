@@ -401,6 +401,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Cita-cita -01:57 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OxRxTXpAU7w?si=CZeb3PkFplEZ7fBV"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -415,6 +418,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Apa menunya - 02:47 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7fWDYG6WYb8?si=fjW6quTroGk84AYW"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -429,6 +435,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Jemput makan -02:10 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I75_vI8q2Yk?si=qwG1VNQPPKiIP63V"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -443,6 +452,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Bersukan bersama rakan - 02:06 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PeStxbHTvpI?si=s6Dq6S95DFGh5PXJ"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -457,6 +469,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Kad raya kita - 02:52 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2yTzjFonZag?si=0aIXZEVQD91WobvR"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -471,6 +486,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Berapa harganya -02:21 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RkycAAUbT2E?si=iD5zIXGYS17Qmtf_"></iframe>
+</div>
 </li>
 </ol>
 </td>
