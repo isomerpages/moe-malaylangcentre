@@ -137,7 +137,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_06_Aktiviti_di_rumah.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - P1:  Panduan Guru - Aktiviti di rumah</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_06_Aktiviti_di_rumah.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - P1: Panduan Guru - Aktiviti di rumah</a></strong>
 </p>
 </td>
 </tr>
@@ -241,7 +241,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_11_Taman_Permainan.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - P1:  Panduan Guru - Taman Permainan</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_11_Taman_Permainan.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - P1: Panduan Guru - Taman Permainan</a></strong>
 </p>
 </td>
 </tr>
@@ -301,6 +301,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Sepatu roda -01:30 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vkOwYqhsJfg?si=XkDuF4aDFFaGcD6S"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -315,6 +318,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Sihat dan cergas - 02:39 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QkRv5iM1xJU?si=Wbxsp5yF1M_feDj1"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -329,6 +335,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Mari bersukan - 02:16 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U7_CGqYjTJM?si=YKSpgNenabuV9ZJk"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -343,6 +352,9 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Jiran baharu -02:19 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2AiLkfQLZ2Q?si=F8A3wPoAUPrn8jol"></iframe>
+</div>
 </li>
 </ol>
 </td>
@@ -357,11 +369,14 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Tumpang tanya? - 01:41 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lp1UyidvHJ4?si=0dGCvVxL5Dz_tmGT"></iframe>
+</div>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>06 - P1:  Panduan Guru - Tumpang tanya</strong>
+<p><strong>06 - P1: Panduan Guru - Tumpang tanya</strong>
 </p>
 </td>
 </tr>
