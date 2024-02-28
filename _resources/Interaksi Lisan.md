@@ -291,7 +291,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>01 - P1: Panduan Guru - Sedapnya</strong>
+<p><strong><a href="/files/IL_P2_KLIP_01_Sedapnya.pdf" rel="noopener noreferrer nofollow" target="_blank">01 - P2: Panduan Guru - Sedapnya</a></strong>
 </p>
 </td>
 </tr>
@@ -308,7 +308,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>02 - P1: Panduan Guru - Sepatu roda</strong>
+<p><strong><a href="/files/IL_P2_KLIP_02_Sepatu_roda.pdf" rel="noopener noreferrer nofollow" target="_blank">02 - P1: Panduan Guru - Sepatu roda</a></strong>
 </p>
 </td>
 </tr>
@@ -325,7 +325,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>03 - P1: Panduan Guru - Sihat dan cergas</strong>
+<p><strong>03 - P2: Panduan Guru - Sihat dan cergas</strong>
 </p>
 </td>
 </tr>
@@ -342,7 +342,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>04 - P1: Panduan Guru - Mari bersukan</strong>
+<p><strong>04 - P2: Panduan Guru - Mari bersukan</strong>
 </p>
 </td>
 </tr>
@@ -359,7 +359,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>05 - P1: Panduan Guru - Jiran baharu</strong>
+<p><strong>05 - P2: Panduan Guru - Jiran baharu</strong>
 </p>
 </td>
 </tr>
@@ -376,7 +376,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>06 - P1: Panduan Guru - Tumpang tanya</strong>
+<p><strong>06 - P2: Panduan Guru - Tumpang tanya</strong>
 </p>
 </td>
 </tr>
@@ -408,7 +408,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>07 - Panduan Guru -Cita-Cita</strong>
+<p><strong>07 - P2:  Panduan Guru -Cita-Cita</strong>
 </p>
 </td>
 </tr>
@@ -425,7 +425,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>08 -Panduan Guru - Apa menunya</strong>
+<p><strong>08 - P2: Panduan Guru - Apa menunya</strong>
 </p>
 </td>
 </tr>
@@ -442,7 +442,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>09 - Panduan Guru - Jemput makan</strong>
+<p><strong>09 - P2: Panduan Guru - Jemput makan</strong>
 </p>
 </td>
 </tr>
@@ -459,7 +459,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 - Bersukan bersama rakan</strong>
+<p><strong>10 - P2: Bersukan bersama rakan</strong>
 </p>
 </td>
 </tr>
@@ -476,7 +476,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 - Panduan Guru - Kad raya kita</strong>
+<p><strong>11 - P2: Panduan Guru - Kad raya kita</strong>
 </p>
 </td>
 </tr>
@@ -493,12 +493,8 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<ol start="12" data-tight="true" class="tight">
-<li>
-<p><strong>Panduan Guru - Berapa harganya</strong>
+<p><strong>12 - P2: Panduan Guru - Berapa harganya</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 </tbody>
