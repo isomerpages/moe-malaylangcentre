@@ -29,7 +29,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <p>VIDEO</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>PANDUAN GURU</p>
+<p>PANDUAN GURU - DARJAH 1A</p>
 </th>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_01_Awak_Tinggal_Dimana.pdf" rel="noopener noreferrer nofollow" target="_blank">01 - Panduan Guru - Awak tinggal di mana?</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_01_Awak_Tinggal_Dimana.pdf" rel="noopener noreferrer nofollow" target="_blank">01 - P1: Panduan Guru - Awak tinggal di mana?</a></strong>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_02_Boleh_saya_pinjam.pdf" rel="noopener noreferrer nofollow" target="_blank">02 - Panduan Guru - Boleh saya pinjam?</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_02_Boleh_saya_pinjam.pdf" rel="noopener noreferrer nofollow" target="_blank">02 - P1: Panduan Guru - Boleh saya pinjam?</a></strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_03_Baju_kurung_biru.pdf" rel="noopener noreferrer nofollow" target="_blank">03 - Panduan Guru - Baju kurung biru</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_03_Baju_kurung_biru.pdf" rel="noopener noreferrer nofollow" target="_blank">03 - P1: Panduan Guru - Baju kurung biru</a></strong>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_04_Doktor_Sarah.pdf" rel="noopener noreferrer nofollow" target="_blank">04 - Panduan Guru - Doktor Sarah</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_04_Doktor_Sarah.pdf" rel="noopener noreferrer nofollow" target="_blank">04 - P1: Panduan Guru - Doktor Sarah</a></strong>
 </p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_05_Cantiknya_ruang_tamu.pdf" rel="noopener noreferrer nofollow" target="_blank">05 - Panduan Guru - Cantiknya ruang tamu!</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_05_Cantiknya_ruang_tamu.pdf" rel="noopener noreferrer nofollow" target="_blank">05 - P1: Panduan Guru - Cantiknya ruang tamu!</a></strong>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_06_Aktiviti_di_rumah.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - Panduan Guru - Aktiviti di rumah</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_06_Aktiviti_di_rumah.pdf" rel="noopener noreferrer nofollow" target="_blank">06 - P1:  Panduan Guru - Aktiviti di rumah</a></strong>
 </p>
 </td>
 </tr>
@@ -168,7 +168,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_07_warna_warni.pdf" rel="noopener noreferrer nofollow" target="_blank">07 - Panduan Guru - Warna-warni</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_07_warna_warni.pdf" rel="noopener noreferrer nofollow" target="_blank">07 - P1: Panduan Guru - Warna-warni</a></strong>
 </p>
 <p></p>
 </td>
@@ -187,7 +187,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_08_Dimana_ibu_dan_kakak.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Panduan Guru - Di mana Ibu dan Kakak?</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_08_Dimana_ibu_dan_kakak.pdf" rel="noopener noreferrer nofollow" target="_blank">08 - P1: Panduan Guru - Di mana Ibu dan Kakak?</a></strong>
 </p>
 </td>
 </tr>
@@ -205,7 +205,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_09_bersihnya.pdf" rel="noopener noreferrer nofollow" target="_blank">09 - Panduan Guru - Bersihnya</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_09_bersihnya.pdf" rel="noopener noreferrer nofollow" target="_blank">09 - P1: Panduan Guru - Bersihnya</a></strong>
 </p>
 </td>
 </tr>
@@ -223,7 +223,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_10_Si_Putih_dan_Si_Bulat.pdf" rel="noopener noreferrer nofollow" target="_blank">10 - Panduan Guru - Si Putih dan Si Bulat</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_10_Si_Putih_dan_Si_Bulat.pdf" rel="noopener noreferrer nofollow" target="_blank">10 - P1: Panduan Guru - Si Putih dan Si Bulat</a></strong>
 </p>
 </td>
 </tr>
@@ -241,7 +241,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_11_Taman_Permainan.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - Panduan Guru - Taman Permainan</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_11_Taman_Permainan.pdf" rel="noopener noreferrer nofollow" target="_blank">11 - P1:  Panduan Guru - Taman Permainan</a></strong>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_12_Kemudahan_kita.pdf" rel="noopener noreferrer nofollow" target="_blank">12 - Panduan Guru - Kemudahan kita</a></strong>
+<p><strong><a href="/files/IL_P1_Klip_12_Kemudahan_kita.pdf" rel="noopener noreferrer nofollow" target="_blank">12 - P1: Panduan Guru - Kemudahan kita</a></strong>
 </p>
 </td>
 </tr>
@@ -275,7 +275,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <p>VIDEO</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>PANDUAN GURU</p>
+<p>PANDUAN GURU - DARJAH 1B</p>
 </th>
 </tr>
 <tr>
@@ -284,11 +284,14 @@ guru jalankan sebagai aktiviti tambahan.</p>
 <li>
 <p><strong>Sedapnya -02:21 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GjMNcdXUVgI?si=ITCmKqaxXWHOmp6b"></iframe>
+</div>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>01 - Panduan Guru - Sedapnya</strong>
+<p><strong>01 - P1: Panduan Guru - Sedapnya</strong>
 </p>
 </td>
 </tr>
@@ -302,7 +305,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>02 - Panduan Guru - Sepatu roda</strong>
+<p><strong>02 - P1: Panduan Guru - Sepatu roda</strong>
 </p>
 </td>
 </tr>
@@ -316,7 +319,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>03 - Panduan Guru - Sihat dan cergas</strong>
+<p><strong>03 - P1: Panduan Guru - Sihat dan cergas</strong>
 </p>
 </td>
 </tr>
@@ -330,7 +333,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>04 - Panduan Guru - Mari bersukan</strong>
+<p><strong>04 - P1: Panduan Guru - Mari bersukan</strong>
 </p>
 </td>
 </tr>
@@ -344,7 +347,7 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>05 - Panduan Guru - Jiran baharu</strong>
+<p><strong>05 - P1: Panduan Guru - Jiran baharu</strong>
 </p>
 </td>
 </tr>
@@ -358,9 +361,24 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>06 - Panduan Guru - Tumpang tanya</strong>
+<p><strong>06 - P1:  Panduan Guru - Tumpang tanya</strong>
 </p>
 </td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Pakej Interaksi Lisan 2B</strong></h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>VIDEO</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>PANDUAN GURU</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
