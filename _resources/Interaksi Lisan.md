@@ -21,9 +21,9 @@ mencapai objektif pengajaran dan melibatkan semua murid. Selain aktiviti
 utama, Panduan Guru ini juga memberi saranan aktiviti lanjutan yang boleh
 guru jalankan sebagai aktiviti tambahan.</p>
 <p>Sila klik pautan untuk panduan guru penuh:
-<br><a href="/files/P1_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Pakej Lisan Darjah 1</a>
-<br><a href="/files/P2_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Pakej Lisan Darjah 2</a>
-<br><a href="/files/Skrip_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Skrip </a>
+<br><a href="/files/P1_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Pakej Lisan Darjah 1</a> 
+<br><a href="/files/P2_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Pakej Lisan Darjah 2</a> 
+<br><a href="/files/Skrip_Panduan_Guru___Interaksi_Lisan.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Guru - Skrip</a>
 </p>
 <h4><strong>Pakej Interaksi Lisan Darjah 1A</strong></h4>
 <table>
