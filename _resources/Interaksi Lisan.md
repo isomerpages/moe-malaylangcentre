@@ -143,7 +143,6 @@ guru jalankan sebagai aktiviti tambahan.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Pakej Interaksi Lisan 1B</strong></h4>
 <table>
 <tbody>
