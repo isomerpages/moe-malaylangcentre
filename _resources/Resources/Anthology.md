@@ -77,3 +77,13 @@ PDF yang terdapat dalam laman ini.</p>
 </p>
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
 </p>
+<hr>
+<p><strong>Ebook</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg">
+</div>
+<p>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>&nbsp;dalam
+bentuk digital.</p>
+<p></p>
