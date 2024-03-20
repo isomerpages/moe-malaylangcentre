@@ -76,11 +76,10 @@ PDF yang terdapat dalam laman ini.</p>
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/" rel="noopener noreferrer nofollow" target="_blank">Short Stories : Rahsia</a>
 </p>
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
+<br>
 </p>
 <hr>
-<p><strong>Ebook</strong>
-</p>
-<p></p>
+<h4>Ebook</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg">
 </div>
