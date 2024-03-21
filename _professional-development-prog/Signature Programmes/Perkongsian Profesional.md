@@ -31,6 +31,6 @@ QR dibawah.</p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgra
 <hr>
 <h5>Gambar Perkongsian Profesional 2024</h5>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
