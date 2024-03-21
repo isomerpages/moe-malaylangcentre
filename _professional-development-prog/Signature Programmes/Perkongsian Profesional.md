@@ -18,31 +18,19 @@ variant: tiptap
 <h5>Slaid perkongsian para pembentang Perkongsian Profesional 2024</h5>
 <p>Berikut merupakan senarai slaid perkongsian para pembentang Perkongsian
 Profesional 2024. Bahan rujukan boleh didapati di Kod QR dibawah. Sila
-imbas kod tersebut.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanA.JPG">
-</div>
+imbas kod tersebut.</p><a class="isomer-image-wrapper" href="https://drive.google.com/drive/folders/1enXy6gsfxlj9_KrByUq0_SS3MYy0tjHk"><img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanA.JPG"></a>
 <p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanB.JPG">
-</div>
+</p><a class="isomer-image-wrapper" href="https://drive.google.com/drive/folders/1enXy6gsfxlj9_KrByUq0_SS3MYy0tjHk"><img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanB.JPG"></a>
 <p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanC.JPG">
-</div>
+</p><a class="isomer-image-wrapper" href="https://drive.google.com/drive/folders/1cSbRs4miZvdqwW43r1dJoUqhGC0OfOkz"><img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanC.JPG"></a>
 <p>Untuk mengakses <strong>Antologi JANJI Digital</strong>, sila imbas Kod
-QR dibawah.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG">
-</div>
+QR dibawah.</p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG"></a>
 <p></p>
 <hr>
 <h5>Gambar Perkongsian Profesional 2024</h5>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfKC9tHN0HCPOdMDUUMsHwcwhswErNlH_4YWWpVbWdqNBOen_PErNhqJ_o6VUQ7ogTMliEeFedj0K_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
