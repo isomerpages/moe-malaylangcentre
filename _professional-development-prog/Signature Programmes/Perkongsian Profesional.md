@@ -35,10 +35,7 @@ imbas kod tersebut.</p>
 <img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024kumpulanC.JPG">
 </div>
 <p>Untuk mengakses <strong>Antologi JANJI Digital</strong>, sila imbas Kod
-QR dibawah.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG">
-</div>
+QR dibawah.</p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 80%;" height="auto" width="100%" src="/images/Perkongsian_Profesional_2024AntologiJanji.JPG"></a>
 <p></p>
 <hr>
 <h5>Gambar Perkongsian Profesional 2024</h5>
