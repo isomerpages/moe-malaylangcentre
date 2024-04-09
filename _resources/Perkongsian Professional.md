@@ -37,10 +37,7 @@ description: ""
 </p>
 <p></p>
 <p><a href="https://issuu.com/oxfordgraphic/docs/mlcs-perkongsian_profesional-v6_fa_" rel="noopener noreferrer nofollow" target="_blank">e-Book Perkongsian Professional 2023</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/perkongsian_professional_2023.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-perkongsian_profesional-v6_fa_"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/perkongsian_professional_2023.jpg"></a>
 </div>
 </details>
 </div>
