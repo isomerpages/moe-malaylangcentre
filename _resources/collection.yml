@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Perkongsian Professional.md
       - Interaksi Lisan.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
@@ -46,6 +45,7 @@ collections:
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2013.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
       - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
+      - Perkongsian Professional.md
       - Video/.keep
       - Video/Video.md
       - Video/Video Terbitan MLCS.md
