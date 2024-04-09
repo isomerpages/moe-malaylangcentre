@@ -12,6 +12,24 @@ description: ""
 </p>
 <p><a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">E-book - Antology Janji</a>
 </p>
+<p></p>
+<p><a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antology Janji</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1enXy6gsfxlj9_KrByUq0_SS3MYy0tjHk" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Perkongsian Professional 2024_Kumpulan A" src="/images/Perkongsian_Profesional_2024kumpulanA.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kumpulan A</div><div class="isomer-card-link">Bahan rujukan</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1enXy6gsfxlj9_KrByUq0_SS3MYy0tjHk" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Perkongsian Professional 2024_Kumpulan A" src="/images/Perkongsian_Profesional_2024kumpulanB.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kumpulan B</div>
+<div class="isomer-card-link">Bahan rujukan</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1cSbRs4miZvdqwW43r1dJoUqhGC0OfOkz" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Perkongsian Professional 2024_Kumpulan C" src="/images/Perkongsian_Profesional_2024kumpulanC.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kumpulan C</div><div class="isomer-card-link">Bahan rujukan</div></div></a>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Perkongsian Professional 2023</strong>
