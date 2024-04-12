@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Video
 ---
-<h4><strong> Video Ceramah Arif Budiman</strong></h4>
+<h4><strong>Video Ceramah Arif Budiman</strong></h4>
 <h4>Ceramah Arif Budiman 18 ( 2022)</h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/We2weBASjak?si=mSfTeURlSYoDtRnI"></iframe>
