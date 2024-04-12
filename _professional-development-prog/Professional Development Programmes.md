@@ -20,21 +20,21 @@ Secara umum, MLCS menawarkan empat program:
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="MLCS Framework" src="/images/framework.jpg">
 </div>
-<p><strong>Tunas Budiman</strong>
+<p><strong>Tunas Budiman</strong> 
 <br>Program Tunas Budiman ditawarkan kepada guru yang mempunyai pengalaman
 bekerja sebagai guru kurang daripada tiga tahun. Antara kursus yang ditawarkan
 kepada para guru ini termasuklah Kursus Pengenalan atau Induction Course,
 Sebutan Baky dan penilaian.</p>
-<p><strong>Mekar Budiman</strong>
+<p><strong>Mekar Budiman</strong> 
 <br>Program ini menawarkan pelbagai kursus bagi guru guru mapan yang mempunyai
 pengalaman lebih daripada tiga tahun dalam kerjaya perguruan di Singapura.
 Kursus ini meliputi pelbagai aspek termasuklah kursus dalam aspek tatabahasa,
 Bahasa Melayu, ICT, pedagogi dan penilaian.</p>
-<p><strong>Bestari Budiman</strong>
+<p><strong>Bestari Budiman</strong> 
 <br>Program Bestari Budiman dibuka para kepada Guru Kanan dan Guru Peneraju.
 Antara kursus yang dijalankan termasuklah kursus Kepimpinan Instruksional
 Hati Budi Melayu dan lain-lain lagi.</p>
-<p><strong>Cendekia Budiman</strong>
+<p><strong>Cendekia Budiman</strong> 
 <br>Program Cendekia Budiman melibatkan pengajuran aktiviti Bahasa dan budaya
 yang berskala lebih besar dan melipatkan pelibatan lebih ramai guru dan
 peserta seperti Seminar Bahasa Melayu yang dianjurkan setiap tahun, Ceramah
