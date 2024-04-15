@@ -2,7 +2,6 @@
 title: "Malay Language Journal: Dian Bahasa"
 permalink: /mlcs/resources/malay-language-jurnal-dian-bahasa/
 description: ""
-third_nav_title: Resources
 variant: tiptap
 ---
 <h5><strong>DIAN BAHASA</strong></h5>
