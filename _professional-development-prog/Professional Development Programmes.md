@@ -18,7 +18,7 @@ Secara umum, MLCS menawarkan empat program:
 <br>c) Bestari Budiman
 <br>d) Cendekia Budiman</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="MLCS Framework" src="/images/framework.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="MLCS Framework" src="/images/framework.jpg">
 </div>
 <p><strong>Tunas Budiman</strong> 
 <br>Program Tunas Budiman ditawarkan kepada guru yang mempunyai pengalaman
