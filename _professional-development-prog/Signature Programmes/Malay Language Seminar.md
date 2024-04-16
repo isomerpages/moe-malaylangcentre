@@ -13,7 +13,7 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun. Ertinya,
 MLCS tidak akan menganjurkan Seminar Bahasa Melayu pada tahun 2023. MLCS
 akan menganjurkan Seminar Bahasa Melayu pada tahun 2024.
 <br>
-<br><strong>Berikut adalah atur cara Seminar Bahasa Melyu 2024</strong>
+<br><strong>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024_Program" src="/images/SBM_2024___Untuk_Undangan_di_MLCS.jpg">
@@ -35,7 +35,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Seminar Bahasa Melayu" src="/images/Seminar%20Bahasa%20Melayu.jpg">
 </div>
-<p><strong>VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan</strong>
+<p><strong>VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan</strong> 
 <br>
 </p>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan acara tahunan
@@ -51,11 +51,11 @@ kajian dan berkongsi dapatan kajian dalam Seminar tersebut.
 Singapura.
 <br>
 </p>
-<p><strong><a href="https://mlcs.moe.edu.sg/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022/" rel="noopener noreferrer nofollow" target="_blank">Kandungan Buku Prosiding Seminar Bahasa Melayu 2022</a></strong>
+<p><strong><a href="https://mlcs.moe.edu.sg/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022/" rel="noopener noreferrer nofollow" target="_blank">Kandungan Buku Prosiding Seminar Bahasa Melayu 2022</a></strong> 
 <br>
 </p>
 <p>Klik pautan berikut untuk mengakses buku digital
-<br><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener noreferrer nofollow" target="_blank">Prosiding Seminar Bahasa Melayu 2022</a></strong>
+<br><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener noreferrer nofollow" target="_blank">Prosiding Seminar Bahasa Melayu 2022</a></strong> 
 <br>
 </p>
 </div>
