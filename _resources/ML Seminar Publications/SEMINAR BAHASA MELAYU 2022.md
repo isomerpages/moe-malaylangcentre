@@ -11,18 +11,21 @@ dalam kalangan guru-guru Bahasa Melayu di Singapura. Menerusi penganjuran
 Seminar Bahasa Melayu setiap tahun, guru-guru belajar bersama daripada
 pembentangan para guru menerusi kajian-kajian berasaskan sekolah dan juga
 amalan terbaik yang dilaksanakan di bilik darjah.</p>
-<p>Buat tahun kedua, MLCS akan menganjurkan seminar kali ini secara langsung
-menerusi sidang Zoom.</p>
-<p>Pada tahun ini, Seminar Bahasa Melayu akan berlangsung pada 15 Mac 2022.
-Tema Seminar Bahasa Melayu tahun ini ialah "Visi Arif Budiman: Menyulam
-Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu
-di Tengah Angkasaraya Kehidupan’. Penyampai Ucaptama bagi seminar kali
-ini ialah Profesor Madya Dr. Hadijah Rahmat, Ketua Kumpulan Akademik dan
-Kebudayaan Asia, NIE/NTU.</p>
-<p>Tahun ini sebanyak 41 kertas kajian akan dikongsi semasa sesi sidang selari.</p>
+<p>Buat tahun kedua, MLCS telah menganjurkan seminar kali ini secara langsung
+menerusi sidang Zoom.
+<br>
+<br><strong>Seminar Bahasa Melayu telah berlangsung pada 15 Mac 2022. </strong>
+<br>
+<br><strong>Tema Seminar Bahasa Melayu:</strong>
+<br><strong>"Visi Arif Budiman: Menyulam Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan’. </strong>
+<br>
+<br><strong>Penyampai Ucaptama:</strong>
+<br><strong>Profesor Madya Dr. Hadijah Rahmat, Ketua Kumpulan Akademik dan Kebudayaan Asia, NIE/NTU.</strong>
+</p>
+<p>Sebanyak 41 kertas kajian telah dikongsikan semasa sesi sidang selari.</p>
 <p>Semua guru bahasa Melayu dijemput untuk mengikuti perkongsian para guru
 yang menjalankan kajian.</p>
-<p>Terima kasih.</p>
+<hr>
 <h4>Pratonton Buku Prosiding Seminar Bahasa Melayu 2022</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jYB1whiJ0Vc"></iframe>
