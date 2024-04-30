@@ -37,13 +37,17 @@ Markasan.</p>
 <p><a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Slaid pembentangan</a>
 </p>
 <hr>
-<p><strong>Ceramah Arif Budiman ke-18 (2022)</strong>
-</p>
+<ul>
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman ke-18 (2022), 23 September 2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/img_5610%202.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-18, 23 September 2022</strong>
-</p>
 <p><strong>Tajuk:</strong>&nbsp;Yang Terbilang dan yang Hilang: Menelusuri
 Sejarah Awal dan Perubahan Peranan Bahasa Melayu Melalui Penamaan dan Peristilahan
 di Singapura</p>
@@ -56,36 +60,54 @@ mendapatkan <a href="/files/CAB_18_Yg_terbilang_yg_hilang_Speaker_slide_compress
 Imran Tajudeen.</p>
 <p><strong>Abstrak:</strong>&nbsp;Klik pautan berikut untuk mendapatkan
 <a href="/files/cab18-yg-terbilang-yg-hilang--abstr-ganti--imran-2022-local.pdf" rel="noopener noreferrer nofollow" target="_blank">abstrak pembentangan</a>&nbsp;Dr. Imran Tajudeen.</p>
-<h2>Siri Ceramah Arif Budiman yang lalu ...</h2>
-<ul>
-<li>
-<p>2021</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-17, 02 Julai 2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-17, 02 Julai 2021" src="/images/img_1759%202.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-17, 02 Julai 2021</strong>
-</p>
+<p></p>
+<ul>
+<li>
 <p><strong>Tajuk</strong>: Bahasa Liberatif dalam Lingkungan dan Sejarah:
 Potensi dan Hambatan</p>
 <p><strong>Penceramah</strong>: Dr. Azhar Ibrahim Alwee</p>
 <p>Pensyarah, Universiti Nasional Singapura</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 </li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-16, 21 Februari 2020</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>2020</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-16, 21 Februari 2020" src="/images/20200221-img_2086.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-16, 21 Februari 2020</strong>
-</p>
 <p><strong>Tajuk:</strong>&nbsp;Masa Depan Bahasa Melayu Di Nusantara</p>
 <p><strong>Penceramah:</strong>&nbsp;Prof Datuk Dr Awang Sariyan</p>
 <p>Penyandang Kursi Za'ba, Institut Peradaban Melayu, Universiti Pendidikan
 Sultan Idris (UPSI)</p>
 <p><strong>Tempat:</strong>&nbsp;Pusat Bahasa Melayu Singapura</p>
 </li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-15, 12 Julai 2019</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>2019</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-15, 12 Julai 2019" src="/images/img_6995.jpeg">
 </div>
@@ -96,45 +118,71 @@ Sultan Idris (UPSI)</p>
 <p>Sekolah Pengajian Antarabangsa, S Rajaratnam, Universiti Teknologi Nanyang</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 </li>
-<li>
-<p>2018</p>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-14, 20 Julai 2018</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-14, 20 Julai 2018" src="/images/cab_%2014.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-14, 20 Julai 2018</strong>
-</p>
+<ul>
+<li>
 <p><strong>Tajuk</strong>: Naratif Melayu Singapura: Cabaran Berbahasa</p>
 <p><strong>Penceramah</strong>: Encik Sidek Saniff</p>
 <p>Mantan Menteri Negara Kanan, Singapura</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 </li>
 </ul>
-<p></p>
-<ul>
-<li>
-<p>2016</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-13, 20 Mei 2016</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-13, 20 Mei 2016" src="/images/cab_13_1.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-13, 20 Mei 2016</strong>
-</p>
+<ul>
+<li>
 <p><strong>Tajuk</strong>: Naratif Melayu Singapura: Cabaran Berbahasa</p>
 <p><strong>Penceramah</strong>: Profesor Dr Mikihiro Moriyama</p>
 <p>Jabatan Pengajian Asia, Universiti Nanzan, Jepun</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 </li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-12, 19 September 2015</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
 <li>
-<p>2015</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-12, 19 September 2015" src="/images/cab_12_6.jpeg">
 </div>
-<p><strong>Ceramah Arif Budiman Ke-12, 19 September 2015</strong>
-</p>
+<p></p>
 <p><strong>Tajuk</strong>: Orang Melayu dan Tamdun Melayu dalam Historiografi
 Melayu Islam (kurun ke-13 hingga ke-19)</p>
 <p><strong>Penceramah</strong>: Profesor Dr Tatiana Denisova</p>
 <p>Pusat Kajian Tinggi Islam, Sains dan Peradaban (CASIS)</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke- 11, 2014</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-11, 14 Februari 2015" src="/images/cab_11_6.jpeg">
 </div>
@@ -145,19 +193,23 @@ Kehidupan Bermasyarakat Berbangsa dan Bernegara</p>
 <p>Lembaga Adat Melayu, Riau, Indonesia</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 </li>
-<li>
-<p>2013</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-10, 21 September 2013" src="/images/cab_10_2.jpeg">
+</ul>
 </div>
-<p><strong>Ceramah Arif Budiman Ke-10, 21 September 2013</strong>
-</p>
+</details>
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman Ke-10, 21 September 2013</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 569.336px; color: rgb(72, 72, 72); font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-10, 21 September 2013" src="https://mlcs.moe.edu.sg/images/cab_10_2.jpeg">
+</div>
 <p><strong>Tajuk</strong>: Takkan Melayu Hilang di Dunia: REaliti dan Harapan</p>
 <p><strong>Penceramah</strong>: Profesor Dr Arndt Graf</p>
 <p>Goethe-University Frankfurt, German</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-9, 23 Februari 2013" src="/images/cab_9_5.jpeg">
+<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 569.336px;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-9, 23 Februari 2013" src="https://mlcs.moe.edu.sg/images/cab_9_5.jpeg">
 </div>
 <p><strong>Tajuk</strong>: Bahasa Indonesia dan Bahasa Melayu: Perkembangan
 Hubungan dan Masa Depannya</p>
@@ -165,6 +217,11 @@ Hubungan dan Masa Depannya</p>
 <p>Kepala, Badan Pengembangan dan Pembinaan Bahasa,</p>
 <p>Kementerian Pendidikan dan Kebudayaan Indonesia</p>
 <p><strong>Tempat</strong>: Pusat Bahasa Melayu Singapura</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 </li>
 </ul>
 <p></p>
