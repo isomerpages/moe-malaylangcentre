@@ -79,33 +79,34 @@ kami:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18" src="/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg">
 </div>
 <h4>Buku Saranan</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bahasa</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Bahasa</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_3.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_6.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_5.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_7.jpg">
 </div>
-</li>
-<li>
-<p>Budaya</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Budaya</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_1.jpg">
 </div>
@@ -130,9 +131,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_8.jpg">
 </div>
-</li>
-<li>
-<p>Karya Penulis Singapura</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Karya Penulis Singapura</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_1.jpg">
 </div>
@@ -145,9 +149,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_4.jpg">
 </div>
-</li>
-<li>
-<p>Pedagogi</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Pedagogi</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_1.jpg">
 </div>
@@ -250,9 +257,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_34.jpg">
 </div>
-</li>
-<li>
-<p>Penilaian</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Penilaian</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_1.jpg">
 </div>
@@ -277,9 +287,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_8.jpg">
 </div>
-</li>
-<li>
-<p>Sastera</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Sastera</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_1.jpg">
 </div>
@@ -295,9 +308,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_5.jpg">
 </div>
-</li>
-<li>
-<p>Tatabahasa</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tatabahasa</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_1.jpg">
 </div>
@@ -310,9 +326,12 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tatabahasa" src="/images/Tatabahasa_4.jpg">
 </div>
-</li>
-<li>
-<p>Umum</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Umum</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_1.jpg">
 </div>
@@ -370,6 +389,7 @@ kami:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_19.jpg">
 </div>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
