@@ -117,9 +117,9 @@ variant: tiptap
 <p><strong>Shaliha Rasid</strong> 
 <br>Pegawai ICT</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Siti Nur Dhaniyah" src="/images/Siti_Nur_Dhaniyah.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Siti Nur Dhaniyah" src="/images/Siti_Nur_Dhaniyah.jpg">
 </div>
-<p><strong>Siti Nur Dhaniyah Muhamad Rais</strong>
+<p><strong>Siti Nur Dhaniyah Muhamad Rais</strong> 
 <br>Pustakawan</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/Aunty_Kumari.jpg">
