@@ -42,11 +42,15 @@ pautan berikut:</p>
 <hr>
 <p>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan
 kami:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Analizah Mahfodz
+<p>Puan Siti Nur Dhaniyah
 <br>
 </p>
 <p><strong>di talian</strong>: 6354-6959</p>
