@@ -30,11 +30,11 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <h4><strong>Kursus 2024: Semester 1 &amp; 2</strong></h4>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
 <br>
-<br><strong>Kursus 2024: Semester 1 </strong>
+<br><strong>Kursus 2024: Semester 1</strong>
 </p>
 <p><a href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah</a>
 </p>
-<p><a href="/files/MLCS_PD_2024__Semester1____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a>
+<p><a href="/files/MLCS_PD_2024__Semester1____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a> 
 <br>
 <br><strong>Kursus 2024: Semester 2</strong>
 </p>
