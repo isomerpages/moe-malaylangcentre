@@ -43,6 +43,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 2 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a>
 </p>
 <hr>
+<p></p>
 <p><strong>Kursus 2024: Semester 1 &amp; Semester 2 - MOE Kindergarten (MK)</strong>
 </p>
 <p><a href="/files/MLCS_PD_2024___Objektif__Sinopsis__MK_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program Pembelajaran Profesional 2024 (MK)</a>
