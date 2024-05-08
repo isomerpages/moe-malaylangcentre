@@ -34,13 +34,8 @@ Sumber MLCS.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__2_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__3_.jpg">
-</div>
-<hr>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__4_.jpg">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
 </div>
