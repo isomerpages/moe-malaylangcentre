@@ -41,6 +41,9 @@ Sumber MLCS.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__4_.jpg">
 </div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
+</div>
 <h3>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h3>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
@@ -398,5 +401,4 @@ kami:</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
