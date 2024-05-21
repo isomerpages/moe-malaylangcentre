@@ -16,7 +16,7 @@ akan menganjurkan Seminar Bahasa Melayu pada tahun 2024.
 <br><strong>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024_Program" src="/images/SBM_2024___Untuk_Undangan_di_MLCS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024" src="/images/SBM_2024___Malay.png">
 </div>
 <p>Tema 'Memarak Inovasi, Memekar Pedagogi'&nbsp;memberi tumpuan bagi merancakkan
 lagi usaha guru untuk menambah nilai dan mempertingkat PdP di bilik darjah
@@ -24,7 +24,7 @@ bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
 <p>Perubahan yang diperkenalkan adalah bertujuan untuk memberikan guru masa
 yang secukupnya untuk melaksanakan kajian di bilik darjah dengan lebih
 baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
-berkesan dalam kalangan para guru bahasa Melayu.</p>
+berkesan dalam kalangan para guru bahasa Melayu.</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari.jpg"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
