@@ -22,15 +22,25 @@ Sumber MLCS.</p>
 </p>
 <p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
 </p>
-<h3>Buku terkini di MLCS</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1___book___teachers_as_cultural_workers.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/001___book___teachers_as_intellectuals.jpg">
-</div>
 <hr>
+<h4>Paparan Khazanah Pilihan - Mei 2024</h4>
+<p><strong>Edisi Bulan Kesedaran Kesihatan Mental</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
+</div>
 <h3>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h3>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
@@ -73,10 +83,6 @@ kami:</p>
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P7Yd2iMbELk"></iframe>
-</div>
-<h4>Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Paparan Khazanah Pilihan Edisi Khas Sempena Ceramah Arif Budiman ke-18" src="/images/Paparan%20Khazanah%20Pilihan%20Edisi%20Khas%20Sempena%20Ceramah%20Arif%20Budiman%20ke-18.jpg">
 </div>
 <h4>Buku Saranan</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
