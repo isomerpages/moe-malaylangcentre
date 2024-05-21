@@ -24,7 +24,7 @@ bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
 <p>Perubahan yang diperkenalkan adalah bertujuan untuk memberikan guru masa
 yang secukupnya untuk melaksanakan kajian di bilik darjah dengan lebih
 baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
-berkesan dalam kalangan para guru bahasa Melayu.</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg"></a>
+berkesan dalam kalangan para guru bahasa Melayu.</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>SEMINAR BAHASA MELAYU 2022</strong>
