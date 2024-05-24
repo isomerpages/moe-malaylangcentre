@@ -4,8 +4,8 @@ permalink: /mlcs/resources/arif-budiman-lecture-series-ceramah-arif-budiman-publ
 description: ""
 variant: tiptap
 ---
-<h6><strong>CERAMAH ARIF BUDIMAN</strong></h6>
-<h6><strong>Buku Siri Ceramah Arif Budiman</strong></h6>
+<h4><strong>CERAMAH ARIF BUDIMAN</strong></h4>
+<h4>Buku Siri Ceramah Arif Budiman</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Buku" src="/images/cab_buku.jpg">
 </div>
@@ -17,7 +17,8 @@ pengguna bahasa Melayu yang berminat mengembangkan pengetahuan dan menjalankan
 kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Jilid 1 - Cetakan Pertama 2010</summary>
+<summary><strong>Jilid 1 - Cetakan Pertama 2010</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Jilid 1 - Cetakan Pertama 2010" src="/images/jilid-1---cetakan-pertama-2010.png">
@@ -33,7 +34,8 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Jilid 2 - Cetakan 2012</summary>
+<summary><strong>Jilid 2 - Cetakan 2012</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Jilid 2 - Cetakan 2012" src="/images/jilid-2---cetakan-2012.png">
@@ -69,7 +71,8 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Jilid 3 - Cetakan 2015</summary>
+<summary><strong>Jilid 3 - Cetakan 2015</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Jilid 3 - Cetakan 2015" src="/images/jilid-3---cetakan-2015.png">
@@ -89,7 +92,8 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Jilid 4 - Cetakan 2020</summary>
+<summary><strong>Jilid 4 - Cetakan 2020</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Jilid 4 - Cetakan 2020" src="/images/Jilid-4-Cetakan-2020.jpeg">
