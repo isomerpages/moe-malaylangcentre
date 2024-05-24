@@ -59,12 +59,12 @@ sections:
       image: /images/001 dr bicara ilmiah.jpg
       alt: Bicara Ilmiah
   - infopic:
-      title: Ceramah Arif Budiman Ke-19
+      title: Ceramah Arif Budiman Ke-20
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/001 cab19 cg rafi.JPG
+      image: /images/CAB20___homepage.jpg
       alt: Ceramah Arif Budiman
   - infopic:
       title: Pusat Sumber MLCS
