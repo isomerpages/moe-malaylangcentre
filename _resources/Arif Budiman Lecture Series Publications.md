@@ -4,17 +4,17 @@ permalink: /mlcs/resources/arif-budiman-lecture-series-ceramah-arif-budiman-publ
 description: ""
 variant: tiptap
 ---
-<h4><strong>CERAMAH ARIF BUDIMAN</strong></h4>
-<h4>Buku Siri Ceramah Arif Budiman</h4>
+<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
+<p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Buku" src="/images/cab_buku.jpg">
 </div>
-<p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman. Daripada
-siri pertama hinggalah yang keempat. Penjilidan ini diharapkan dapat mengayakan
-lagi khazanah persuratan dan dokumentasi dalam bahasa Melayu di Singapura.</p>
+<p>Daripada siri pertama hinggalah yang keempat. Penjilidan ini diharapkan
+dapat mengayakan lagi khazanah persuratan dan dokumentasi dalam bahasa
+Melayu di Singapura.</p>
 <p>Buku ini juga diharapkan dapat memenuhi keperluan bacaan dan rujukan setiap
 pengguna bahasa Melayu yang berminat mengembangkan pengetahuan dan menjalankan
-kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
+kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Jilid 1 - Cetakan Pertama 2010</strong>
