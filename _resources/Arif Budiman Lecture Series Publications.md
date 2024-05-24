@@ -6,38 +6,9 @@ variant: tiptap
 ---
 <h6><strong>CERAMAH ARIF BUDIMAN</strong></h6>
 <h6><strong>Buku Siri Ceramah Arif Budiman</strong></h6>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jilid 1 - Cetakan Pertama 2010" src="/images/jilid-1---cetakan-pertama-2010.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Buku" src="/images/cab_buku.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jilid 2 - Cetakan 2012" src="/images/jilid-2---cetakan-2012.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jilid 3 - Cetakan 2015" src="/images/jilid-3---cetakan-2015.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jilid 4 - Cetakan 2020" src="/images/Jilid-4-Cetakan-2020.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman. Daripada
 siri pertama hinggalah yang keempat. Penjilidan ini diharapkan dapat mengayakan
 lagi khazanah persuratan dan dokumentasi dalam bahasa Melayu di Singapura.</p>
