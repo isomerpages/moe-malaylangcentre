@@ -49,7 +49,7 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 <summary>Jilid 1 - Cetakan Pertama 2010</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Jilid 1 - Cetakan Pertama 2010" src="/images/jilid-1---cetakan-pertama-2010.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Jilid 1 - Cetakan Pertama 2010" src="/images/jilid-1---cetakan-pertama-2010.png">
 </div>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-1/cab-jilid-1.pdf?sfvrsn=ed3e0588_2" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 1 - Prof Asmah Hj Omar(.pdf, 10.36 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
 </p>
@@ -65,7 +65,7 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 <summary>Jilid 2 - Cetakan 2012</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Jilid 2 - Cetakan 2012" src="/images/jilid-2---cetakan-2012.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Jilid 2 - Cetakan 2012" src="/images/jilid-2---cetakan-2012.png">
 </div>
 <p><a href="/files/cab-jilid-2-kandungan.pdf" rel="noopener noreferrer nofollow" target="_blank">Kandungan(.pdf, 304.27 KB)</a>
 </p>
@@ -101,7 +101,7 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 <summary>Jilid 3 - Cetakan 2015</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Jilid 3 - Cetakan 2015" src="/images/jilid-3---cetakan-2015.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Jilid 3 - Cetakan 2015" src="/images/jilid-3---cetakan-2015.png">
 </div>
 <p><a href="/files/mlcs_cab_jilid_3_sekapur_sirih.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekapur Sirih(.pdf, 903.29 KB)</a>
 </p>
@@ -121,7 +121,7 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu</p>
 <summary>Jilid 4 - Cetakan 2020</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Jilid 4 - Cetakan 2020" src="/images/Jilid-4-Cetakan-2020.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="Jilid 4 - Cetakan 2020" src="/images/Jilid-4-Cetakan-2020.jpeg">
 </div>
 <p><a href="/files/2-kandungan.pdf" rel="noopener noreferrer nofollow" target="_blank">Kandungan(.pdf, 365.3 KB)</a>
 </p>
