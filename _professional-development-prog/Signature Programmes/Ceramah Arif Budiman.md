@@ -27,7 +27,7 @@ sastera, sejarah dan adat Melayu.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong>
+<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
