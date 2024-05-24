@@ -24,22 +24,38 @@ Bahasa dan budaya Melayu; dan</p>
 <p>menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Ceramah Arif Budiman ke-19 (2023)</strong>
+<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="ceramah arif budiman" src="/images/Poster_2___in_ML__Past_CAB_speakers__.jpg">
+</div>
+<p>Acara ini akan dijalankan secara hibrid - bersemuka dan melalui wadah
+Zoom.</p>
+<p>Nantikan maklumat lanjut untuk pendaftaran.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ceramah Arif Budiman ke -19 (2023, 20 Julai 2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/cab%2019%20suratman%20markasan.jpeg">
 </div>
-<p>Acara ini akan dijalankan secara hibrid - bersemuka dan melalui wadah
-Zoom. Klik pautan berikut untuk mendapatkan slaid pembentangan Cikgu Suratman
-Markasan.</p>
-<p><a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Slaid pembentangan</a>
-</p>
-<hr>
-<ul>
-<li>
 <p></p>
+<p><strong>Tajuk: </strong>Naratif Sastera Singapura</p>
+<p><strong>Penyampai Ucaptama:</strong> Cikgu Suratman Markasan</p>
+<p></p>
+<p>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Slaid pembentangan</a> Cikgu
+Suratman Markasan.
+<br>
+</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Ceramah Arif Budiman ke-18 (2022), 23 September 2022</strong>
@@ -222,6 +238,4 @@ Hubungan dan Masa Depannya</p>
 </div>
 <p></p>
 <p></p>
-</li>
-</ul>
 <p></p>
