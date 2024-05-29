@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<h3>Seminar Bahasa Melayu</h3>
+<p>Seminar Bahasa Melayu</p>
 <p>Pada tahun-tahun yang lalu, MLCS menganjurkan Seminar Bahasa Melayu setiap
 tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
@@ -13,8 +13,7 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun. Ertinya,
 MLCS tidak akan menganjurkan Seminar Bahasa Melayu pada tahun 2023. MLCS
 akan menganjurkan Seminar Bahasa Melayu pada tahun 2024.
 <br>
-<br><strong>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</strong>
-</p>
+<br>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024" src="/images/SBM_2024___Malay.png">
 </div>
@@ -25,18 +24,54 @@ bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
 yang secukupnya untuk melaksanakan kajian di bilik darjah dengan lebih
 baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
 berkesan dalam kalangan para guru bahasa Melayu.</p>
-<p><strong>Klik di bawah untuk maklumat berkaitan dengan Sesi Sidang Selari.</strong>
-</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg"></a>
+<p><strong>Imbas kod QR berikut untuk mendapatkan e-Penerbitan MLCS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_SBM2024__1_.jpg">
+</div>
+<p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BUKU E-PROSIDING SEMINAR BAHASA MELAYU 2024</a>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_SBM2024_qr.jpg">
+</div>
+<p><a href="https://issuu.com/oxfordgraphic/docs/bestari_berbicara_2024-v3?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BESTARI BERBICARA 2023</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Klik di bawah untuk maklumat berkaitan dengan Sesi Sidang Selari.</p>
+<a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg">
+</a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>SEMINAR BAHASA MELAYU 2022</strong>
-</summary>
+<summary>SEMINAR BAHASA MELAYU 2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Seminar Bahasa Melayu" src="/images/Seminar%20Bahasa%20Melayu.jpg">
 </div>
-<p><strong>VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan</strong> 
+<p>VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran
+(PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan
 <br>
 </p>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan acara tahunan
@@ -52,11 +87,11 @@ kajian dan berkongsi dapatan kajian dalam Seminar tersebut.
 Singapura.
 <br>
 </p>
-<p><strong><a href="https://mlcs.moe.edu.sg/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022/" rel="noopener noreferrer nofollow" target="_blank">Kandungan Buku Prosiding Seminar Bahasa Melayu 2022</a></strong> 
+<p>Kandungan Buku Prosiding Seminar Bahasa Melayu 2022
 <br>
 </p>
 <p>Klik pautan berikut untuk mengakses buku digital
-<br><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener noreferrer nofollow" target="_blank">Prosiding Seminar Bahasa Melayu 2022</a></strong> 
+<br>Prosiding Seminar Bahasa Melayu 2022
 <br>
 </p>
 </div>
