@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Pusat Sumber MLCS</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
 </div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
@@ -23,9 +23,12 @@ Sumber MLCS.</p>
 <p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
 </p>
 <hr>
-<h4>Paparan Khazanah Pilihan - Mei 2024</h4>
-<p><strong>Edisi Bulan Kesedaran Kesihatan Mental</strong>
-</p>
+<h4><strong>Paparan Khazanah Pilihan</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__1_.jpg">
 </div>
@@ -41,7 +44,11 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
 </div>
-<h3>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h3>
+<h3></h3>
+</div>
+</details>
+</div>
+<h4>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h4>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
 </p>
