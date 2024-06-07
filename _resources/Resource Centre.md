@@ -70,15 +70,16 @@ kami:</p>
 <p>Puan Siti Nur Dhaniyah Muhamad Rais
 <br>
 </p>
-<p><strong>di talian</strong>: 6354-6959</p>
-<p><strong>atau emel</strong>:&nbsp;<a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
+<p><strong>di talian</strong>: 6354-6959
+<br><strong>atau emel</strong>:&nbsp;
+<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Operasi</strong>:&nbsp;</p>
-<p>Isnin hingga Khamis - 8.30am - 5.30pm</p>
-<p>Jumaat - 8.30am - 5.00pm</p>
-<p>Sabtu, Ahad dan Cuti Umum ditutup</p>
+<p>Isnin hingga Khamis - 8.30am - 5.30pm
+<br>Jumaat - 8.30am - 5.00pm
+<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
 </td>
 </tr>
 </tbody>
