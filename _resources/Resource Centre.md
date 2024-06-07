@@ -23,7 +23,12 @@ Sumber MLCS.</p>
 <p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
 </p>
 <hr>
-<h4><strong>Paparan Khazanah Pilihan</strong></h4>
+<p><strong>Paparan Khazanah Pilihan</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
