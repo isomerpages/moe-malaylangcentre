@@ -44,11 +44,11 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
 </div>
-<h3></h3>
 </div>
 </details>
 </div>
-<h4>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h4>
+<hr>
+<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
 </p>
@@ -71,7 +71,7 @@ kami:</p>
 <br>
 </p>
 <p><strong>di talian</strong>: 6354-6959</p>
-<p><strong>atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mlcs.librarian@gmail.com</a>
+<p><strong>atau emel</strong>:&nbsp;<a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
