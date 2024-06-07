@@ -23,8 +23,7 @@ Sumber MLCS.</p>
 <p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
 </p>
 <hr>
-<p><strong>Paparan Khazanah Pilihan</strong>
-</p>
+<h4><strong>Paparan Khazanah Pilihan</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
 </div>
