@@ -41,8 +41,24 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
 </div>
-<p></p>
-<p><strong>Paparan Khazanah Pilihan</strong>
+<p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__1_.png">
+</div>
+<p><strong>Buku Terbaru ( Jun 2024) - Koleksi Bukan Fiksyen</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
