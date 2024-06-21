@@ -24,7 +24,7 @@ Sumber MLCS.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/buttonlibrary__2_.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/buttonlibrary__2_.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/buttonlibrary__3_.png"></a>
 </th>
