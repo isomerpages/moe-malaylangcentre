@@ -24,20 +24,11 @@ Sumber MLCS.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
 </td>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
 </th>
 </tr>
 </tbody>
