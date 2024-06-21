@@ -14,13 +14,16 @@ dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
 bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
 Sumber MLCS.</p>
-<p>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</p>
-<p><a href="https://schoolibrary.moe.edu.sg/mlcs/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/mlcs</a>
+<p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</strong>
 </p>
-<p>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</p>
-<p><a href="https://tinyurl.com/MLCSLibraryLoanForm" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanForm</a>
-</p>
-<p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png">
+</div>
+<p><strong>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</strong>
+</p><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BorongPinjamBuku_MLCSButton.png"></a>
+<p><strong>Borang pengesahan :</strong>
+</p><a class="isomer-image-wrapper" href="//tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BorangPengesahan_MLCSbutton.png"></a>
+<p>&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
 </p>
 <hr>
 <hr>
@@ -425,5 +428,9 @@ kami:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png">
 </div>
 <p></p>
