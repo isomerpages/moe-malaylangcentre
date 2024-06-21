@@ -14,6 +14,23 @@ dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
 bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
 Sumber MLCS.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BorongPinjamBuku_MLCSButton.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</strong>
 </p><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png"></a>
 <p><strong>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</strong>
