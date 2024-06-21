@@ -15,19 +15,12 @@ bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
 Sumber MLCS.</p>
 <p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png"></a>
 <p><strong>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</strong>
 </p><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BorongPinjamBuku_MLCSButton.png"></a>
 <p><strong>Borang pengesahan :</strong>
 </p><a class="isomer-image-wrapper" href="//tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BorangPengesahan_MLCSbutton.png"></a>
-<p>&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
-</p>
-<hr>
-<hr>
-<hr>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
 </div>
@@ -424,13 +417,5 @@ kami:</p>
 </div>
 </div>
 </details>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LelamanWeb_MLCSbutton.png">
 </div>
 <p></p>
