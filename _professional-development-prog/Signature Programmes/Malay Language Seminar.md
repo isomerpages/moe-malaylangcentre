@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<p>Seminar Bahasa Melayu</p>
+<h4><strong>Seminar Bahasa Melayu</strong></h4>
 <p>Pada tahun-tahun yang lalu, MLCS menganjurkan Seminar Bahasa Melayu setiap
 tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
 untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
-<br>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</p>
+<br><strong>Berikut adalah Atur Cara Seminar Bahasa Melayu 2024</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024" src="/images/SBM_2024___Malay.png">
 </div>
