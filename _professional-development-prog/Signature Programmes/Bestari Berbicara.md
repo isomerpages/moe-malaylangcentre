@@ -21,7 +21,7 @@ masing-masing.</p>
 profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
-<p><strong>Bahan Digital:</strong>
+<p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
