@@ -47,7 +47,7 @@ sections:
       description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
         untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
-      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
       image: /images/Bestari_Berbicara_homepage.jpg
       alt: Image alt text
   - infopic:
