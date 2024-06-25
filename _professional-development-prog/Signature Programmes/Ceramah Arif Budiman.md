@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
+<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong> 
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
+</div>
 <p>Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang
 kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada
 pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan
@@ -24,18 +29,13 @@ Bahasa dan budaya Melayu; dan</p>
 <p>menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
-<p></p>
 </li>
 </ul>
-<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong> 
-<br>
+<p><strong>Daftar Sekarang dan sertai kami secara<u> fizikal</u> di Pusat Bahasa Melayu Singapura atau melalui sidang <u>Zoom</u>. </strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="ceramah arif budiman" src="/images/Poster_2___in_ML__Past_CAB_speakers__.jpg">
-</div>
-<p>Acara ini akan dijalankan secara hibrid - bersemuka dan melalui wadah
-Zoom.</p>
-<p>Nantikan maklumat lanjut untuk pendaftaran.</p>
+<p><strong>Tarikh tutup: <em><u>18 Julai 2024.</u></em></strong>
+</p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
