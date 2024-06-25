@@ -37,7 +37,6 @@ guru-guru BM di sekolah masing-masing.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>
