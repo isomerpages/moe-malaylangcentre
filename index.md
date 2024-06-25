@@ -34,14 +34,13 @@ sections:
       image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
   - infopic:
-      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
-      title: Perkongsian Profesional 2024
-      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
-        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
-        Pembelajaran Bahasa Melayu.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
-      alt: Perkongsian Profesional 2024
+      title: Ceramah Arif Budiman Ke-20
+      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
+        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
+      button: Sila lihat selanjutnya...
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
+      image: /images/Website_Homepage___Final.jpg
+      alt: Ceramah Arif Budiman
   - infopic:
       title: Jejak Budaya 2024
       id: infopic
@@ -51,6 +50,15 @@ sections:
       image: /images/Homepage_thumbnail_banner_jejak_budaya.jpg
       alt: Image alt text
   - infopic:
+      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
+      title: Perkongsian Profesional 2024
+      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
+        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
+        Pembelajaran Bahasa Melayu.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
+      alt: Perkongsian Profesional 2024
+  - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
         ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
@@ -58,14 +66,6 @@ sections:
       url: professional-development-prog/signature-programmes/bicarailmiah/
       image: /images/001 dr bicara ilmiah.jpg
       alt: Bicara Ilmiah
-  - infopic:
-      title: Ceramah Arif Budiman Ke-20
-      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
-        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
-      button: Sila lihat selanjutnya...
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/Website_Homepage___Final.jpg
-      alt: Ceramah Arif Budiman
   - infopic:
       title: Pusat Sumber MLCS
       description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
