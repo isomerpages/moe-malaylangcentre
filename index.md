@@ -59,6 +59,14 @@ sections:
       image: /images/Homepage_thumbnail_banner_jejak_budaya.jpg
       alt: Image alt text
   - infopic:
+      title: Pusat Sumber MLCS
+      description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
+        dan pembelajaran terutama...
+      button: Sila lihat selanjutnya...
+      url: /mlcs/resources/resource-centre/
+      image: /images/001_Copy_of_HIGHLIGHT__2_.gif
+      alt: Pusat Sumber MLCS
+  - infopic:
       image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
       title: Perkongsian Profesional 2024
       description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
@@ -75,14 +83,6 @@ sections:
       url: professional-development-prog/signature-programmes/bicarailmiah/
       image: /images/001 dr bicara ilmiah.jpg
       alt: Bicara Ilmiah
-  - infopic:
-      title: Pusat Sumber MLCS
-      description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
-        dan pembelajaran terutama...
-      button: Sila lihat selanjutnya...
-      url: /mlcs/resources/resource-centre/
-      image: /images/001_Copy_of_HIGHLIGHT__2_.gif
-      alt: Pusat Sumber MLCS
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
