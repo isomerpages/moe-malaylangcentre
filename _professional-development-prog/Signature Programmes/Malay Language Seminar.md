@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<p>Seminar Bahasa Melayu</p>
+<h4><strong>Seminar Bahasa Melayu</strong></h4>
 <p>Pada tahun-tahun yang lalu, MLCS menganjurkan Seminar Bahasa Melayu setiap
 tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
-untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun. Ertinya,
-MLCS tidak akan menganjurkan Seminar Bahasa Melayu pada tahun 2023. MLCS
-akan menganjurkan Seminar Bahasa Melayu pada tahun 2024.
+untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
-<br>Berikut adalah Atur Cara Seminar Bahasa Melyu 2024</p>
+<br><strong>Berikut adalah Atur Cara Seminar Bahasa Melayu 2024</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024" src="/images/SBM_2024___Malay.png">
 </div>
@@ -62,6 +61,11 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg">
 </a>
+<p><strong>Gambar Seminar Bahasa Melayu 2024</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>SEMINAR BAHASA MELAYU 2022</summary>

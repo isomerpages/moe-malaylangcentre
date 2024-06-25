@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Pusat Sumber MLCS</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
 </div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
@@ -14,18 +14,67 @@ dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
 bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
 Sumber MLCS.</p>
-<p>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS:</p>
-<p><a href="https://schoolibrary.moe.edu.sg/mlcs/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/mlcs</a>
+<p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS.</strong>
 </p>
-<p>Sekiranya anda berminat untuk meminjam, sila klik pada pautan ini:</p>
-<p><a href="https://tinyurl.com/MLCSLibraryLoanForm" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanForm</a>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__3_.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
+</td>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Selamat Hari Bapa</strong>
 </p>
-<p>Borang pengesahan :&nbsp;<a href="https://tinyurl.com/MLCSLibraryLoanReceive" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/MLCSLibraryLoanReceive</a>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
+</div>
+<p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
 </p>
-<hr>
-<h4>Paparan Khazanah Pilihan - Mei 2024</h4>
-<p><strong>Edisi Bulan Kesedaran Kesihatan Mental</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CriticalThinking_RC.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__1_.png">
+</div>
+<p><strong>Buku Terbaru ( Jun 2024) - Koleksi Bukan Fiksyen</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku2.png">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/May2024__Kesedaran_Kesihatan_Mental__1_.jpg">
 </div>
@@ -41,7 +90,11 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Resource_Centre___May_2024_Thematic_Display_in_Resource_Centre.jpg">
 </div>
-<h3>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</h3>
+</div>
+</details>
+</div>
+<hr>
+<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
 </p>
@@ -63,15 +116,16 @@ kami:</p>
 <p>Puan Siti Nur Dhaniyah Muhamad Rais
 <br>
 </p>
-<p><strong>di talian</strong>: 6354-6959</p>
-<p><strong>atau emel</strong>:&nbsp;<a href="mailto:mlcs.librarian@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mlcs.librarian@gmail.com</a>
+<p><strong>di talian</strong>: 6354-6959
+<br><strong>atau emel</strong>:&nbsp;
+<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Operasi</strong>:&nbsp;</p>
-<p>Isnin hingga Khamis - 8.30am - 5.30pm</p>
-<p>Jumaat - 8.30am - 5.00pm</p>
-<p>Sabtu, Ahad dan Cuti Umum ditutup</p>
+<p>Isnin hingga Khamis - 8.30am - 5.30pm
+<br>Jumaat - 8.30am - 5.00pm
+<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
 </td>
 </tr>
 </tbody>

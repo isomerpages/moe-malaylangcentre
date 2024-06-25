@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/CAB20_Bestari_Homepage_banner_1340x380px.gif
+      background: /images/Homepage_banner_1340x380px__ebook.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2024
@@ -34,14 +34,22 @@ sections:
       image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
   - infopic:
-      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
-      title: Perkongsian Profesional 2024
-      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
-        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
-        Pembelajaran Bahasa Melayu.
+      title: Ceramah Arif Budiman Ke-20
+      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
+        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
+      button: Sila lihat selanjutnya...
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
+      image: /images/Website_Homepage___Final.jpg
+      alt: Ceramah Arif Budiman
+  - infopic:
+      title: Bestari Berbicara
+      id: infopic
+      description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
+        untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
-      alt: Perkongsian Profesional 2024
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
+      image: /images/Bestari_Berbicara_homepage.jpg
+      alt: Image alt text
   - infopic:
       title: Jejak Budaya 2024
       id: infopic
@@ -51,22 +59,6 @@ sections:
       image: /images/Homepage_thumbnail_banner_jejak_budaya.jpg
       alt: Image alt text
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
-        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/001 dr bicara ilmiah.jpg
-      alt: Bicara Ilmiah
-  - infopic:
-      title: Ceramah Arif Budiman Ke-20
-      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
-        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
-      button: Sila lihat selanjutnya...
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/CAB20___homepage.jpg
-      alt: Ceramah Arif Budiman
-  - infopic:
       title: Pusat Sumber MLCS
       description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
         dan pembelajaran terutama...
@@ -74,6 +66,23 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/001_Copy_of_HIGHLIGHT__2_.gif
       alt: Pusat Sumber MLCS
+  - infopic:
+      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
+      title: Perkongsian Profesional 2024
+      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
+        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
+        Pembelajaran Bahasa Melayu.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
+      alt: Perkongsian Profesional 2024
+  - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program yang ditawarkan khas untuk
+        ketua pedagogi yang julung-julung kalinya dianjurkan pada tahun 2023.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/001 dr bicara ilmiah.jpg
+      alt: Bicara Ilmiah
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
