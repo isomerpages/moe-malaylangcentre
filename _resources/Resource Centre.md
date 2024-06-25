@@ -35,12 +35,15 @@ Sumber MLCS.</p>
 </table>
 <p><strong>Selamat Hari Bapa</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
 </div>
 <p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CriticalThinking_RC.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__2_.png">
 </div>
