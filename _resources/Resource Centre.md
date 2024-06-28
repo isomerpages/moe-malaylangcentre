@@ -143,23 +143,24 @@ kami:</p>
 <details class="isomer-details">
 <summary>Bahasa</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_6.png">
 </div>
 <p></p>
 </div>
