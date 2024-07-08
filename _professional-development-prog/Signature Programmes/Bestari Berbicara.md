@@ -24,6 +24,9 @@ guru-guru BM di sekolah masing-masing.</p>
 <p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara 2024</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/laporanbestariberbicara2024"><img style="width: 50%;" height="auto" width="100%" alt="Bestari berbicara 2024" src="/images/Bestari_Berbicara_2024_Cover_book_Front.jpg"></a>
 <p></p>
+<p><strong>Gambar Bestari Berbicara 2024</strong>
+</p>
+<p></p>
 <p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara 2022 dan 2023</strong>
 </p>
 <table style="minWidth: 50px">
