@@ -33,10 +33,19 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Selamat Hari Bapa</strong>
+<p><strong>Mengenali ISA KAMARI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Isa Kamari" src="/images/Isa_Kamari_Display.png">
 </div>
 <p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
 </p>
