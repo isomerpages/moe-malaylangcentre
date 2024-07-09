@@ -33,10 +33,19 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Selamat Hari Bapa</strong>
+<p><strong>Mengenali ISA KAMARI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hari_Bapa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Isa Kamari" src="/images/Isa_Kamari_Display.png">
 </div>
 <p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
 </p>
@@ -131,35 +140,29 @@ kami:</p>
 </tbody>
 </table>
 <hr>
-<h4>Video</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ueR85p3RWic"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P7Yd2iMbELk"></iframe>
-</div>
 <h4>Buku Saranan</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Bahasa</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bahasa" src="/images/Bahasa_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Bahasa_6.png">
 </div>
 <p></p>
 </div>
@@ -168,28 +171,25 @@ kami:</p>
 <summary>Budaya</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_7.png">
 </div>
 <p></p>
 </div>
@@ -213,109 +213,35 @@ kami:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Pedagogi</summary>
+<summary><strong>Pedagogi</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_7.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_9.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_14.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_15.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_16.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_18.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_19.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_21.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_22.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_23.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_24.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_25.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_26.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_27.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_28.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_29.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_30.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_31.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_32.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_33.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pedagogi" src="/images/Pedagogi_34.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_10.png">
 </div>
 <p></p>
 </div>
