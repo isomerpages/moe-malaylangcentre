@@ -21,11 +21,14 @@ masing-masing.</p>
 profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
-<p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara 2024</strong>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/laporanbestariberbicara2024"><img style="width: 50%;" height="auto" width="100%" alt="Bestari berbicara 2024" src="/images/Bestari_Berbicara_2024_Cover_book_Front.jpg"></a>
+<p><strong>Bahan Digital Bestari Berbicara 2024</strong>
+<br>Klik di bawah untuk Bahan Digital Bestari Berbicara 2024</p><a class="isomer-image-wrapper" href="https://go.gov.sg/laporanbestariberbicara2024"><img style="width: 50%;" height="auto" width="100%" alt="Bestari berbicara 2024" src="/images/Bestari_Berbicara_2024_Cover_book_Front.jpg"></a>
 <p></p>
-<p><strong>Gambar Bestari Berbicara 2024</strong>
-</p>
+<h4><strong>Gambar Bestari Berbicara 2024</strong></h4>
+<hr>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoIrCJh0duHX9vjWp_dqDMHYNWrrkUC_sMB-eBjxwv63Vi0BuqfNNSFe2hGrkmxHzrokFxkRUGdMFt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara 2022 dan 2023</strong>
 </p>
