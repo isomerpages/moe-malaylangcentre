@@ -140,13 +140,6 @@ kami:</p>
 </tbody>
 </table>
 <hr>
-<h4>Video</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ueR85p3RWic"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P7Yd2iMbELk"></iframe>
-</div>
 <h4>Buku Saranan</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -178,29 +171,28 @@ kami:</p>
 <summary>Budaya</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Budaya_7.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Budaya" src="/images/Budaya_8.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
