@@ -22,7 +22,6 @@ Bahasa dan budaya Melayu; dan</p>
 <p>menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
-<p>Imbas kod QR berikut untuk mendapatkan e-Penerbitan MLCS</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
