@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<p>Ceramah Arif Budiman ke-20 (2024)</p>
+<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
 </div>
@@ -15,14 +16,13 @@ pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan
 bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.</p>
 <p>Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan
 aktif para guru serta pelajar.</p>
-<p>Objektif CAB adalah seperti yang berikut:</p>
-<p>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;</p>
-<p>memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan
-Bahasa dan budaya Melayu; dan</p>
-<p>menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
+<p><strong>Objektif CAB adalah seperti yang berikut: </strong>
+<br>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;
+memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan
+Bahasa dan budaya Melayu;
+<br>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
