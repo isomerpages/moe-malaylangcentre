@@ -51,7 +51,8 @@ sastera, sejarah dan adat Melayu.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saranan Pengajaran &amp; Pembelajaran -Sekolah Rendah</p>
+<p><strong><a href="https://go.gov.sg/bicarabudimansekolahrendah" rel="noopener noreferrer nofollow" target="_blank">Saranan Pengajaran &amp; Pembelajaran -Sekolah Rendah</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -66,8 +67,8 @@ sastera, sejarah dan adat Melayu.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saranan Pengajaran &amp; Pembelajaran - Sekolah Menengah &amp; Maktab
-Rendah</p>
+<p><strong><a href="https://go.gov.sg/bicarabudimanmenengah" rel="noopener noreferrer nofollow" target="_blank">Saranan Pengajaran &amp; Pembelajaran - Sekolah Menengah &amp; Maktab Rendah</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
