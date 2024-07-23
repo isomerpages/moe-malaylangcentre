@@ -40,15 +40,9 @@ Yatiman Yusof</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Budiman.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/TitisTinta_YatimanYusof.html"><img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Budiman.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Dia_Berbahasa_Asal_Boleh.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/TitisTinta_YatimanYusof.html"><img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Dia_Berbahasa_Asal_Boleh.png"></a>
 </td>
 </tr>
 </tbody>
