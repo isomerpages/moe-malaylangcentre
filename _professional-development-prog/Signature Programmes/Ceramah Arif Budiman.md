@@ -23,9 +23,37 @@ Bahasa dan budaya Melayu;
 <br>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
-<p><strong>Slaid Pembentangan</strong>
-<br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Slaid pembentangan</u></a> Cikgu
-Suratman Markasan.</p>
+<p><strong>Slaid Pembentangan Encik Yatiman Yusof</strong>
+<br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Slaid pembentangan</u></a> Encik
+Yatiman Yusof</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Sajak dari Encik Yatiman Yusof</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Budiman.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Dia_Berbahasa_Asal_Boleh.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
