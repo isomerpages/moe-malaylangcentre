@@ -35,7 +35,7 @@ Yatiman Yusof</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Sajak dari Encik Yatiman Yusof</strong>
+<p><strong>Sajak Karya Encik Yatiman Yusof</strong>
 </p>
 </th>
 </tr>
