@@ -23,6 +23,9 @@ Bahasa dan budaya Melayu;
 <br>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
+<p><strong>Slaid Pembentangan</strong>
+<br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Slaid pembentangan</u></a> Cikgu
+Suratman Markasan.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
