@@ -26,7 +26,6 @@ sastera, sejarah dan adat Melayu.</p>
 <p><strong>Slaid Pembentangan Encik Yatiman Yusof</strong>
 <br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Slaid pembentangan</u></a> Encik
 Yatiman Yusof</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
