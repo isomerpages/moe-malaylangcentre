@@ -71,6 +71,9 @@ Yatiman Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
+</div>
 </td>
 </tr>
 <tr>
