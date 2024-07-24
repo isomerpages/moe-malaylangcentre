@@ -61,7 +61,8 @@ Yatiman Yusof</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siri Ceramah Arif Budiman Jilid 5</p>
+<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
