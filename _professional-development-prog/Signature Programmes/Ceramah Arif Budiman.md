@@ -24,21 +24,25 @@ Bahasa dan budaya Melayu;
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 <p><strong>Slaid Pembentangan Encik Yatiman Yusof</strong>
-<br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1Fw3PVIhSbAGKMvADkRe7xMXN7nfBzVeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Slaid pembentangan</u></a> Encik
-Yatiman Yusof</p>
-<table style="minWidth: 50px">
+<br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>slaid pembentangan</u></a> Encik
+Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SlaidPembentangan.jpg"></a>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <p><strong>Sajak Karya Encik Yatiman Yusof</strong>
 </p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/TitisTinta_YatimanYusof.html"><img style="width: 100%" height="auto" width="100%" alt="Amanah_ Yatiman Yusof" src="/images/BUDIMAN.jpg"></a>
+</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/TitisTinta_YatimanYusof.html"><img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Budiman.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/TitisTinta_YatimanYusof.html"><img style="width: 100%;" height="auto" width="100%" alt="Sajak Yatiman Yusof" src="/images/Dia_Berbahasa_Asal_Boleh.png"></a>
