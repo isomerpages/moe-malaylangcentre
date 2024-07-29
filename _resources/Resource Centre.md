@@ -33,7 +33,7 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Paparan Khazanah Pilihan ( Ogos 2024) </strong>
+<p><strong>Paparan Khazanah Pilihan ( Ogos 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_TWO.gif">
@@ -140,7 +140,7 @@ Sumber MLCS.</p>
 </div>
 </details>
 </div>
-<h4><strong>han-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
+<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
 </p>
@@ -177,7 +177,7 @@ kami:</p>
 </tbody>
 </table>
 <hr>
-<h4>Buku Saranan</h4>
+<h4><strong>Buku Saranan</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Bahasa</summary>
