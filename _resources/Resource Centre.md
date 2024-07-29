@@ -33,53 +33,27 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Mengenali ISA KAMARI</strong>
+<p><strong>Paparan Khazanah Pilihan ( Ogos 2024) </strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_TWO.gif">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_DISPLAY.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_THREE.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Isa Kamari" src="/images/Isa_Kamari_Display.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_FOUR.png">
 </div>
-<p><strong>Paparan Khazanah Pilihan ( Jun-Julai 2024) - Critical Thinking</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_FIVE.png">
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CriticalThinking_RC.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__2_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__3_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__4_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__5_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__1_.png">
-</div>
-<p><strong>Buku Terbaru ( Jun 2024) - Koleksi Bukan Fiksyen</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku2.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -101,9 +75,72 @@ Sumber MLCS.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Jun 2024 - Buku terbaru (Koleksi Bukan Fiksyen)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jun2024___newbooks.png">
 </div>
-<hr>
-<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/buku2.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Jun - Julai 2024- Critical Thinking</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CriticalThinking_RC.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__4_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__5_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Critical_Thinking_Library__1_.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Julai 2024 - Isa Kamari</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mengenali ISA KAMARI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isa_Kamari_Paparan__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Isa Kamari" src="/images/Isa_Kamari_Display.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4><strong>han-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
 <p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
 <br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
 </p>
@@ -213,8 +250,7 @@ kami:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Pedagogi</strong>
-</summary>
+<summary>Pedagogi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_1.png">
