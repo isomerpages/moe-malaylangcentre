@@ -33,7 +33,7 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Paparan Khazanah Pilihan ( Ogos 2024)</strong>
+<p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_TWO.gif">
@@ -50,7 +50,26 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP2024_FIVE.png">
 </div>
-<p></p>
+<p><strong>Paparan Khazanah Pilihan - Olympics ( Ogos 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_6.png">
+</div>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
