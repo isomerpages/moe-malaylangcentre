@@ -22,36 +22,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
 </div>
-<p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
-</p>
-<p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
+<p>usat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
 dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
 bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
 Sumber MLCS.</p>
-<p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS.</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__3_.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
-</td>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
+<hr>
 <p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
