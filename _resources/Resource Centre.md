@@ -71,7 +71,6 @@ Sumber MLCS.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_6.png">
 </div>
 <p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
@@ -160,16 +159,45 @@ Sumber MLCS.</p>
 </details>
 </div>
 <h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
-<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
-<br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1.png"></a>
+<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">Sumber Pengajaran &amp; Pelajaran</a>
 </p>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2.png"></a>
+<p><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">MLCS Buku Penerbitan</a>
+</p>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png"></a>
+</th>
+<th rowspan="1" colspan="1">
 <p>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik
-pautan berikut:</p>
-<p><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a>
+pautan berikut: <a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a>
 </p>
+</th>
+</tr>
+</tbody>
+</table>
 <hr>
-<p>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan
-kami:</p>
+<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
