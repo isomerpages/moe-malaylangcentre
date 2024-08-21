@@ -5,9 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h3>Pusat Sumber MLCS</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/mlcs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__3_.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanForm"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
+</td>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
 </div>
+<p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
+</p>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
 dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
@@ -168,15 +187,25 @@ Sumber MLCS.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1.png"></a>
-<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">Sumber Pengajaran &amp; Pelajaran</a>
-</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2.png"></a>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png">
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">mber Pengajaran &amp; Pelajaran</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">MLCS Buku Penerbitan</a>
 </p>
-<p></p>
 </th>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png"></a>
+<td rowspan="1" colspan="1">
 <p><strong><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a></strong>
 </p>
 </td>
