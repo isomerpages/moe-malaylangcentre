@@ -159,8 +159,9 @@ Sumber MLCS.</p>
 </details>
 </div>
 <h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -175,23 +176,10 @@ Sumber MLCS.</p>
 </p>
 <p></p>
 </th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik
-pautan berikut: <a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png"></a>
+<p><strong><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a></strong>
 </p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
@@ -206,7 +194,7 @@ pautan berikut: <a href="https://go.gov.sg/requestformlcsresources" rel="noopene
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Siti Nur Dhaniyah Muhamad Rais
+<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
 <br>
 </p>
 <p><strong>di talian</strong>: 6354-6959
