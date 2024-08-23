@@ -26,12 +26,31 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
 </div>
-<p>usat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
+<p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
 dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
 bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
 <p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
-Sumber MLCS.</p>
+Sumber MLCS.
+<br>
+<br><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1a.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2a.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan dibawah:</strong>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <hr>
 <p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
 </p>
@@ -158,42 +177,6 @@ Sumber MLCS.</p>
 </div>
 </details>
 </div>
-<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1.png"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2.png"></a>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3.png">
-</div>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">mber Pengajaran &amp; Pelajaran</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">MLCS Buku Penerbitan</a>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
 </p>
 <table style="minWidth: 50px">
