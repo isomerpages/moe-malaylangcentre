@@ -5,17 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Pusat Sumber MLCS</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
-</div>
-<p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
-pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
-dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
-bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
-<p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
-Sumber MLCS.</p>
-<p><strong>Klik pautan berikut untuk ke laman web Pusat Sumber MLCS.</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,6 +22,36 @@ Sumber MLCS.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
+</div>
+<p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
+pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
+dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
+bahasa Melayu dan Inggeris yang boleh dijadikan rujukan.&nbsp;</p>
+<p>Para guru dipersilakan untuk meminjam buku-buku yang terdapat dalam Pusat
+Sumber MLCS.
+<br>
+<br><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1a.png"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2a.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan dibawah:</strong>
+</p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
+<hr>
 <p><strong>Paparan Khazanah Pilihan - Hari Kebangsaan Singapura (Ogos 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -70,7 +89,6 @@ Sumber MLCS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_6.png">
 </div>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -159,17 +177,8 @@ Sumber MLCS.</p>
 </div>
 </details>
 </div>
-<h4><strong>Bahan-Bahan Pembelajaran dan Buku Terbitan MLCS</strong></h4>
-<p><a href="https://go.gov.sg/mlcsteachingandlearningresources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsteachingandlearningresources</a>&nbsp;
-<br><a href="https://go.gov.sg/mlcsbookspublications" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mlcsbookspublications</a>
+<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
 </p>
-<p>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik
-pautan berikut:</p>
-<p><a href="https://go.gov.sg/requestformlcsresources" rel="noopener noreferrer nofollow" target="_blank">Permintaan bahan pembelajaran</a>
-</p>
-<hr>
-<p>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan
-kami:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,7 +187,7 @@ kami:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puan Siti Nur Dhaniyah Muhamad Rais
+<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
 <br>
 </p>
 <p><strong>di talian</strong>: 6354-6959

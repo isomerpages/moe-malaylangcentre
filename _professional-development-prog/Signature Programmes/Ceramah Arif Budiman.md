@@ -114,8 +114,11 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p><strong>Gambar Ceramah Arif Budiman 2024</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ceramah Arif Budiman ke -19 (2023, 20 Julai 2023</summary>

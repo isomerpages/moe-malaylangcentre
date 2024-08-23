@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/Homepage_banner_1340x380px_NDP2.gif
+      background: /images/Homepage_banner_1340x380px_Teachersday.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2024
@@ -23,7 +23,7 @@ sections:
         Melayu.
       button: Visi dan Misi
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
-      image: /images/OUR_MLCS_FAMILY_Dhaniyah.jpg
+      image: /images/OUR_MLCS_FAMILY_uncle_heng.jpg
       alt: Image alt text
   - infopic:
       title: Seminar Bahasa Melayu
