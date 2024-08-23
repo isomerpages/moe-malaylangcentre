@@ -23,7 +23,7 @@ sections:
         Melayu.
       button: Visi dan Misi
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
-      image: /images/OUR_MLCS_FAMILY_Dhaniyah.jpg
+      image: /images/OUR_MLCS_FAMILY_uncle_heng.jpg
       alt: Image alt text
   - infopic:
       title: Seminar Bahasa Melayu
