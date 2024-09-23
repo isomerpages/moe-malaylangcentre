@@ -282,18 +282,20 @@ Sumber MLCS.
 <details class="isomer-details">
 <summary>Karya Penulis Singapura</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Karya_SG_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Karya_SG_2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karya Penulis Singapura" src="/images/Karya%20Penulis%20Singapura_4.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
