@@ -64,7 +64,7 @@ sections:
         dan pembelajaran terutama...
       button: Sila lihat selanjutnya...
       url: /mlcs/resources/resource-centre/
-      image: /images/001_Copy_of_HIGHLIGHT__2_.gif
+      image: /images/Pusat_Sumber_main_image_1.gif
       alt: Pusat Sumber MLCS
   - infopic:
       image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
