@@ -18,6 +18,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -25,9 +28,7 @@ variant: tiptap
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
