@@ -47,20 +47,78 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 </p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Klik di bawah untuk maklumat berkaitan dengan Sesi Sidang Selari.</p>
 <a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg">
 </a>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>VIDEO SEMINAR BAHASA MELAYU 2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Seminar Bahasa Melayu Highlights</strong>
+</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aH3fWKIRPKY?si=JYhDFZQLdMUoPM5i"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Tema: Memarak Inovasi, Memekar Pedagogi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Penyampaian Ucaptama</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NlSYmFYWoBM?si=Ca-HgT_9iamO7m6X"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Penyampaian Ucaptama Penolong Profesor Azilawati Jamaludin.
+<br>Ucaptama bertajuk "Perspektif Neurosains Untuk Menginovasi Pedagogi’</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Baju kurung biru -02:19 min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vnXcp8HDjOk?si=v0f9K4xNmmYzty_V"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/files/IL_P1_Klip_03_Baju_kurung_biru.pdf" rel="noopener noreferrer nofollow" target="_blank">03 - P1: Panduan Guru - Baju kurung biru</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Gambar Seminar Bahasa Melayu 2024</strong>
 </p>
 <div class="iframe-wrapper">
