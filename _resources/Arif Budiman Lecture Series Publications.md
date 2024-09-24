@@ -19,6 +19,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>Siri Ceramah Arif Budiman Jilid 1 - 4</strong></h4>
 <p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman.</p>
 <div class="isomer-image-wrapper">
