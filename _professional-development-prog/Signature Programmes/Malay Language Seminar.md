@@ -103,18 +103,36 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Baju kurung biru -02:19 min</strong>
+<p><strong>Sesi Tanya Jawab </strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vnXcp8HDjOk?si=v0f9K4xNmmYzty_V"></iframe>
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BRv9MBHehKY?si=zKa-cEi3PVnLlRcZ"></iframe>
 </div>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/files/IL_P1_Klip_03_Baju_kurung_biru.pdf" rel="noopener noreferrer nofollow" target="_blank">03 - P1: Panduan Guru - Baju kurung biru</a></strong>
+<p>Sesi Tanya Jawab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Persembahan</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BRv9MBHehKY?si=zKa-cEi3PVnLlRcZ"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Persembahan yang berjudul <strong>Bangsawan Amanat Paduka Raja</strong> yang
+dipersembahkan oleh <strong>Cikgu Siti Aidah Mohamad Amin</strong> dari sekolah
+SJI Junior dan <strong>Cikgu Muhammad Hafiz Yusof</strong> dari Sekolah Menengah
+Bukit Batok</p>
 </td>
 </tr>
 </tbody>
