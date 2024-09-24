@@ -346,28 +346,30 @@ Sumber MLCS.
 <summary>Penilaian</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml4.png">
+</div>
+<p><strong>English</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_el1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_el2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_el3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Penilaian" src="/images/Penilaian_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_el4.png">
 </div>
 <p></p>
 </div>
