@@ -14,7 +14,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/ceramaharifbudimanj5"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/ceramaharifbudimanj5"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg"></a>
 </th>
 </tr>
 </tbody>
