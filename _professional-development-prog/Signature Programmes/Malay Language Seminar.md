@@ -138,6 +138,31 @@ SJI Junior dan <strong>Cikgu Muhammad Hafiz Yusof</strong> dari Sekolah Menengah
 Bukit Batok</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Pelancaran e-penerbitan</strong>
+</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aH3fWKIRPKY?si=JYhDFZQLdMUoPM5i"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>E-Penerbitan</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Seminar Bahasa Melayu 2024</p>
+</li>
+<li>
+<p>Bestari Berbicara 2023</p>
+</li>
+</ol>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Gambar Seminar Bahasa Melayu 2024</strong>
