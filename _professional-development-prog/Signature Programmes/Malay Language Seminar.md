@@ -198,8 +198,9 @@ Singapura.
 <p>Kandungan Buku Prosiding Seminar Bahasa Melayu 2022
 <br>
 </p>
-<p>Klik pautan berikut untuk mengakses buku digital
-<br>Prosiding Seminar Bahasa Melayu 2022
+<p>Klik <a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">pautan</a> berikut
+untuk mengakses buku digital
+<br><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Seminar Bahasa Melayu 2022</a> 
 <br>
 </p>
 </div>
