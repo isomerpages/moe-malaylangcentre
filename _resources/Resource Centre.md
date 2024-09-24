@@ -378,21 +378,29 @@ Sumber MLCS.
 <summary>Sastera</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sastera" src="/images/Sastera_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_5.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sastera_8.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
