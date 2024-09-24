@@ -4,7 +4,34 @@ permalink: /mlcs/resources/arif-budiman-lecture-series-ceramah-arif-budiman-publ
 description: ""
 variant: tiptap
 ---
-<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
+<h4><strong>Siri Ceramah Arif Budiman</strong></h4>
+<p><strong><u>E-penerbitan - Jilid 5</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Buku" src="/images/cab_buku.jpg">
@@ -126,5 +153,4 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
