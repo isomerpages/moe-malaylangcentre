@@ -5,34 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Siri Ceramah Arif Budiman</strong></h4>
-<p><strong><u>E-penerbitan - Jilid 5</u></strong>
+<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman - Jilid 5 (e-penerbitan)</a></strong>
+<br><strong>(Year 2024)</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/ceramaharifbudimanj5"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg"></a>
 </th>
 </tr>
 </tbody>
 </table>
+<h4><strong>Siri Ceramah Arif Budiman Jilid 1 - 4</strong></h4>
 <p>Buku ini merupakan satu penjilidan Siri Ceramah Arif Budiman.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Buku" src="/images/cab_buku.jpg">
