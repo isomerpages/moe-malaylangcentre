@@ -11,12 +11,9 @@ tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
 untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
-<br><strong>Berikut adalah Atur Cara Seminar Bahasa Melayu 2024</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Seminar Bahasa Melayu 2024" src="/images/SBM_2024___Malay.png">
-</div>
-<p>Tema 'Memarak Inovasi, Memekar Pedagogi'&nbsp;memberi tumpuan bagi merancakkan
+</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg"></a>
+<p>
+<br>Tema 'Memarak Inovasi, Memekar Pedagogi'&nbsp;memberi tumpuan bagi merancakkan
 lagi usaha guru untuk menambah nilai dan mempertingkat PdP di bilik darjah
 bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
 <p>Perubahan yang diperkenalkan adalah bertujuan untuk memberikan guru masa
@@ -25,35 +22,22 @@ baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
 berkesan dalam kalangan para guru bahasa Melayu.</p>
 <p><strong>Imbas kod QR berikut untuk mendapatkan e-Penerbitan MLCS</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_SBM2024__1_.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/QR_SBM2024__1_.jpg">
 </div>
 <p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BUKU E-PROSIDING SEMINAR BAHASA MELAYU 2024</a>
 </p>
 </th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_SBM2024_qr.jpg">
-</div>
-<p><a href="https://issuu.com/oxfordgraphic/docs/bestari_berbicara_2024-v3?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BESTARI BERBICARA 2023</a>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
-<p>Klik di bawah untuk maklumat berkaitan dengan Sesi Sidang Selari.</p>
-<a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg">
-</a>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
