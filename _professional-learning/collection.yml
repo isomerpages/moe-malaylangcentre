@@ -1,5 +1,5 @@
 collections:
-  professional-development-prog:
+  professional-learning:
     output: true
     order:
       - Professional Development Programmes.md
