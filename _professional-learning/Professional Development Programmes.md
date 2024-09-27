@@ -4,7 +4,7 @@ permalink: /mlcs/professional-development-programmes/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Professional Learning for Teachers</strong></h4>
+<h4><strong>Professional Learning</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/017kursus.jpg">
