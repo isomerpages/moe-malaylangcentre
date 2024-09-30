@@ -23,29 +23,10 @@ yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
 <p><strong>Bahan Digital Bestari Berbicara 2024</strong>
 <br>Klik di bawah untuk Bahan Digital Bestari Berbicara 2024</p><a class="isomer-image-wrapper" href="https://go.gov.sg/laporanbestariberbicara2024"><img style="width: 50%;" height="auto" width="100%" alt="Bestari berbicara 2024" src="/images/Bestari_Berbicara_2024_Cover_book_Front.jpg"></a>
-<p></p>
 <h4><strong>Gambar Bestari Berbicara 2024</strong></h4>
-<hr>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoIrCJh0duHX9vjWp_dqDMHYNWrrkUC_sMB-eBjxwv63Vi0BuqfNNSFe2hGrkmxHzrokFxkRUGdMFt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoIrCJh0duHX9vjWp_dqDMHYNWrrkUC_sMB-eBjxwv63Vi0BuqfNNSFe2hGrkmxHzrokFxkRUGdMFt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
-<p><strong>Klik di bawah untuk</strong>  <strong>Bahan Digital Bestari Berbicara 2022 dan 2023</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs_bestari_berbicara_2022"><img style="width: 95%;" height="auto" width="100%" alt="Bestari Berbicara 2022" src="/images/ebook_bestari_berbica_2022.jpg"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/bestari_berbicara_2024-v3?fr=xKAE9_zU1NQ"><img style="width: 70%;" height="auto" width="100%" alt="Bestari Berbicara 2023" src="/images/ebook_bestari_berbica_2023.jpg"></a>
-</th>
-</tr>
-</tbody>
-</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>
@@ -62,7 +43,8 @@ dan pengalaman mereka dengan rakan-rakan ketua pedagogi yang lain.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bestari Berbicara 2023</summary>
+<summary><strong>Bestari Berbicara 2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Pada tahun 2023, Program Bestari Berbicara telah dianjurkan pada <strong>26 Oktober 2023</strong> secara
 bersemuka di bangunan Pusat Bahasa Melayu Singapura.</p>
