@@ -2,18 +2,18 @@ collections:
   resources:
     output: true
     order:
+      - Teaching Resources/.keep
+      - Teaching Resources/Interaksi Lisan.md
+      - Teaching Resources/Video Stimulus for Primary Schools.md
+      - Teaching Resources/Video Stimulus for Seconday Schools.md
+      - Teaching Resources/Short Stories Anthologies.md
+      - Reading Materials/.keep
       - Reading Materials/ML Poetry SG 50 Publication.md
       - Reading Materials/Hikmah Melayu.md
       - Reading Materials/Singapore Teaching Practice.md
       - Reading Materials/Dian Bahasa Series.md
       - "Reading Materials/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
       - "Reading Materials/Sarkasi Said: Words of Wisdom.md"
-      - Reading Materials/.keep
-      - Teaching Resources/.keep
-      - Teaching Resources/Interaksi Lisan.md
-      - Teaching Resources/Video Stimulus for Primary Schools.md
-      - Teaching Resources/Video Stimulus for Seconday Schools.md
-      - Teaching Resources/Short Stories Anthologies.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
