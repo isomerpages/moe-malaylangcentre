@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - "Reading Materials/Sarkasi Said: Words of Wisdom.md"
       - Reading Materials/.keep
       - Teaching Resources/.keep
       - Teaching Resources/Interaksi Lisan.md
