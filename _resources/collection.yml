@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Teaching Resources/Video Stimulus for Seconday Schools.md
       - Teaching Resources/Interaksi Lisan.md
       - Teaching Resources/.keep
       - Short Stories Anthologies.md
