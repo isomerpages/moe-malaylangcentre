@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Anthology.md
+      - Short Stories Anthologies.md
       - Video Stimulus for Seconday Schools.md
       - Video Stimulus for Primary Schools.md
       - Interaksi Lisan.md
