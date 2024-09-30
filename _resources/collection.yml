@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Video Stimulus for Seconday Schools.md
       - Video Stimulus for Primary Schools.md
       - Interaksi Lisan.md
       - "Bicara Budiman: Suratman Markasan.md"
