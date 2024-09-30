@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Reading Materials/Dian Bahasa Series.md
       - "Reading Materials/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
       - "Reading Materials/Sarkasi Said: Words of Wisdom.md"
       - Reading Materials/.keep
