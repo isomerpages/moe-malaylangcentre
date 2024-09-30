@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - Teaching Resources/Short Stories Anthologies.md
+      - Teaching Resources/.keep
+      - Teaching Resources/Interaksi Lisan.md
       - Teaching Resources/Video Stimulus for Primary Schools.md
       - Teaching Resources/Video Stimulus for Seconday Schools.md
-      - Teaching Resources/Interaksi Lisan.md
-      - Teaching Resources/.keep
+      - Teaching Resources/Short Stories Anthologies.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
       - Resources/Resources.md
