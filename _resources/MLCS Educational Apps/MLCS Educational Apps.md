@@ -5,10 +5,51 @@ description: ""
 third_nav_title: MLCS Educational Apps
 variant: tiptap
 ---
-##### **APP TERBITAN MLCS**
-
-Selain membina bahan PdP bercetak, MLCS juga menerbitkan bahan-bahan PdP dalam bentuk aplikasi. Sejauh ini, MLCS telah menerbitkan lima aplikasi bagi menjadikan pengajaran dan pembelajaran bahasa Melayu menyeronokkan. Kesemua app yang dibina oleh MLCS telah memenangi anugerah InnergyAwards.
-
-Berikut ialah app yang dibina oleh MLCS.
-
-<table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Hind, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 838px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 210px;"><td style="box-sizing: border-box; width: 312.734px;"><a href="/mlcs/resources/mlcs-educational-apps/bitara-kata" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);"><img src="/images/bitara-kata-1.jpeg" alt="Bitara Kata" title="Bitara Kata" data-displaymode="Thumbnail" style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;"></a></td><td style="box-sizing: border-box; width: 300.82px;"><a href="/mlcs/resources/mlcs-educational-apps/pintar-peribahasa" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);"><img src="/images/pintar-peribahasa-1.jpeg" alt="Pintar Peribahasa 1" title="Pintar Peribahasa" data-displaymode="Thumbnail" style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;"></a></td><td style="box-sizing: border-box; width: 216.445px;"><a href="/mlcs/resources/mlcs-educational-apps/cerita-rakyat-nusantara" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);"><img src="/images/cerita-rakyat-nusantara-1.jpeg" alt="Cerita Rakyat Nusantara" title="Cerita Rakyat Nusantara" data-displaymode="Thumbnail" style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;"></a></td></tr><tr style="box-sizing: border-box; height: 210px;"><td style="box-sizing: border-box; width: 312.734px;"><a href="/mlcs/resources/mlcs-educational-apps/pintar-kata" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);"><img src="/images/pintar-kata-1.jpeg" alt="Pintar Kata" title="Pintar Kata" data-displaymode="Thumbnail" style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;"></a></td><td style="box-sizing: border-box; width: 300.82px;"><a href="/mlcs/resources/mlcs-educational-apps/legenda-singapura" style="box-sizing: border-box; background-color: transparent; color: rgb(202, 33, 38);"><img src="/images/legenda-singapura.jpeg" alt="Legenda Singapura" title="Legenda Singapura" data-displaymode="Thumbnail" style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;"></a></td><td style="box-sizing: border-box; width: 216.445px;">&nbsp;</td></tr></tbody></table>
+<h5><strong>APP TERBITAN MLCS</strong></h5>
+<p>Selain membina bahan PdP bercetak, MLCS juga menerbitkan bahan-bahan PdP
+dalam bentuk aplikasi. Sejauh ini, MLCS telah menerbitkan lima aplikasi
+bagi menjadikan pengajaran dan pembelajaran bahasa Melayu menyeronokkan.
+Kesemua app yang dibina oleh MLCS telah memenangi anugerah InnergyAwards.</p>
+<p>Berikut ialah app yang dibina oleh MLCS.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Bitara Kata" alt="Bitara Kata" src="/images/bitara-kata-1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Pintar Peribahasa" alt="Pintar Peribahasa 1" src="/images/pintar-peribahasa-1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Cerita Rakyat Nusantara" alt="Cerita Rakyat Nusantara" src="/images/cerita-rakyat-nusantara-1.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" title="Pintar Kata" alt="Pintar Kata" src="/images/pintar-kata-1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Legenda Singapura" alt="Legenda Singapura" src="/images/legenda-singapura.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Boleh dimuat turun secara percuma melalui&nbsp;&nbsp;<a href="http://apps.apple.com/us/app/bitara-kata/id1206368854" rel="noopener noreferrer nofollow" target="_blank">iTunes App Store</a>.</p>
