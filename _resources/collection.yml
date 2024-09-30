@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Reading Materials/ML Poetry SG 50 Publication.md
       - Reading Materials/Hikmah Melayu.md
       - Reading Materials/Singapore Teaching Practice.md
       - Reading Materials/Dian Bahasa Series.md
