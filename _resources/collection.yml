@@ -2,9 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - Other Resources/.keep
-      - Other Resources/eMTL Symposium 2022.md
-      - Other Resources/MLCS 10th Anniversary.md
+      - Teaching Resources/.keep
+      - Teaching Resources/Interaksi Lisan.md
+      - Teaching Resources/Video Stimulus for Primary Schools.md
+      - Teaching Resources/Video Stimulus for Seconday Schools.md
+      - Teaching Resources/Short Stories Anthologies.md
       - Reading Materials/.keep
       - "Reading Materials/Bicara Budiman: Suratman Markasan.md"
       - "Reading Materials/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
@@ -20,13 +22,12 @@ collections:
       - MLCS Educational Apps/Pintar Peribahasa.md
       - MLCS Educational Apps/Legenda Singapura.md
       - MLCS Educational Apps/Cerita Rakyat Nusantara.md
+      - Other Resources/.keep
+      - Other Resources/eMTL Symposium 2022.md
+      - Other Resources/MLCS 10th Anniversary.md
+      - Resource Centre@MLCS.md
       - Resources/.keep
       - Resources/Resources.md
-      - Teaching Resources/.keep
-      - Teaching Resources/Interaksi Lisan.md
-      - Teaching Resources/Video Stimulus for Primary Schools.md
-      - Teaching Resources/Video Stimulus for Seconday Schools.md
-      - Teaching Resources/Short Stories Anthologies.md
       - MLCS Publications/.keep
       - MLCS Publications/MLCS Publications.md
       - MLCS Publications/2021.md
@@ -62,4 +63,3 @@ collections:
       - Video/Video Ceramah Arif Budiman (CAB).md
       - Regional Conferences Papers.md
       - Arif Budiman Lecture Series Publications.md
-      - Resource Centre@MLCS.md
