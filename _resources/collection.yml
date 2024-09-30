@@ -3,11 +3,6 @@ collections:
     output: true
     order:
       - Resources.md
-      - Teaching Resources/.keep
-      - Teaching Resources/Interaksi Lisan.md
-      - Teaching Resources/Video Stimulus for Primary Schools.md
-      - Teaching Resources/Video Stimulus for Seconday Schools.md
-      - Teaching Resources/Short Stories Anthologies.md
       - Reading Materials/.keep
       - "Reading Materials/Bicara Budiman: Suratman Markasan.md"
       - "Reading Materials/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
@@ -23,11 +18,7 @@ collections:
       - MLCS Educational Apps/Pintar Kata.md
       - MLCS Educational Apps/Pintar Peribahasa.md
       - MLCS Educational Apps/Legenda Singapura.md
-      - Other Resources/.keep
-      - Other Resources/eMTL Symposium 2022.md
-      - Other Resources/MLCS 10th Anniversary.md
       - Resource Centre@MLCS.md
-      - Resources/.keep
       - MLCS Publications/.keep
       - MLCS Publications/2021.md
       - MLCS Publications/2020.md
