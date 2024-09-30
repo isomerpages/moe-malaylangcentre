@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Other Resources/e MTLS 2022 MLCS.md
+      - Other Resources/eMTL Symposium 2022.md
       - Other Resources/MLCS 10th Anniversary.md
       - Other Resources/.keep
       - Teaching Resources/.keep
