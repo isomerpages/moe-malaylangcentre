@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Teaching Resources.md
       - Interaksi Lisan.md
       - "Bicara Budiman: Suratman Markasan.md"
       - Resources/.keep
