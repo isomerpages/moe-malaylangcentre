@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - Teaching Resource/Short Stories Anthologies.md
       - Teaching Resource/.keep
       - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
       - Teaching Resource/Video Stimulus (Primary Schools).md
       - Teaching Resource/Video Stimulus (Secondary Schools).md
+      - Teaching Resource/Short Stories Anthologies.md
       - Resources.md
       - Reading Materials/.keep
       - "Reading Materials/Bicara Budiman: Suratman Markasan.md"
