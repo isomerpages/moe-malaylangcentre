@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Other resources/.keep
       - Resources.md
       - Teaching Resource/.keep
       - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
