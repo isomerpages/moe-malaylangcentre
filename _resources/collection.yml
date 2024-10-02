@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Teaching Resource/Short Stories Anthologies.md
       - Teaching Resource/.keep
       - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
       - Teaching Resource/Video Stimulus (Primary Schools).md
