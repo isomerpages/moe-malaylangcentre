@@ -75,7 +75,7 @@ PDF yang terdapat dalam laman ini.</p>
 </p>
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/" rel="noopener noreferrer nofollow" target="_blank">Short Stories : Rahsia</a>
 </p>
-<p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a> 
+<p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
 </p>
 <hr>
 <h4>Ebook</h4><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg"></a>
