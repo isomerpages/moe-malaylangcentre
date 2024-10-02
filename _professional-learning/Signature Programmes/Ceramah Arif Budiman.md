@@ -143,14 +143,16 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/img_5610%202.jpeg">
 </div>
 <p>Tajuk:&nbsp;Yang Terbilang dan yang Hilang: Menelusuri Sejarah Awal dan
-Perubahan Peranan Bahasa Melayu Melalui Penamaan dan Peristilahan di Singapura</p>
-<p>Penceramah:&nbsp;Dr. Imran Tajudeen</p>
+Perubahan Peranan Bahasa Melayu Melalui Penamaan dan Peristilahan di Singapura
+<br>
+</p>
+<p>Penceramah:&nbsp;Dr. Imran Tajudeen
+<br>
+</p>
 <p>Pensyarah Kanan, Universiti Nasional Singapura</p>
-<p>Tempat:&nbsp;Pusat Bahasa Melayu Singapura</p>
-<p>Slaid Pembentangan:&nbsp;Sila klik pautan berikut untuk mendapatkan slaid
-pembentangan Dr. Imran Tajudeen.</p>
-<p>Abstrak:&nbsp;Klik pautan berikut untuk mendapatkan abstrak pembentangan&nbsp;Dr.
-Imran Tajudeen.</p>
+<p>Tempat:&nbsp;Pusat Bahasa Melayu Singapura
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -179,9 +181,13 @@ Imran Tajudeen.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-16, 21 Februari 2020" src="/images/20200221-img_2086.jpeg">
 </div>
 <p>Tajuk:&nbsp;Masa Depan Bahasa Melayu Di Nusantara</p>
-<p>Penceramah:&nbsp;Prof Datuk Dr Awang Sariyan</p>
+<p>Penceramah:&nbsp;Prof Datuk Dr Awang Sariyan
+<br>
+</p>
 <p>Penyandang Kursi Za'ba, Institut Peradaban Melayu, Universiti Pendidikan
-Sultan Idris (UPSI)</p>
+Sultan Idris (UPSI)
+<br>
+</p>
 <p>Tempat:&nbsp;Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -196,10 +202,15 @@ Sultan Idris (UPSI)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-15, 12 Julai 2019" src="/images/img_6995.jpeg">
 </div>
-<p>Ceramah Arif Budiman Ke-15, 12 Julai 2019</p>
+<p>Ceramah Arif Budiman Ke-15, 12 Julai 2019
+<br>
+<br>
+</p>
 <p>Tajuk: Singapura Sebelum Raffles</p>
 <p>Penceramah: Prof Madya Dr Farish Ahmad Noor</p>
-<p>Sekolah Pengajian Antarabangsa, S Rajaratnam, Universiti Teknologi Nanyang</p>
+<p>Sekolah Pengajian Antarabangsa, S Rajaratnam, Universiti Teknologi Nanyang
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -212,7 +223,9 @@ Sultan Idris (UPSI)</p>
 </div>
 <p>Tajuk: Naratif Melayu Singapura: Cabaran Berbahasa</p>
 <p>Penceramah: Encik Sidek Saniff</p>
-<p>Mantan Menteri Negara Kanan, Singapura</p>
+<p>Mantan Menteri Negara Kanan, Singapura
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -222,9 +235,13 @@ Sultan Idris (UPSI)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-13, 20 Mei 2016" src="/images/cab_13_1.jpeg">
 </div>
-<p>Tajuk: Naratif Melayu Singapura: Cabaran Berbahasa</p>
+<p>Tajuk: Naratif Melayu Singapura: Cabaran Berbahasa
+<br>
+</p>
 <p>Penceramah: Profesor Dr Mikihiro Moriyama</p>
-<p>Jabatan Pengajian Asia, Universiti Nanzan, Jepun</p>
+<p>Jabatan Pengajian Asia, Universiti Nanzan, Jepun
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -241,9 +258,13 @@ Sultan Idris (UPSI)</p>
 </div>
 <p></p>
 <p>Tajuk: Orang Melayu dan Tamdun Melayu dalam Historiografi Melayu Islam
-(kurun ke-13 hingga ke-19)</p>
+(kurun ke-13 hingga ke-19)
+<br>
+</p>
 <p>Penceramah: Profesor Dr Tatiana Denisova</p>
-<p>Pusat Kajian Tinggi Islam, Sains dan Peradaban (CASIS)</p>
+<p>Pusat Kajian Tinggi Islam, Sains dan Peradaban (CASIS)
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -258,11 +279,14 @@ Sultan Idris (UPSI)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-11, 14 Februari 2015" src="/images/cab_11_6.jpeg">
 </div>
-<p>Tajuk: Nilai-nilai Asas Jati Diri Melayu Sebagai Perekat Kehidupan Bermasyarakat
-Berbangsa dan Bernegara</p>
+<p>Tajuk: Nilai-nilai Asas Jati Diri Melayu Sebagai Perekat
+<br>
+<br>Kehidupan Bermasyarakat Berbangsa dan Bernegara</p>
 <p>Penceramah: Datuk Al Azhar</p>
 <p>Ketua Umum&nbsp; Dewan Pimpinan Harian</p>
-<p>Lembaga Adat Melayu, Riau, Indonesia</p>
+<p>Lembaga Adat Melayu, Riau, Indonesia
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
@@ -281,10 +305,14 @@ Berbangsa dan Bernegara</p>
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 569.336px;" height="auto" width="100%" alt="Ceramah Arif Budiman Ke-9, 23 Februari 2013" src="https://mlcs.moe.edu.sg/images/cab_9_5.jpeg">
 </div>
 <p>Tajuk: Bahasa Indonesia dan Bahasa Melayu: Perkembangan Hubungan dan Masa
-Depannya</p>
+Depannya
+<br>
+</p>
 <p>Penceramah: Profesor Dr Mahsun</p>
 <p>Kepala, Badan Pengembangan dan Pembinaan Bahasa,</p>
-<p>Kementerian Pendidikan dan Kebudayaan Indonesia</p>
+<p>Kementerian Pendidikan dan Kebudayaan Indonesia
+<br>
+</p>
 <p>Tempat: Pusat Bahasa Melayu Singapura</p>
 </div>
 </details>
