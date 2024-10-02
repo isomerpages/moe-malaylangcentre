@@ -2,8 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Other resources/MLCS 10th Anniversary.md
-      - Other resources/.keep
       - Resources.md
       - Teaching Resource/.keep
       - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
@@ -26,6 +24,8 @@ collections:
       - MLCS Educational Apps/Pintar Peribahasa.md
       - MLCS Educational Apps/Legenda Singapura.md
       - Resource Centre@MLCS.md
+      - Other resources/.keep
+      - Other resources/MLCS 10th Anniversary.md
       - MLCS Publications/.keep
       - MLCS Publications/2021.md
       - MLCS Publications/2020.md
