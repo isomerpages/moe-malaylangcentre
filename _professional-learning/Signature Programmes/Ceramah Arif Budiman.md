@@ -50,7 +50,6 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,8 +129,7 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 <p>Tajuk: Naratif Sastera Singapura</p>
 <p>Penyampai Ucaptama: Cikgu Suratman Markasan</p>
 <p></p>
-<p>Klik pautan berikut untuk mendapatkan Slaid pembentangan Cikgu Suratman
-Markasan.
+<p>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/drive/folders/1LRdDLGqm07GKfhcdjvjWdehojK-x16F3" rel="noopener nofollow" target="_blank">Slaid pembentangan Cikgu Suratman Markasan</a>.
 <br>
 </p>
 </div>
