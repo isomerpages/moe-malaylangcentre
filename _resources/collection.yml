@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Teaching Resource/.keep
       - Resources.md
       - Reading Materials/.keep
       - "Reading Materials/Bicara Budiman: Suratman Markasan.md"
