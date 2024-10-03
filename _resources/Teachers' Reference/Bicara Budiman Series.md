@@ -76,9 +76,8 @@ klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.</p>
 <p></p>
 <hr>
 <h4><strong>Saranan Pengajaran &amp; Pembelajaran</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -93,11 +92,6 @@ klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bicara_Budiman_Sekolah_Rendah.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_code_Bicara_budiman_sekolah_rendah.png">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -109,9 +103,47 @@ klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bicara_Budiman_Sekolah_Menengah.jpg">
 </div>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Bicara Budiman: Dr Muhammad Ariff Ahmad</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Words of Wisdom</strong>
+</p>
+<p></p>
+<p><strong>Saranan Pengajaran &amp; Pembelajaran </strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/pakej-bicara-budiman-dr-muhmmad-ariff-ahmad-(prauniversiti).pdf" rel="noopener noreferrer nofollow" target="_blank">Pakej Bicara Budiman:</a>
+<br><a href="/files/pakej-bicara-budiman-dr-muhmmad-ariff-ahmad-(prauniversiti).pdf" rel="noopener noreferrer nofollow" target="_blank">Dr Muhammad Ariff Ahmad (PraUniversiti)</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" src="/images/001%20-%20pra%20u%20-%20bicara%20budiman%20-%20dr%20md%20arif%20ahmad.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/sekolah-menengah.pdf" rel="noopener noreferrer nofollow" target="_blank">Pakej Bicara Budiman: Dr Muhammad Ariff Ahmad (Sekolah Menengah)</a></strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_Code_bicarabudimanmenengah.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/001%20-%20sec%20-%20bicara%20budiman%20-%20dr%20md%20arif%20ahmad.jpg">
 </div>
 </td>
 </tr>
@@ -119,13 +151,9 @@ klip video Cikgu Suratman mendeklamasikan sajak-sajak beliau.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p>KMM</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
