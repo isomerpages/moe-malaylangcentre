@@ -17,12 +17,22 @@ bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.</p>
 <p>Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan
 aktif para guru serta pelajar.</p>
 <p><strong>Objektif CAB adalah seperti yang berikut: </strong>
-<br>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;
-memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan
-Bahasa dan budaya Melayu;
-<br>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;</p>
+</li>
+<li>
+<p>memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan
+Bahasa dan budaya Melayu;</p>
+</li>
+<li>
+<p>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
+</li>
+</ul>
 <p><strong>Slaid Pembentangan Encik Yatiman Yusof</strong>
 <br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>slaid pembentangan</u></a> Encik
 Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SlaidPembentangan.jpg"></a>
