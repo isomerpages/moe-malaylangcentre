@@ -60,16 +60,15 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>E-Penerbitan MLCS</p>
+<th rowspan="1" colspan="2">
+<p>E-Buku</p>
 </th>
 </tr>
 <tr>
@@ -80,44 +79,6 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_code__Ceramah_Arif_Budiman_Jilid_5.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/bicarabudimansekolahrendah" rel="noopener noreferrer nofollow" target="_blank">Saranan Pengajaran &amp; Pembelajaran -Sekolah Rendah</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bicara_Budiman_Sekolah_Rendah.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_code_Bicara_budiman_sekolah_rendah.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/bicarabudimanmenengah" rel="noopener noreferrer nofollow" target="_blank">Saranan Pengajaran &amp; Pembelajaran - Sekolah Menengah &amp; Maktab Rendah</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Bicara_Budiman_Sekolah_Menengah.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR_Code_bicarabudimanmenengah.png">
 </div>
 </td>
 </tr>
