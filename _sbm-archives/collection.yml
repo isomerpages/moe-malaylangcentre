@@ -1,0 +1,4 @@
+collections:
+  sbm-archives:
+    output: true
+    order: []
