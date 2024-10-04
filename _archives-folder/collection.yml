@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Video/Video Ceramah Arif Budiman (CAB).md
       - Video/.keep
       - Arif Budiman Lecture Series Publications.md
       - Regional Conferences Papers.md
