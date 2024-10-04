@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Video/.keep
       - Arif Budiman Lecture Series Publications.md
       - Regional Conferences Papers.md
       - MLCS Publications/2021.md
