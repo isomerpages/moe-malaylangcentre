@@ -1,5 +1,5 @@
 collections:
-  sbm-archives:
+  archives-folder:
     output: true
     order:
       - SBM Archives/SEMINAR BAHASA MELAYU 2021.md
