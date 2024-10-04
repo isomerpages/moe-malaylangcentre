@@ -18,32 +18,17 @@ Kesemua app yang dibina oleh MLCS telah memenangi anugerah InnergyAwards.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Bitara Kata" alt="Bitara Kata" src="/images/bitara-kata-1.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mlcs/resources/mlcs-educational-apps/bitara-kata/"><img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Bitara Kata" alt="Bitara Kata" src="/images/bitara-kata-1.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Pintar Peribahasa" alt="Pintar Peribahasa 1" src="/images/pintar-peribahasa-1.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mlcs/resources/mlcs-educational-apps/pintar-peribahasa/"><img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Pintar Peribahasa" alt="Pintar Peribahasa 1" src="/images/pintar-peribahasa-1.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Cerita Rakyat Nusantara" alt="Cerita Rakyat Nusantara" src="/images/cerita-rakyat-nusantara-1.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mlcs/resources/mlcs-educational-apps/cerita-rakyat-nusantara/"><img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Cerita Rakyat Nusantara" alt="Cerita Rakyat Nusantara" src="/images/cerita-rakyat-nusantara-1.jpeg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" title="Pintar Kata" alt="Pintar Kata" src="/images/pintar-kata-1.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mlcs/resources/mlcs-educational-apps/pintar-kata/"><img style="width: 90%;" height="auto" width="100%" title="Pintar Kata" alt="Pintar Kata" src="/images/pintar-kata-1.jpeg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Legenda Singapura" alt="Legenda Singapura" src="/images/legenda-singapura.jpeg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mlcs/resources/mlcs-educational-apps/legenda-singapura/"><img style="box-sizing: border-box; border-style: none; margin: 10px 0px; max-width: 100%;" height="auto" width="100%" title="Legenda Singapura" alt="Legenda Singapura" src="/images/legenda-singapura.jpeg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
