@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - MLCS Publications/2016.md
       - MLCS Publications/2015.md
       - MLCS Publications/2014.md
       - MLCS Publications/2013.md
