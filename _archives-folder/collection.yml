@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - MLCS Education Apps/Legenda Singapura.md
       - MLCS Education Apps/Pintar Kata.md
       - MLCS Education Apps/Cerita Rakyat Nusantara.md
       - MLCS Education Apps/Bitara Kata.md
