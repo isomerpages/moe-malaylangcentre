@@ -1,4 +1,5 @@
 collections:
   sbm-archives:
     output: true
-    order: []
+    order:
+      - Malay Language Seminar Publications.md
