@@ -2,6 +2,7 @@ collections:
   sbm-archives:
     output: true
     order:
+      - SBM Archives/SEMINAR BAHASA MELAYU 2022.md
       - SBM Archives/Malay Language Seminar Publications.md
       - SBM Archives/.keep
       - SEMINAR BAHASA MELAYU 2021.md
