@@ -2,4 +2,5 @@ collections:
   sbm-archives:
     output: true
     order:
+      - SEMINAR BAHASA MELAYU 2022.md
       - Malay Language Seminar Publications.md
