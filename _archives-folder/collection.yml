@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MLCS Publications/.keep
-      - MLCS Publications.md
       - SBM Archives/SEMINAR BAHASA MELAYU 2020.md
       - SBM Archives/SEMINAR BAHASA MELAYU 2019.md
       - SBM Archives/SEMINAR BAHASA MELAYU 2018.md
