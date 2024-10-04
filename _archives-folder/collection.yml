@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - MLCS Publications.md
       - SBM Archives/SEMINAR BAHASA MELAYU 2021.md
       - SBM Archives/SEMINAR BAHASA MELAYU 2022.md
       - SBM Archives/Malay Language Seminar Publications.md
