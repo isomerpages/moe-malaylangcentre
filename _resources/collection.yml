@@ -2,21 +2,21 @@ collections:
   resources:
     output: true
     order:
-      - MLCS Educational Apps.md
       - Resources.md
       - Teaching Resource/.keep
       - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
       - Teaching Resource/Short Stories Anthologies.md
       - Teaching Resource/Video Stimulus (Primary Schools).md
       - Teaching Resource/Video Stimulus (Secondary Schools).md
-      - Teachers' Reference/Bicara Budiman Series.md
       - Teachers' Reference/.keep
+      - Teachers' Reference/Bicara Budiman Series.md
       - Teachers' Reference/Dian Bahasa Series.md
       - Teachers' Reference/Singapore Teaching Practice.md
       - Teachers' Reference/Hikmah Melayu.md
       - Teachers' Reference/ML Poetry SG 50 Publication.md
       - MLCS Educational Apps/.keep
+      - MLCS Educational Apps.md
       - Resource Centre@MLCS.md
-      - Other resources/eMTL Symposium 2022.md
       - Other resources/.keep
+      - Other resources/eMTL Symposium 2022.md
       - Other resources/MLCS 10th Anniversary.md
