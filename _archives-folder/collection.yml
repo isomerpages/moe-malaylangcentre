@@ -1,0 +1,49 @@
+collections:
+  archives-folder:
+    output: true
+    order:
+      - MLCS Education Apps/Pintar Peribahasa.md
+      - MLCS Education Apps/Legenda Singapura.md
+      - MLCS Education Apps/Pintar Kata.md
+      - MLCS Education Apps/Cerita Rakyat Nusantara.md
+      - MLCS Education Apps/Bitara Kata.md
+      - MLCS Education Apps/.keep
+      - "Bicara Budiman Series/Sarkasi Said: Words of Wisdom.md"
+      - "Bicara Budiman Series/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
+      - "Bicara Budiman Series/Bicara Budiman: Suratman Markasan.md"
+      - Bicara Budiman Series/.keep
+      - Video/Video.md
+      - Video/Video Terbitan MLCS.md
+      - Video/Video Clip on Malay Language Seminar.md
+      - Video/Video Ceramah Arif Budiman (CAB).md
+      - Video/.keep
+      - Arif Budiman Lecture Series Publications.md
+      - Regional Conferences Papers.md
+      - MLCS Publications/2021.md
+      - MLCS Publications/2020.md
+      - MLCS Publications/2019.md
+      - MLCS Publications/2018.md
+      - MLCS Publications/2017.md
+      - MLCS Publications/2016.md
+      - MLCS Publications/2015.md
+      - MLCS Publications/2014.md
+      - MLCS Publications/2013.md
+      - MLCS Publications/2012.md
+      - MLCS Publications/2011.md
+      - MLCS Publications/2010.md
+      - MLCS Publications/MLCS Publications.md
+      - MLCS Publications/.keep
+      - SBM Archives/SEMINAR BAHASA MELAYU 2020.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2019.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2018.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2017.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2016.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2015.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2014.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2013.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2012.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2011.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2021.md
+      - SBM Archives/SEMINAR BAHASA MELAYU 2022.md
+      - SBM Archives/Malay Language Seminar Publications.md
+      - SBM Archives/.keep

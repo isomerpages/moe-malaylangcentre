@@ -1,0 +1,14 @@
+logo: /images/mlcs-logo-5-march-2013.png
+links:
+  - title: About the Centre
+    collection: about-the-centre
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Resources
+    collection: resources
+  - title: News & Events
+    resource_room: true
+  - title: Photo Gallery
+    collection: photo-gallery
+  - title: Syawal di MLCS
+    collection: syawal-di-mlcs

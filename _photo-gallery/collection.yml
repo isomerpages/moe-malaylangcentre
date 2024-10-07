@@ -1,0 +1,251 @@
+collections:
+  photo-gallery:
+    output: true
+    order:
+      - 2024/.keep
+      - 2024/2024.md
+      - 2024/Ceramah Arif Budiman 20 (2024).md
+      - 2024/Bestari Berbicara 2024.md
+      - 2024/Seminar Bahasa Melayu 2024.md
+      - 2024/Program Penempatan Bestari 2 (TLP2).md
+      - 2024/Meneroka Nadi CCE(Jan).md
+      - 2024/Perkongsian Profesional 2024.md
+      - 2023/.keep
+      - 2023/2023.md
+      - 2023/Bestari Berbicara 2023.md
+      - 2023/Sepetang Bersama Tunas Harapan 2023.md
+      - 2023/Bicara Ilmiah 2023.md
+      - 2023/Ceramah Arif Budiman 19.md
+      - 2023/Mother Tongue Language Symposium 2023.md
+      - 2022/.keep
+      - 2022/2022.md
+      - 2022/Seminar Bahasa Melayu 2022.md
+      - 2022/Ceramah Arif Budiman 18.md
+      - 2022/Sepetang Bersama Tunas Harapan 2022.md
+      - 2022/Bestari Berbicara 2022.md
+      - 2021/.keep
+      - 2021/2021.md
+      - 2021/Seminar Bahasa Melayu.md
+      - 2021/Annual Meeting (Rendah).md
+      - 2021/Annual Meeting (Menengah).md
+      - 2021/Ceramah Arif Budiman ke 17.md
+      - 2020/.keep
+      - 2020/2020.md
+      - "2020/Mesyuarat Bersama Guru : Sekolah Rendah.md"
+      - "2020/Mesyuarat Bersama Guru : Sekolah Menengah.md"
+      - "2020/Amalan Pengajaran Singapura : 21 01 20.md"
+      - "2020/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 21 01 20.md"
+      - "2020/Amalan Pengajaran Singapura : 22 01 20.md"
+      - "2020/Bahasa Baku Bagi Guru Permulaan 2019 (Graduan 2019) : 22 01 20.md"
+      - "2020/Bahasa Baku Bagi Guru Permulaan 2019 (Graduan 2019) : 23 01 20.md"
+      - "2020/6 2 20 : Meningkatkan Kemahiran Asas Membaca bagi Murid Praaras
+        Kebolehan Pri.md"
+      - "2020/6 2 20 : Pengajaran dan Pembelajaran Berkesan Menggunakan SLS
+        Pri.md"
+      - "2020/10 2 20 :  Literasi dan Amalan untuk Guru Permulaan (Graduan
+        2019).md"
+      - "2020/11 2 20 :  Literasi dan Amalan untuk Guru Permulaan (Graduan
+        2019).md"
+      - "2020/13 2 20 : Literasi Media dalam PdP Bahasa Melayu.md"
+      - "2020/21 2 20 : Ceramah Arif Budiman Ke 16.md"
+      - "2020/27 02 20 : Literasi Media dalam PdP Bahasa Melayu.md"
+      - 2020/Sambutan Ulang Tahun Ke 10 MLCS.md
+      - 2019/.keep
+      - 2019/2019.md
+      - 2019/Mesyuarat Bersama Guru.md
+      - 2019/Bahasa Baku bagi Guru Permulaan (2018 intake).md
+      - 2019/Kemahiran Interaksi Lisan Berdasarkan Video sebagai Stimulus.md
+      - "2019/Pengajaran Imbuhan : 28 1 19.md"
+      - "2019/Kursus STP : 31 1 19.md"
+      - 2019/Penulisan Karangan Naratif.md
+      - "2019/Pengajaran Imbuhan : 31 1 19.md"
+      - 2019/Penggunaan Filem dalam Penulisan Berdasarkan Tajuk (Menengah).md
+      - 2019/Penggunaan Filem dalam Penulisan Berdasarkan Tajuk (Rendah).md
+      - 2019/Tatabahasa Bahasa Melayu Modul 1.md
+      - 2019/Pengajaran Tatabahasa.md
+      - 2019/Seminar Bahasa Melayu.md
+      - 2019/Membina Item Penilaian bagi Guru.md
+      - 2019/Tatabahasa Bahasa Melayu Modul 2.md
+      - 2019/Pengajaran Kemahiran Interaksi Lisan Pelajar Bukan Penutur Jati.md
+      - 2019/Amalan Pengajaran Singapura.md
+      - 2019/Pengajaran Lisan Menggunakan Strategi VAK.md
+      - 2019/Menggunakan Bahan Sastera dalam Pembelajaran Bahasa Melayu.md
+      - 2019/Pengajaran Pribahasa.md
+      - 2019/Penulisan Karangan Berdasarkan Gambar.md
+      - 2019/Strategi Bacaan Terperinci.md
+      - "2019/Kursus STP : 17&18 4 2019.md"
+      - 2019/Kursus dari Dr Pitchay.md
+      - 2019/Kursus Cikgu Rahmat.md
+      - "2019/Peraduan App Pintar Kata : Murid & Guru.md"
+      - 2019/Use of Thinking Routines to Enhance Spoken Interaction Skill.md
+      - 2019/Visible Learning In the Teaching & Learning of Composition
+        Writing.md
+      - "2019/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 9 7 2019.md"
+      - 2019/Ceramah Arif Budiman.md
+      - "2019/STP : 17 7 2019.md"
+      - "2019/STP : 18 7 2019.md"
+      - 2019/Penggunaan Filem dalam Penulisan Karangan Naratif.md
+      - 2019/Penggunaan Filem dalam Penulisan Karangan Berdasarkan Tajuk.md
+      - "2019/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 25 7
+        2019.md"
+      - 2019/Program Reconstruksi Kata Nama Terbitan.md
+      - "2019/Effective Teaching and Learning Using SLS : 16 7 19.md"
+      - 2019/Briefing Seminar Bahasa Melayu.md
+      - "2019/Program Induksi bagi Guru Permulaan (2019 Intake) : 5 11 19.md"
+      - "2019/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 6 11 19.md"
+      - "2019/Program Induksi bagi Guru Permulaan (2019 Intake) : 6 11 19.md"
+      - "2019/Kursus Amalan Pengajaran Singapura : 7 11 19.md"
+      - "2019/8 11 19 : Kursus Amalan Pengajaran Singapura.md"
+      - "2019/Perkongsian oleh Guru Kanan dan Guru Peneraju : 8 11 19.md"
+      - "2019/Pengajaran dan Pembelajaran Berkesan Menggunakan SLS : 11 11 19.md"
+      - "2019/Menigkatkan Kemahiran Mendengar & Bertutur Dalam Kalangan Kanak2
+        Prasekolah : 28 11 19.md"
+      - 2018/.keep
+      - 2018/2018.md
+      - 2018/Flipped Classroom Sesi Ulang.md
+      - 2018/Menggunakan Bahan Sastera dalam Bahasa Melayu.md
+      - 2018/App Lagenda Singapura dalam Pengajaran dan Pembelajaran.md
+      - 2018/Ceramah Arif Budiman.md
+      - 2018/Kemahiran Interaksi Lisan Berdasarkan Video Sebagai Stimulus.md
+      - 2018/Membina item Penilaian.md
+      - 2018/Membina Kemahiran Kefahaman Membaca bagi Murid pada Praaras
+        Kebolehan.md
+      - 2018/MTL Symposium NIE.md
+      - 2018/MTL Symposium Suntec.md
+      - 2018/Pengajaran Imbuhan Sesi Ulang.md
+      - 2018/Penggunaan App Bitara Kata dalam Pembelajaran Kosa Kata.md
+      - 2018/Penulisan Karangan Berdasarkan Gambar Bersiri.md
+      - 2018/Penulisan Karangan Naratif.md
+      - 2018/Peraduan App Bitara Kata.md
+      - 2018/Peraduan App Pintar Kata.md
+      - 2018/Seminar Bahasa Melayu 2018.md
+      - 2018/Singapore Teaching Practice.md
+      - 2018/Strategi Pengajar Pengimbuhan bagi Pendidik Bersekutu.md
+      - 2018/Tatabahasa 2 Sesi Ulang.md
+      - 2018/Teacher Led Workshop.md
+      - 2017/.keep
+      - 2017/2017.md
+      - 2017/Bahasa Baku bagi Guru Permulaan.md
+      - 2017/Bengkel Aneka Kaedah Bercerita.md
+      - 2017/Flipped Classroom.md
+      - 2017/Kajian Pembelajaran.md
+      - 2017/Kemahiran Interaksi Lisan (Rerun).md
+      - 2017/Kemahiran Interaksi Lisan.md
+      - 2017/Kursus bagi guru Pra sekolah MOE Kindergarten.md
+      - 2017/Membina Item Penilaian.md
+      - 2017/Menjadikan Pemikiran Jelas.md
+      - 2017/Menjadikan Pemikiran Jelas (Rerun).md
+      - 2017/Mesyuarat Tahunan bersama Guru 2017 (Sek Men).md
+      - 2017/Mesyuarat Tahunan bersama Guru 2017 (Sek Ren).md
+      - 2017/MTL Symposium.md
+      - 2017/Pengajaran dan Pembelajaran Bahasa melalui Pantun.md
+      - 2017/Pengajaran Imbuhan.md
+      - 2017/Peraduan App Pintar Kata.md
+      - 2017/Perkongsian Profesional P&P BM Berdasarkan Cerita Asal Usul.md
+      - 2017/Perkongsian Profesional P&P BM Berdasarkan Cerpen.md
+      - 2017/Program Induksi bagi Guru Permulaan (2017 intake).md
+      - 2017/Seminar Bahasa Melayu 2017.md
+      - 2017/Sepetang bersama Pak Suratman.md
+      - 2017/Strategi Meningkatkan Pemikiran Peringkat Tinggi (Pri).md
+      - 2017/Strategi Meningkatkan Pemikiran Peringkat Tinggi (Sec).md
+      - 2017/Strategi Pengajaran Bahasa Melayu Lanjutan.md
+      - 2017/Strategies for Teaching of Conjunction (Kata Hubung).md
+      - 2017/Tatabahasa Bahasa Melayu Modul 1.md
+      - 2017/Tatabahasa Bahasa Melayu Modul 2.md
+      - 2016/.keep
+      - 2016/2016.md
+      - 2016/8th Teachers' Conference 2016.md
+      - 2016/Bahasa Baku bagi Guru Permulaan.md
+      - 2016/Ceramah Arif Budiman ke 13.md
+      - 2016/Daripada Kemahiran Reseptif kepada Produktif (Daripada Kemah).md
+      - 2016/E book CRN dalam Pengajaran dan Pembelajaran.md
+      - 2016/Literasi Visual.md
+      - 2016/Malay Grammar Module 1.md
+      - 2016/Membina App Bagi Pengajaran dan Pembelajaran BM.md
+      - 2016/Membina Item Penilaian.md
+      - 2016/Membina Item Penilaian (Guru Permulaan 2015) Pri.md
+      - 2016/Membina Item Penilaian (Guru Permulaan 2015) Sec.md
+      - 2016/Menjadikan Pemikiran Jelas (Sekolah Rendah).md
+      - 2016/Menjadikan Pemikiran Jelas (Sekolah Menengah).md
+      - 2016/Mesyuarat Bersama Guru Bahasa Melayu 2016.md
+      - 2016/ML STs and LTs Sharing Session.md
+      - 2016/MTL Symposium 2016.md
+      - 2016/Pementoran Asas bagi Guru Peneraju dan Guru Kanan.md
+      - 2016/Pemikiran Asas Tinggi (Pri).md
+      - 2016/Pemikiran Asas Tinggi (Sec).md
+      - 2016/Pengajaran dan Pembelajaran BM melalui CITRA.md
+      - 2016/Enriching Pupils' Vocab 2.md
+      - 2016/Pengajaran dan Pembelajaran BM Melalui Drama.md
+      - 2016/Pengajaran dan Pembelajaran BM melalui Pantun.md
+      - 2016/Pengunaan BF dalam Pengajaran dan Pembelajaran Kemahiran Menulis.md
+      - 2016/Peraduan App Pintar Kata Peringkat Nasional.md
+      - "2016/Perkongsian Profesional: CITRA.md"
+      - "2016/Perkongsian Profesional: Pembelajaran Bahasa Melalui Pantun.md"
+      - 2016/Program Induksi bagi Guru Permulaan.md
+      - 2016/Seminar Bahasa Melayu 2016.md
+      - 2016/Strategi Pengajaran BM Lanjutan.md
+      - 2016/Strategi Pengajaran Kemahiran Menulis.md
+      - 2016/Strategi Pengajaran Kemahiran Menulis 2.md
+      - 2016/Strategies for Enhancing Higher Order Thinking Skills Pri.md
+      - 2016/Strategies for Enhancing Higher Order Thinking Skills Sec.md
+      - 2016/Tatabahasa Bahasa Melayu Modul 1.md
+      - 2016/Enriching Pupils' Vocab.md
+      - 2015/.keep
+      - 2015/2015.md
+      - 2015/Ceramah Arif Budiman 12.md
+      - 2015/Ceramah Arif Budiman 11.md
+      - 2015/MTL Symposium 2015.md
+      - 2015/Peraduan App Pintar Kata.md
+      - 2015/Seminar Bahasa Melayu 2015.md
+      - 2015/SG50 Mengarang Pantun.md
+      - 2014/.keep
+      - 2014/2014.md
+      - 2014/Perasmian Pembukaan Pusat Bahasa Melayu Singapura.md
+      - 2014/Seminar Bahasa Melayu 2014.md
+      - 2013/.keep
+      - 2013/2013.md
+      - 2013/Ceramah Arif Budiman X.md
+      - 2013/Ceramah Arif Budiman IX.md
+      - 2013/Seminar Bahasa Melayu 2013.md
+      - 2012/.keep
+      - 2012/2012.md
+      - 2012/Ceramah Arif Budiman VII.md
+      - 2012/Ceramah Arif Budiman VIII.md
+      - 2012/Seminar Bahasa Melayu 2012.md
+      - 2011/.keep
+      - 2011/2011.md
+      - 2011/Ceramah Arif Budiman V.md
+      - 2011/Ceramah Arif Budiman VI.md
+      - 2011/Seminar Bahasa Melayu 2011.md
+      - 2010/.keep
+      - 2010/2010.md
+      - 2010/Ceramah Arif Budiman I.md
+      - 2010/Ceramah Arif Budiman II.md
+      - 2010/Ceramah Arif Budiman III.md
+      - 2010/Ceramah Arif Budiman IV.md
+      - Jejak Budaya/.keep
+      - Jejak Budaya/Jejak Budaya.md
+      - Jejak Budaya/Sekolah Rendah Rivervale.md
+      - Jejak Budaya/Sekolah Rendah Marsiling.md
+      - Jejak Budaya/Sekolah Rendah Chongfu.md
+      - Jejak Budaya/Sekolah Rendah Montfort.md
+      - Jejak Budaya/Sekolah Rendah Pioneer.md
+      - Jejak Budaya/Sekolah Rendah White Sands.md
+      - Jejak Budaya/Sekolah Menengah Bendemeer.md
+      - Jejak Budaya/Sekolah Menengah Commonwealth.md
+      - Jejak Budaya/Sekolah Menengah Outram.md
+      - Jejak Budaya/Sekolah Menengah Yishun.md
+      - Jejak Budaya/Sekolah Marymount Convent.md
+      - Jejak Budaya/Sekolah Montfort Junior.md
+      - Jejak Budaya/MOELC Bishan Bahasa Indonesia.md
+      - Jejak Budaya/Sekolah Gan Eng Seng.md
+      - Jejak Budaya/Sekolah Hai Sing Catholic.md
+      - Jejak Budaya/Sekolah Menengah Broadrick.md
+      - Jejak Budaya/Sekolah Rendah Ahmad Ibrahim.md
+      - Jejak Budaya/Sekolah Rendah Qihua.md
+      - Jejak Budaya/Sekolah Rendah Shuqun.md
+      - Jejak Budaya/Sekolah Rendah Tampines North.md
+      - Jejak Budaya/Sekolah Rendah Raffles Girls.md
+      - Jejak Budaya/Sekolah Rendah Woodlands.md
+      - Jejak Budaya/Sekolah Menengah Jurong.md
+      - Jejak Budaya/Sekolah Rendah Greenwood.md
