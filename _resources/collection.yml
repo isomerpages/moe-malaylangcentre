@@ -2,62 +2,20 @@ collections:
   resources:
     output: true
     order:
-      - Interaksi Lisan.md
-      - "Bicara Budiman: Suratman Markasan.md"
-      - Resources/.keep
-      - Resources/Resources.md
-      - "Resources/Sarkasi Said: Words of Wisdom.md"
-      - Resources/Anthology.md
-      - "Resources/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
-      - MLCS Publications/.keep
-      - MLCS Publications/MLCS Publications.md
-      - MLCS Publications/2021.md
-      - MLCS Publications/2020.md
-      - MLCS Publications/2019.md
-      - MLCS Publications/2018.md
-      - MLCS Publications/2017.md
-      - MLCS Publications/2016.md
-      - MLCS Publications/2015.md
-      - MLCS Publications/2014.md
-      - MLCS Publications/2013.md
-      - MLCS Publications/2012.md
-      - MLCS Publications/2011.md
-      - MLCS Publications/2010.md
-      - MLCS Educational Apps/.keep
-      - MLCS Educational Apps/MLCS Educational Apps.md
-      - MLCS Educational Apps/Legenda Singapura.md
-      - MLCS Educational Apps/Bitara Kata.md
-      - MLCS Educational Apps/Cerita Rakyat Nusantara.md
-      - MLCS Educational Apps/Pintar Kata.md
-      - MLCS Educational Apps/Pintar Peribahasa.md
-      - ML Seminar Publications/.keep
-      - ML Seminar Publications/Malay Language Seminar Publications.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2022.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2021.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2020.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2019.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2018.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2017.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2016.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2015.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2014.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2013.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2012.md
-      - ML Seminar Publications/SEMINAR BAHASA MELAYU 2011.md
-      - Perkongsian Profesional.md
-      - Video/.keep
-      - Video/Video.md
-      - Video/Video Terbitan MLCS.md
-      - Video/Video Clip on Malay Language Seminar.md
-      - Video/Video Ceramah Arif Budiman (CAB).md
-      - Video/Video Stimulus for Primary Schools.md
-      - Video/Video Stimulus for Seconday Schools.md
-      - Singapore Teaching Practice.md
-      - Regional Conferences Papers.md
-      - Arif Budiman Lecture Series Publications.md
-      - "Malay Language Journal: Dian Bahasa.md"
-      - Resource Centre.md
-      - Hikmah Melayu.md
-      - ML Poetry SG 50 Publication.md
-      - MLCS 10th Anniversary.md
-      - e MTLS 2022 MLCS.md
+      - Resources.md
+      - Teaching Resource/.keep
+      - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
+      - Teaching Resource/Short Stories Anthologies.md
+      - Teaching Resource/Video Stimulus (Primary Schools).md
+      - Teaching Resource/Video Stimulus (Secondary Schools).md
+      - Teachers' Reference/.keep
+      - Teachers' Reference/Bicara Budiman Series.md
+      - Teachers' Reference/Dian Bahasa Series.md
+      - Teachers' Reference/Singapore Teaching Practice.md
+      - Teachers' Reference/Hikmah Melayu.md
+      - Teachers' Reference/ML Poetry SG 50 Publication.md
+      - MLCS Educational Apps.md
+      - Resource Centre@MLCS.md
+      - Other resources/.keep
+      - Other resources/eMTL Symposium 2022.md
+      - Other resources/MLCS 10th Anniversary.md
