@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/Homepage_banner_1340x380px_Teachersday.gif
+      background: /images/Homepage_banner_1340x380px_col_mtls.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2024
@@ -64,7 +64,7 @@ sections:
         dan pembelajaran terutama...
       button: Sila lihat selanjutnya...
       url: /mlcs/resources/resource-centre/
-      image: /images/001_Copy_of_HIGHLIGHT__2_.gif
+      image: /images/Pusat_Sumber_main_image_1.gif
       alt: Pusat Sumber MLCS
   - infopic:
       image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
