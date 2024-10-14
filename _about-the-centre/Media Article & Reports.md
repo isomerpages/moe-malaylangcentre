@@ -24,7 +24,13 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong><u>Berita Mediacorp - 20 Julai 2023</u></strong>
+<br><strong>Pusat Bahasa Melayu lancarkan dokumentari khas tentang Suratman Markasan</strong>
+<br><a href="https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RF3ygd4Dz_M?si=zZZMe8cDqmZcOMk0"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
