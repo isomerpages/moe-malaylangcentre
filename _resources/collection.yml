@@ -2,8 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - MLCS Educational Apps/MLCS Educational Apps.md
-      - MLCS Educational Apps/.keep
       - Resources.md
       - Teaching Resources/.keep
       - Teaching Resources/Oral Interaction Package for Pri 1 & 2.md
@@ -16,6 +14,8 @@ collections:
       - Teachers' Reference/Singapore Teaching Practice.md
       - Teachers' Reference/Hikmah Melayu.md
       - Teachers' Reference/ML Poetry SG 50 Publication.md
+      - MLCS Educational Apps/.keep
+      - MLCS Educational Apps/MLCS Educational Apps.md
       - Resource Centre@MLCS.md
       - Other Resources/.keep
       - Other Resources/eMTL Symposium 2022.md
