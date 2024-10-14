@@ -4,8 +4,7 @@ permalink: /mlcs/professional-learning/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Professional Learning</strong></h4>
-<p></p>
+<h4><strong>Pembelajaran Profesional</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/017kursus.jpg">
 </div>
