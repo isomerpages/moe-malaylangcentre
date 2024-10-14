@@ -12,7 +12,13 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong><u>Berita Mediacorp - 25 Julai 2024</u></strong>
+<br><strong>Peranan bahasa Melayu dalam landskap geopolitik dan geoekonomi yang berubah-ubah diutarakan dalam Ceramah Arif Budiman</strong>
+<br><a href="https://berita.mediacorp.sg/singapura/peranan-bahasa-melayu-dalam-landskap-geopolitik-dan-geoekonomi-yang-berubah-ubah-diutarakan-dalam-ceramah-arif-budiman-864356" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/peranan-bahasa-melayu-dalam-landskap-geopolitik-dan-geoekonomi-yang-berubah-ubah-diutarakan-dalam-ceramah-arif-budiman-864356</a>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YZuaR8qb1is?si=3_4vchU8YH702a5z"></iframe>
+</div>
 </div>
 </details>
 <details class="isomer-details">
@@ -89,6 +95,33 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 </details>
 </div>
 <ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
 <li>
 <p>2021</p>
 <h3>Seminar Bahasa Melayu</h3>
@@ -767,4 +800,9 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 </table>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
