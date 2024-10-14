@@ -13,17 +13,14 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Berita Mediacorp - 25 Julai 2024</u></strong>
-<br><strong>Peranan bahasa Melayu dalam landskap geopolitik dan geoekonomi yang berubah-ubah diutarakan dalam Ceramah Arif Budiman</strong>
-<br><a href="https://berita.mediacorp.sg/singapura/peranan-bahasa-melayu-dalam-landskap-geopolitik-dan-geoekonomi-yang-berubah-ubah-diutarakan-dalam-ceramah-arif-budiman-864356" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/peranan-bahasa-melayu-dalam-landskap-geopolitik-dan-geoekonomi-yang-berubah-ubah-diutarakan-dalam-ceramah-arif-budiman-864356</a>
+<br><a href="https://berita.mediacorp.sg/singapura/peranan-bahasa-melayu-dalam-landskap-geopolitik-dan-geoekonomi-yang-berubah-ubah-diutarakan-dalam-ceramah-arif-budiman-864356?cid=internal_sharetool_iphone_26072024_berita" rel="noopener noreferrer nofollow" target="_blank">Peranan bahasa Melayu dalam landskap geopolitik dan geoekonomi yang berubah-ubah diutarakan dalam Ceramah Arif Budiman - BERITA Mediacorp</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YZuaR8qb1is?si=3_4vchU8YH702a5z"></iframe>
 </div>
 <p></p>
 <p><strong><u>Berita Harian - 25 Julai 2024</u></strong>
-<br><strong>Yatiman: Suntik kepakaran, perkasa agensi majukan bahasa Melayu</strong>
-</p>
-<p><a href="https://www.beritaharian.sg/singapura/yatiman-suntik-kepakaran-perkasa-agensi-majukan-bahasa-melayu" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/singapura/yatiman-suntik-kepakaran-perkasa-agensi-majukan-bahasa-melayu</a>
+<br><a href="https://www.beritaharian.sg/singapura/yatiman-suntik-kepakaran-perkasa-agensi-majukan-bahasa-melayu" rel="noopener noreferrer nofollow" target="_blank">Yatiman: Suntik Kepakaran, Perkasa Agensi Majukan Bahasa Melayu, Berita Singapura - Beritaharian.sg</a>
 </p>
 <p></p>
 </div>
@@ -33,14 +30,14 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Berita Mediacorp - 20 Julai 2023</u></strong>
 <br><strong>Pusat Bahasa Melayu lancarkan dokumentari khas tentang Suratman Markasan</strong>
-<br><a href="https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271</a>
+<br><a href="https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271" rel="noopener noreferrer nofollow" target="_blank">Pusat Bahasa Melayu lancarkan dokumentari khas tentang Suratman Markasan - BERITA Mediacorp</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RF3ygd4Dz_M?si=9xPeEofYa-tjtlUT"></iframe>
 </div>
 <p></p>
-<p>Berita Harian - 20 Julai 2023</p>
-<p></p>
+<p>Berita Harian - 21 Julai 2023</p>
+<p>Pusat Bahasa Melayu lancarkan dokumentari khas tentang Suratman Markasan</p>
 </div>
 </details>
 <details class="isomer-details">
