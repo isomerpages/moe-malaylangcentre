@@ -31,8 +31,8 @@ Kursus ini meliputi pelbagai aspek termasuklah kursus dalam aspek tatabahasa,
 e-pedagogi dan penilaian.</p>
 <p><strong>Bestari Budiman</strong> 
 <br>Program Bestari Budiman dibuka para kepada Guru Kanan dan Guru Peneraju.
-Antara kursus yang dijalankan termasuklah kursus Kepimpinan Instruksional
-Hati Budi Melayu dan lain-lain lagi.</p>
+Antara kursus yang dijalankan termasuklah program Bicara Ilmiah, Bestari
+Berbicara dan program penyerapan.</p>
 <p><strong>Cendekia Budiman</strong> 
 <br>Program Cendekia Budiman melibatkan pengajuran aktiviti Bahasa dan budaya
 yang berskala lebih besar dan melipatkan pelibatan lebih ramai guru dan
