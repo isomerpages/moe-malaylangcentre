@@ -36,14 +36,21 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <br><a href="https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-lancarkan-dokumentari-khas-tentang-suratman-markasan-772271</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RF3ygd4Dz_M?si=zZZMe8cDqmZcOMk0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RF3ygd4Dz_M?si=9xPeEofYa-tjtlUT"></iframe>
 </div>
+<p></p>
+<p>Berita Harian - 20 Julai 2023</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Berita Mediacorp</p>
 <p></p>
+<p><strong>Berita Harian 16 March 2022</strong>
+</p>
+<p>Buku elektronik karya guru dilancar</p>
 </div>
 </details>
 <details class="isomer-details">
