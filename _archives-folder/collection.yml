@@ -2,7 +2,6 @@ collections:
   archives-folder:
     output: true
     order:
-      - MLCS Education Apps/Cerita Rakyat Nusantara.md
       - MLCS Education Apps/Bitara Kata.md
       - MLCS Education Apps/.keep
       - "Bicara Budiman Series/Sarkasi Said: Words of Wisdom.md"
