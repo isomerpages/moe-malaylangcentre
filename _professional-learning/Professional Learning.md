@@ -34,10 +34,7 @@ e-pedagogi dan penilaian.</p>
 Antara kursus yang dijalankan termasuklah program Bicara Ilmiah, Bestari
 Berbicara dan program penyerapan.</p>
 <p><strong>Cendekia Budiman</strong> 
-<br>Program Cendekia Budiman melibatkan pengajuran aktiviti Bahasa dan budaya
-yang berskala lebih besar dan melipatkan pelibatan lebih ramai guru dan
-peserta seperti Seminar Bahasa Melayu yang dianjurkan setiap tahun, Ceramah
-Arif Budiman dan Perkongsian Profesional yang melibatkan perkongsian antara
-guru-guru tentang Kurikulum Berasaskan Sekolah, Kajian Pengajaran dan Pembelajaran
-Berasaskan Masalah.</p>
+<br>Program Cendekia Budiman melibatkan penganjuran aktiviti bahasa dan budaya
+yang berskala lebih besar dan melibatkan lebih ramai guru dan peserta seperti
+Seminar Bahasa Melayu, Ceramah Arif Budiman dan Perkongsian Profesional.</p>
 <p></p>
