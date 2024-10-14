@@ -14,11 +14,11 @@ guru Bahasa Melayu di Singapura. Setiap tahun lebih daripada 3,000 guru
 telah menghadiri pelbagai kursus yang dianjurkan oleh MLCS sejak 2011.
 Secara umum, MLCS menawarkan empat program:
 <br>a) Tunas Budiman
-<br>b) Mekar &nbsp; Budiman
+<br>b) Mekar Budiman
 <br>c) Bestari Budiman
 <br>d) Cendekia Budiman</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="MLCS Framework" src="/images/framework.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="MLCS PD Framework" src="/images/MLCS_PD_Framework.png">
 </div>
 <p><strong>Tunas Budiman</strong> 
 <br>Program Tunas Budiman ditawarkan kepada guru yang mempunyai pengalaman
