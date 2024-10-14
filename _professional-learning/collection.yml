@@ -2,7 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
-      - Professional Development.md
+      - Professional Learning.md
       - Training Programmes/.keep
       - Training Programmes/Training Calendar & Registration.md
       - Training Programmes/School Based Programme.md
