@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - MLCS Educational Apps/.keep
       - Resources.md
       - Teaching Resources/.keep
       - Teaching Resources/Oral Interaction Package for Pri 1 & 2.md
