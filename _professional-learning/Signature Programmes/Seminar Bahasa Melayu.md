@@ -189,7 +189,7 @@ Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Buku e-Prosiding Seminar Bahasa Melayu 2022</a> </strong>
+<p><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Buku e-Prosiding Seminar Bahasa Melayu 2022</a></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2022resize.png"></a>
@@ -197,9 +197,6 @@ Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 </div>
 </details>
 </div>
