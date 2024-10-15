@@ -2,7 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
-      - Photo Gallery Archives/.keep
+      - Photo Gallery Archives   2021/.keep
       - "Bicara Budiman Series/Sarkasi Said: Words of Wisdom.md"
       - "Bicara Budiman Series/Dr Muhammad Ariff Ahmad: Words of Wisdom.md"
       - "Bicara Budiman Series/Bicara Budiman: Suratman Markasan.md"
