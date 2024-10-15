@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Gallery Archies 2014/.keep
       - Photo Gallery Archives 2015/.keep
       - Photo Gallery Archives 2016/.keep
       - Photo Gallery Archives 2017/.keep
