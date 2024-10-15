@@ -52,7 +52,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>VIDEO SEMINAR BAHASA MELAYU 2024</p>
+<h4><strong>VIDEO SEMINAR BAHASA MELAYU 2024</strong></h4>
 </th>
 </tr>
 <tr>
@@ -155,10 +155,9 @@ Bukit Batok</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Gambar Seminar Bahasa Melayu 2024</strong>
-</p>
+<h4><strong>Gambar Seminar Bahasa Melayu 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="350" width="580" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
