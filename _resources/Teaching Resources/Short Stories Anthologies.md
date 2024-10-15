@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Teaching Resources
 ---
 <h2>Antologi Cerpen</h2>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/antologi_cerpen.jpg">
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -127,7 +128,7 @@ bahan-bahan pengajaran dan pembelajaran tersebut.
 <summary><strong>Rahsia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4> Rahsia</h4>
+<h4>Rahsia</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="rahsia" src="/images/rahsia.png">
 </div>
