@@ -16,9 +16,10 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sbm2024a.jpg">
 </div>
 <p>
-<br>Tema 'Memarak Inovasi, Memekar Pedagogi'&nbsp;memberi tumpuan bagi merancakkan
-lagi usaha guru untuk menambah nilai dan mempertingkat PdP di bilik darjah
-bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
+<br>Tema <strong>'Memarak Inovasi, Memekar Pedagogi'&nbsp;</strong>memberi
+tumpuan bagi merancakkan lagi usaha guru untuk menambah nilai dan mempertingkat
+PdP di bilik darjah bagi memenuhi matlamat dan hasil pembelajaran serta
+kemahiran abad ke-21.</p>
 <p>Perubahan yang diperkenalkan adalah bertujuan untuk memberikan guru masa
 yang secukupnya untuk melaksanakan kajian di bilik darjah dengan lebih
 baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
@@ -33,7 +34,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BUKU E-PROSIDING SEMINAR BAHASA MELAYU 2024</a>
+<p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">Buku e-Prosiding Seminar Bahasa Melayu 2024</a>
 </p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2024resize.jpg"></a>
@@ -161,35 +162,42 @@ Bukit Batok</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>SEMINAR BAHASA MELAYU 2022</summary>
+<summary><strong>SEMINAR BAHASA MELAYU 2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4><strong>Seminar Bahasa Melayu 2022</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Seminar Bahasa Melayu" src="/images/Seminar%20Bahasa%20Melayu.jpg">
 </div>
-<p>VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran
-(PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan
+<p><strong>Tema: VISI ARIF BUDIMAN: Menyulam Kecemerlangan Pengajaran dan Pembelajaran (PdP) Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan</strong> 
 <br>
 </p>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan acara tahunan
-Seminar Bahasa Melayu pada Selasa, 15 Mac 2022.
-<br>
-<br>Seminar ini dianjurkan secara langsung menerusi sidang Zoom.
+Seminar Bahasa Melayu pada Selasa, 15 Mac 2022. Seminar ini dianjurkan
+secara langsung menerusi sidang Zoom.
 <br>
 </p>
 <p>MLCS mengundang guru-guru bahasa Melayu di Singapura untuk menjalankan
-kajian dan berkongsi dapatan kajian dalam Seminar tersebut.
-<br>
-<br>Seminar Bahasa Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di
-Singapura.
-<br>
+kajian dan berkongsi dapatan kajian dalam Seminar tersebut. Seminar Bahasa
+Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.</p>
+<h4><strong>Buku e-Prosiding Seminar Bahasa Melayu 2024</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Buku e-Prosiding Seminar Bahasa Melayu 2022</a> </strong>
 </p>
-<p>Kandungan Buku Prosiding Seminar Bahasa Melayu 2022
-<br>
-</p>
-<p>Klik <a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">pautan</a> berikut
-untuk mengakses buku digital
-<br><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Seminar Bahasa Melayu 2022</a> 
+</td>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2022resize.png"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 </div>
