@@ -180,7 +180,6 @@ secara langsung menerusi sidang Zoom.
 <p>MLCS mengundang guru-guru bahasa Melayu di Singapura untuk menjalankan
 kajian dan berkongsi dapatan kajian dalam Seminar tersebut. Seminar Bahasa
 Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.</p>
-<h4><strong>Buku e-Prosiding Seminar Bahasa Melayu 2024</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -189,7 +188,7 @@ Melayu ini dibuka hanya untuk guru-guru bahasa Melayu di Singapura.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Prosiding Buku e-Prosiding Seminar Bahasa Melayu 2022</a></strong>
+<p><strong><a href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03" rel="noopener nofollow" target="_blank">Buku e-Prosiding Seminar Bahasa Melayu 2022</a></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-sbm2022-03"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2022resize.png"></a>
