@@ -49,7 +49,7 @@ Sumber MLCS.
 </tr>
 </tbody>
 </table>
-<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan dibawah:</strong>
+<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <hr>
 <h4><strong>Paparan Khazanah Pilihan - Bulan Bahasa (October 2024)</strong></h4>
