@@ -15,7 +15,6 @@ third_nav_title: Teaching Resources
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
 </p>
 <hr>
-<h4></h4>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -24,7 +23,7 @@ third_nav_title: Teaching Resources
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Antologi Cerpen Benih</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/001%20benih-small.png">
+<img style="width: 30%;" height="auto" width="100%" src="/images/001%20benih-small.png">
 </div>
 <p>Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi
 Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen
@@ -94,7 +93,7 @@ PDF yang terdapat dalam laman ini.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>Antologi Janji</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
+<img style="width: 30%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
 </div>
 <h5>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>&nbsp;dalam bentuk digital.</h5>
 <p>Antologi Janji merupakan kumpulan cerpen yang dihasilkan oleh guru-guru
@@ -132,17 +131,142 @@ bahan-bahan pengajaran dan pembelajaran tersebut.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Rahsia</strong>
+<summary><strong>Antologi Cerpen Rahsia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4>Antologi Cerpen Rahsia</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="rahsia" src="/images/rahsia.png">
+</div>
+<p>Rahsia merupakan koleksi cerpen karya guru peserta program penyerapan
+bagi Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi
+cerpen ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam
+kalangan murid khususnya di peringkat Menengah 1 dan 2. Rahsia mengandungi
+7 cerpen.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/1-sabsuka.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabsuka(.pdf, 2.84 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2-ginjal.pdf" rel="noopener noreferrer nofollow" target="_blank">Ginjal(.pdf, 2.65 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/3-azimat-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Azimat(.pdf, 3.07 MB)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Senandika_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Senandika(.pdf, 2.66 MB)</a>
+</p>
 <p></p>
+</li>
+<li>
+<p><a href="/files/Atuk_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Atuk (Pg1-11)(.pdf4.88 MB)</a> 
+<br><a href="/files/Atuk_path__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Atuk (Pg12-17)(.pdf 3.14 MB)</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/6-rahsia.pdf" rel="noopener noreferrer nofollow" target="_blank">Rahsia(.pdf, 3.85 MB)</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="/files/DendamMergastu_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 1-3)(.pdf 728 KB)</a> 
+<br><a href="/files/DendamMergastu_path_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 4-7) (.pdf 4.23 MB)</a> 
+<br><a href="/files/DendamMergastu_path_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Dendam Mergastua (Pg 8-17)(.pdf 2.72 MB)</a>
+</p>
+</li>
+</ol>
+<p>Selain itu koleksi cerpen ini juga mengandungi sebuah buku panduan berjudul
+Idea. Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa
+Melayu menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
+<p><a href="/files/Idea_Sec_path.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 1-21)(.pdf 2.98 MB)</a> 
+<br><a href="/files/Idea_Sec_path__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran(Pg 22-43)(.pdf 3.77 MB)</a>
+</p>
+<p><strong>Ralat:</strong>
+</p>
+<p>Terdapat kesilapan cetakan dalam Antologi Cerpen Rahsia. Berikut perinciannya:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Cerpen ‘Azimat’ – halaman 11, ejaan ‘Mar’ dibetulkan menjadi ‘Mac’.</p>
+</li>
+</ol>
+<p>Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi
+PDF yang terdapat dalam laman ini.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Citra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4>Antologi Citra</h4>
+<p>Antologi Cerpen Guru Peserta Program Penyerapan ke Brunei Darussalam.
+<br><a href="/files/citra-kandungan.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-Kandungan(.pdf, 108.12 KB)</a>
+<br><a href="/files/citra-sekapur-sirih.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-Sekapur-Sirih(.pdf, 160.72 KB)</a>
+<br><a href="/files/citra-prakata.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-Prakata(.pdf, 102.79 KB)</a>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/citra-1.pdf" rel="noopener noreferrer nofollow" target="_blank">14 Minit(.pdf, 297.2 KB)</a>&nbsp;oleh
+Sumiati Ra’at</p>
+</li>
+<li>
+<p><a href="/files/citra-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Cahaya Pembuka Hati(.pdf, 331.29 KB)</a>&nbsp;oleh
+Nor Faatihah Haron</p>
+</li>
+<li>
+<p><a href="/files/citra-3.pdf" rel="noopener noreferrer nofollow" target="_blank">Gelung Sanggul Cik Nora(.pdf, 304.96 KB)</a>oleh
+Muslim Hanafiah</p>
+</li>
+<li>
+<p><a href="/files/citra-4.pdf" rel="noopener noreferrer nofollow" target="_blank">Hancurnya Satu Harapan(.pdf, 223.49 KB)</a>&nbsp;oleh
+Mohd Yazid Md Yatim</p>
+</li>
+<li>
+<p><a href="/files/citra-5.pdf" rel="noopener noreferrer nofollow" target="_blank">Hani dan Umi(.pdf, 291.91 KB)</a>&nbsp;oleh
+Raudzah Osman</p>
+</li>
+<li>
+<p><a href="/files/citra-6.pdf" rel="noopener noreferrer nofollow" target="_blank">Iman(.pdf, 245.06 KB)</a>&nbsp;oleh
+Siti Radziah Mustafa</p>
+</li>
+<li>
+<p><a href="/files/citra-7.pdf" rel="noopener noreferrer nofollow" target="_blank">Kawan Baharu(.pdf, 387.15 KB)</a>&nbsp;oleh
+Hazlan Mohd Aris</p>
+</li>
+<li>
+<p><a href="/files/citra-8.pdf" rel="noopener noreferrer nofollow" target="_blank">Mendung Berlalu(.pdf, 261.04 KB)</a>&nbsp;oleh
+Suriyanti Jumari</p>
+</li>
+<li>
+<p><a href="/files/citra-9.pdf" rel="noopener noreferrer nofollow" target="_blank">Nilai Kebenaran(.pdf, 259.06 KB)</a>&nbsp;oleh
+Zainab Nawabi</p>
+</li>
+<li>
+<p><a href="/files/citra-10.pdf" rel="noopener noreferrer nofollow" target="_blank">Nombor Satu(.pdf, 245.76 KB)</a>&nbsp;oleh
+Musniffa Mustaffa</p>
+</li>
+<li>
+<p><a href="/files/citra-11.pdf" rel="noopener noreferrer nofollow" target="_blank">Penantian(.pdf, 266.35 KB)</a>&nbsp;oleh
+Asnur Mursalin Aspar</p>
+</li>
+<li>
+<p><a href="/files/citra-12.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-12(.pdf, 245.32 KB)</a>&nbsp;oleh
+Faizal Farouk</p>
+</li>
+<li>
+<p><a href="/files/citra-13.pdf" rel="noopener noreferrer nofollow" target="_blank">Setia Hingga Akhir Hayat(.pdf, 235.56 KB)</a>&nbsp;oleh
+Rohana Ismail</p>
+</li>
+<li>
+<p><a href="/files/citra-14.pdf" rel="noopener noreferrer nofollow" target="_blank">Siakap(.pdf, 274.21 KB)</a>&nbsp;oleh
+Sri Nabilah Basri</p>
+</li>
+</ol>
+<p>Soalan Perbincangan</p>
+<p>Penghargaan</p>
 </div>
 </details>
 </div>
