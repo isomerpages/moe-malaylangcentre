@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/.keep
       - Photo Gallery Archives 2010/.keep
       - Photo Gallery Archives 2011/.keep
       - Photo Gallery Archives 2012/.keep
