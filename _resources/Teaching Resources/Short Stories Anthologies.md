@@ -5,23 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Teaching Resources
 ---
-<h5></h5>
-<hr>
-<h5>SECONDARY</h5>
-<p><a href="/mlcs/resources/anthology/secondary/short-stories-janji/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Janji</a>
-</p>
-<p><a href="/mlcs/resources/anthology/secondary/short-stories-secondary-rahsia/" rel="noopener noreferrer nofollow" target="_blank">Short Stories : Rahsia</a>
-</p>
-<p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
-</p>
-<hr>
+<h2>Antologi Cerpen</h2>
+<p></p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Benih</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Antologi Cerpen Benih</h4>
+<h4>Benih</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/001%20benih-small.png">
 </div>
@@ -91,7 +84,7 @@ PDF yang terdapat dalam laman ini.</p>
 <summary><strong>Janji</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>Antologi Janji</strong></h4>
+<h4><strong>Janji</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
 </div>
@@ -131,10 +124,10 @@ bahan-bahan pengajaran dan pembelajaran tersebut.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Antologi Cerpen Rahsia</strong>
+<summary><strong>Rahsia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Antologi Cerpen Rahsia</h4>
+<h4> Rahsia</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="rahsia" src="/images/rahsia.png">
 </div>
@@ -201,7 +194,11 @@ PDF yang terdapat dalam laman ini.</p>
 <summary><strong>Citra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Antologi Citra</h4>
+<h4>Citra</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Citra___cover.png">
+</div>
 <p>Antologi Cerpen Guru Peserta Program Penyerapan ke Brunei Darussalam.
 <br><a href="/files/citra-kandungan.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-Kandungan(.pdf, 108.12 KB)</a>
 <br><a href="/files/citra-sekapur-sirih.pdf" rel="noopener noreferrer nofollow" target="_blank">CITRA-Sekapur-Sirih(.pdf, 160.72 KB)</a>
@@ -265,8 +262,7 @@ Rohana Ismail</p>
 Sri Nabilah Basri</p>
 </li>
 </ol>
-<p>Soalan Perbincangan</p>
-<p>Penghargaan</p>
+<p></p>
 </div>
 </details>
 </div>
