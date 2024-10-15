@@ -11,7 +11,10 @@ tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
 untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
-</p><a class="isomer-image-wrapper" href="https://sites.google.com/view/mlcs-sbm2024/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sesi_Sidang_Selari__1_.jpg"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sbm2024a.jpg">
+</div>
 <p>
 <br>Tema 'Memarak Inovasi, Memekar Pedagogi'&nbsp;memberi tumpuan bagi merancakkan
 lagi usaha guru untuk menambah nilai dan mempertingkat PdP di bilik darjah
@@ -20,20 +23,23 @@ bagi memenuhi matlamat dan hasil pembelajaran serta kemahiran abad ke-21.</p>
 yang secukupnya untuk melaksanakan kajian di bilik darjah dengan lebih
 baik demi meningkatkan pengajaran dan pembelajaran yang menyeronokkan dan
 berkesan dalam kalangan para guru bahasa Melayu.</p>
-<p><strong>Imbas kod QR berikut untuk mendapatkan e-Penerbitan MLCS</strong>
-</p>
-<table style="minWidth: 25px">
+<h4><strong>Buku e-prosiding Seminar Bahasa Melayu 2024</strong></h4>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/QR_SBM2024__1_.jpg">
-</div>
 <p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">BUKU E-PROSIDING SEMINAR BAHASA MELAYU 2024</a>
 </p>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2024resize.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
