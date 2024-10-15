@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Gallery Archives   2021/2021.md
       - Photo Gallery Archives   2021/Seminar Bahasa Melayu.md
       - Photo Gallery Archives   2021/Annual Meeting (Rendah).md
       - Photo Gallery Archives   2021/Annual Meeting (Menengah).md
