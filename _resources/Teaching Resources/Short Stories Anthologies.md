@@ -15,9 +15,7 @@ third_nav_title: Teaching Resources
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-citra/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Citra</a>
 </p>
 <hr>
-<h4>Ebook</h4><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg"></a>
-<p>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>&nbsp;dalam
-bentuk digital.</p>
+<h4></h4>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -104,7 +102,13 @@ yang mengikuti bengkel yang pernah dianjurkan oleh Cikgu Suratman Markasan.
 Antologi ini mengandungi 10 buah cerpen. Antologi ini telah diterbitkan
 dalam bentuk digital bagi membolehkan lebih ramai guru dan pelajar untuk
 memanfaatkan antologi ini sebagai bahan bacaan dan pengajaran dan pembelajaran.
-<br><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong>
+<br>
+<br><strong>Ebook</strong>
+</p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg"></a>
+<p>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener nofollow" target="_blank">Antologi Janji</a> dalam
+bentuk digital.</p>
+<hr>
+<p><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Cover_PdP_Janji" src="/images/cover_pdp_janji.png">
