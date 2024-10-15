@@ -5,70 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teaching Resources
 ---
-<h5>PRIMARY : ANTOLOGI CERPEN BENIH</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/001%20benih-small.png">
-</div>
-<p>Benih merupakan koleksi cerpen karya guru peserta program penyerapan bagi
-Guru Kanan ke Pekanbaru, Indonesia pada bulan Mei-Jun 2016. Koleksi cerpen
-ini memaparkan pelbagai tema bagi menggalakkan minat membaca dalam kalangan
-murid khususnya di peringkat Darjah 5 dan 6. Benih mengandungi 7 cerpen.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/1-sahabat.pdf" rel="noopener noreferrer nofollow" target="_blank">Sahabat(.pdf, 2.77 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2-sekilas.pdf" rel="noopener noreferrer nofollow" target="_blank">Sekilas Senyuman(.pdf, 2.38 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/3-benih.pdf" rel="noopener noreferrer nofollow" target="_blank">Benih(.pdf, 2.57 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/4-untuk_myra-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Untuk Myra(.pdf, 2.56 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/5-insaf-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insaf(.pdf, 2.5 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/6-anakpenjualtisu.pdf" rel="noopener noreferrer nofollow" target="_blank">Anak Penjual Tisu(.pdf, 2.6 MB)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/7-pengganti-r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Pengganti(.pdf, 2.92 MB)</a>
-</p>
-</li>
-</ol>
-<p>Selain itu, Benih juga mengandungi sebuah buku panduan berjudul Idea.
-Idea mengandungi beberapa saranan pengajaran dan pembelajaran bahasa Melayu
-menggunakan 7 cerpen yang terkandung dalam koleksi ini.</p>
-<p><a href="/files/Idea_path_anthology__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran - Bahagian 1</a>
-</p>
-<p><a href="/files/Idea_path_anthology__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Idea Saranan Pengajaran dan Pembelajaran - Bahagian 2</a>
-</p>
-<p></p>
-<p><strong>Ralat:</strong>
-</p>
-<p>Terdapat beberapa kesilapan cetakan dalam Antologi Cerpen Benih. Berikut
-perinciannya:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Cerpen ‘Insaf’ – halaman 6, ejaan ‘biadap’ dibetulkan menjadi ‘biadab’.</p>
-</li>
-<li>
-<p>Cerpen ‘Pengganti’ – halaman 5, ejaan ‘ana-anak’ dibetulkan menjadi ‘anak-anak’.</p>
-</li>
-<li>
-<p>Cerpen ‘Untuk Myra’ – halaman 8, ejaan ‘ngadu Myra…’ dibetulkan menjadi
-‘Myra mengadu…’.</p>
-</li>
-</ol>
-<p>Ralat atau kesilapan dalam cetakan ini telah pun dibetulkan dalam versi
-PDF yang terdapat dalam laman ini.</p>
+<h5></h5>
 <hr>
 <h5>SECONDARY</h5>
 <p><a href="/mlcs/resources/anthology/secondary/short-stories-janji/" rel="noopener noreferrer nofollow" target="_blank">Short Stories: Janji</a>
@@ -87,7 +24,7 @@ bentuk digital.</p>
 <summary><strong>Benih</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h5>ANTOLOGI CERPEN BENIH</h5>
+<h4>Antologi Cerpen Benih</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" src="/images/001%20benih-small.png">
 </div>
@@ -157,7 +94,7 @@ PDF yang terdapat dalam laman ini.</p>
 <summary><strong>Janji</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>Antologi Janji</strong></h3>
+<h4><strong>Antologi Janji</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
 </div>
@@ -166,9 +103,9 @@ PDF yang terdapat dalam laman ini.</p>
 yang mengikuti bengkel yang pernah dianjurkan oleh Cikgu Suratman Markasan.
 Antologi ini mengandungi 10 buah cerpen. Antologi ini telah diterbitkan
 dalam bentuk digital bagi membolehkan lebih ramai guru dan pelajar untuk
-memanfaatkan antologi ini sebagai bahan bacaan dan pengajaran dan pembelajaran.</p>
-<hr>
-<h3><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong></h3>
+memanfaatkan antologi ini sebagai bahan bacaan dan pengajaran dan pembelajaran.
+<br><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Cover_PdP_Janji" src="/images/cover_pdp_janji.png">
 </div>
