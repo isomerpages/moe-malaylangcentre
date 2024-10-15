@@ -89,7 +89,6 @@ PDF yang terdapat dalam laman ini.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Janji Cover" src="/images/janji-cover.jpeg">
 </div>
-<h5>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener noreferrer nofollow" target="_blank">Antologi Janji</a>&nbsp;dalam bentuk digital.</h5>
 <p>Antologi Janji merupakan kumpulan cerpen yang dihasilkan oleh guru-guru
 yang mengikuti bengkel yang pernah dianjurkan oleh Cikgu Suratman Markasan.
 Antologi ini mengandungi 10 buah cerpen. Antologi ini telah diterbitkan
