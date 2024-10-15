@@ -52,7 +52,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>VIDEO SEMINAR BAHASA MELAYU 2024</strong></h4>
+<h4><strong>Video Seminar Bahasa Melayu 2024</strong></h4>
 </th>
 </tr>
 <tr>
