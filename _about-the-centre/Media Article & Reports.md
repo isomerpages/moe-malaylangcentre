@@ -41,6 +41,8 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <summary>2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Berita Mediacorp</p>
+<p><a href="https://berita.mediacorp.sg/singapura/ceramah-arif-budiman-bahasa-melayu-ada-peranan-penting-dalam-penamaan-tempat-693236?cid=internal_sharetool_web_23092022_berita" rel="noopener nofollow" target="_blank">Ceramah Arif Budiman: Bahan Melayu ada peranan penting dalam penamaan tempat</a>
+</p>
 <p></p>
 <p><strong>Berita Harian 16 March 2022</strong>
 </p>
@@ -110,30 +112,6 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 </details>
 </div>
 <ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
 <li>
 <p></p>
 </li>
