@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/Sekolah Rendah Tampines North.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Raffles Girls.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Woodlands.md
       - Photo Archives Jejak Budaya/Sekolah Menengah Jurong.md
