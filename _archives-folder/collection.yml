@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/Sekolah Menengah Outram.md
       - Photo Archives Jejak Budaya/Sekolah Menengah Yishun.md
       - Photo Archives Jejak Budaya/Sekolah Marymount Convent.md
       - Photo Archives Jejak Budaya/Sekolah Montfort Junior.md
