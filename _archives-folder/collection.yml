@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/Sekolah Rendah Montfort.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Pioneer.md
       - Photo Archives Jejak Budaya/Sekolah Rendah White Sands.md
       - Photo Archives Jejak Budaya/Sekolah Menengah Bendemeer.md
