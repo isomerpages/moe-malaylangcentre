@@ -53,7 +53,38 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2021</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -114,10 +145,6 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
-</li>
-<li>
-<p>2021</p>
-<h3>Seminar Bahasa Melayu</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,8 +185,15 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 </table>
 </li>
 <li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
 <p>2020</p>
 <h3>Sambutan Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
