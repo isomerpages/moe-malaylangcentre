@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/MOELC Bishan Bahasa Indonesia.md
       - Photo Archives Jejak Budaya/Sekolah Gan Eng Seng.md
       - Photo Archives Jejak Budaya/Sekolah Hai Sing Catholic.md
       - Photo Archives Jejak Budaya/Sekolah Menengah Broadrick.md
