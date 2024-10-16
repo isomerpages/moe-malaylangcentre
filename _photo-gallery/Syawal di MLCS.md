@@ -253,5 +253,20 @@ description: ""
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Raya 2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Selamat Hari Raya Aidil Fitri 2023</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Selamat Hari Raya 2023" src="/images/green%20modern%20happy%20eid%20al-fitr%20instagram%20post.png">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xHqV7MbKhIY?si=Sq729rc6Q570QVuh"></iframe>
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
