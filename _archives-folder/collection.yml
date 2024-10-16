@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/Sekolah Rendah Marsiling.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Chongfu.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Montfort.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Pioneer.md
