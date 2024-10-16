@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Photo Archives Jejak Budaya/Sekolah Menengah Jurong.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Greenwood.md
       - Photo Archives Jejak Budaya/.keep
       - Photo Gallery Archives 2010/2010.md
