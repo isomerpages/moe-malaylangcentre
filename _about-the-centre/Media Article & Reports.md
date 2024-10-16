@@ -35,9 +35,6 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RF3ygd4Dz_M?si=9xPeEofYa-tjtlUT"></iframe>
 </div>
-<p></p>
-<p>Berita Harian - 21 Julai 2023</p>
-<p>Pusat Bahasa Melayu lancarkan dokumentari khas tentang Suratman Markasan</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -47,7 +44,8 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <p></p>
 <p><strong>Berita Harian 16 March 2022</strong>
 </p>
-<p>Buku elektronik karya guru dilancar</p>
+<p><a href="https://www.beritaharian.sg/setempat/buku-elektronik-karya-guru-dilancar" rel="noopener nofollow" target="_blank">Buku elektronik karya guru dilancar</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
