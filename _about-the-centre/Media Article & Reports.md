@@ -68,7 +68,7 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <summary>2020</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Sambutan Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura</u></strong>
-<br><strong>Berita Harian  - 23 Nov 2020</strong>	
+<br><strong>Berita Harian - 23 Nov 2020</strong> 
 <br><a href="https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara" rel="noopener nofollow" target="_blank">Pengarah Pusat Bahasa Melayu S'pura bersara</a>
 <br><strong>Berita Mediacorp - 23 Nov 2020</strong>
 <br><a href="https://berita.mediacorp.sg/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak-67321" rel="noopener nofollow" target="_blank">Guru berperanan terap nilai murni melalui khazanah tidak ternilai dalam bahasa Melayu</a>
@@ -76,7 +76,12 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <br><a href="https://www.zaobao.com.sg/news/singapore/story20201125-1103625" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20201125-1103625</a>
 </p>
 <p></p>
-<p></p>
+<p><strong><u>Ceramah Arif Budiman</u></strong>
+</p>
+<p><strong>Berita Harian - 2 Feb 2020</strong>
+</p>
+<p><a href="https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia" rel="noopener nofollow" target="_blank">Bahasa Melayu ada potensi jadi salah satu bahasa utama dunia</a>
+</p>
 <p></p>
 <p></p>
 </div>
