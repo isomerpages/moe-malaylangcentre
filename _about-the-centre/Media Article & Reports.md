@@ -87,6 +87,14 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2019</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>Ceramah Arif Budiman</u></strong>
+<br><strong>Berita Mediacorp - 13 Julai 2019</strong>
+<br><a href="https://berita.mediacorp.sg/mobilem/singapura/ceramah-arif-budiman-ke-15-rungkai-sejarah-asia-tenggara/4307682.html" rel="noopener nofollow" target="_blank">Ceramah Arif Budiman ke-15 rungkai sejarah Asia Tenggara, tanggapan Barat</a>
+</p>
+<p></p>
+<p><strong>Berita Harian - 13 Julai 2019</strong>
+<br><a href="https://www.beritaharian.sg/setempat/ceramah-arif-budiman-ketahui-sejarah-fahami-jati-diri" rel="noopener nofollow" target="_blank">'Ketahui sejarah, fahami jati diri'</a>
+</p>
 <p></p>
 </div>
 </details>
