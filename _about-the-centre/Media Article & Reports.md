@@ -171,6 +171,17 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2014</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Berita Harian - 30 Aug 2014</strong>
+<br>18.5 minit jawab 130 kuiz peribahasa
+<br><a href="http://www.beritaharian.sg/setempat/185-minit-jawab-130-kuiz-peribahasa" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/185-minit-jawab-130-kuiz-peribahasa</a>
+<br><strong>Berita Mediacorp - 13 April 2014</strong>
+<br>MLCS yang dibuka rasmi hari ini
+<br><a href="https://www.facebook.com/beritamediacorp/videos/771649152848296/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/beritamediacorp/videos/771649152848296/</a>
+<br><strong>Berita Harian</strong>
+<br>Pusat pertingkat pengajaran dan kerjaya guru bahasa melayu
+<br><a href="http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru-bahasa-melayu" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru-bahasa-melayu</a>
+<br><a href="http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/pusat-pertingkat-pengajaran-dan-kerjaya-guru</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -190,70 +201,15 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>2015</p>
-<h3>Sekitar 270 pelajar uji penguasaan kosa kata bahasa Melayu</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tarikh</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tajuk</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31/7/2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Hawazi: Jangkaan ke atas Pusat Bahasa terus meningkat</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tarikh</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tajuk</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15/2/2015</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
