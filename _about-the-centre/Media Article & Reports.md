@@ -148,6 +148,19 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2016</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Berita Mediacorp - 21 May 2016</strong>
+<br>'Dian Bahasa' bantu guru, pelajar peroleh bahan bacaan, rujukan bermutu
+<br><a href="https://berita.mediacorp.sg/mobilem/singapore/dian-bahasa-bantu-guru/2804670.html" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapore/dian-bahasa-bantu-guru/2804670.html</a>
+<br><strong>Berita Mediacorp - 10 April 2016</strong>
+<br>FOKUS: Adakah usaha lahirkan generasi pendeta pelapis mencukupi
+<br><a href="https://berita.mediacorp.sg/mobilem/singapore/fokus-adakah-usaha/2683596.html" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapore/fokus-adakah-usaha/2683596.html</a>
+<br><strong>Berita Harian - 16 March 2016</strong>
+<br>Faishal: Guru bahasa Melayu perlu jiwa keusahawanan
+<br><a href="http://www.beritaharian.sg/setempat/faishal-guru-bahasa-melayu-perlu-jiwa-keusahawanan" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/faishal-guru-bahasa-melayu-perlu-jiwa-keusahawanan</a>
+<br><strong>Berita Mediacorp - 15 March 2016</strong>
+<br>Dr Faishal: Luaskan usaha agar pembelajaran Melayu kekal relevan
+<br><a href="https://berita.mediacorp.sg/mobilem/singapore/dr-faishal-luaskan-usaha/2604942.html" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapore/dr-faishal-luaskan-usaha/2604942.html</a>
+</p>
 <p></p>
 </div>
 </details>
