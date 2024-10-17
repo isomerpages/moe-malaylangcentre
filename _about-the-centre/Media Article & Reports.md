@@ -114,6 +114,9 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2017</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Berita Harian - 6 November 2017</strong>
+<br><a href="http://www.beritaharian.sg/setempat/pendidik-artis-bergabung-hasil-lagu-spura-bagi-pelajar" rel="noopener nofollow" target="_blank">Pendidik, artis bergabung hasil lagu S'pura bagi pelajar</a>
+</p>
 <p></p>
 </div>
 </details>
@@ -197,119 +200,8 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <p></p>
 </li>
 <li>
-<p>2020</p>
-<h3>Sambutan Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura</h3>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tarikh</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tajuk</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Berita Harian
-<br>23/11/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Berita Mediacorp
-<br>23/11/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://berita.mediacorp.sg/mobilem/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak/4540496.html" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak/4540496.html</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zaobao
-<br>25/11/2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.zaobao.com.sg/news/singapore/story20201125-1103625" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20201125-1103625</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Ceramah Arif Budiman</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tarikh</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tajuk</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Berita Harian
-<br>02/03/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Seminar Bahasa Melayu</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Tarikh</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tajuk</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Berita Mediacorp
-<br>25/03/2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://berita.mediacorp.sg/mobilem/singapura/pusat-bahasa-melayu-s-pura-giat-anjur-kursus-rangsang/4421502.html" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapura/pusat-bahasa-melayu-s-pura-giat-anjur-kursus-rangsang/4421502.html</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p>2019</p>
-<h3>Ceramah Arif Budiman</h3>
+<h3></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
