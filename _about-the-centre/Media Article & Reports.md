@@ -41,13 +41,11 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <summary>2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Berita Mediacorp - 23 September 2022</u></strong>
-</p>
-<p><a href="https://berita.mediacorp.sg/singapura/ceramah-arif-budiman-bahasa-melayu-ada-peranan-penting-dalam-penamaan-tempat-693236?cid=internal_sharetool_web_23092022_berita" rel="noopener nofollow" target="_blank">Ceramah Arif Budiman: Bahan Melayu ada peranan penting dalam penamaan tempat</a>
+<br><a href="https://berita.mediacorp.sg/singapura/ceramah-arif-budiman-bahasa-melayu-ada-peranan-penting-dalam-penamaan-tempat-693236?cid=internal_sharetool_web_23092022_berita" rel="noopener nofollow" target="_blank">Ceramah Arif Budiman: Bahan Melayu ada peranan penting dalam penamaan tempat</a>
 </p>
 <p></p>
 <p><strong><u>Berita Harian - 16 March 2022</u></strong>
-</p>
-<p><a href="https://www.beritaharian.sg/setempat/buku-elektronik-karya-guru-dilancar" rel="noopener nofollow" target="_blank">Buku elektronik karya guru dilancar</a>
+<br><a href="https://www.beritaharian.sg/setempat/buku-elektronik-karya-guru-dilancar" rel="noopener nofollow" target="_blank">Buku elektronik karya guru dilancar</a>
 </p>
 </div>
 </details>
@@ -55,8 +53,7 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <summary>2021</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Berita Mediacorp - 16 March 2021</strong>
-</p>
-<p><a href="https://berita.mediacorp.sg/singapura/faishal-guru-perlu-terus-inovasi-tingkat-kemahiran-teknologi-44506" rel="noopener nofollow" target="_blank">Faishal: Guru perlu terus inovasi &amp; tingkat kemahiran teknologi</a>
+<br><a href="https://berita.mediacorp.sg/singapura/faishal-guru-perlu-terus-inovasi-tingkat-kemahiran-teknologi-44506" rel="noopener nofollow" target="_blank">Faishal: Guru perlu terus inovasi &amp; tingkat kemahiran teknologi</a>
 </p>
 <p></p>
 <p><strong>The Straits Times - 16 March 2021</strong>
