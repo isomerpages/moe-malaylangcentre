@@ -117,6 +117,31 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <p><strong>Berita Harian - 6 November 2017</strong>
 <br><a href="http://www.beritaharian.sg/setempat/pendidik-artis-bergabung-hasil-lagu-spura-bagi-pelajar" rel="noopener nofollow" target="_blank">Pendidik, artis bergabung hasil lagu S'pura bagi pelajar</a>
 </p>
+<p>
+<br><strong>Bahasa Budaya</strong>
+</p>
+<p><strong>Berita Harian - 7 Aug 2017</strong>
+</p>
+<p>Jadi juara setelah dua kali sertai pertandingan</p>
+<p><a href="http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan</a>
+</p>
+<p><strong>Berita Harian </strong>
+</p>
+<p>Kuiz Pintar Kata mampu perkaya kosa kata murid</p>
+<p><a href="http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid</a>
+</p>
+<p><strong>Seminar Bahasa Melayu</strong>
+</p>
+<p><strong>Berita Harian - 15 March 2017</strong>
+</p>
+<p>Pastikan kaedah pengajaran di bilik darjah berkesan</p>
+<p><a href="http://www.beritaharian.sg/setempat/pastikan-kaedah-pengajaran-di-bilik-darjah-berkesan" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/pastikan-kaedah-pengajaran-di-bilik-darjah-berkesan</a>
+</p>
+<p><strong>Berita Mediacorp -14 March 2017</strong>
+</p>
+<p>4 bahan pembelajaran bahasa Melayu termasuk sebuah App baru dilancarkan</p>
+<p><a href="https://berita.mediacorp.sg/mobilem/singapore/4-bahan-pembelajaran-bahasa-melayu-termasuk-sebuah-app-baru/3594634.html?cid=berita-fb" rel="noopener noreferrer nofollow" target="_blank">https://berita.mediacorp.sg/mobilem/singapore/4-bahan-pembelajaran-bahasa-melayu-termasuk-sebuah-app-baru/3594634.html?cid=berita-fb</a>
+</p>
 <p></p>
 </div>
 </details>
