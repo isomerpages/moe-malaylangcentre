@@ -77,13 +77,14 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 </p>
 <p></p>
 <p><strong><u>Ceramah Arif Budiman</u></strong>
-</p>
-<p><strong>Berita Harian - 2 Feb 2020</strong>
-</p>
-<p><a href="https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia" rel="noopener nofollow" target="_blank">Bahasa Melayu ada potensi jadi salah satu bahasa utama dunia</a>
+<br><strong>Berita Harian - 2 Feb 2020</strong>
+<br><a href="https://www.beritaharian.sg/wacana/bahasa-melayu-ada-potensi-jadi-salah-satu-bahasa-utama-dunia" rel="noopener nofollow" target="_blank">Bahasa Melayu ada potensi jadi salah satu bahasa utama dunia</a>
 </p>
 <p></p>
-<p></p>
+<p><strong><u>Seminar Bahasa Melayu</u></strong>
+<br><strong>Berita Harian - 25 March 2020</strong>
+<br><a href="https://berita.mediacorp.sg/singapura/pusat-bahasa-melayu-s-pura-giat-anjur-kursus-rangsang-119546" rel="noopener nofollow" target="_blank">Pusat Bahasa Melayu S'pura giat anjur kursus rangsang pembangunan kekaryawanan guru</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
