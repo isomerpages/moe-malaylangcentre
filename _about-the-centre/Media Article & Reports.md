@@ -125,7 +125,7 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <p>Jadi juara setelah dua kali sertai pertandingan</p>
 <p><a href="http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/bahasa-budaya/jadi-juara-setelah-dua-kali-sertai-pertandingan</a>
 </p>
-<p><strong>Berita Harian </strong>
+<p><strong>Berita Harian</strong>
 </p>
 <p>Kuiz Pintar Kata mampu perkaya kosa kata murid</p>
 <p><a href="http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/bahasa-budaya/kuiz-pintar-kata-mampu-perkaya-kosa-kata-murid</a>
