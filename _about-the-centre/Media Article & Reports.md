@@ -156,6 +156,15 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2015</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Berita Harian - 31 Julai 2015</strong>
+<br>Sekitar 270 pelajar uji penguasaan kosa kata bahasa Melayu
+<br><a href="http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/sekitar-270-pelajar-uji-penguasaan-kosa-kata-bahasa-melayu</a>
+<br>
+</p>
+<p><strong>Berita Harian - 15 Feb 2015</strong>
+<br>Hawazi: Jangkaan ke atas Pusat Bahasa terus meningkat
+<br><a href="http://www.beritaharian.sg/setempat/hawazi-jangkaan-ke-atas-pusat-bahasa-terus-meningkat" rel="noopener noreferrer nofollow" target="_blank">http://www.beritaharian.sg/setempat/hawazi-jangkaan-ke-atas-pusat-bahasa-terus-meningkat</a>
+</p>
 <p></p>
 </div>
 </details>
