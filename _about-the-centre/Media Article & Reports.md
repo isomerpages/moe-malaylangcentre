@@ -101,7 +101,14 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2018</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>Seminar Bahasa Melayu</strong>
+<br><strong>Berita Mediacorp - 14 March 2018</strong>
+<br><a href="https://berita.mediacorp.sg/singapura/kaedah-inovatif-kreatif-perlu-jadi-kemahiran-asas-bagi-setiap-257031" rel="noopener nofollow" target="_blank">Kaedah inovatif &amp; kreatif perlu jadi kemahiran asas bagi setiap guru - Dr Faishal</a>
+</p>
+<p><strong>Berita Harian - 5 March 2018</strong>
+<br><a href="http://www.beritaharian.sg/bahasa-budaya/app-pemacu-pembelajaran-bahasa-melayu" rel="noopener nofollow" target="_blank">'App' pemacu pembelajaran bahasa Melayu</a>
+<br>
+</p>
 </div>
 </details>
 <details class="isomer-details">
