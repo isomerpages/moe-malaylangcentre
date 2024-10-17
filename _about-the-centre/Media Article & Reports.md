@@ -59,7 +59,7 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <p><a href="https://berita.mediacorp.sg/singapura/faishal-guru-perlu-terus-inovasi-tingkat-kemahiran-teknologi-44506" rel="noopener nofollow" target="_blank">Faishal: Guru perlu terus inovasi &amp; tingkat kemahiran teknologi</a>
 </p>
 <p></p>
-<p><strong>The Straits Times  - 16 March 2021</strong>
+<p><strong>The Straits Times - 16 March 2021</strong>
 <br><a href="https://www.straitstimes.com/singapore/gamification-and-video-editing-among-new-approaches-highlighted-in-the-teaching-of-malay" rel="noopener nofollow" target="_blank">Gaming, video editing among methods Malay teachers use to get students to enjoy language class</a>
 </p>
 </div>
@@ -67,6 +67,17 @@ yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.<
 <details class="isomer-details">
 <summary>2020</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>Sambutan Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura</u></strong>
+<br><strong>Berita Harian  - 23 Nov 2020</strong>	
+<br><a href="https://www.beritaharian.sg/setempat/pengarah-pusat-bahasa-melayu-spura-bersara" rel="noopener nofollow" target="_blank">Pengarah Pusat Bahasa Melayu S'pura bersara</a>
+<br><strong>Berita Mediacorp - 23 Nov 2020</strong>
+<br><a href="https://berita.mediacorp.sg/singapura/guru-berperanan-terap-nilai-murni-melalui-khazanah-tidak-67321" rel="noopener nofollow" target="_blank">Guru berperanan terap nilai murni melalui khazanah tidak ternilai dalam bahasa Melayu</a>
+<br><strong>Zaobao - 25 Nov 2021</strong>
+<br><a href="https://www.zaobao.com.sg/news/singapore/story20201125-1103625" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20201125-1103625</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
