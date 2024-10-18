@@ -2,4 +2,5 @@ collections:
   seminar-bahasa-melayu:
     output: true
     order:
+      - SEMINAR BAHASA MELAYU 2012.md
       - SEMINAR BAHASA MELAYU 2011.md
