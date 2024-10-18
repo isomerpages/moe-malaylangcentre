@@ -340,7 +340,7 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pedagogi_ml_2edit.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_3.png">
