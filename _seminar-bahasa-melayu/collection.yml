@@ -1,4 +1,5 @@
 collections:
   seminar-bahasa-melayu:
     output: true
-    order: []
+    order:
+      - SEMINAR BAHASA MELAYU 2011.md
