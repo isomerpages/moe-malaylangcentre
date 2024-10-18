@@ -379,7 +379,7 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml4edit.png">
 </div>
 <p><strong>English</strong>
 </p>
