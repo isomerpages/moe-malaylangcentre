@@ -2,6 +2,7 @@ collections:
   seminar-bahasa-melayu:
     output: true
     order:
+      - SEMINAR BAHASA MELAYU 2020.md
       - SEMINAR BAHASA MELAYU 2019.md
       - SEMINAR BAHASA MELAYU 2018.md
       - SEMINAR BAHASA MELAYU 2017.md
