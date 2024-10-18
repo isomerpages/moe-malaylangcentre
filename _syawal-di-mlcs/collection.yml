@@ -1,5 +1,4 @@
 collections:
   syawal-di-mlcs:
     output: true
-    order:
-      - 2024.md
+    order: []
