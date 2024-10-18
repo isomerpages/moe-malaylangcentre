@@ -11,12 +11,13 @@ tahun. Dalam usaha untuk meningkatkan mutu Seminar Bahasa Melayu sebagai
 wadah perkongsian kajian di bilik darjah yang bermutu, MLCS mengorak langkah
 untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
-</p>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/seminar_bahasa_melayu.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbmheyzine.jpg"></a>
+<hr>
+<h4><strong>2024</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sbm2024a.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sbm2024a.jpg">
 </div>
-<p>
-<br>Tema <strong>'Memarak Inovasi, Memekar Pedagogi'&nbsp;</strong>memberi
+<p>Tema <strong>'Memarak Inovasi, Memekar Pedagogi'&nbsp;</strong>memberi
 tumpuan bagi merancakkan lagi usaha guru untuk menambah nilai dan mempertingkat
 PdP di bilik darjah bagi memenuhi matlamat dan hasil pembelajaran serta
 kemahiran abad ke-21.</p>
