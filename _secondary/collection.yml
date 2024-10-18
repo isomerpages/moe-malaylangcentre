@@ -1,5 +1,4 @@
 collections:
   secondary:
     output: true
-    order:
-      - "Short stories: Citra.md"
+    order: []
