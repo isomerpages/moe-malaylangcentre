@@ -2,5 +2,4 @@ collections:
   secondary:
     output: true
     order:
-      - "Short Stories: Rahsia.md"
       - "Short stories: Citra.md"
