@@ -3,19 +3,25 @@ collections:
     output: true
     order:
       - Resources.md
-      - Teaching Resource/.keep
-      - Teaching Resource/Oral Interaction Package for Pri 1 & 2.md
-      - Teaching Resource/Short Stories Anthologies.md
-      - Teaching Resource/Video Stimulus (Primary Schools).md
-      - Teaching Resource/Video Stimulus (Secondary Schools).md
+      - Teaching Resources/.keep
+      - Teaching Resources/Oral Interaction Package for Pri 1 & 2.md
+      - Teaching Resources/Short Stories Anthologies.md
+      - Teaching Resources/Video Stimulus (Primary Schools).md
+      - Teaching Resources/Video Stimulus (Secondary Schools).md
       - Teachers' Reference/.keep
       - Teachers' Reference/Bicara Budiman Series.md
       - Teachers' Reference/Dian Bahasa Series.md
       - Teachers' Reference/Singapore Teaching Practice.md
       - Teachers' Reference/Hikmah Melayu.md
       - Teachers' Reference/ML Poetry SG 50 Publication.md
-      - MLCS Educational Apps.md
+      - MLCS Educational Apps/.keep
+      - MLCS Educational Apps/MLCS Educational Apps.md
+      - MLCS Educational Apps/Bitara Kata.md
+      - MLCS Educational Apps/Cerita Rakyat Nusantara.md
+      - MLCS Educational Apps/Legenda Singapura.md
+      - MLCS Educational Apps/Pintar Kata.md
+      - MLCS Educational Apps/Pintar Peribahasa.md
       - Resource Centre@MLCS.md
-      - Other resources/.keep
-      - Other resources/eMTL Symposium 2022.md
-      - Other resources/MLCS 10th Anniversary.md
+      - Other Resources/.keep
+      - Other Resources/eMTL Symposium 2022.md
+      - Other Resources/MLCS 10th Anniversary.md

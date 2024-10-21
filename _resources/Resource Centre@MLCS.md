@@ -42,14 +42,20 @@ Sumber MLCS.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsteachingandlearningresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1a.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_1_bahan_pengajaran.png">
+</div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookspublications"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2a.png"></a>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_2_buku_penerbitan.png">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
-<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan dibawah:</strong>
+<p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <hr>
 <h4><strong>Paparan Khazanah Pilihan - Bulan Bahasa (October 2024)</strong></h4>
@@ -334,7 +340,7 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pedagogi_ml_2edit.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buku_Saranan___Pedagogi_3.png">
@@ -373,7 +379,7 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Penialaian_ml4edit.png">
 </div>
 <p><strong>English</strong>
 </p>
@@ -465,9 +471,6 @@ Sumber MLCS.
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_9.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Umum" src="/images/Umum_10.jpg">
