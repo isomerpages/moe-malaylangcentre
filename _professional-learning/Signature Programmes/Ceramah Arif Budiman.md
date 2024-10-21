@@ -62,7 +62,7 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </div>
 <p></p>
 <p></p>
-<h4><strong>Buku Siri Ceramah Arif Budiman </strong></h4>
+<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
