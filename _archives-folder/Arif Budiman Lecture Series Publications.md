@@ -39,13 +39,16 @@ kajian tentang bahasa, kesususasteraan, nilai dan budaya Melayu.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Jilid 1 - Cetakan Pertama 2010" src="/images/jilid-1---cetakan-pertama-2010.png">
 </div>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-1/cab-jilid-1.pdf?sfvrsn=ed3e0588_2" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 1 - Prof Asmah Hj Omar(.pdf, 10.36 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+<p>
+<br><a href="https://drive.google.com/file/d/1juGgPkWb-GSGjLjzcsITEmHbNqn8R4C9/view?usp=sharing" rel="noopener nofollow" target="_blank">Sekapur Sirih</a>
+<br><a href="https://drive.google.com/file/d/1Ni09Nk3avDZwmjdPPZXOef71y4j5ox9a/view?usp=sharing" rel="noopener nofollow" target="_blank">Ceramah Arif Budiman 1 - Prof Asmah Hj Omar</a>
 </p>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-1/cab-jilid-2.pdf?sfvrsn=4197c5e9_2" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 2 - Dr Zainal Borhan(.pdf, 11.59 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+<p><a href="https://drive.google.com/file/d/1diYM3FOK1vnWALSKPXG8bZPZZUGTsuC7/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 2 - Dr Zainal Borhan</a>
 </p>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-1/cab-jilid-3.pdf?sfvrsn=df7a804d_2" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 3 - Prof Nik Safiah Hj Karim(.pdf, 10.44 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+<p><a href="https://drive.google.com/file/d/1lMeW1abTfpAmwPaWEpIhydyRIUcTF99_/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 3 - Prof Nik Safiah Hj Karim</a>
 </p>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider6/resources-files/ceramah-arif-budiman/jilid-1/cab-jilid-4.pdf?sfvrsn=697e77c6_2" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 4 - Dr Awang Sariyan(.pdf, 22.33 MB)</a>  <strong><em>(PDF file too big!)</em></strong>
+<p><a href="https://drive.google.com/file/d/18h_EqCJR0U_B9q3T5pH6nvuIAitjp7SN/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Ceramah Arif Budiman 4 - Dr Awang Sariyan</a>
+<br><a href="https://drive.google.com/file/d/1YB6LDVLQWOn0IhT8qQEUIagKMZrz2T0x/view?usp=sharing" rel="noopener nofollow" target="_blank">Penghargaan</a>
 </p>
 </div>
 </details>
