@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<p><strong>Ceramah Arif Budiman ke-20 (2024)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
-</div>
 <p>Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi peluang
 kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk menimba ilmu daripada
 pakar serantau dan antarabangsa mengenai perkembangan terbaharu berkenaan
@@ -17,12 +12,8 @@ bahasa, sastera, nilai, sejarah, adat dan budaya Melayu.</p>
 <p>Siri ceramah ini melibatkan pensyarah atau tokoh tersohor dan penyertaan
 aktif para guru serta pelajar.</p>
 <p><strong>Objektif CAB adalah seperti yang berikut: </strong>
-<br>
-</p>
+<br>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>meningkatkan pengetahuan masyarakat Melayu tentang Bahasa dan budaya Melayu;</p>
-</li>
 <li>
 <p>memperkaya dan memperkasakan masyarakat Melayu dalam menggunakan dan melestarikan
 Bahasa dan budaya Melayu;</p>
@@ -33,10 +24,14 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
+<hr>
+<h4><strong>Ceramah Arif Budiman ke-20 (2024)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
+</div>
 <p><strong>Slaid Pembentangan Encik Yatiman Yusof</strong>
 <br>Klik pautan berikut untuk mendapatkan <a href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>slaid pembentangan</u></a> Encik
 Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1QagW97Y-uUBZwotyjPaO_rlU3i9JejGf/view?usp=sharing"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SlaidPembentangan.jpg"></a>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,17 +55,20 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </tr>
 </tbody>
 </table>
+<p><strong>Gambar Ceramah Arif Budiman 2024</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
+<h4><strong>Buku Siri Ceramah Arif Budiman </strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>E-Buku</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
@@ -84,11 +82,9 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </tr>
 </tbody>
 </table>
-<p><strong>Gambar Ceramah Arif Budiman 2024</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p></p>
+<p></p>
+<h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ceramah Arif Budiman ke -19 (2023, 20 Julai 2023</summary>
