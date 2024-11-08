@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Teaching Resources
 ---
-<h2>Antologi Cerpen</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/antologi_cerpen.jpg">
-</div>
+<h2>Antologi Cerpen</h2><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/antologi_cerpen.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/antologi_cerpen.jpg"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
