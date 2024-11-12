@@ -6,7 +6,6 @@ third_nav_title: Training Programmes
 variant: tiptap
 ---
 <h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2024 &amp; PENDAFTARAN</strong></h3>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -27,7 +26,16 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Kursus 2024: Semester 1 &amp; 2</strong></h4>
+<h4><strong>Kursus 2025: Semester 1</strong></h4>
+<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
+<br>
+<br><strong>Kursus 2025: Semester 1</strong>
+</p>
+<p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
+<br>
+</p>
+<p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
+</p>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
 <br>
 <br><strong>Kursus 2024: Semester 1</strong>
