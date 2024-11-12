@@ -34,6 +34,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
 <br>
 </p>
+<p></p>
 <p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
 </p>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
