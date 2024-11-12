@@ -36,7 +36,8 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <br><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">MLCS Program Pembelajaran Profesional 2025 (Penggal 1) - Objektif Sinopsis</a>
 </p>
 <p><strong>Tarikh mula pendaftaran ada seperti berikut:</strong>
-<br><em>Pendaftaran untuk kursus-kursus MLCS harus dilakukan melalui Portal OPAL 2.0.</em>
+<br><em>Pendaftaran untuk kursus-kursus MLCS harus dilakukan melalui </em>
+<a href="https://idm.opal2.moe.edu.sg/Account/Login" rel="noopener nofollow" target="_blank">Portal OPAL 2.0.</a>
 <br><strong>Kursus-kursus Penggal 1:</strong>
 <br>Pendaftaran bermula dari <strong>2 Disember 2024.</strong>
 <br><strong>Kursus-kursus Penggal 2</strong>
