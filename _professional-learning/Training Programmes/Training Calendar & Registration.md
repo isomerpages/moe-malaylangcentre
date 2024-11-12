@@ -33,14 +33,14 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </p>
 <p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
 <br>
-<br><strong>Tarikh mula pendaftaran ada seperti berikut:</strong>
+</p>
+<h4><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">MLCS Program Pembelajaran Profesional 2025 (Penggal 1) - Objektif  Sinopsis</a> </h4>
+<p><strong>Tarikh mula pendaftaran ada seperti berikut:</strong>
 <br><em>Pendaftaran untuk kursus-kursus MLCS harus dilakukan melalui Portal OPAL 2.0.</em>
-<br>
 <br><strong>Kursus-kursus Penggal 1:</strong>
-<br>Pendaftaran bermula dari <strong><em>2 Disember 2024.</em></strong>
-<br>
+<br>Pendaftaran bermula dari <strong>2 Disember 2024.</strong>
 <br><strong>Kursus-kursus Penggal 2</strong>
-<br>Pendaftaran bermula dari <strong><em>3 Februari 2025.</em></strong>
+<br>Pendaftaran bermula dari<strong> 3 Februari 2025.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_1.png">
@@ -54,10 +54,6 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_4.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <hr>
 <p></p>
 <p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
