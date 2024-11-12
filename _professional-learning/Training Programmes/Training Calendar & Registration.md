@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru
-bagi 2024.</p>
+bagi 2025.</p>
 <p>Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus
 yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p>Klik pautan di bawah untuk log masuk ke OPAL 2.0</p>
@@ -33,7 +33,32 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </p>
 <p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
 <br>
+<br><strong>Tarikh mula pendaftaran ada seperti berikut:</strong>
+<br><em>Pendaftaran untuk kursus-kursus MLCS harus dilakukan melalui Portal OPAL 2.0.</em>
+<br>
+<br><strong>Kursus-kursus Penggal 1:</strong>
+<br>Pendaftaran bermula dari <strong><em>2 Disember 2024.</em></strong>
+<br>
+<br><strong>Kursus-kursus Penggal 2</strong>
+<br>Pendaftaran bermula dari <strong><em>3 Februari 2025.</em></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus_2025_sem_1_4.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<hr>
 <p></p>
 <p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
 </p>
@@ -57,3 +82,5 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </p>
 <p><a href="/files/MLCS_PD_2024___Objektif__Sinopsis__MK_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program Pembelajaran Profesional 2024 (MK)</a>
 </p>
+<hr>
+<p></p>
