@@ -22,7 +22,7 @@ umumnya.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Summary of RCP Papers</strong>
+<summary><strong>Summary of RCP Papers </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Sejak tahun 2011, MLCS telah mengendalikan Program Persidangan Serantau

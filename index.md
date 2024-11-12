@@ -10,8 +10,8 @@ sections:
       background: /images/Homepage_banner_1340x380px_col_mtls.gif
       variant: image
       key_highlights:
-        - title: Training Calendar & Registration 2024
-          description: Semester 1 & 2
+        - title: Training Calendar & Registration 2025
+          description: Semester 1
           url: /mlcs/professional-development-programmes/training-programmes/trainingcalendar-registration/
         - title: Contact Us
           description: Booking Facilites
