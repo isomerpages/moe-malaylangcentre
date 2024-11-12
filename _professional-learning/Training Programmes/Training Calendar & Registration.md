@@ -3,7 +3,7 @@ title: Training Calendar & Registration
 permalink: /mlcs/professional-development-programmes/training-programmes/trainingcalendar-registration/
 description: ""
 third_nav_title: Training Programmes
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2024 &amp; PENDAFTARAN</strong></h3>
 <p></p>
@@ -19,7 +19,7 @@ bagi 2024.</p>
 <p>Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus
 yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p>Klik pautan di bawah untuk log masuk ke OPAL 2.0</p>
-<p></p><a target="_blank" class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/001Opal_login.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/001Opal_login.jpg"></a>
 <p><a href="/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Memohon Kursus MLCS Melalui OPAL 2.0</a>
 </p>
 </td>
