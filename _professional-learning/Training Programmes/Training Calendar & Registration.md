@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Training Programmes
 variant: tiptap
 ---
-<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2024 &amp; PENDAFTARAN</strong></h3>
+<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2025 &amp; PENDAFTARAN</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
