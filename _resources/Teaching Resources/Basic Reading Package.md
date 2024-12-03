@@ -30,41 +30,26 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad1a.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad1a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 2</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2a.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 3</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3a.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3a.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -76,24 +61,15 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad4a.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD4.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad4a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 5</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5a.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5a.jpg"></a>
 </td>
 </tr>
 </tbody>
