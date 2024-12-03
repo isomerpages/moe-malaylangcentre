@@ -20,7 +20,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Bahan Kad</h4>
+<h4>Bahan Kad untuk Murid</h4>
 </th>
 </tr>
 <tr>
