@@ -25,14 +25,6 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Kad 1</strong>
 </p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad1.jpg"></a>
 </td>
@@ -104,7 +96,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal_1a.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal_1a.jpg"></a>
 </td>
 </tr>
 <tr>
