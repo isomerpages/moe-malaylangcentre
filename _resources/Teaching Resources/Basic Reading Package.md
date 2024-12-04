@@ -121,5 +121,6 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>e-Buku</u></h4><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/Pakej_Membina_Kemahiran_Asas_Membaca.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/heyzine_ebook.jpg"></a>
+<hr>
+<h4><strong><u>e-Buku</u></strong></h4><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/Pakej_Membina_Kemahiran_Asas_Membaca.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/heyzine_ebook.jpg"></a>
 <p></p>
