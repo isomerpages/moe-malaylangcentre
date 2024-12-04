@@ -84,12 +84,6 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong><a href="/files/Penilaian___Panduan_Guru.pdf" rel="noopener noreferrer nofollow" target="_blank">Penilaian - Panduan Guru</a></strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kosa Kata Bacaan Awal</strong>
 </p>
@@ -121,7 +115,8 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p><strong><a href="/files/Penilaian___Panduan_Guru.pdf" rel="noopener noreferrer nofollow" target="_blank">Penilaian - Panduan Guru</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
