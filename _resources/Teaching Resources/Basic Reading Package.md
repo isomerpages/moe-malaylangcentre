@@ -102,7 +102,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <p><strong><a href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf" rel="noopener nofollow" target="_blank">Kosa Kata Bacaan Awal</a></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal_1a.jpg"></a>
 </td>
