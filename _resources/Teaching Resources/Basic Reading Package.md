@@ -79,11 +79,8 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <h4>Panduan Guru</h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
