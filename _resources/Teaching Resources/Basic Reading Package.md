@@ -91,7 +91,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf" rel="noopener nofollow" target="_blank">Kosa Kata Bacaan Awal</a></strong>
+<p><strong>Kosa Kata Bacaan Awal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/01_Panduan_Guru___Kosa_Kata_Bacaan_Awal.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/kosa_kata_bacaan_awal.jpg"></a>
@@ -101,7 +101,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/02_Panduan_Guru___Teks_Bacaan.pdf" rel="noopener nofollow" target="_blank">Teks Bacaan</a></strong>
+<p><strong>Teks Bacaan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/02_Panduan_Guru___Teks_Bacaan.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/teks_bacaan1.jpg"></a>
@@ -111,7 +111,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/03_Panduan_Guru___Rekod_Bacaan_Saya.pdf" rel="noopener noreferrer nofollow" target="_blank">Rekod Bacaan Saya</a></strong>
+<p><strong>Rekod Bacaan Saya</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___Rekod_Bacaan_Saya.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1.jpg"></a>
