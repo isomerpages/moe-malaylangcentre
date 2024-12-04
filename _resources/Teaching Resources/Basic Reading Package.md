@@ -108,9 +108,9 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <p><strong>Rekod Bacaan Saya</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___Rekod_Bacaan_Saya.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___Rekod_Bacaan_Saya.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1a.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1a.jpg"></a>
 </td>
 </tr>
 <tr>
