@@ -26,7 +26,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 1</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/membaca_kad1.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
