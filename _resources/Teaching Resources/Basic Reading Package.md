@@ -80,7 +80,7 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Panduan Guru </h4>
+<h4>Panduan Guru</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
