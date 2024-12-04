@@ -26,47 +26,47 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 1</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad1.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/membaca_kad1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad1a.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD1.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad1a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 2</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad2a.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD2.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad2a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 3</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad3.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad3a.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD3.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad3a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 4</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD4.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad4.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD4.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad4.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD4.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad4a.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD4.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad4a.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Kad 5</strong>
-</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad5.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/membaca_kad5a.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/MOE_membacaCARD5.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/membaca_kad5a.jpg"></a>
 </td>
 </tr>
 </tbody>
@@ -104,9 +104,9 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <p><strong>Teks Bacaan</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/02_Panduan_Guru___Teks_Bacaan.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/teks_bacaan1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/02_Panduan_Guru___Teks_Bacaan.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/teks_bacaan1.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/02_Panduan_Guru___Teks_Bacaan.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/teks_bacaan1a.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/02_Panduan_Guru___Teks_Bacaan.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/teks_bacaan1a.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -114,9 +114,9 @@ rekod bacaan murid, borang refleksi dan panduan guru.</p>
 <p><strong>Rekod Bacaan Saya</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1a.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/03_Panduan_Guru___RekodBacaan_Saya.pdf"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rekod_bacaan_1a.jpg"></a>
 </td>
 </tr>
 </tbody>
