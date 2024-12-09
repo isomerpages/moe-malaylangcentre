@@ -22,10 +22,12 @@ dengan menggunakan bahan yang disediakan ini.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Video</p>
+<p><strong>Video</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Bahan Sokongan</p>
+<p><strong>Bahan Sokongan</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -56,7 +58,6 @@ dengan menggunakan bahan yang disediakan ini.</p>
 <td rowspan="1" colspan="1">
 <p><strong>3) Anjing Yang Tamak - 02:15 min</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mlwk7fBzhq0?si=Yo6v4OnfFDnuPQ7s"></iframe>
 </div>
@@ -67,7 +68,83 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>4)Gagak Dengan Takar - 03:35min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gmOuCPPna20?si=0ZxEMd1Tc6ohIZ0r"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5) Semut Dengan Belalang - 03:09min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GcyXCpfqFR4?si=pXirHWjMY21fmmgq"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6) Gagak Dengan Kenari - 03:55min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/foblHOtZUzw?si=-psIruRGkeNYeSAX"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7)Bangau Dengan Ketan - 03:07min</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i_EpOvICa9w?si=hkYEWPrMKbG4ApM9"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8) Penemuan Singapura - 03:40 min</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>9) Kisah Abu Nawas - 04:47 min</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10) Hang Tuan Lima Sekawan - 03:55 min</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
