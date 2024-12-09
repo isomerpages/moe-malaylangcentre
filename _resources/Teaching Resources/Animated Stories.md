@@ -126,7 +126,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 <td rowspan="1" colspan="1">
 <p><strong>8) Penemuan Singapura - 03:40 min</strong>
 </p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ktyoLkztvPk?si=jHSPXbM4aU78iZLs"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -136,6 +138,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 <td rowspan="1" colspan="1">
 <p><strong>9) Kisah Abu Nawas - 04:47 min</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OFTp2RxVsY?si=ame9p6NFutYIYPjJ"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,4 +157,7 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ktyoLkztvPk?si=jHSPXbM4aU78iZLs"></iframe>
+</div>
 <p></p>
