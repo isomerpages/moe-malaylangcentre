@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teaching Resources
 ---
 <h4><strong>Pembelajaran Menggunakan Cerita Animasi (Rendah)</strong></h4>
-<p>Kumpulan Cerita Animasi ini dibina bagi meransang pengajaran dan pembelajaran
+<p>Kumpulan Cerita Animasi ini dibina bagi merangsang pengajaran dan pembelajaran
 yang lebih menarik dan kreatif bagi meningkatkan kemahiran membaca dan
 bercerita murid Darjah 1 hingga Darjah 4.</p>
 <p>Selain itu, guru boleh merancang pelbagai aktiviti pembelajaran seperti
