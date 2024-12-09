@@ -112,7 +112,7 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7)Bangau Dengan Ketan - 03:07min</strong>
+<p><strong>7) Bangau Dengan Ketan - 03:07min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i_EpOvICa9w?si=hkYEWPrMKbG4ApM9"></iframe>
@@ -160,7 +160,4 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ktyoLkztvPk?si=jHSPXbM4aU78iZLs"></iframe>
-</div>
 <p></p>
