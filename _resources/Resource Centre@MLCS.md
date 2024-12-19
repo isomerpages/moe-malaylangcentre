@@ -17,7 +17,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookloanform"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__1_.png"></a>
 </td>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://tinyurl.com/MLCSLibraryLoanReceive"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/mlcsbookloanform"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MLCS_LIBRARY_BUTTON__2_.png"></a>
 </th>
 </tr>
 </tbody>
