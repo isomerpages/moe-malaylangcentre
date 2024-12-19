@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - Teaching Resources/Animated Stories.md
       - Teaching Resources/Basic Reading Package.md
       - Teaching Resources/.keep
       - Teaching Resources/Oral Interaction Package for Pri 1 & 2.md
