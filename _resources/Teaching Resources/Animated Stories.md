@@ -40,6 +40,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="/files/01_Semut_dengan_Merpati__Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Semut dengan Merpati</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,6 +55,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="/files/02_Musang_dengan_Kura_kura___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Musang dengan Kura-kura</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,6 +70,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="/files/03_Anjing_yang_Tamak___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Anjing yang Tamak</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,6 +84,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><a href="/files/04_Gagak_dengan_Takar___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Gagak dengan Takar</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -88,14 +100,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/05_Semut_dengan_Belalang__Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Semut dengan Belalang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,6 +115,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="/files/06_Gagak_dengan_Kenari___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Gagak dengan Kenari</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,6 +142,9 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p><a href="/files/08_Penemuan_Singapura___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Penemuan Singapura</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,6 +157,8 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><a href="/files/09_Kisah_Abu_Nawas___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Kisah Abu Nawas</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,6 +171,8 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><a href="/files/010_Hang_Tuah_Lima_Sekawan___Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Hang Tuah Lima Sekawan</a>
+</p>
 </td>
 </tr>
 </tbody>
