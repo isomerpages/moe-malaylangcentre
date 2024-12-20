@@ -122,7 +122,7 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7) Bangau Dengan Ketan - 03:07min</strong>
+<p><strong>7) Bangau Dengan Ketam - 03:07min</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i_EpOvICa9w?si=hkYEWPrMKbG4ApM9"></iframe>
@@ -130,6 +130,8 @@ dengan menggunakan bahan yang disediakan ini.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><a href="/files/07_Bangau_dengan_Ketam__Contoh_Rancangan_Pengajaran.pdf" rel="noopener nofollow" target="_blank">Bangau dengan Ketam</a>
+</p>
 </td>
 </tr>
 <tr>
