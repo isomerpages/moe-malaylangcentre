@@ -25,7 +25,6 @@ sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
 <hr>
-<h4></h4>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -47,13 +46,12 @@ sastera, sejarah dan adat Melayu.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ceramah Arif Budiman ke 20 (2024, 25 Julai 2024)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>Ceramah Arif Budiman ke-20 (2024)</strong></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
 </div>
