@@ -25,6 +25,34 @@ sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
 <hr>
+<h4></h4>
+<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ceramah Arif Budiman ke 20 (2024, 25 Julai 2024)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4><strong>Ceramah Arif Budiman ke-20 (2024)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ceramah Arif Budiman" src="/images/CAB____Malay___Web.jpg">
@@ -62,29 +90,9 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 </div>
 <p></p>
 <p></p>
-<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ceramah Arif Budiman ke -19 (2023, 20 Julai 2023</summary>
