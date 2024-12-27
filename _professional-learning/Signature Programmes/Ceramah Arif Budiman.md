@@ -24,6 +24,11 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
+<p><strong>Pendaftaran akan dibuka dalam masa yang terdekat.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAB21___Homepage_Website.jpg">
+</div>
 <hr>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
