@@ -34,12 +34,12 @@ sections:
       image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
   - infopic:
-      title: Ceramah Arif Budiman Ke-20
+      title: Ceramah Arif Budiman Ke-21
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/Website_Homepage___Final.jpg
+      image: /images/CAB21___Homepage_Website.jpg
       alt: Ceramah Arif Budiman
   - infopic:
       title: Bestari Berbicara
