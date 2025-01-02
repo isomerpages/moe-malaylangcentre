@@ -499,7 +499,7 @@ Sumber MLCS.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
+<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais</strong>
 </p>
 <p><strong>di talian</strong>: 6354-6959
 <br><strong>atau emel</strong>:&nbsp;
