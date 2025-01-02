@@ -76,23 +76,7 @@ Sumber MLCS.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_Final_edit.jpg">
 </div>
-<h4><strong>Paparan Khazanah Pilihan - Bulan Bahasa (September 2024)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_5.png">
-</div>
-<p></p>
+<h4></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
@@ -215,6 +199,27 @@ Sumber MLCS.
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/paparan_olympics_6.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>September 2024 - Bulan Bahasa</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_5.png">
 </div>
 <p></p>
 </div>
