@@ -20,7 +20,7 @@ variant: tiptap
 <h4>BOOKING OF TRAINING ROOMS / FACILITIES AT MLCS</h4>
 <p>Photos of Training Room</p>
 <div class="iframe-wrapper">
-<iframe height="300" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-Ue0n3dONwdLCHJxPC9Je5umLM8WTOo2aoawpeNqycSzfLKT-nZSwkj2-gA68yj4EGYV1M7pKFiam/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="320" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-Ue0n3dONwdLCHJxPC9Je5umLM8WTOo2aoawpeNqycSzfLKT-nZSwkj2-gA68yj4EGYV1M7pKFiam/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>Please click the following link to request for your booking.</p>
 <h5><strong><a href="https://go.gov.sg/bookingofmlcstrainingrooms" rel="noopener noreferrer nofollow" target="_blank">Booking Form</a></strong></h5>
