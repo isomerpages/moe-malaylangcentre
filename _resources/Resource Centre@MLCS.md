@@ -22,9 +22,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Pusat Sumber MLCS" src="/images/dsc_0072.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Resource_centre.jpg">
 </div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
@@ -58,41 +57,7 @@ Sumber MLCS.
 <p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <hr>
-<h4><strong>Paparan Khazanah Pilihan - Bulan Bahasa (October 2024)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_Final_edit.jpg">
-</div>
-<h4><strong>Paparan Khazanah Pilihan - Bulan Bahasa (September 2024)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_5.png">
-</div>
+<h4></h4>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -220,35 +185,54 @@ Sumber MLCS.
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>September 2024 - Bulan Bahasa</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_1.png">
 </div>
-<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
-<br>
-</p>
-<p><strong>di talian</strong>: 6354-6959
-<br><strong>atau emel</strong>:&nbsp;
-<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Waktu Operasi</strong>:&nbsp;</p>
-<p>Isnin hingga Khamis - 8.30am - 5.30pm
-<br>Jumaat - 8.30am - 5.00pm
-<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bulan_bahasa_2024_5.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>October 2024 - Learning Disabilities Awareness</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_Final_edit.jpg">
+</div>
+<p></p>
+</div>
+</details>
+</div>
+<h3>Artifak Pusat Sumber</h3>
+<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artifak_pusat_sumber_bookshelves.jpg"></a>
 <h4><strong>Buku Saranan</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -505,4 +489,30 @@ Sumber MLCS.
 </div>
 </details>
 </div>
+<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais</strong>
+</p>
+<p><strong>di talian</strong>: 6354-6959
+<br><strong>atau emel</strong>:&nbsp;
+<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Operasi</strong>:&nbsp;</p>
+<p>Isnin hingga Khamis - 8.30am - 5.30pm
+<br>Jumaat - 8.30am - 5.00pm
+<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
