@@ -58,6 +58,7 @@ Sumber MLCS.
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <hr>
 <h4></h4>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mei 2024 - Bulan kesedaran kesihatan mental</summary>
@@ -206,7 +207,7 @@ Sumber MLCS.
 </div>
 </details>
 <details class="isomer-details">
-<summary>Oktober 2024</summary>
+<summary>October 2024 - Learning Disabilities Awareness</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LD_Awareness_1.png">
@@ -230,34 +231,8 @@ Sumber MLCS.
 </div>
 </details>
 </div>
-<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
-<br>
-</p>
-<p><strong>di talian</strong>: 6354-6959
-<br><strong>atau emel</strong>:&nbsp;
-<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Waktu Operasi</strong>:&nbsp;</p>
-<p>Isnin hingga Khamis - 8.30am - 5.30pm
-<br>Jumaat - 8.30am - 5.00pm
-<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<h3>Artifak Pusat Sumber</h3>
+<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artifak_pusat_sumber_bookshelves.jpg"></a>
 <h4><strong>Buku Saranan</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -514,4 +489,30 @@ Sumber MLCS.
 </div>
 </details>
 </div>
+<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Puan Siti Nur Dhaniyah Muhamad Rais </strong>
+</p>
+<p><strong>di talian</strong>: 6354-6959
+<br><strong>atau emel</strong>:&nbsp;
+<br><a href="mailto:Nur.Dhaniyah@staff.spydus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nur.Dhaniyah@staff.spydus.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Operasi</strong>:&nbsp;</p>
+<p>Isnin hingga Khamis - 8.30am - 5.30pm
+<br>Jumaat - 8.30am - 5.00pm
+<br>Sabtu, Ahad dan Cuti Umum ditutup</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
