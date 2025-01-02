@@ -58,7 +58,6 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus.jpg">
 </div>
-<p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
