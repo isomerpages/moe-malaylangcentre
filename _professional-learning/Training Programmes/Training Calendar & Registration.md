@@ -33,9 +33,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </p>
 <p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
 <br>
-<br><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif__Sinopsis.pdf" rel="noopener nofollow" target="_blank">MLCS Program Pembelajaran Profe</a>
-<a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif___Sinopsis.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif__Sinopsis.pdf" rel="noopener nofollow" target="_blank">sional</a>
-<a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif___Sinopsis.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif__Sinopsis.pdf" rel="noopener nofollow" target="_blank"> 2025 (Penggal 1) - Objektif Sinopsis</a>
+<br><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif___Sinopsis.pdf" rel="noopener nofollow" target="_blank">MLCS Program Pembelajaran Profesional 2025 (Penggal 1) - Objektif Sinopsis</a>
 </p>
 <p><strong>Tarikh mula pendaftaran ada seperti berikut:</strong>
 <br><em>Pendaftaran untuk kursus-kursus MLCS harus dilakukan melalui </em>
@@ -60,6 +58,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus.jpg">
 </div>
+<p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
