@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/Homepage_banner_1340x380px__2_.gif
+      background: /images/Homepage_banner_1340x380px_cab.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2025
@@ -39,7 +39,7 @@ sections:
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/CAB21___Homepage_Website.jpg
+      image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
       alt: Ceramah Arif Budiman
   - infopic:
       title: Bestari Berbicara

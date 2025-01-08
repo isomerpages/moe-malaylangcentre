@@ -4,7 +4,10 @@ permalink: /mlcs/resources/resource-centre/
 description: ""
 variant: tiptap
 ---
-<h3>Pusat Sumber MLCS</h3>
+<h3><strong>Pusat Sumber MLCS</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Title.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,7 +26,10 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Resource_centre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1aa.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
@@ -56,8 +62,18 @@ Sumber MLCS.
 </table>
 <p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
-<hr>
-<h4></h4>
+<h4><strong>Artifak Pusat Sumber</strong></h4>
+<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artifak_pusat_sumber_bookshelves.jpg"></a>
+<h4><strong>Paparan Khazanah Pilihan</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -231,8 +247,6 @@ Sumber MLCS.
 </div>
 </details>
 </div>
-<h3>Artifak Pusat Sumber</h3>
-<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artifak_pusat_sumber_bookshelves.jpg"></a>
 <h4><strong>Buku Saranan</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
