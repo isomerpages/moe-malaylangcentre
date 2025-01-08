@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Pusat Sumber MLCS</strong></h3>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Title.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -24,6 +25,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1aa.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
 dan budaya Melayu. Pusat sumber ini memiliki koleksi pelbagai buku dalam
@@ -55,21 +62,18 @@ Sumber MLCS.
 </table>
 <p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
-<hr>
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artifak_pusat_sumber_bookshelves.jpg"></a>
 <h4><strong>Paparan Khazanah Pilihan</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resource_Centre_Jan_Kickstart20205___1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resource_Centre_Jan_Kickstart20205____2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resource_Centre_Jan_Kickstart20205__3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
