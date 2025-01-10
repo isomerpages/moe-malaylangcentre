@@ -29,7 +29,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1aa.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Proses_Pulang_buku.png">
 </div>
 <p>Pusat Sumber MLCS memiliki lebih daripada&nbsp;10,000 tajuk buku berkaitan
 pengajaran dan pembelajaran terutamanya pengajaran dan pembelajaran bahasa
