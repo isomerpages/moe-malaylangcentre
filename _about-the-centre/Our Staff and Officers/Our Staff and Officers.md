@@ -56,14 +56,6 @@ variant: tiptap
 <br><a href="mailto:Muslim_Hanafiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muslim_Hanafiah@schools.gov.sg</a> 
 <br>Tel:6354 0235</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="100%" alt="" src="/images/Cikgu_Elyyah.jpg">
-</div>
-<p><strong>Cikgu Elyyah Kamsin</strong> 
-<br>Pegawai Jurulatih Pusat
-<br><a href="mailto:elyyah_kamsin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elyyah_kamsin@schools.gov.sg</a>
-</p>
-<p>Tel:6354 0232</p>
-<div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/Cikgu_Huda.jpg">
 </div>
 <p><strong>Cikgu Nurul Huda Muhammad Yassin</strong> 
