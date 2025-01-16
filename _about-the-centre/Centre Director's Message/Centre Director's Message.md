@@ -8,51 +8,52 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Norhayati_2025__5_.jpg">
 </div>
-<p>Para guru yang budiman,</p>
-<p>Tahun 2022 yang baru sahaja berlalu tidak banyak berbeza dengan tahun
-yang sebelumnya. Kita terus dicengkam dengan penularan COVID-19 yang masih
-belum ada penghujungnya. Namun begitu, guru-guru kita tetap gigih memperkasakan
-diri dengan pelbagai kemahiran dan pedagogi terkini untuk terus kekal relevan
-dalam norma baharu landskap pendidikan. Kecekalan dan kegigihan para guru
-kita dalam mempertingkat diri dan menyambut baik program-program pembangunan
-profesional anjuran Pusat Bahasa Melayu Singapura (MLCS) demi menghasilkan
-pengalaman pembelajaran yang bermakna, menyeronokkan dan berterusan untuk
-para pelajar harus dipuji.</p>
-<p>Kini, Singapura dan banyak negara di seluruh dunia sudah beralih ke fasa
-endemik. MLCS tidak akan berpeluk tubuh bahkan akan terus komited dalam
-memastikan program pembangunan profesional yang dianjurkan kekal relevan
-selaras dengan perkembangan semasa. MLCS juga akan sentiasa progresif dalam
-mendepani cabaran-cabaran yang mendatang. Hal ini perlu dilakukan agar
-para guru dapat dilengkapkan dengan PdP abad ke-21 demi mempersiap pelajar
-menghadapi masa hadapan yang kompleks. Oleh itu, ledakan teknologi maklumat
-yang sudah menjadi sebahagian daripada kehidupan kita akan terus dimanfaatkan
-agar program-program MLCS dapat bergerak seiring dengan perubahan yang
-berlaku sebagaimana yang telah dilakukan untuk struktur program pembangunan
-profesional dan juga bahan-bahan Pengajaran dan Pembelajaran (PdP) yang
-diterbitkan dalam bentuk digital.</p>
-<p>Sejajar dengan itu, MLCS akan memastikan tugas teras para guru dalam melaksanakan
-PdP yang seronok dan berkesan di dalam bilik darjah tetap menjadi keutamaan.
-Bagi memastikan &nbsp;penyediaan dan pelaksanaan PdP yang bermutu, pada
-tahun ini, MLCS akan terus menawarkan pelbagai kursus dan program pembangunan
-profesional yang berkaitan dengan pedagogi dan pengajaran bahasa. MLCS
-berharap melalui kursus-kursus yang ditawarkan, ia akan dapat membantu
-guru-guru kita menjadi seorang pendidik yang lebih reflektif dan cemerlang
-di bilik darjah. Kursus-kursus yang ditawarkan akan disasarkan untuk pelbagai
-peringkat yang kami namakan Tunas Budiman, Mekar Budiman, Bestari Budiman
-dan Cendekia Budiman.</p>
-<p>Akhir kata, semoga tahun 2023 dapat terus memacu kita untuk sentiasa berusaha
-dan lebih berdaya saing dalam landskap pendidikan yang pesat berubah demi
-menghasilkan kecemerlangan PdP Bahasa Melayu di Singapura. MLCS juga mengalu-alukan
-saranan dan juga maklum balas daripada semua pihak bagi membudayakan kecemerlangan
-profesional guru-guru kita dan merealisasikan visi MLCS menjadi pusat latihan
-guru yang cemerlang.</p>
+<p>Banyak perubahan telah berlaku semenjak kita dilanda pandemik yang menggegar
+dunia. Perubahan-perubahan yang terjadi memerlukan kita untuk membuat penyesuaian
+yang sering kali menimbulkan rasa tidak selesa. Namun, satu perkara yang
+pasti ialah perubahan dalam bidang pendidikan perlu dilihat dari sudut
+yang lebih positif. Sekiranya pendidikan dianggap sebagai kunci penakatan
+dan kelangsungan hidup dalam dunia yang penuh dengan ketidaktentuan, kita
+tidak boleh terus berada di takuk lama. Sebaliknya, kita perlu lebih fleksibel,
+berinovasi, dan memastikan akses kepada pendidikan bermutu sentiasa terjamin.</p>
+<p>Tahun ini, MLCS akan menginjak usia 15 tahun sejak penubuhannya. Selama
+ini, MLCS telah melaksanakan pelbagai program dan aktiviti dalam pelbagai
+mod untuk memacu kecemerlangan profesional dalam kalangan guru-guru Bahasa
+Melayu (BM). Usaha ini bertujuan memastikan BM sentiasa relevan dan menarik
+bagi pelajar-pelajar dengan profil yang berbeza-beza. Sebagai satu-satunya
+pusat latihan guru BM di Singapura, MLCS bertekad untuk terus memastikan
+mutu pembelajaran dan pengajaran (PdP) BM berada pada tahap yang tinggi.</p>
+<p>Oleh itu, MLCS akan terus memainkan peranan penting dalam membina keupayaan
+dan keyakinan guru-guru melalui pelbagai program pembelajaran profesional
+yang relevan dan terkini. Antara tumpuan utama ialah kursus-kursus dan
+bengkel yang memfokuskan kepada e-Pedagogi, Kecerdasan Buatan (AI), dan
+kemahiran abad ke-21. Pemerkasaan guru dengan kemahiran-kemahiran ini bukan
+sahaja menjadikan guru-guru kita lebih seronok mengajar tetapi juga lebih
+berwibawa sebagai pendidik. Matlamat akhirnya adalah untuk melahirkan pelajar-pelajar
+yang memiliki minat mendalam dan rasa pemilikan terhadap BM di samping
+membekalkan mereka dengan keupayaan untuk mengharungi cabaran dan menyelesaikan
+permasalahan dalam dunia digital ini.</p>
+<p>Sehubungan itu, MLCS juga komited untuk mengukuhkan jaringan kerjasama
+dengan guru-guru BM melalui sokongan yang lebih padu di bilik darjah. Di
+samping itu, MLCS akan bekerjasama erat dengan Guru Kanan dan Guru Peneraju
+dan menubuhkan Komuniti Pembelajaran Profesional (NLC). NLC ini bertujuan
+memupuk kerjasama profesional, perkongsian pengetahuan, dan pembelajaran
+berterusan dalam kalangan guru-guru kita selain dari menyediakan ruang
+untuk bertukar-tukar idea, amalan terbaik, dan strategi bagi meningkatkan
+hasil PdP.</p>
+<p>Akhir kalam, dalam kita mengharungi satu lagi tahun akademik yang baharu,
+MLCS berharap para guru BM kita akan terus memanfaatkan perubahan-perubahan
+yang berlaku dalam pendidikan untuk meneroka dan mereka bentuk pengalaman
+pembelajaran yang pelbagai dan menyeronokkan untuk para pelajar. Para guru
+juga digalakkan untuk sentiasa berfikiran kritis dan reflektif dalam menggalas
+tugas menjadi pendidik yang cemerlang dan profesional. Marilah kita bersama-sama
+melangkah ke hadapan dengan keyakinan dan semangat untuk terus memajukan
+bahasa Melayu kita!</p>
 <p>Sekian, terima kasih.
 <br>#MLCS Milik Kita Bersama</p>
 <p><strong>Puan Norhayati Awang</strong>
 <br><strong>Pengarah Pusat</strong>
 <br><strong>Pusat Bahasa Melayu Singapura (MLCS)</strong>
-<br><strong>Akademi Guru Singapura (AST)</strong>
-<br><strong>Kementerian Pendidikan Singapura (MOE)</strong>
 </p>
 <p><a href="/mlcs/about-the-centre/directors-message/directors-message-in-english" rel="noopener noreferrer nofollow" target="_blank">English Version</a>
 </p>
