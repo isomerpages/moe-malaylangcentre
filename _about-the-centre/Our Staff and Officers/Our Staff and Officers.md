@@ -5,7 +5,15 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
+<h2>MLCS Family</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_MLCS_Family_1.jpg">
+</div>
 <h2>Professional Staff</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Professional_Staff.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cikgu_Rahmat_1.jpg">
 </div>
@@ -64,6 +72,10 @@ variant: tiptap
 </p>
 <p>Tel:6354 6957</p>
 <h2>Administrative Officers</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin_with_Mdm.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Siti_Hajjar_1.jpg">
 </div>
