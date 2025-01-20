@@ -55,5 +55,5 @@ bahasa Melayu kita!</p>
 <br><strong>Pengarah Pusat</strong>
 <br><strong>Pusat Bahasa Melayu Singapura (MLCS)</strong>
 </p>
-<p><a href="/mlcs/about-the-centre/directors-message/directors-message-in-english" rel="noopener noreferrer nofollow" target="_blank">English Version</a>
-</p>
+<p></p>
+<p></p>
