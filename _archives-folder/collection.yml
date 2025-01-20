@@ -2,6 +2,7 @@ collections:
   archives-folder:
     output: true
     order:
+      - Centre Director's Message in English.md
       - Sesi Sidang Selari.md
       - Photo Archives Jejak Budaya/Jejak Budaya.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Rivervale.md
