@@ -6,22 +6,26 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <p>Pusat Bahasa Melayu Singapura (MLCS), Akademi Guru Singapura, Kementerian
-Pendidikan Singapura (MOE) akan menganjurkan program Bicara Ilmiah II buat
-semua Guru Peneraju dan Guru Kanan.</p>
+Pendidikan Singapura (MOE) sekali lagi akan menganjurkan program Bicara
+Ilmiah II pada 8 Mei 2025 khususnya untuk semua Guru Peneraju dan Guru
+Kanan.</p>
+<p>Program Bicara Ilmiah yang pertama telah dianjurkan dengan jayanya pada
+tahun 2023 dengan topik berikut: <strong>Darma Pedagogi Pendidik Sebagai Inteligensia.</strong>
+</p>
+<p>Bagi program Bicara Ilmiah II pada tahun ini, MLCS telah mengundang <strong>Profesor Farish Ahmad Noor</strong> untuk
+berkongsi kepakaran beliau berkaitan tajuk berikut:</p>
+<p><strong>Siapakah 'Guru'? Memahami Konsep Guru dan Keguruan dalam Era Pendidikan Moden</strong>
+</p>
 <p></p>
-<p>Objektif program ini adalah seperti berikut:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; memperdalam pengetahuan ketua pedagogi
-dalam bahasa, sastera dan budaya Melayu;</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menyediakan platform bagi ketua pedagogi
-berinteraksi dalam perbincangan profesional dengan pakar dalam bidang yang
-berkaitan dengan PdP bahasa Melayu; dan</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; membolehkan ketua pedagogi untuk
-membuat refleksi dan mengaitkan pengetahuan yang diraih dengan PdP bahasa
-Melayu.</p>
-<p>
-<br>Bagi program Bicara Ilmiah tahun ini, MLCS telah mengundang <strong>Profesor Farish A. Noor</strong> untuk
-berkongsi kepakaran beliau berkaitan tajuk <strong>" Siapakah 'Guru'? Memahami Konsep Guru dan Keguruan dalam Era Pendidikan Moden.</strong>"</p>
-<p></p>
+<p><strong>Objektif program ini adalah seperti berikut:</strong>
+</p>
+<p>memperdalam pengetahuan ketua pedagogi dalam bahasa, sastera, budaya,
+pendidikan, sejarah dan peradaban Melayu;</p>
+<p>menyediakan platform bagi ketua pedagogi berinteraksi dalam perbincangan
+profesional dengan pakar dalam bidang yang berkaitan PdP bahasa Melayu;
+dan</p>
+<p>membolehkan ketua pedagogi untuk membuat refleksi dan mengaitkan pengetahuan
+yang diraih dengan PdP bahasa Melayu.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
