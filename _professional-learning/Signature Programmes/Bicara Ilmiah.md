@@ -5,27 +5,30 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
+<h4><strong>Bicara Illmiah 2025</strong></h4>
 <p>Pusat Bahasa Melayu Singapura (MLCS), Akademi Guru Singapura, Kementerian
-Pendidikan Singapura (MOE) sekali lagi akan menganjurkan program Bicara
-Ilmiah II pada 8 Mei 2025 khususnya untuk semua Guru Peneraju dan Guru
-Kanan.</p>
+Pendidikan Singapura (MOE) sekali lagi akan menganjurkan program <strong>Bicara Ilmiah II pada 8 Mei 2025 </strong>khususnya
+untuk semua Guru Peneraju dan Guru Kanan.</p>
 <p>Program Bicara Ilmiah yang pertama telah dianjurkan dengan jayanya pada
 tahun 2023 dengan topik berikut: <strong>Darma Pedagogi Pendidik Sebagai Inteligensia.</strong>
 </p>
 <p>Bagi program Bicara Ilmiah II pada tahun ini, MLCS telah mengundang <strong>Profesor Farish Ahmad Noor</strong> untuk
 berkongsi kepakaran beliau berkaitan tajuk berikut:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Siapakah 'Guru'? Memahami Konsep Guru dan Keguruan dalam Era Pendidikan Moden</strong>
 </p>
-<p></p>
+</li>
+</ul>
 <p><strong>Objektif program ini adalah seperti berikut:</strong>
-</p>
-<p>memperdalam pengetahuan ketua pedagogi dalam bahasa, sastera, budaya,
-pendidikan, sejarah dan peradaban Melayu;</p>
-<p>menyediakan platform bagi ketua pedagogi berinteraksi dalam perbincangan
-profesional dengan pakar dalam bidang yang berkaitan PdP bahasa Melayu;
-dan</p>
-<p>membolehkan ketua pedagogi untuk membuat refleksi dan mengaitkan pengetahuan
-yang diraih dengan PdP bahasa Melayu.</p>
+<br>
+<br><strong>a. </strong>memperdalam pengetahuan ketua pedagogi dalam bahasa,
+sastera, budaya, pendidikan, sejarah dan peradaban Melayu;
+<br><strong>b. </strong>menyediakan platform bagi ketua pedagogi berinteraksi
+dalam perbincangan profesional dengan pakar dalam bidang yang berkaitan
+PdP bahasa Melayu; dan
+<br><strong>c.</strong> membolehkan ketua pedagogi untuk membuat refleksi dan
+mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
