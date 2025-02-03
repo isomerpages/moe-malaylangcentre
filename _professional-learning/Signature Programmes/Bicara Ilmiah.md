@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<h4><strong>Bicara Illmiah 2025</strong></h4>
+<h4><strong>Bicara Illmiah II</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Web_for_Bicara_Ilmiah.png">
 </div>
