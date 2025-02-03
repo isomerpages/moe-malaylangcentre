@@ -77,7 +77,7 @@ sections:
       alt: Perkongsian Profesional 2024
   - infopic:
       title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pempelajaran profesional
+      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
         yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
       button: Sila lihat selanjutnya
       url: professional-development-prog/signature-programmes/bicarailmiah/
