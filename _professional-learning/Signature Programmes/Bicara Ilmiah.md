@@ -6,6 +6,9 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <h4><strong>Bicara Illmiah 2025</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Web_for_Bicara_Ilmiah.png">
+</div>
 <p>Pusat Bahasa Melayu Singapura (MLCS), Akademi Guru Singapura, Kementerian
 Pendidikan Singapura (MOE) sekali lagi akan menganjurkan program <strong>Bicara Ilmiah II pada 8 Mei 2025 </strong>khususnya
 untuk semua Guru Peneraju dan Guru Kanan.</p>
@@ -14,13 +17,9 @@ tahun 2023 dengan topik berikut: <strong>Darma Pedagogi Pendidik Sebagai Intelig
 </p>
 <p>Bagi program Bicara Ilmiah II pada tahun ini, MLCS telah mengundang <strong>Profesor Farish Ahmad Noor</strong> untuk
 berkongsi kepakaran beliau berkaitan tajuk berikut:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Siapakah 'Guru'? Memahami Konsep Guru dan Keguruan </strong>
 <br><strong>dalam Era Pendidikan Moden</strong>
 </p>
-</li>
-</ul>
 <p><strong>Objektif program ini adalah seperti berikut:</strong>
 <br>
 <br>a.<strong> </strong>memperdalam pengetahuan ketua pedagogi dalam bahasa,
