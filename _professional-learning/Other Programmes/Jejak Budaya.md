@@ -6,7 +6,6 @@ third_nav_title: Other Programmes
 variant: tiptap
 ---
 <h3>Jejak Budaya 2025</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="jejak budaya 2025" src="/images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg">
 </div>
