@@ -26,14 +26,6 @@ sections:
       image: /images/OUR_MLCS_FAMILY_uncle_heng.jpg
       alt: Image alt text
   - infopic:
-      title: Seminar Bahasa Melayu
-      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
-        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
-      button: Sila lihat selanjutnya
-      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
-      alt: Resources
-  - infopic:
       title: Ceramah Arif Budiman Ke-21
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
@@ -42,13 +34,21 @@ sections:
       image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
       alt: Ceramah Arif Budiman
   - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
+        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/Web_for_Bicara_Ilmiah.png
+      alt: Bicara Ilmiah
+  - infopic:
       title: Bestari Berbicara
       id: infopic
       description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
         untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      image: /images/Bestari_Berbicara_homepage.jpg
+      image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
   - infopic:
       title: Jejak Budaya 2024
@@ -67,6 +67,14 @@ sections:
       image: /images/Pusat_Sumber_main_image_1.gif
       alt: Pusat Sumber MLCS
   - infopic:
+      title: Seminar Bahasa Melayu
+      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
+        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
+      button: Sila lihat selanjutnya
+      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
+      image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
+      alt: Resources
+  - infopic:
       image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
       title: Perkongsian Profesional 2024
       description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
@@ -75,14 +83,6 @@ sections:
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
       alt: Perkongsian Profesional 2024
-  - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
-        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/Web_for_Bicara_Ilmiah.png
-      alt: Bicara Ilmiah
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
