@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Other Programmes
 variant: tiptap
 ---
-<h3>Jejak Budaya 2024</h3>
+<h3>Jejak Budaya 2025</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Jejak_Budaya_Poster_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="jejak budaya 2025" src="/images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg">
 </div>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak
 Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris.
@@ -15,11 +16,14 @@ Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/jejak_budaya_photos.jpg">
 </div>
-<p>Pada tahun ini, dua modul baharu akan diperkenalkan. Pelajar akan berpeluang
-meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
-pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
-pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
-<p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong> 
+<p>Pada tahun 2024, dua modul baharu telah diperkenalkan. Pelajar berpeluang
+meneroka maklumat berkenaan seni anyaman dan batik.</p>
+<p>Pada tahun ini, dua lagi modul baharu akan diperkenalkan.
+<br><strong>Dua modul baharu adalah:<br>- Destar<br>-Lambung Kain</strong>
+<br>
+<br>Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran
+melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
+<p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong>
 </p>
 <p>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
 tahun untuk melaksanakan program ini. Tiada had pada jumlah pelajar yang
