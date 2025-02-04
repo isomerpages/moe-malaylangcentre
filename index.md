@@ -53,8 +53,8 @@ sections:
   - infopic:
       image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
       title: Perkongsian Profesional 2025
-      description: Perkongsian Profesional dianjurkan pada tahun 2024 bertemakan
-        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM
+      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
+        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-learning/signature/perkongsianprofesional/
       alt: Perkongsian Profesional 2025
