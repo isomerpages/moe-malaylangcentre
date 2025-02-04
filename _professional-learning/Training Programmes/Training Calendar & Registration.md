@@ -31,7 +31,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <br>
 <br><strong>Kursus 2025: Semester 1</strong>
 </p>
-<p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
+<p><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025___Semester_1_.pdf" rel="noopener nofollow" target="_blank">Program MLCS 2025 Semester 1</a>
 <br>
 <br><a href="/files/MLCS_Program_Pembelajaran_Profesional_2025__Penggal_1____Objektif___Sinopsis.pdf" rel="noopener nofollow" target="_blank">MLCS Program Pembelajaran Profesional 2025 (Penggal 1) - Objektif Sinopsis</a>
 </p>
