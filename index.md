@@ -61,8 +61,8 @@ sections:
   - infopic:
       title: Jejak Budaya 2025
       id: infopic
-      description: Ayuh ikuti program Jejak Budaya MLCS! Teroka budaya Melayu melalui
-        pembelajaran interaktif, gamifikasi dan kraftangan!
+      description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS! Teroka budaya
+        Melayu melalui pembelajaran interaktif, gamifikasi dan kraftangan!
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/jejak-budaya/
       image: /images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg
