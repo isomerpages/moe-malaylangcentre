@@ -21,7 +21,7 @@ masing-masing.</p>
 profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
-<hr>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>
