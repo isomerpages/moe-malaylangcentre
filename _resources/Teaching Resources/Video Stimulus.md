@@ -1,11 +1,11 @@
 ---
-title: Video Stimulus (Secondary Schools)
-permalink: /video-stimulus-secondary-schools/
+title: Video Stimulus
+permalink: /video-stimulus/
 variant: tiptap
 description: ""
 third_nav_title: Teaching Resources
 ---
-<h5>KLIP VIDEO STIMULUS UNTUK SEKOLAH MENENGAH</h5>
+<h5>KLIP VIDEO STIMULUS UNTUK SEKOLAH RENDAH DAN MENENGAH</h5>
 <p>Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti
 kursus ini dengan kerjasama Pusat Bahasa Melayu Singapura. Klip video dihasilkan
 untuk membantu guru menjalankan pengajaran dan penilaian lisan bagi peringkat
