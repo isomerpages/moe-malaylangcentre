@@ -59,12 +59,13 @@ sections:
       url: /mlcs/professional-learning/signature/perkongsianprofesional/
       alt: Perkongsian Profesional 2025
   - infopic:
-      title: Jejak Budaya 2024
+      title: Jejak Budaya 2025
       id: infopic
-      description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS!
+      description: Ayuh ikuti program Jejak Budaya MLCS! Teroka budaya Melayu melalui
+        pembelajaran interaktif, gamifikasi dan kraftangan!
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/jejak-budaya/
-      image: /images/Homepage_thumbnail_banner_jejak_budaya.jpg
+      image: /images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
   - infopic:
       title: Pusat Sumber MLCS
