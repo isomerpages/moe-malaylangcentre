@@ -51,6 +51,14 @@ sections:
       image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
   - infopic:
+      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
+      title: Perkongsian Profesional 2025
+      description: Bertemakan Keberkesanan Penerapan EdTech dan  Kecekapan Abad ke-21
+        yang Dipertingkat  dalam Pengajaran dan Pembelajaran BM
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-learning/signature/perkongsianprofesional/
+      alt: Perkongsian Profesional 2025
+  - infopic:
       title: Jejak Budaya 2024
       id: infopic
       description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS!
@@ -74,15 +82,6 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
       image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
-  - infopic:
-      image: /images/Homepage_thumbnail_banner_perkongsian_professional.jpg
-      title: Perkongsian Profesional 2024
-      description: Program Perkongsian Profesional yang dianjurkan pada tahun 2024
-        bertemakan Penggunaan Antologi JANJI Digital dalam Pengajaran dan
-        Pembelajaran Bahasa Melayu.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/other-programmes/professional-sharing/
-      alt: Perkongsian Profesional 2024
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
