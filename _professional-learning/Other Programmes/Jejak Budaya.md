@@ -17,8 +17,8 @@ Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.</p>
 </div>
 <p>Pada tahun 2024, dua modul baharu telah diperkenalkan. Pelajar berpeluang
 meneroka maklumat berkenaan seni anyaman dan batik.</p>
-<p>Pada tahun ini, dua lagi modul baharu akan diperkenalkan.
-<br><strong>Dua modul baharu adalah:<br>- Destar<br>-Lambung Kain</strong>
+<p>Pada tahun ini, dua lagi modul baharu akan diperkenalkan iaitu:
+<br><strong><br>-Modul Destar<br>-Modul Lambung Kain</strong>
 <br>
 <br>Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran
 melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
