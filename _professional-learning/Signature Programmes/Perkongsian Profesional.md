@@ -6,8 +6,29 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 <h3><strong>Perkongsian Profesional 2025</strong></h3>
-<p>Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan <strong>Keberkesanan Penerapan EdTech dan Kecekapan Abad ke-21 yang Dipertingkat dalam Pengajaran dan Pembelajaran BM</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="perkongsian profesional 2025" src="/images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg">
+</div>
+<p>Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan <strong>Keberkesanan Penerapan EdTech dan Kecekapan Abad ke-21 yang Dipertingkat dalam Pengajaran dan Pembelajaran BM.</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Terdapat <strong>20</strong> Perkongsian Profesional</p>
+</li>
+<li>
+<p>Melibatkan <strong>12</strong> Sekolah Rendah dan<strong> 8</strong> Sekolah
+Menengah</p>
+</li>
+<li>
+<p>Melibatkan <strong>50</strong> orang guru pembentang</p>
+</li>
+<li>
+<p>Penerbitan e-Buku PP2025</p>
+</li>
+<li>
+<p>Perkongsian dilakukan dengan menggunakan poster</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
