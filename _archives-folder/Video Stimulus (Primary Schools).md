@@ -99,7 +99,7 @@ sekolah rendah.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/soalan_rangsangan_klip_video_amalan_baik_-_bm_dan_bm_asas.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Amalan Baik </a>
+<p><a href="/files/soalan_rangsangan_klip_video_amalan_baik_-_bm_dan_bm_asas.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Amalan Baik</a>
 </p>
 </td>
 </tr>
