@@ -56,13 +56,13 @@ sekolah rendah.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1jrASo5bmbo?si=QAtt88aLbfMF0p7m"></iframe>
 </div>
-<h4>Klip Video 2: Berbudi Bahasa</h4>
+<h4>Klip Video 2: Hargai Masa</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1wn_aW68DCw"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sy_CgfCHHP8?si=qIf4Zgcey2BDw96v"></iframe>
 </div>
-<h4>Klip Video 3: Gaya Hidup Sihat</h4>
+<h4>Klip Video 3: ICT</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U3uTmk-LcfA"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kr9VDaMJXlc?si=GYJocoBv8qSHB7HQ"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
