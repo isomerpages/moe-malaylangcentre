@@ -85,29 +85,35 @@ sekolah rendah.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/soalan_rangsangan_bertimbang_rasa_gce_o_level.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 118.33 KB)</a>
+<p><a href="/files/kesihatan_rawatan_tradisional_1.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Kesihatan Rawatan Tradisional (Asas)</a>
+</p>
+<p></p>
+<p><a href="/files/kesihatan_rawatan_tradisional_2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Kesihatan Rawatan Tradisional </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/soalan_rangsangan_gaya_hidup_sihat_-_normal_teknikal.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 118.54 KB)</a>
+<p><a href="/files/vandalisme_1.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Vandalisme (Asas)</a>
+</p>
+<p></p>
+<p><a href="/files/vandalisme_2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Vandalisme</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/soalan_rangsangan_nilai_murni_-_gce_o_level.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 81.25 KB)</a>
+<p><a href="/files/soalan_rangsangan_klip_video_amalan_baik_-_bm_dan_bm_asas.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Amalan Baik (Asas)</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Klip Video 4: Bertimbang Rasa</h4>
+<h4>Klip Video 4: Kesihatan Rawatan Tradisional</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a537HNUh4VQ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BpX6JFJ7WFI?si=qSzqDs3WDCU4Iqp4"></iframe>
 </div>
-<h4>Klip Video 5: Gaya Hidup Sihat</h4>
+<h4>Klip Video 5: Vandalisme</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YlRa5LiAHfQ"></iframe>
 </div>
-<h4>Klip Video 6: Nilai Murni</h4>
+<h4>Klip Video 6: Amalan Baik</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uHaa2vwjyeE"></iframe>
 </div>
