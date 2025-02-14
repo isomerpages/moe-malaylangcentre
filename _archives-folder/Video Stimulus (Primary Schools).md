@@ -4,11 +4,11 @@ permalink: /video-stimulus-primary-schools/
 variant: tiptap
 description: ""
 ---
-<h5>KLIP VIDEO STIMULUS UNTUK SEKOLAH MENENGAH</h5>
+<h5>KLIP VIDEO STIMULUS UNTUK SEKOLAH RENDAH</h5>
 <p>Koleksi klip video ini dihasilkan oleh para guru yang telah mengikuti
 kursus ini dengan kerjasama Pusat Bahasa Melayu Singapura. Klip video dihasilkan
 untuk membantu guru menjalankan pengajaran dan penilaian lisan bagi peringkat
-sekolah rendah dan menengah.</p>
+sekolah rendah.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,26 +18,33 @@ sekolah rendah dan menengah.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Kilp Video 1: Adab Berkunjung</p>
+<p>Kilp Video 1: Bersenam</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Kilp Video 2: Berbudi Bahasa</p>
+<p>Kilp Video 2: Hargai Masa</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Kilp Video 3: Gaya Hidup Sihat</p>
+<p><strong>Klip Video 3: ICT</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/adab_berkunjung.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 238.46 KB)</a>
+<p><a href="/files/bersenam-1.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Bersenam (Asas)</a>
+</p>
+<p></p>
+<p><a href="/files/bersenam_2.pdf" rel="noopener nofollow" target="_blank">Solan Ransangan Bersenam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/berbudi_bahasa.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 214.04 KB)</a>
+<p><a href="/files/hargai-masa2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Hargai Masa (Asas)</a>
+</p>
+<p></p>
+<p><a href="/files/ict2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan ICT</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gaya_hidup_sihat.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 206.32 KB)</a>
+<p><a href="/files/ict1.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 206.32 KB)</a>
 </p>
 </td>
 </tr>
@@ -63,14 +70,15 @@ sekolah rendah dan menengah.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Klip Video 4: Kesihatan Rawatan Tradisional</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
-<p>Kilp Video 4: Bertimbang Rasa</p>
+<p>Kilp Video 5: Vandalisme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Kilp Video 5: Gaya Hidup Sihat</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Kilp Video 6: Nilai Murni</p>
+<p>Kilp Video 6: Amalan Baik</p>
 </th>
 </tr>
 <tr>
@@ -132,6 +140,8 @@ sekolah rendah dan menengah.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wYaWdtW49nE"></iframe>
 </div>
 <h4>Klip Video 8: Permainan Tradisional</h4>
+<p><a href="/files/bersenam_2.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xl3J0h0YdNc"></iframe>
 </div>
