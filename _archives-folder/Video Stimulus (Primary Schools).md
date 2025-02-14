@@ -40,11 +40,13 @@ sekolah rendah.</p>
 <p><a href="/files/hargai-masa2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan Hargai Masa (Asas)</a>
 </p>
 <p></p>
-<p><a href="/files/ict2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan ICT</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ict1.pdf" rel="noopener noreferrer nofollow" target="_blank">Soalan Rangsangan Bahasa Melayu(.pdf, 206.32 KB)</a>
+<p><a href="/files/ict1.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan ICT (Asas)</a>
+</p>
+<p></p>
+<p><a href="/files/ict2.pdf" rel="noopener nofollow" target="_blank">Soalan Ransangan ICT</a>
 </p>
 </td>
 </tr>
