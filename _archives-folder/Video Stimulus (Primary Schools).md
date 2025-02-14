@@ -52,9 +52,9 @@ sekolah rendah.</p>
 </tr>
 </tbody>
 </table>
-<h4>Klip Video 1: Adab Berkunjung</h4>
+<h4>Klip Video 1: Bersenam</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qRQZ_vGAPvs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1jrASo5bmbo?si=QAtt88aLbfMF0p7m"></iframe>
 </div>
 <h4>Klip Video 2: Berbudi Bahasa</h4>
 <div class="iframe-wrapper">
