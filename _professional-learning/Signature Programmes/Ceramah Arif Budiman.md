@@ -29,9 +29,9 @@ sastera, sejarah dan adat Melayu.</p>
 </div>
 <p><strong>Slaid Pembentangan Tuan Roslan Madun</strong>
 <br>Klik pautan berikut untuk mendapatkan <a href="go.gov.sg/bahancab2025" rel="noopener nofollow" target="_blank">slaid pembentangan</a> Tuan Roslan Madun</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="go.gov.sg/bahancab2025">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAB_Slaid_pic.jpg">
-</div>
+</a>
 <p></p>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
