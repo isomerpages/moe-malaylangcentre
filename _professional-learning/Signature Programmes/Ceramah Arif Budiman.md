@@ -46,7 +46,7 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Penyampaian Ucaptama Tuan Roslan Madun </strong>
+<p><strong>Penyampaian Ucaptama Tuan Roslan Madun</strong>
 </p>
 </li>
 </ol>
@@ -72,7 +72,7 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tajuk Lagu:
+<p><strong>Tajuk Lagu: </strong>
 <br>Lemak Manis</p>
 </td>
 </tr>
