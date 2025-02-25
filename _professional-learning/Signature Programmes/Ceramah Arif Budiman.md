@@ -31,6 +31,54 @@ sastera, sejarah dan adat Melayu.</p>
 <br>Klik pautan ini untuk mendapatkan <a href="http://go.gov.sg/bahancab2025" rel="noopener nofollow" target="_blank">bahan penyampaian ucaptama </a>Tuan
 Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAB_Slaid_pic.jpg"></a>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Video Ceramah Arif Budiman</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Penyampaian Ucaptama Tuan Roslan Madun </strong>
+</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ON6wtuGlIDY?si=WU5VFFq7XclG8wI5"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tajuk:</strong>
+<br>Mestika Puisi Melayu Tradisional: Warisan Kesenian dan Cerminan Jiwa Melayu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Lagu Rakyat yang dipersembahkan oleh Tuan Roslan Madun</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AT2J5Tm3EZM?si=NSh4hot-EcEHcgI0"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tajuk Lagu:
+<br>Lemak Manis</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
