@@ -79,6 +79,11 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 </tbody>
 </table>
 <p></p>
+<p><strong>Gambar</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="350" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv-zu1pYoTkh1Hs_Jvpr5spu8d_0HwxwmW2TLHN2P3HrUsNgbuoTSZyEKaZmw2CMKi-bQDxEQg5VOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
