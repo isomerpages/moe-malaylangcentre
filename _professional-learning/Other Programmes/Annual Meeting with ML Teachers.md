@@ -16,9 +16,18 @@ dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>05 Februari 2025</str
 di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.</p>
 <p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Rendah)
 dilaksanakan pada&nbsp;<strong>Isnin</strong>,&nbsp;<strong>27 Januari 2025</strong>&nbsp;melalui
-sidang Zoom, dari 2.30 - 5.30 petang.</p>
-<p></p>
-<p></p>
+sidang Zoom, dari 2.30 - 5.30 petang.
+<br>
+</p>
+<p>Klik pautan dibawah untuk mendapatkan&nbsp;<a href="/files/1__MemBudayakan_Kecemerlangan_Profesional_2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">slaid</a> yang
+dikongsi semasa Mesyuarat Tahunan tersebut.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mensyuarat1.jpg">
+</div>
+<h4><strong>Program Pembelajaran Profesional MLCS</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/program_pembelajaran.jpg">
+</div>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
