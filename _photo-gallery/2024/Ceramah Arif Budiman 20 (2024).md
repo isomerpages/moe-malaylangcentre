@@ -6,6 +6,6 @@ description: Ceramah Arif Budiman
 third_nav_title: "2024"
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv-zu1pYoTkh1Hs_Jvpr5spu8d_0HwxwmW2TLHN2P3HrUsNgbuoTSZyEKaZmw2CMKi-bQDxEQg5VOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
