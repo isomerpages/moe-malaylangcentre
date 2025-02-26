@@ -56,7 +56,8 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p><a class="isomer-image-wrapper" h
 <h4></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Mensyuarat Tahunan 2024</summary>
+<summary><strong>Mensyuarat Tahunan 2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mesyuarat Tahunan Pegawai Utama Bahasa Melayu 2024 dianjurkan pada tarikh-tarikh
 yang berikut:
