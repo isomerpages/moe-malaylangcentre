@@ -22,13 +22,38 @@ sidang Zoom, dari 2.30 - 5.30 petang.
 <h4><strong>Membudayakan Kecemerlangan Profesional Guru Bahasa Melayu</strong></h4>
 <p>Klik pautan dibawah untuk mendapatkan <a href="/files/1__MemBudayakan_Kecemerlangan_Profesional_2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">slaid</a> yang
 dikongsi semasa Mesyuarat Tahunan tersebut.</p><a class="isomer-image-wrapper" href="files/1_Membudayakan_Kecemerlangan_Profesional_2025_Final.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/mensyuarat1.jpg"></a>
+<h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h4><strong>Program Pembelajaran Profesional MLCS</strong></h4>
-<p>Klik pautan dibawah untuk mendapatkan maklumat tentang Program Pembelajaran
-Profesional di MLCS.</p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1YoCcSuDxq_yC626ANMTMT2CCsoj2ZJ5f/view?usp=sharing"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Program_Pembelajaran_Profesional_Anjuran_MLCS.png"></a>
-<h4>Video</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1YoCcSuDxq_yC626ANMTMT2CCsoj2ZJ5f/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sProgram_Pembelajaran_Profesional_Anjuran_MLCS.png"></a>
+</td>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NhvY5W44sxs?si=SgkCHcT3rJAogIbQ"></iframe>
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Mensyuarat Tahunan 2024</summary>
