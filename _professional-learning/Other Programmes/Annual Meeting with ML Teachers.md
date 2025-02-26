@@ -5,23 +5,85 @@ description: ""
 third_nav_title: Other Programmes
 variant: tiptap
 ---
-<h4>MESYUARAT TAHUNAN PEGAWAI UTAMA SEKOLAH RENDAH, MENENGAH DAN MAKTAB RENDAH/INSTITUSI PUSAT 2024</h4>
-<p>Mesyuarat Tahunan Pegawai Utama Bahasa Melayu 2024 dianjurkan pada tarikh-tarikh
+<h4><strong>MESYUARAT TAHUNAN PEGAWAI UTAMA SEKOLAH RENDAH, MENENGAH DAN MAKTAB RENDAH/INSTITUSI PUSAT 2025</strong></h4>
+<p>Mesyuarat Tahunan Pegawai Utama Bahasa Melayu 2025 dianjurkan pada tarikh-tarikh
 yang berikut:</p>
 <p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Maktab Rendah/Institusi
+Pusat) dilaksanakan pada&nbsp;<strong>Khamis</strong>,&nbsp;<strong>06 Februari 2025</strong>&nbsp;di
+bangunan MLCS, TR 7&amp;8, Bishan, dari 2.30 - 5.30 petang.</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Menengah)
+dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>05 Februari 2025</strong>&nbsp;
+di Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Rendah)
+dilaksanakan pada&nbsp;<strong>Isnin</strong>,&nbsp;<strong>27 Januari 2025</strong>&nbsp;melalui
+sidang Zoom, dari 2.30 - 5.30 petang.
+<br>
+</p>
+<h4><strong>Membudayakan Kecemerlangan Profesional Guru Bahasa Melayu</strong></h4>
+<p>Klik pautan dibawah untuk mendapatkan <a href="/files/1__MemBudayakan_Kecemerlangan_Profesional_2025_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">slaid</a> yang
+dikongsi semasa Mesyuarat Tahunan tersebut.</p><a class="isomer-image-wrapper" href="files/1_Membudayakan_Kecemerlangan_Profesional_2025_Final.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/mensyuarat1.jpg"></a>
+<h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Program Pembelajaran Profesional MLCS</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/program_pembelajaran_mlcs.html"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sProgram_Pembelajaran_Profesional_Anjuran_MLCS.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NhvY5W44sxs?si=SgkCHcT3rJAogIbQ"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mensyuarat Tahunan 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mesyuarat Tahunan Pegawai Utama Bahasa Melayu 2024 dianjurkan pada tarikh-tarikh
+yang berikut:
+<br>
+</p>
+<p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Maktab Rendah/Institusi
 Pusat) dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>24 Januari 2024</strong>&nbsp;di
-MOE, TR 1&amp;2, Buona Vista, dari 2.30 - 5.30 petang.</p>
+MOE, TR 1&amp;2, Buona Vista, dari 2.30 - 5.30 petang.
+<br>
+</p>
 <p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Menengah)
 dilaksanakan pada&nbsp;<strong>Selasa</strong>,&nbsp;<strong>30 Januari 2024</strong>&nbsp;melalui
-sidang Zoom, dari 2.30 - 5.30 petang.</p>
+sidang Zoom, dari 2.30 - 5.30 petang.
+<br>
+</p>
 <p>Mesyuarat Tahunan Bersama&nbsp; Guru-Guru Bahasa Melayu (Sekolah Rendah)
 akan dilaksanakan pada&nbsp;<strong>Rabu</strong>,&nbsp;<strong>31</strong>&nbsp;<strong>Januari 2024</strong>&nbsp;di
 Edutorium MOE, Buona Vista, dari 2.30 - 5.30 petang.</p>
-<hr>
+<p></p>
 <p>Klik pautan berikut untuk mendapatkan&nbsp;slaid Powerpoint&nbsp;yang
 dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_presentation_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Slaid Powerpoint</a>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Annual_Meeting_2024_presentation_slides.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AM_ppt_cover.jpg"></a>
@@ -35,7 +97,11 @@ dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_
 <iframe height="391" width="695" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rE5kwQ3JoEk?si=6wxC1g3V4_XlBfbi"></iframe>
 </div>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -86,7 +152,11 @@ dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -118,7 +188,10 @@ dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,4 +234,9 @@ dikongsi semasa Mesyuarat Tahunan tersebut. <a href="/files/Annual_Meeting_2024_
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<hr>
 <p></p>
