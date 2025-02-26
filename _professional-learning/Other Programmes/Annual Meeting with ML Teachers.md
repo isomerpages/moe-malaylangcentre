@@ -43,7 +43,7 @@ dikongsi semasa Mesyuarat Tahunan tersebut.</p><a class="isomer-image-wrapper" h
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1YoCcSuDxq_yC626ANMTMT2CCsoj2ZJ5f/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sProgram_Pembelajaran_Profesional_Anjuran_MLCS.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/program_pembelajaran_mlcs.html"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/sProgram_Pembelajaran_Profesional_Anjuran_MLCS.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
