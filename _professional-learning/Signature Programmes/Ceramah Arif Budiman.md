@@ -76,6 +76,22 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 <br>Lemak Manis</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Syair oleh Tuan Roslan Madun</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LXLPWq-vyuc?si=WfUPx-LJGOfy5h0N"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
