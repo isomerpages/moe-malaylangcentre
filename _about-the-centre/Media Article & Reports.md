@@ -8,6 +8,10 @@ variant: tiptap
 pembangunan guru bagi guru-guru Bahasa Melayu Singapura. Kegiatan dan aktiviti
 yang dianjurkan oleh MLCS telah menerima liputan pelbagai pihak media setempat.</p>
 <p></p>
+<p><strong><u>Berita Harian - 21 Februari 2025</u></strong>
+<br><a href="https://www.beritaharian.sg/bahasa-budaya/kepentingan-bersahabat-teknologi-demi-pertahan-warisan-puisi-melayu-tradisional" rel="noopener nofollow" target="_blank">Kepentingan ‘bersahabat’ dengan teknologi demi pertahan warisan puisi Melayu tradisional</a>
+<br>
+</p><a class="isomer-image-wrapper" href="https://www.beritaharian.sg/bahasa-budaya/kepentingan-bersahabat-teknologi-demi-pertahan-warisan-puisi-melayu-tradisional"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/beritaharian_cab21___roslan_madun.png"></a>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2024</strong>
