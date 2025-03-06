@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Jejak Budaya 2025</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="jejak budaya 2025" src="/images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/jejak_budaya2025_edit.jpg">
 </div>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak
 Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris.
