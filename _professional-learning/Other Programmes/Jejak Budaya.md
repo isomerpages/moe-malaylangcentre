@@ -11,33 +11,62 @@ variant: tiptap
 </div>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak
 Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris.
-Program ini telah berjaya memanfaatkan lebih 7000 pelajar di Singapura.</p>
+Program ini telah berjaya memanfaatkan lebih 14,000 pelajar di Singapura
+sepanjang tahun 2023-2024.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/jejak_budaya_photos.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/jejakbudaya2025_1.jpg">
 </div>
-<p>Pada tahun 2024, dua modul baharu telah diperkenalkan. Pelajar berpeluang
-meneroka maklumat berkenaan seni anyaman dan batik.</p>
-<p>Pada tahun ini, dua lagi modul baharu akan diperkenalkan iaitu:
-<br><strong><br>-Modul Destar<br>-Modul Lambung Kain</strong>
-<br>
-<br>Dengan memanfaatkan pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran
-melalui SLS, pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jejakbudaya2025_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>MENERAPKAN KEMAHIRAN BERFIKIR SECARA ADAPTIF DAN INVENTIF DALAM MENGHARGAI BUDAYA MELAYU KITA</strong>
+</p>
+<p>Program ini menerapkan pedagogi gamifikasi dan pembelajaran pengalaman <em>(experential learning) </em>di
+samping menerapkan kemahiran berfikir secara adaptif dan inventif. Portal
+SLS, media dan wahana teknologi digabungkan untuk memberikan pengalaman
+pembelajaran bagi pribumi digital dan dinilai secara langsung <em>(direct assessment)</em>.</p>
+<p>Pada tahun ini, dua modul baharu akan diperkenalkan. Pelajar akan berpeluang
+meneroka maklumat berkenaan seni anyaman dan batik. Dengan memanfaatkan
+pelbagai wahana dan pengalaman gamifikasi dalam pembelajaran melalui SLS,
+pelajar diharapkan akan lebih menghargai budaya Melayu kita.</p>
 <p><strong>MAKLUMAT TENTANG BAHAN PENGAJARAN</strong>
 </p>
-<p>• Setiap sekolah diberikan peluang memilih<strong><u> 2 tarikh yang sesuai</u></strong> sepanjang
+<ul data-tight="true" class="tight">
+<li>
+<p>Setiap sekolah diberikan peluang memilih <strong><u>2 tarikh yang sesuai</u></strong> sepanjang
 tahun untuk melaksanakan program ini. Tiada had pada jumlah pelajar yang
 boleh ambil bahagian.</p>
-<p></p>
+</li>
+<li>
+<p>Cikgu digalakkan agar berbincang dengan guru-guru di kelas atau peringkat
+yang lain untuk memilih tarikh yang sesuai untuk menjalankan program ini
+bersama-sama.</p>
+</li>
+</ul>
 <p><strong><u>Penggunaan SLS</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pelajaran Jejak Budaya di SLS telah dibina dalam bentuk gamifikasi. Para
-pelajar perlu melengkapkan misi yang diberikan</p>
+<p>Bahan pengajaran Jejak Budaya di SLS telah dibina dalam bentuk gamifikasi.
+Para pelajar perlu melengkapkan aktiviti serta kuiz-kuiz yang diberikan.</p>
 </li>
 <li>
-<p>Pelajaran Jejak Budaya di SLS akan dikongsi dengan guru sebelum program
-dimulakan</p>
+<p>Bahan di SLS ini akan dikongsi dengan guru sebelum program dimulakan</p>
 </li>
 <li>
 <p>Guru boleh membuat penyesuaian mengikut profil pelajar dan pendekatan
@@ -49,30 +78,31 @@ yang digunakan di sekolah masing-masing</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Maklumat mengenai artifak budaya disediakan menggunakan aplikasi Nearpod
-yang telah dimasukkan dalam pelajaran SLS yang dikongsi</p>
+yang telah dimasukkan dalam bahan pengajaran SLS yang dikongsi</p>
 </li>
 <li>
 <p>Berdasarkan tarikh pelaksanaan dengan pelajar yang diberikan oleh pihak
-sekolah, MLCS akan membenarkan&nbsp;<strong><u>akses pada bahan</u></strong>&nbsp;<strong><u>Nearpod selama 2 minggu sahaja</u></strong>
+sekolah, MLCS akan membenarkan&nbsp;<strong><u>akses pada bahan</u></strong>&nbsp;<strong><u>Nearpod selama 2 minggu</u></strong>
 </p>
 </li>
 <li>
 <p>Pelajar hanya perlu memasukkan kod yang diberikan untuk mendapat akses</p>
 </li>
 <li>
-<p>Akses pada bahan Nearpod akan diberikan&nbsp;<strong><u>2 minggu sebelum tarikh pelaksanaan dengan pelajar</u></strong>
+<p>Akses pada bahan Nearpod dan SLS akan diberikan&nbsp;<strong><u>2 minggu sebelum tarikh pelaksanaan yang dinyatakan semasa pendaftaran</u></strong>
 </p>
 </li>
 <li>
-<p>Guru boleh meneroka bahan sebelum ‘Assign’ pada pelajar pada tarikh yang
-ditetapkan. Berdasarkan bahan di Nearpod, pemerancahan atau aktiviti tambahan
-boleh dimasukkan dalam SLS jika perlu</p>
+<p>Guru boleh meneroka bahan sebelum <em>‘Assign’</em> pada pelajar pada tarikh
+yang ditetapkan. Berdasarkan bahan di Nearpod, pemerancahan atau aktiviti
+tambahan boleh dimasukkan dalam SLS jika perlu</p>
 </li>
 </ul>
 <p><strong><u>Bahan-bahan sokongan</u></strong>
 </p>
-<p>1. Kod Nearpod (bahan boleh diakses selama 2 minggu sahaja)
-<br>2. Pautan untuk maklum balas guru</p>
+<p>1.&nbsp;&nbsp;&nbsp; Kod Nearpod (bahan boleh diakses selama 2 minggu
+sahaja
+<br>2.&nbsp;&nbsp;&nbsp; Pautan untuk maklum balas guru</p>
 <p><strong><u>Langkah susulan</u></strong>
 </p>
 <p>Setelah menjalankan program, berikut merupakan perkara-perkara yang perlu
@@ -85,12 +115,12 @@ aktiviti di borang maklum balas</p>
 <p><strong>PERSEDIAAN YANG PERLU DILAKUKAN OLEH PIHAK SEKOLAH</strong>
 </p>
 <p>Pastikan perkara-perkara berikut disediakan:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Peranti untuk menggunakan aplikasi SLS dan Nearpod (Komputer riba/iPad)</p>
 </li>
 <li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat gasing</u></strong>:</p>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali gasing</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3 helai kertas berwarna untuk setiap pelajar</p>
@@ -106,8 +136,11 @@ aktiviti di borang maklum balas</p>
 </li>
 </ul>
 </li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat keris</u></strong>:</p>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali keris</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3 helai kertas A4 untuk setiap pelajar</p>
@@ -124,36 +157,58 @@ aktiviti di borang maklum balas</p>
 </ul>
 </li>
 <li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat anyaman</u></strong>:</p>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali anyaman:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>kertas berwarna</p>
+<p>Kertas berwarna</p>
 </li>
 <li>
-<p>gunting</p>
+<p>Gunting</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Bahan untuk sesi&nbsp;<strong><u>membuat aktiviti batik:</u></strong>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali batik:</u></strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Kertas lukis yang telah dicetakkan corak batik (Salinan pdf corak-corak
 batik akan dikirimkan melalui e-mel)</p>
 </li>
 <li>
-<p>Krayon lilin (oil pastel crayon)</p>
+<p>Krayon lilin (<em>oil pastel crayon)</em>
+</p>
 </li>
 <li>
-<p>Cat air (water colour paint)</p>
+<p>Cat air (<em>water colour paint)</em>
+</p>
 </li>
 <li>
 <p>Berus cat</p>
-<p></p>
 </li>
 </ul>
-<p></p>
+</li>
+<li>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali Destar:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kertas bersaiz A3</p>
+</li>
+<li>
+<p>Gunting/ Pembaris</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Bahan untuk sesi&nbsp;<strong><u>amali Lambung Kain:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kain Batik Sarung atau Kain Pelekat Sarung</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
