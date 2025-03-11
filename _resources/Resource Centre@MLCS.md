@@ -90,6 +90,13 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Feb25_Footer.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Budaya___Bahasa_library_display.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Puisi_Tradisional_library_display.jpg">
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
