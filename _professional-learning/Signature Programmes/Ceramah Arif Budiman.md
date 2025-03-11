@@ -51,7 +51,7 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ON6wtuGlIDY?si=WU5VFFq7XclG8wI5"></iframe>
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eCc1yps_gSs?si=EjVg-q7TyQCpbI6o"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +74,38 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 <td rowspan="1" colspan="1">
 <p><strong>Tajuk Lagu: </strong>
 <br>Lemak Manis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Syair oleh Tuan Roslan Madun</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LXLPWq-vyuc?si=WfUPx-LJGOfy5h0N"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Syair oleh Nur Nabihah Shukeri</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eCc1yps_gSs?si=_Iu_4hRtgov-ZqAN"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
