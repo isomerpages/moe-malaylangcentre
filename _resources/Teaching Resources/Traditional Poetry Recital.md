@@ -62,7 +62,19 @@ third_nav_title: Teaching Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4)Syair Bidasari oleh Tuan Roslan Madun (Maktab Rendah)</strong>
+<p><strong>4) Gurindam Dua Belas oleh Nur Nabihah Shukeri</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s6LscBAnlEI?si=zsV9GoCiTdhpSGut"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5)Syair Bidasari oleh Tuan Roslan Madun (Maktab Rendah)</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iYtjL_PzlMw?si=4ciI0m9l4qYusAIn"></iframe>
@@ -74,6 +86,11 @@ third_nav_title: Teaching Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>6) Syair Bidasari oleh Nur Nabihah Shukeri</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hrOYM67dbJ0?si=dspeHPHpwl_g6t6e"></iframe>
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
