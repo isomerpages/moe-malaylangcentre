@@ -33,7 +33,9 @@ third_nav_title: Teaching Resources
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_penyesalan.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -45,7 +47,9 @@ third_nav_title: Teaching Resources
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_tunjuk_ajar_melayu.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -57,7 +61,9 @@ third_nav_title: Teaching Resources
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_gurindam_dua_belas.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -69,7 +75,9 @@ third_nav_title: Teaching Resources
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_gurindam_dua_belas.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -81,7 +89,9 @@ third_nav_title: Teaching Resources
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -94,7 +104,9 @@ third_nav_title: Teaching Resources
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg">
+</div>
 </td>
 </tr>
 </tbody>
