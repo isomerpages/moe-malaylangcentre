@@ -539,7 +539,7 @@ Sumber MLCS.
 </div>
 </details>
 </div>
-<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pegawai perpustakawan kami:</strong>
+<p><strong>Sekiranya anda mempunyai sebarang pertanyaan, sila hubungi pustakawan kami:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
