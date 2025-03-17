@@ -32,10 +32,7 @@ third_nav_title: Teaching Resources
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xJd1_Tk9pmk?si=pNud2IYshZ1OBl1R"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_penyesalan.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/syair_penyesalan_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_penyesalan.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -46,10 +43,7 @@ third_nav_title: Teaching Resources
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-zE50nKoWFo?si=S37QHbYk-CBQuqAI"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_tunjuk_ajar_melayu.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/tunjuk_ajar_melayu_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_tunjuk_ajar_melayu.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -60,10 +54,7 @@ third_nav_title: Teaching Resources
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OVSdWtaXfC8?si=hcolpYYOocH6ikXe"></iframe>
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_gurindam_dua_belas.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/gurindam_dua_belas_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_gurindam_dua_belas.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -103,10 +94,7 @@ third_nav_title: Teaching Resources
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/syair_bidasari_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg"></a>
 </td>
 </tr>
 </tbody>
