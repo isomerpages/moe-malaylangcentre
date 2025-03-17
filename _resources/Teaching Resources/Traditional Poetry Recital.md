@@ -88,7 +88,7 @@ third_nav_title: Teaching Resources
 </div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/syair_bidasari_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/syair_bidasari_compressed.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/jpg_syair_bidasari.jpg"></a>
 </td>
 </tr>
 </tbody>
