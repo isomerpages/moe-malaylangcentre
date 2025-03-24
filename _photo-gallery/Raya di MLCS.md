@@ -8,13 +8,6 @@ description: ""
 <p><strong>Ucapan Hari Raya Daripada Keluarga MLCS</strong>
 </p>
 <hr>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WsNg8ZHkHXQ?si=6505lhWXR6LHKLHN"></iframe>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Malay Language Centre of Singapore" src="/images/Raya_2024__Selected.jpg">
-</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -276,6 +269,20 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xHqV7MbKhIY?si=Sq729rc6Q570QVuh"></iframe>
 </div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Raya 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WsNg8ZHkHXQ?si=6505lhWXR6LHKLHN"></iframe>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Malay Language Centre of Singapore" src="/images/Raya_2024__Selected.jpg">
+</div>
+<p></p>
 <p></p>
 </div>
 </details>
