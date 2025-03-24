@@ -5,10 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h4>Selamat Hari Raya Aidilfitri 2024</h4>
-<p><strong>Ucapan Hari Raya Daripada Keluarga MLCS</strong>
+<p><strong>Video Raya - Suasana Hari Raya di MLCS</strong>
 </p>
-<hr>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c4fMB6gi1dk?si=W9LQbZgBiPhixI3c"></iframe>
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Raya2025_FINAL.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Raya 2021</strong>
