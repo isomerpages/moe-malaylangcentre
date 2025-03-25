@@ -194,10 +194,15 @@ batik akan dikirimkan melalui e-mel)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kertas bersaiz A3</p>
+<p>Kertas Sebak</p>
 </li>
 <li>
 <p>Gunting/ Pembaris</p>
+</li>
+<li>
+<p>Pengokot
+<br>
+</p>
 </li>
 </ul>
 </li>
