@@ -12,8 +12,10 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Raya2025_FINAL.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Raya2025FINALedit.jpg">
 </div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Raya 2021</strong>
