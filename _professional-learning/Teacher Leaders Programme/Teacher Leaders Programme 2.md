@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Teacher Leaders Programme
 ---
 <h4><strong>Teacher Leaders Programme 2 (TLP2)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
-</div>
 <p>Teacher Leaders Programme 2 (TLP2) atau Program Penempatan Bestari 2 merupakan
 program pembelajaran profesional yang dikhaskan untuk para Guru Peneraju.</p>
 <p><strong>Objektif program ini adalah:</strong> 
@@ -29,7 +26,10 @@ Pakar yang berperanan sebagai mentor.</p>
 <details class="isomer-details">
 <summary>TLP 2 - Februari 2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Video Kenangan Program Penempatan Bestari 2 </strong>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TLP2.jpg">
+</div>
+<p><strong>Video Kenangan Program Penempatan Bestari 2</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ADUkVBBLngg?si=H3RIXwcvizvV-5HL"></iframe>
