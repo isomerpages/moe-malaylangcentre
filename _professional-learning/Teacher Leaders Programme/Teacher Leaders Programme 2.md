@@ -21,9 +21,15 @@ di Sekolah.</p>
 refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
-<hr>
+<p>Video Kenangan Program Penempatan Bestari 2</p>
+<p></p>
+<p>Gambar Program Penempatan Bestari 2</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>TLP 2 - Februari 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Video Kenangan Program Penempatan Bestari 2 </strong>
-<br>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ADUkVBBLngg?si=H3RIXwcvizvV-5HL"></iframe>
@@ -36,5 +42,8 @@ Pakar yang berperanan sebagai mentor.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7_LcjANyPGfcXsVe6Nf-ePAVr2VNoLmIDuof3eZRvRn4Kw0Be7A3WqP3Z_JqyY-KIA3xGl3KKkBUt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+</div>
+</details>
+</div>
+<hr>
 <p></p>
-<p>-</p>
