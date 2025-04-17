@@ -26,9 +26,17 @@ sekolah</p>
 refleksi dan menyatukan pembelajaran yang dilalui bagi pembangunan peribadi
 menerusi dialog dan perbincangan secara profesional dengan Pengetua/Guru
 Pakar yang berperanan sebagai mentor.</p>
+<p><strong>Video Kenangan Program Penempatan Bestari 1</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5xzRF3rOc7Q?si=cOmOjE5-zeJ-UrPS"></iframe>
 </div>
+<p><strong>Gambar Program Penempatan Bestari 1</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeGsZslHWJRNxhpISqeKWXLubY2XTBItCXYX-8CFSAmRiAUYIBa0p0kalc2bVeUbmOEIbsggXtUgGp/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
