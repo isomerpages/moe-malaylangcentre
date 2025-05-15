@@ -30,29 +30,44 @@ profesional dengan pakar dalam bidang yang berkaitan PdP bahasa Melayu;
 dan
 <br>c.<strong> </strong>membolehkan ketua pedagogi untuk membuat refleksi
 dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
-<h4><strong>Bahan Rujukan Bicara Ilmiah</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>e-Penerbitan</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="3">
+<h4><strong>Bahan Rujukan Bicara Ilmiah</strong><br><strong>e-Penerbitan: Bicara Ilmiah Jilid 1 (2025</strong></h4>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1l"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah ebook 2025" src="/images/Bicara_Ilmiah_ebook_1_2025.jpg"></a>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/Bicara_Ilmiah__Jilid_I__Ebook_Final.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/7.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/64.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
