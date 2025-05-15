@@ -39,45 +39,46 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>Bahan Rujukan Bicara Ilmiah</strong><br><strong>e-Penerbitan: Bicara Ilmiah Jilid 1 (2025</strong></h4>
+<h4><strong><u>Bahan Rujukan Bicara Ilmiah</u></strong><br><br><strong>e-Penerbitan: Bicara Ilmiah Jilid 1 (2025</strong></h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/Bicara_Ilmiah__Jilid_I__Ebook_Final.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/Bicara_Ilmiah__Jilid_I__Ebook_Final.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/7.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/7.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/64.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/64.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<h4><br><strong>Slaid Bicara Ilmiah II</strong></h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="slaid bicara Ilmiah II" src="/images/slaid_bicara_ilmiah_frontpage.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_tajuk.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah__kita_bukan_mesin.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_1.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_2.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_3.jpg"></a>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Video Montage Bicara Ilmiah</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s2rFoYZyMX4?si=-lv9mYB8DAiwRk-h"></iframe>
+</div>
 <p></p>
+<p>Gambar Bicara Ilmiah</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
