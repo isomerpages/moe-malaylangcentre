@@ -78,7 +78,6 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s2rFoYZyMX4?si=-lv9mYB8DAiwRk-h"></iframe>
 </div>
 <p></p>
-<p>Gambar Bicara Ilmiah</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
