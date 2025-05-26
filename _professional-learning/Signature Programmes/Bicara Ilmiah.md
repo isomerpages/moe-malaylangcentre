@@ -77,7 +77,7 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s2rFoYZyMX4?si=-lv9mYB8DAiwRk-h"></iframe>
 </div>
-<p>Gambar Bicara Ilmiah</p>
+<h4><strong>Gambar Bicara Ilmiah</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUsMX5zMQuZgaj7xq8-dkji2O3-N8pUH-iqNl0UGEv8f2gyPGCCCh4EI_lZ8CU3FDtJkec1vCDin4U/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
