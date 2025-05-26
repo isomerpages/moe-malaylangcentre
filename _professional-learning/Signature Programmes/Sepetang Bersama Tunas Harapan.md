@@ -18,6 +18,6 @@ yang disediakan Pusat Bahasa Melayu Singapura (MLCS)</p>
 <p></p>
 <h4><strong>Cetusan Inspirasi Pendidik - Video 1</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="400" width="750" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eobDoiEhxgU?si=YGitVMmkFF4Geesi"></iframe>
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eobDoiEhxgU?si=YGitVMmkFF4Geesi"></iframe>
 </div>
 <p></p>
