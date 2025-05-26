@@ -14,7 +14,7 @@ third_nav_title: Signature Programmes
 <br>1. memahami lebih lanjut mengenai kurikulum dan pedagogi Bahasa Melayu
 bagi pengajaran dan pembelajaran yang efektif;</p>
 <p>2.memperoleh informasi mengenai program Pembelajaran Profesional dan sokongan
-yang disediakan Pusat Bahasa Melayu Singapura (MLCS)</p>
+yang disediakan Pusat Bahasa Melayu Singapura (MLCS).</p>
 <h4><strong>Cetusan Inspirasi Pendidik - Video 1</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eobDoiEhxgU?si=YGitVMmkFF4Geesi"></iframe>
