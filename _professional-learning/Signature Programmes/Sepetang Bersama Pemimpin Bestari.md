@@ -10,8 +10,10 @@ third_nav_title: Signature Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sepetang_Bersama_Pemimpin_Bestari__2_.jpg">
 </div>
-<p><strong>Objektif Sesi</strong>
-</p>
+<h4><strong>Objektif Sesi</strong><br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pemimpin.jpg">
+</div>
 <p>• Membina hubungan dengan guru-guru kanan dan peneraju yang baru dilantik.
 <br>• Memahami jangkaan seorang ketua pedagogi agar dapat melaksanakan tugas
 dan peranan dengan lebih berkesan.
