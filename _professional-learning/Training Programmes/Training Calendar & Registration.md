@@ -27,7 +27,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </table>
 <hr>
 <h4><strong>Kursus 2025: Semester 2</strong><br><strong>Semester 2: Penggal 3 dan 4</strong></h4>
-<p><strong>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS untuk  Semester 2 Penggal 3 dan 4.</strong>
+<p><strong>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS untuk Semester 2 Penggal 3 dan 4.</strong>
 </p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2413512d68.html#page/1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_pd_2025.jpg"></a>
 <h4><strong>Kursus 2025: Semester 1</strong></h4>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
