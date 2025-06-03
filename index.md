@@ -11,7 +11,7 @@ sections:
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2025
-          description: Semester 1
+          description: Semester 1 & 2
           url: /mlcs/professional-development-programmes/training-programmes/trainingcalendar-registration/
         - title: Contact Us
           description: Booking Facilites
