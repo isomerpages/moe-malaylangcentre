@@ -58,10 +58,23 @@ Sumber MLCS.
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifak_heyzine.jpg"></a>
-<h4><strong>Paparan Khazanah Pilihan</strong></h4>
-<p><strong>June 2025</strong>
-</p>
-<p></p>
+<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>June 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/67c65dfde0.html#page/1"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/paparan_khazanah_june_2025.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/67c65dfde0.html#page/1"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/paparan_khazanah_june_1_2025.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Januari 2025 - Cadangan Buku-Buku</summary>
