@@ -10,7 +10,7 @@ third_nav_title: Signature Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sepetang_Bersama_Pemimpin_Bestari__2_.jpg">
 </div>
-<h4><strong>Objektif Sesi</strong></h4>
+<h4><strong>Objektif</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pemimpin.jpg">
 </div>
