@@ -59,6 +59,8 @@ Sumber MLCS.
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifak_heyzine.jpg"></a>
 <h4><strong>Paparan Khazanah Pilihan</strong><br><strong>June 2025</strong></h4>
+<p><strong>Sila klik pautan di bawah untuk melayari paparan.</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -605,4 +607,5 @@ Sumber MLCS.
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
