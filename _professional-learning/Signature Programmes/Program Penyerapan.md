@@ -6,8 +6,10 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <h3><strong>Program Penyerapan</strong></h3>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Program_Penyerapan_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Program_Penyerapan_Poster_2025_small.jpg">
 </div>
 <p>MLCS menyediakan platform untuk guru menimba pengetahuan dan pengalaman
 secara berterusan. Dalam usaha ini, MLCS telah menyediakan dua program

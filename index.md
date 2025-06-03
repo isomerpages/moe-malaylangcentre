@@ -26,14 +26,6 @@ sections:
       image: /images/OUR_MLCS_FAMILY_uncle_heng.jpg
       alt: Image alt text
   - infopic:
-      title: Ceramah Arif Budiman Ke-21
-      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
-        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
-      button: Sila lihat selanjutnya...
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
-      alt: Ceramah Arif Budiman
-  - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program pembelajaran profesional
         yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
@@ -75,6 +67,14 @@ sections:
       url: /mlcs/resources/resource-centre/
       image: /images/Pusat_Sumber_main_image_1.gif
       alt: Pusat Sumber MLCS
+  - infopic:
+      title: Ceramah Arif Budiman Ke-21
+      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
+        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
+      button: Sila lihat selanjutnya...
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
+      image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
+      alt: Ceramah Arif Budiman
   - infopic:
       title: Seminar Bahasa Melayu
       description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik

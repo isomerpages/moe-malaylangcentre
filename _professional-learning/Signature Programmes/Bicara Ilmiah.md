@@ -30,6 +30,57 @@ profesional dengan pakar dalam bidang yang berkaitan PdP bahasa Melayu;
 dan
 <br>c.<strong> </strong>membolehkan ketua pedagogi untuk membuat refleksi
 dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong><u>Bahan Rujukan Bicara Ilmiah</u></strong><br><br><strong>e-Penerbitan: Bicara Ilmiah Jilid 1 (2025</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/Bicara_Ilmiah__Jilid_I__Ebook_Final.png"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/7.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/bicarailmiahjilid1"><img style="width: 100%" height="auto" width="100%" alt="Bicara Ilmiah Jilid 1 - 2025" src="/images/64.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><br><strong>Slaid Bicara Ilmiah II</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="slaid bicara Ilmiah II" src="/images/slaid_bicara_ilmiah_frontpage.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_tajuk.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah__kita_bukan_mesin.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_1.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_2.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/slaidbicarailmiah2025.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/slaid_bicara_ilmiah_3.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Video Montage Bicara Ilmiah</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s2rFoYZyMX4?si=-lv9mYB8DAiwRk-h"></iframe>
+</div>
+<h4><strong>Gambar Bicara Ilmiah</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUsMX5zMQuZgaj7xq8-dkji2O3-N8pUH-iqNl0UGEv8f2gyPGCCCh4EI_lZ8CU3FDtJkec1vCDin4U/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

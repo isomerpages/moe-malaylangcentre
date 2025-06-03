@@ -13,19 +13,27 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru
 bagi 2025.</p>
 <p>Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus
 yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p>Klik pautan di bawah untuk log masuk ke OPAL 2.0</p>
-<p></p><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/001Opal_login.jpg"></a>
-<p><a href="/files/panduan-memohon-kursus-mlcs-melalui-opal-2-081d3d2f34c2d48ce958bfcb4e33ba206.pdf" rel="noopener noreferrer nofollow" target="_blank">Panduan Memohon Kursus MLCS Melalui OPAL 2.0</a>
-</p>
+<h4></h4><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/001Opal_login.jpg"></a>
+<h4></h4>
+<h4><a href="https://heyzine.com/flip-book/0c6d6c84a1.html" rel="noopener nofollow" target="_blank">Panduan Memohon Kursus MLCS Melalui OPAL 2.0</a></h4><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/0c6d6c84a1.html"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/panduan_opal.jpg"></a>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
+<h4><strong>Kursus 2025: Semester 2</strong><br><strong>Semester 2: Penggal 3 dan 4</strong></h4>
+<p><strong>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS untuk Semester 2 Penggal 3 dan 4.</strong>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2413512d68.html#page/1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_pd_2025.jpg"></a>
 <h4><strong>Kursus 2025: Semester 1</strong></h4>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
 <br>

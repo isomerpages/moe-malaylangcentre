@@ -58,17 +58,25 @@ Sumber MLCS.
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifak_heyzine.jpg"></a>
-<h4><strong>Paparan Khazanah Pilihan</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025__1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025___2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025___3.png">
-</div>
-<p></p>
+<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>June 2025</strong></h4>
+<p><strong>Sila klik imej di bawah untuk melayari paparan.</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/67c65dfde0.html#page/1"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/paparan_khazanah_june_2025.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/67c65dfde0.html#page/1"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/paparan_khazanah_june_1_2025.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Januari 2025 - Cadangan Buku-Buku</summary>
@@ -122,6 +130,24 @@ Sumber MLCS.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Puisi_Tradisional_library_display.jpg">
 </div>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>April 2025 - Life Stories</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thematic_display_April___life_stories.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025__1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025___2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/life_stories_2025___3.png">
+</div>
 </div>
 </details>
 </div>
@@ -581,4 +607,5 @@ Sumber MLCS.
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
