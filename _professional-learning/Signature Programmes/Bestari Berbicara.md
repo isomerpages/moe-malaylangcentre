@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>Bestari Berbicara 2025</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg">
 </div>
 <p>Program Bestari Berbicara merupakan program tukikan yang disasarkan untuk
 para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.</p>
@@ -22,6 +22,9 @@ profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bestari_Berbicara_2025___Atur_cara_Poster.jpg">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>

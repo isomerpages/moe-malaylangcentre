@@ -57,7 +57,7 @@ Sumber MLCS.
 <p><strong>Untuk permintaan bahan pembelajaran dan buku terbitan MLCS, sila klik pautan di bawah:</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/requestformlcsresources"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pusat_sumber_big_button_3a.png"></a>
 <h4><strong>Artifak Pusat Sumber</strong></h4>
-<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifak_heyzine.jpg"></a>
+<p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifactshelf.png"></a>
 <h4><strong>Paparan Khazanah Pilihan</strong><br><strong>June 2025</strong></h4>
 <p><strong>Sila klik imej di bawah untuk melayari paparan.</strong>
 </p>
