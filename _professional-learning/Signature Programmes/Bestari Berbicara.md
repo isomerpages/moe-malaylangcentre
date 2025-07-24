@@ -21,10 +21,18 @@ masing-masing.</p>
 profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
-<p></p>
+<h4><strong><u>Bahan Rujukan Bestari Berbicara</u><br><br>e-Penerbitan: Bestari Berbicara 2025</strong></h4>
+<p>Klik pautan berikut untuk mendapatkan bahan digital Bestari Berbicara
+2025</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bestari_Berbicara_2025___Atur_cara_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="bestari berbicara 2025 ebook cover" src="/images/bb_ebook.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>
