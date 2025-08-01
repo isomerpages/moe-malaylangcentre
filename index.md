@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/new_bannerHomepage_banner_1340x380p.gif
+      background: /images/Homepage_banner_1340x380_nd2025.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2025
@@ -26,13 +26,13 @@ sections:
       image: /images/MLCS_staff.jpg
       alt: Image alt text
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
-        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
+      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
+      title: Perkongsian Profesional 2025
+      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
+        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
       button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/Web_for_Bicara_Ilmiah.png
-      alt: Bicara Ilmiah
+      url: /mlcs/professional-learning/signature/perkongsianprofesional/
+      alt: Perkongsian Profesional 2025
   - infopic:
       title: Bestari Berbicara
       id: infopic
@@ -43,13 +43,13 @@ sections:
       image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
   - infopic:
-      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
-      title: Perkongsian Profesional 2025
-      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
-        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
+        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
       button: Sila lihat selanjutnya
-      url: /mlcs/professional-learning/signature/perkongsianprofesional/
-      alt: Perkongsian Profesional 2025
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/Web_for_Bicara_Ilmiah.png
+      alt: Bicara Ilmiah
   - infopic:
       title: Jejak Budaya 2025
       id: infopic

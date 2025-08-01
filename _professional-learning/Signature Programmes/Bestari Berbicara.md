@@ -21,10 +21,22 @@ masing-masing.</p>
 profesional dan saling bertukar-tukar pandangan berkaitan tugas-tugas teras
 yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.</p>
+<h4><strong><u>Bahan Rujukan Bestari Berbicara</u><br><br>e-Penerbitan: Bestari Berbicara 2025</strong></h4>
+<p>Klik pautan berikut untuk mendapatkan bahan digital <a href="https://heyzine.com/shelf/42e203590b.html" rel="noopener nofollow" target="_blank">Bestari Berbicara 2025</a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/42e203590b.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/bb2025.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bestari_Berbicara_2025___Atur_cara_Poster.jpg">
+<h4><strong>Video Bestari Berbicara 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eh2X5yi-gkA?si=AdespFTmCsSs9PWB"></iframe>
 </div>
+<p></p>
+<h4><strong>Gambar Bestari Berbicara 2025</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9PQPJOsN1KeAwnwTlSjmnSaI80b77-ApIO9hB9B_e502b5TYZpLrIT3SORAsi2J-77R5emVuDAOek/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bestari Berbicara 2022</strong>
