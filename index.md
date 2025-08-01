@@ -26,6 +26,14 @@ sections:
       image: /images/MLCS_staff.jpg
       alt: Image alt text
   - infopic:
+      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
+      title: Perkongsian Profesional 2025
+      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
+        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-learning/signature/perkongsianprofesional/
+      alt: Perkongsian Profesional 2025
+  - infopic:
       title: Bicara Ilmiah
       description: Program Bicara Ilmiah merupakan program pembelajaran profesional
         yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
@@ -42,14 +50,6 @@ sections:
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
       image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
-  - infopic:
-      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
-      title: Perkongsian Profesional 2025
-      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
-        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-learning/signature/perkongsianprofesional/
-      alt: Perkongsian Profesional 2025
   - infopic:
       title: Jejak Budaya 2025
       id: infopic
