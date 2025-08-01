@@ -34,14 +34,6 @@ sections:
       url: /mlcs/professional-learning/signature/perkongsianprofesional/
       alt: Perkongsian Profesional 2025
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
-        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/Web_for_Bicara_Ilmiah.png
-      alt: Bicara Ilmiah
-  - infopic:
       title: Bestari Berbicara
       id: infopic
       description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
@@ -50,6 +42,14 @@ sections:
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
       image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
       alt: Image alt text
+  - infopic:
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
+        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/Web_for_Bicara_Ilmiah.png
+      alt: Bicara Ilmiah
   - infopic:
       title: Jejak Budaya 2025
       id: infopic
