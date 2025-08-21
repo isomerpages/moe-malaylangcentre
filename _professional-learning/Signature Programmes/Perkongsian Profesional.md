@@ -31,6 +31,25 @@ Menengah</p>
 </li>
 </ul>
 <p></p>
+<h4><strong><u>Bahan Rujukan</u></strong></h4>
+<h4><strong>e-Penerbitan: Perkongsian Profesional 2025</strong></h4>
+<p>Klik pautan berikut untuk mendapatkan bahan digital <a href="https://go.gov.sg/perkongsianprofesional2025" rel="noopener nofollow" target="_blank">Perkongsian Profesional 2025</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/perkongsianprofesional2025"><img style="width: 100%" height="auto" width="100%" alt="Perkongsian Profesional 2025" src="/images/PPbooks.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/perkongsianprofesional2025"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/qrPP.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

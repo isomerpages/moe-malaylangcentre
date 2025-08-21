@@ -59,30 +59,24 @@ Sumber MLCS.
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifactshelf.png"></a>
 <p></p>
-<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>July 2025</strong></h4>
+<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>August 2025</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_TITLE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thematic_Display.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_6.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_FOOTER.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___5.png">
 </div>
 <p></p>
 <p></p>
@@ -180,6 +174,37 @@ Sumber MLCS.
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>July 2025 - Female Malay Authors</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_TITLE.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FDDTLB_FOOTER.png">
+</div>
 <p></p>
 </div>
 </details>
