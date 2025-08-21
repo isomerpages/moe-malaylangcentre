@@ -45,7 +45,7 @@ Menengah</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/perkongsianprofesional2025"><img style="width: 100%" height="auto" width="100%" alt="Perkongsian Profesional 2025" src="/images/PPbooks.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/perkongsianprofesional2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/qrPP.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/perkongsianprofesional2025"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/qrPP.jpg"></a>
 </td>
 </tr>
 </tbody>
