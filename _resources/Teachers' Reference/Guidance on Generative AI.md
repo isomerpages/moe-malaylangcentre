@@ -23,7 +23,8 @@ dalam pengajaran dan pembelajaran (PdP).</p>
 </ul>
 <p><strong>Panduan Pantas untuk Alat Generatif AI bagi Guru</strong>
 </p>
-<p><u>Bab 1: Panduan untuk Menggunakan Alat Gen AI bagi Pengajaran dan Pembelajaran, dan Keterbatasannya</u>  <em>(Chapter 1: Guidance for Use of Generative AI tool for Teaching &amp; Learning, and Limitations)</em>
+<p><u>Bab 1: Panduan untuk Menggunakan Alat Gen AI bagi Pengajaran dan Pembelajaran, dan Keterbatasannya</u> 
+<br><em>(Chapter 1: Guidance for Use of Generative AI tool for Teaching &amp; Learning, and Limitations)</em>
 </p>
 <p><u>Bab 2: Panduan untuk Menggunakan Alat Gen AI bagi Penulisanb Testimonial dan Catatan</u> 
 <br><em>(Chapter 2: Guidance for Use of Generative AI Tool for Testimonial &amp; Remarks Writing)</em>
