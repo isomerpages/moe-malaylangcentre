@@ -6,10 +6,8 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <h3><strong>Program Penyerapan</strong></h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Program_Penyerapan_Poster_2025_small.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Immersion_2025_powerpoint_template.jpg">
 </div>
 <p>MLCS menyediakan platform untuk guru menimba pengetahuan dan pengalaman
 secara berterusan. Dalam usaha ini, MLCS telah menyediakan dua program
@@ -33,48 +31,11 @@ di luar negara</p>
 </li>
 <li>
 <p>mempelajari budaya masyarakat Melayu di rantau ini.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju 2023</strong>
-</p>
-<p>Pada tahun 2023, MLCS telah menganjurkan Program E-Penyerapan untuk Guru
-Kanan dan Guru Peneraju yang dianjurkan bersama oleh Universiti Pendidikan
-Sultan Idris (UPSI) dan MLCS. Program ini telah berlangsung dari 17 hingga
-19 Januari 2023.</p>
-<p>Seramai 28 Guru Kanan dan Guru Peneraju telah mengikuti Program ini secara
-dalam talian.</p>
-<p>Objektif program E-Penyerapan ini adalah seperti yang berikut:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Meningkatkan pengetahuan para guru berkaitan dengan bahasa, nilai dan
-tamadun Melayu;</p>
-</li>
-<li>
-<p>membolehkan para guru untuk mempelajari dan menerapkan ilmu, kemahiran
-dan pengetahuan yang diperoleh dalam pengajaran dan pembelajaran bahasa
-Melayu; dan</p>
-</li>
-<li>
-<p>Membina jaringan kerja dengan pendidik bahasa Melayu di UPSI.</p>
-</li>
-</ol>
-<p>Program ini ditaja oleh Jawatankuasa Penggalakan dan Pembelajaran Bahasa
-Melayu (MLLPC).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__2_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__3_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__4_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__5_.jpg">
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Program Penyerapan Ke Negara Brunei Darussalam</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -117,5 +78,51 @@ di:</p>
 (MLLPC).</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>2023 Program Penyerapan</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Program E-Penyerapan untuk Guru Kanan dan Guru Peneraju 2023</strong>
+</p>
+<p>Pada tahun 2023, MLCS telah menganjurkan Program E-Penyerapan untuk Guru
+Kanan dan Guru Peneraju yang dianjurkan bersama oleh Universiti Pendidikan
+Sultan Idris (UPSI) dan MLCS. Program ini telah berlangsung dari 17 hingga
+19 Januari 2023.</p>
+<p>Seramai 28 Guru Kanan dan Guru Peneraju telah mengikuti Program ini secara
+dalam talian.</p>
+<p>Objektif program E-Penyerapan ini adalah seperti yang berikut:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Meningkatkan pengetahuan para guru berkaitan dengan bahasa, nilai dan
+tamadun Melayu;</p>
+</li>
+<li>
+<p>membolehkan para guru untuk mempelajari dan menerapkan ilmu, kemahiran
+dan pengetahuan yang diperoleh dalam pengajaran dan pembelajaran bahasa
+Melayu; dan</p>
+</li>
+<li>
+<p>Membina jaringan kerja dengan pendidik bahasa Melayu di UPSI.</p>
+</li>
+</ol>
+<p>Program ini ditaja oleh Jawatankuasa Penggalakan dan Pembelajaran Bahasa
+Melayu (MLLPC).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__2_.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersion__5_.jpg">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
