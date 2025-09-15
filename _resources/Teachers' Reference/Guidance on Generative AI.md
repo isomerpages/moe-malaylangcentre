@@ -12,8 +12,6 @@ secara tepat, alat-alat ini boleh menyokong pembelajaran pelajar untuk
 menguasai konsep asas dan kemahiran berfikir. Panduan disediakan untuk
 para guru untuk menggunakan Gen AI secara selamat dan berkesan dalam pengajaran
 dan pembelajaran.</p>
-<p>Panduan disediakan untuk guru Menggunakan Gen AI secara selamat dan berkesan
-dalam pengajaran dan pembelajaran (PdP).</p>
 <h4><strong>Bahan-bahan Rujukan</strong></h4>
 <p>Panduan penggunaan alat Gen AI di sekolah boleh didapatkan di sini:</p>
 <ul data-tight="true" class="tight">
