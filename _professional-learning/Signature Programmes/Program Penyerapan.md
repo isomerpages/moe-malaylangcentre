@@ -38,7 +38,7 @@ di luar negara</p>
 </div>
 <p><strong>Gambar-Gambar </strong>
 <br>
-<br><a href="https://www.flickr.com/photos/unimasimage/albums/72177720328975219/with/54779455096" rel="noopener nofollow" target="_blank">Gambar-Gambar dari Pihak Unimas</a>
+<br><a href="https://www.flickr.com/photos/unimasimage/albums/72177720328916602/with/54775708031" rel="noopener nofollow" target="_blank">Gambar-Gambar dari Pihak Unimas</a>
 <br>
 </p>
 <p><a href="https://www.flickr.com/photos/unimasimage/albums/72177720328975219/with/54779456391" rel="noopener nofollow" target="_blank">Kampung Budaya Sarawak</a>
