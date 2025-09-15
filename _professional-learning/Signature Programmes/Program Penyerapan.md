@@ -31,9 +31,18 @@ di luar negara</p>
 </li>
 <li>
 <p>mempelajari budaya masyarakat Melayu di rantau ini.</p>
-<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Official_signature_with_UNIMAS_Global.jpg">
+</div>
+<p><strong>Gambar-Gambar </strong>
+<br>
+<br><a href="https://www.flickr.com/photos/unimasimage/albums/72177720328975219/with/54779455096" rel="noopener nofollow" target="_blank">Gambar-Gambar dari Pihak Unimas</a>
+<br>
+</p>
+<p><a href="https://www.flickr.com/photos/unimasimage/albums/72177720328975219/with/54779456391" rel="noopener nofollow" target="_blank">Kampung Budaya Sarawak</a>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -123,6 +132,7 @@ Melayu (MLLPC).</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
