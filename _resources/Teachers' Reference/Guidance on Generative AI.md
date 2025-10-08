@@ -34,7 +34,6 @@ akses ke MOE Intranet)</p>
 <p><a href="https://drive.google.com/file/d/1mxDzrBukYabHirCWXQ2joxBdABi8iQdr/view" rel="noopener nofollow" target="_blank">Bab 4: Panduan untuk Menggunakan Imej Gen AI untuk Meningkatkan PdP </a>
 <br><em>(Chapter 4: Guidance on the use of AI image tools to enhance T&amp;L)</em>
 </p>
-<p></p>
 <p><a href="https://drive.google.com/file/d/1-6hO7OZzBBRDF7QLUgP2EJrKCdZu1h0S/view" rel="noopener nofollow" target="_blank">Bab 5: Panduan untuk Menggunakan Gen AI Mengikut Peringkat Umur yang Sesuai</a>
 </p>
 <p><em>(Chapter 5: Age-Appropriate Use of Gen AI for Education)</em>
