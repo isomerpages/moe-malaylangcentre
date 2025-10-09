@@ -2,9 +2,9 @@ collections:
   photo-gallery:
     output: true
     order:
-      - 2025/Clinic Session to Support Appointment to the Teaching Track (ML).md
       - 2025/.keep
       - 2025/2025.md
+      - 2025/Clinic Session to Support Appointment to the Teaching Track (ML).md
       - 2025/Bestari Berbicara 2025.md
       - 2025/Sepetang Bersama Tunas Harapan.md
       - 2025/Sepetang Bersama Pemimpin Bestari.md
