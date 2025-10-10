@@ -2,7 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
-      - 2025/Program Penempatan Bestari 2.md
       - 2025/.keep
       - 2025/2025.md
       - 2025/Lawatan Prof Arndt Graf ke MLCS.md
@@ -16,6 +15,7 @@ collections:
       - 2025/Ceramah Arif Budiman 21 (2025).md
       - 2025/Penceritaan.md
       - 2025/Program Penempatan Bestari 1.md
+      - 2025/Program Penempatan Bestari 2.md
       - 2024/.keep
       - 2024/2024.md
       - 2024/Meraikan Pembelajaran Projek Rintis Literasi Penilaian.md
