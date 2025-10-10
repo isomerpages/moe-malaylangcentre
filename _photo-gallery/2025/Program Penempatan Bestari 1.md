@@ -8,7 +8,7 @@ third_nav_title: "2025"
 <p><strong>Program Penempatan Bestari 1</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeGsZslHWJRNxhpISqeKWXLubY2XTBItCXYX-8CFSAmRiAUYIBa0p0kalc2bVeUbmOEIbsggXtUgGp/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHLmStvRW11_RNvBL3te8RoKuIYGjwc4jWpCSH2hD-eFo68LaKtKzc4suzq8FFO6uHVqz6XGvuGQpO/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Video Kenangan Program Penempatan Bestari 1</strong>
 </p>
