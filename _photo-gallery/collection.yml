@@ -2,11 +2,11 @@ collections:
   photo-gallery:
     output: true
     order:
+      - 2025/.keep
+      - 2025/2025.md
       - 2025/Lawatan Prof Arndt Graf ke MLCS.md
       - 2025/Perkongsian Profesional 2025.md
       - 2025/Program Penempatan Bestari 1 (Aug 2025).md
-      - 2025/.keep
-      - 2025/2025.md
       - 2025/Clinic Session to Support Appointment to the Teaching Track (ML).md
       - 2025/Bestari Berbicara 2025.md
       - 2025/Sepetang Bersama Tunas Harapan.md
