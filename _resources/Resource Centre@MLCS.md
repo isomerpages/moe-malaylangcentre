@@ -59,16 +59,23 @@ Sumber MLCS.
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifactshelf.png"></a>
 <p></p>
-<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>Sep 2025</strong></h4>
+<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>Oct 2025</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="teachers day" src="/images/HTD_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS__1_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTD_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTD_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_3.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_Displayedit.jpg">
+</div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -219,6 +226,21 @@ Sumber MLCS.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC_Aug_2025___5.png">
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Sep 2025 - Teachers' Day</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="teachers day" src="/images/HTD_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTD_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTD_3.png">
+</div>
+<p></p>
 </div>
 </details>
 </div>
