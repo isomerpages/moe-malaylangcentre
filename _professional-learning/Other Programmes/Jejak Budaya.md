@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Other Programmes
 variant: tiptap
 ---
-<h3>Jejak Budaya 2025</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/jejak_budaya2025_edit.jpg">
-</div>
+<h3>Jejak Budaya 2025</h3><a class="isomer-image-wrapper" href="https://go.gov.sg/pendaftaranjejakbudaya2025"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/jejak_budaya2025_edit.jpg"></a>
 <p>Pusat Bahasa Melayu Singapura (MLCS) telah menganjurkan program Jejak
 Budaya sejak tahun 2023 secara dalam talian dengan modul gasing dan keris.
 Program ini telah berjaya memanfaatkan lebih 14,000 pelajar di Singapura
