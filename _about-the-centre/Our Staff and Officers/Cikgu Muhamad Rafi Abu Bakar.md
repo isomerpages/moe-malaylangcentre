@@ -13,12 +13,22 @@ variant: tiptap
 <p>Cikgu Rafi mendapat Diploma Pendidikan pada tahun 1993. Beliau melanjutkan
 pengajian di peringkat ijazah Sarjana Muda Pendidikan (Kepujian) di NTU/NIE
 pada tahun 2003 dan peringkat Sarjana pada tahun 2010 daripada universiti
-yang sama. Beliau berpengalaman mengajar di sekolah rendah dan menengah.
-Cikgu Rafi pernah menjawat jawatan Ketua Jabatan (PE/CCA, Bahasa Ibunda
-dan Disiplin) semasa mengajar di sekolah rendah dan menengah. Beliau pernah
-bertugas sebagai Pegawai Perancangan Kurikulum sebelum dipindahkan ke Pusat
-Bahasa Melayu Singapura. Cikgu Rafi mempunyai pengalaman membina kurikulum
-dan membina bahan buku teks sekolah menengah sewaktu bertugas di Kementerian
-Pendidikan. Beliau dilantik sebagai Guru Pakar pada tahun 2012. Bidang
-yang beliau terajui dalam pendidikan guru ialah penulisan, kajian pengajaran,
-literasi visual, teknik-teknik penyoalan dan pembinaan bahan app e-buku.</p>
+yang sama.
+<br>
+<br>Beliau berpengalaman mengajar di sekolah rendah dan menengah. Cikgu Rafi
+pernah menjawat jawatan Ketua Jabatan (PE/CCA, Bahasa Ibunda dan Disiplin)
+semasa mengajar di sekolah rendah dan menengah.
+<br>
+<br>Beliau pernah bertugas sebagai Pegawai Perancangan Kurikulum sebelum dipindahkan
+ke Pusat Bahasa Melayu Singapura. Cikgu Rafi mempunyai pengalaman membina
+kurikulum dan membina bahan buku teks sekolah menengah sewaktu bertugas
+di Kementerian Pendidikan (2009).
+<br>
+<br>Beliau dilantik sebagai Guru Pakar pada tahun 2012. Bidang kepakaran beliau
+dalam pendidikan guru ialah e-Pedagogi, Pelajaran Pembelajaran Berasaskan
+Inkuiri, Metakognisi, Penulisan, Kajian Pengajaran,Kajian Pengajaran, Literasi
+Visual, Teknik-Teknik Penyoalan dan pembinaan bahan aplikasi mudah alih
+dan e-buku.
+<br>
+<br>Beliau juga memenangi beberapa anugerah Innergy Award Kementerian Pendidikan
+Singapura, terkini pada tahun 2024 dan 2025.</p>
