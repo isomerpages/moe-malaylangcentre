@@ -25,10 +25,9 @@ kurikulum dan membina bahan buku teks sekolah menengah sewaktu bertugas
 di Kementerian Pendidikan (2009).
 <br>
 <br>Beliau dilantik sebagai Guru Pakar pada tahun 2012. Bidang kepakaran beliau
-dalam pendidikan guru ialah e-Pedagogi, Pelajaran Pembelajaran Berasaskan
-Inkuiri, Metakognisi, Penulisan, Kajian Pengajaran,Kajian Pengajaran, Literasi
-Visual, Teknik-Teknik Penyoalan dan pembinaan bahan aplikasi mudah alih
-dan e-buku.
+dalam pendidikan guru ialah e-Pedagogi, Pembelajaran Berasaskan Inkuiri,
+Metakognisi, Penulisan, Kajian Pengajaran,Kajian Pengajaran, Literasi Visual,
+Teknik-Teknik Penyoalan dan pembinaan bahan aplikasi mudah alih dan e-buku.
 <br>
 <br>Beliau juga memenangi beberapa anugerah Innergy Award Kementerian Pendidikan
 Singapura, terkini pada tahun 2024 dan 2025.</p>
