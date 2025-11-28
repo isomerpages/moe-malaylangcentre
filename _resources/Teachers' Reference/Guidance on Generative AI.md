@@ -12,6 +12,11 @@ secara tepat, alat-alat ini boleh menyokong pembelajaran pelajar untuk
 menguasai konsep asas dan kemahiran berfikir. Panduan disediakan untuk
 para guru untuk menggunakan Gen AI secara selamat dan berkesan dalam pengajaran
 dan pembelajaran.</p>
+<p><strong><a href="/files/MOE_Position_on_AI_in_Education__ML___website_.pdf" rel="noopener noreferrer nofollow" target="_blank">Pendirian MOE Berkenaan Penggunaan AI dalam Pendidikan</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai.jpg">
+</div>
 <h4><strong>Bahan-bahan Rujukan</strong></h4>
 <p>Panduan penggunaan alat Gen AI di sekolah boleh didapatkan di sini:</p>
 <ul data-tight="true" class="tight">
@@ -28,15 +33,15 @@ akses ke MOE Intranet)</p>
 <p><a href="https://drive.google.com/file/d/1NGxWtZuuuCpSqEo7b-Hekal0cpiRXfay/view" rel="noopener nofollow" target="_blank">Bab 2: Panduan untuk Menggunakan Alat Gen AI bagi Penulisanb Testimonial dan Catatan </a>
 <br><em>(Chapter 2: Guidance for Use of Generative AI Tool for Testimonial &amp; Remarks Writing)</em>
 </p>
-<p><a href="https://drive.google.com/file/d/1lGmPEokms3q07q8S4PPcuxhwlwVQk2Mj/view" rel="noopener nofollow" target="_blank">Bab 3: Chapter 3: Panduan tentang Penggunaan Alat Gen AI yang Selamat dan Bertanggungjawab bagi PdP dan Melibatkan Ibu Bapa dalam Penggunaan AI </a>
-<br><em>(Guidance on Safe and Responsible Use of AI for Teaching &amp; Learning and Engaging Parents on the Use of AI)</em>
+<p><a href="https://drive.google.com/file/d/137ueJb84n5vc4Ay6BNPrS7AtEQySUaOB/view?usp=sharing" rel="noopener nofollow" target="_blank">Bab 3: Chapter 3: Panduan tentang Penggunaan Alat Gen AI yang Selamat dan Bertanggungjawab bagi PdP dan Melibatkan Ibu Bapa dalam Penggunaan AI </a>
+<br><em>(</em><a href="https://drive.google.com/file/d/1lGmPEokms3q07q8S4PPcuxhwlwVQk2Mj/view?usp=sharing" rel="noopener nofollow" target="_blank">Guidance on Safe and Responsible Use of AI for Teaching &amp; Learning and Engaging Parents on the Use of AI</a><em>)</em>
 </p>
 <p><a href="https://drive.google.com/file/d/1mxDzrBukYabHirCWXQ2joxBdABi8iQdr/view" rel="noopener nofollow" target="_blank">Bab 4: Panduan untuk Menggunakan Imej Gen AI untuk Meningkatkan PdP </a>
 <br><em>(Chapter 4: Guidance on the use of AI image tools to enhance T&amp;L)</em>
 </p>
-<p><a href="https://drive.google.com/file/d/1-6hO7OZzBBRDF7QLUgP2EJrKCdZu1h0S/view" rel="noopener nofollow" target="_blank">Bab 5: Panduan untuk Menggunakan Gen AI Mengikut Peringkat Umur yang Sesuai</a>
+<p><a href="https://drive.google.com/file/d/1AaHLk45MQSj5WUIXnHIw6csLrggH9kiX/view?usp=sharing" rel="noopener nofollow" target="_blank">Bab 5: Panduan untuk Menggunakan Gen AI Mengikut Peringkat Umur yang Sesuai</a>
 </p>
-<p><em>(Chapter 5: Age-Appropriate Use of Gen AI for Education)</em>
+<p><em>(</em><a href="https://drive.google.com/file/d/1AaHLk45MQSj5WUIXnHIw6csLrggH9kiX/view?usp=sharing" rel="noopener nofollow" target="_blank">Chapter 5: Age-Appropriate Use of Gen AI for Education</a><em>)</em>
 </p>
 <h4><strong>Bahan-bahan untuk Ibu Bapa</strong></h4>
 <p>Ibu bapa yang ingin belajar lebih mendalam lagi tentang Gen AI dan bagaimana
