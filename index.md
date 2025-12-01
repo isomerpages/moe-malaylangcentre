@@ -57,7 +57,7 @@ sections:
         Melayu melalui pembelajaran interaktif, gamifikasi dan kraftangan!
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/other-programmes/jejak-budaya/
-      image: /images/Jejak_Budaya_2025_Poster_Homepage_Website.jpg
+      image: /images/Jejak_Buday_2026_thumbnail.jpg
       alt: Image alt text
   - infopic:
       title: Pusat Sumber MLCS
