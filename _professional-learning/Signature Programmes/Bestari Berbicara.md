@@ -77,7 +77,8 @@ bersemuka di bangunan Pusat Bahasa Melayu Singapura.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bestari Berbicara 2025</summary>
+<summary><strong>Bestari Berbicara 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>Bahan Rujukan Bestari Berbicara
