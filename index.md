@@ -26,21 +26,13 @@ sections:
       image: /images/MLCS_staff.jpg
       alt: Image alt text
   - infopic:
-      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
-      title: Perkongsian Profesional 2025
-      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
-        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-learning/signature/perkongsianprofesional/
-      alt: Perkongsian Profesional 2025
-  - infopic:
       title: Bestari Berbicara
       id: infopic
       description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
         untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      image: /images/Bestari_Berbicara_2025_Poster_Homepage_Website.jpg
+      image: /images/Bestari_Berbicara_2026__website.jpg
       alt: Image alt text
   - infopic:
       title: Bicara Ilmiah
@@ -83,6 +75,14 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
       image: /images/Seminar_Bahasa_Melayu_2024___web_800___580_px_.jpg
       alt: Resources
+  - infopic:
+      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
+      title: Perkongsian Profesional 2025
+      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
+        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-learning/signature/perkongsianprofesional/
+      alt: Perkongsian Profesional 2025
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
