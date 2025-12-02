@@ -35,14 +35,6 @@ sections:
       image: /images/Bestari_Berbicara_2026__website.jpg
       alt: Image alt text
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
-        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/Web_for_Bicara_Ilmiah.png
-      alt: Bicara Ilmiah
-  - infopic:
       title: Jejak Budaya 2025
       id: infopic
       description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS! Teroka budaya
@@ -52,13 +44,13 @@ sections:
       image: /images/Jejak_Buday_2026_thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: Pusat Sumber MLCS
-      description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
-        dan pembelajaran terutama...
-      button: Sila lihat selanjutnya...
-      url: /mlcs/resources/resource-centre/
-      image: /images/Pusat_Sumber_main_image_1.gif
-      alt: Pusat Sumber MLCS
+      title: Bicara Ilmiah
+      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
+        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
+      button: Sila lihat selanjutnya
+      url: professional-development-prog/signature-programmes/bicarailmiah/
+      image: /images/Web_for_Bicara_Ilmiah.png
+      alt: Bicara Ilmiah
   - infopic:
       title: Ceramah Arif Budiman Ke-21
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
@@ -83,6 +75,14 @@ sections:
       button: Sila lihat selanjutnya
       url: /mlcs/professional-learning/signature/perkongsianprofesional/
       alt: Perkongsian Profesional 2025
+  - infopic:
+      title: Pusat Sumber MLCS
+      description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
+        dan pembelajaran terutama...
+      button: Sila lihat selanjutnya...
+      url: /mlcs/resources/resource-centre/
+      image: /images/Pusat_Sumber_main_image_1.gif
+      alt: Pusat Sumber MLCS
   - infopic:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
