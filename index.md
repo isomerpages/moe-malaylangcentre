@@ -32,7 +32,7 @@ sections:
         untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
       button: Sila lihat selanjutnya
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      image: /images/Bestari_Berbicara_2026__website.jpg
+      image: /images/Bestari_Berbicara_2026_website.jpg
       alt: Image alt text
   - infopic:
       title: Jejak Budaya 2025
