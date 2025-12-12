@@ -35,6 +35,14 @@ sections:
       image: /images/Bestari_Berbicara_2026_website.jpg
       alt: Image alt text
   - infopic:
+      title: Seminar Bahasa Melayu
+      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
+        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
+      button: Sila lihat selanjutnya
+      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
+      image: /images/SBM2026_web_poster.jpg
+      alt: Resources
+  - infopic:
       title: Jejak Budaya 2025
       id: infopic
       description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS! Teroka budaya
@@ -59,14 +67,6 @@ sections:
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
       image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
       alt: Ceramah Arif Budiman
-  - infopic:
-      title: Seminar Bahasa Melayu
-      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
-        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
-      button: Sila lihat selanjutnya
-      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/SBM2026_web_poster.jpg
-      alt: Resources
   - infopic:
       image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
       title: Perkongsian Profesional 2025
