@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/with_welcome_banner.gif
+      background: /images/with_welcome.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2026
@@ -43,7 +43,7 @@ sections:
       image: /images/sbm2026_web.jpg
       alt: Resources
   - infopic:
-      title: Jejak Budaya 2025
+      title: Jejak Budaya 2026
       id: infopic
       description: Ayuh ikuti program Jejak Budaya (dalam talian) MLCS! Teroka budaya
         Melayu melalui pembelajaran interaktif, gamifikasi dan kraftangan!
