@@ -13,11 +13,10 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
 </p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/seminar_bahasa_melayu.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbmheyzine.jpg"></a>
 <hr>
-<h4><strong><u>2026</u></strong><br><strong><em>Tema: Mencorak Pedagogi Masa Hadapan<br>Rabu, 3 June 2026</em></strong></h4>
+<h4><strong><u>2026</u></strong><br><strong><em>Tema: Mencorak Pedagogi Masa Hadapan<br>Rabu, 3 Jun 2026</em></strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="SBM 2026" src="/images/SBM2026_web_poster.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sbm2026_web.jpg">
 </div>
-<h4></h4>
 <hr>
 <h4><strong>2024</strong></h4>
 <div class="isomer-image-wrapper">
