@@ -23,7 +23,7 @@ sections:
         Melayu.
       button: Visi dan Misi
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
-      image: /images/MLCS_staff.jpg
+      image: /images/WITH_DYDGE_Frame_MLCS_family__2026__1_.jpg
       alt: Image alt text
   - infopic:
       title: Bestari Berbicara
