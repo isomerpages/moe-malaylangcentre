@@ -40,7 +40,7 @@ sections:
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
       button: Sila lihat selanjutnya
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/SBM2026_web_poster.jpg
+      image: /images/sbm2026_web.jpg
       alt: Resources
   - infopic:
       title: Jejak Budaya 2025
