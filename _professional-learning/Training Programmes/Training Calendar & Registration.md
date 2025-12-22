@@ -31,9 +31,63 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Kursus 2025: Semester 2</strong><br><strong>Semester 2: Penggal 3 dan 4</strong></h4>
-<p><strong>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS untuk Semester 2 Penggal 3 dan 4.</strong>
-</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2413512d68.html#page/1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_pd_2025.jpg"></a>
+<h3><strong>Kursus 2026:</strong></h3>
+<p>Maklumat berkaitan kursus-kursus yang diwarkan oleh MLCS untuk MLCS.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Program_MLCS_2026.jpg"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/program_mlcs_2026___penggal_1.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Kursus 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
+</p>
+<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
+<br>
+<br><strong>Kursus 2024: Semester 1</strong>
+</p>
+<p><a href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah</a>
+</p>
+<p><a href="/files/MLCS_PD_2024__Semester1____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a> 
+<br>
+<br><strong>Kursus 2024: Semester 2</strong>
+</p>
+<p><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__Rendah_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS 2024 Semester 2 - Sekolah Rendah</a>
+</p>
+<p><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 2 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a>
+</p>
+<hr>
+<p></p>
+<p><strong>Kursus 2024: Semester 1 &amp; Semester 2 - MOE Kindergarten (MK)</strong>
+</p>
+<p><a href="/files/MLCS_PD_2024___Objektif__Sinopsis__MK_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program Pembelajaran Profesional 2024 (MK)</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Kursus 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Semester 2: Penggal 3 dan 4</strong>
+</p>
+<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS untuk Semester
+2 Penggal 3 dan 4.</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/2413512d68.html#page/1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MLCS_pd_2025.jpg"></a>
 <h4><strong>Kursus 2025: Semester 1</strong></h4>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
 <br>
@@ -68,34 +122,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/kursus.jpg">
 </div>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Kursus 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Kursus 2024: Semester 1 &amp; 2</strong>
-</p>
-<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS:
-<br>
-<br><strong>Kursus 2024: Semester 1</strong>
-</p>
-<p><a href="/files/MLCS_PD_2024__Semester_1____Objektif___Sinopsis__Rendah_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Rendah</a>
-</p>
-<p><a href="/files/MLCS_PD_2024__Semester1____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 1 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a> 
-<br>
-<br><strong>Kursus 2024: Semester 2</strong>
-</p>
-<p><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__Rendah_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS 2024 Semester 2 - Sekolah Rendah</a>
-</p>
-<p><a href="/files/MLCS_PD_2024__Semester_2____Objektif___Sinopsis__MenMR___IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program MLCS&nbsp;2024 Semester 2 - Sekolah Menengah/ Maktab Rendah/Institusi Pusat</a>
-</p>
-<hr>
 <p></p>
-<p><strong>Kursus 2024: Semester 1 &amp; Semester 2 - MOE Kindergarten (MK)</strong>
-</p>
-<p><a href="/files/MLCS_PD_2024___Objektif__Sinopsis__MK_.pdf" rel="noopener noreferrer nofollow" target="_blank">Program Pembelajaran Profesional 2024 (MK)</a>
-</p>
 </div>
 </details>
 </div>
