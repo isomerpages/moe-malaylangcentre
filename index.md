@@ -60,22 +60,6 @@ sections:
       image: /images/Jejak_Buday_2026_thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: Bicara Ilmiah
-      description: Program Bicara Ilmiah merupakan program pembelajaran profesional
-        yang ditawarkan khas untuk semua Guru Peneraju dan Guru Kanan.
-      button: Sila lihat selanjutnya
-      url: professional-development-prog/signature-programmes/bicarailmiah/
-      image: /images/Web_for_Bicara_Ilmiah.png
-      alt: Bicara Ilmiah
-  - infopic:
-      image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
-      title: Perkongsian Profesional 2025
-      description: Perkongsian Profesional dianjurkan pada tahun 2025 bertemakan
-        Keberkesanan Penerapan EdTech dan Kemahiran Abad ke-21 dalam PdP BM.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-learning/signature/perkongsianprofesional/
-      alt: Perkongsian Profesional 2025
-  - infopic:
       title: Pusat Sumber MLCS
       description: Pusat Sumber MLCS memiliki pelbagai tajuk buku berkaitan pengajaran
         dan pembelajaran terutama...
