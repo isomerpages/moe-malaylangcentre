@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/with_welcome.gif
+      background: /images/welcomeCg_Harris_1340x380px.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2026
@@ -25,6 +25,14 @@ sections:
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
       image: /images/WITH_DYDGE_Frame_MLCS_family__2026__1_.jpg
       alt: Image alt text
+  - infopic:
+      title: Ceramah Arif Budiman Ke-22
+      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
+        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
+      button: Sila lihat selanjutnya...
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
+      image: /images/cab22.jpg
+      alt: Ceramah Arif Budiman
   - infopic:
       title: Bestari Berbicara
       id: infopic
@@ -59,14 +67,6 @@ sections:
       url: professional-development-prog/signature-programmes/bicarailmiah/
       image: /images/Web_for_Bicara_Ilmiah.png
       alt: Bicara Ilmiah
-  - infopic:
-      title: Ceramah Arif Budiman Ke-21
-      description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
-        peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
-      button: Sila lihat selanjutnya...
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/Arif_Budiman21___Homepage_Website__1_.jpg
-      alt: Ceramah Arif Budiman
   - infopic:
       image: /images/Perkongsian_Profesional_2025_Poster_Homepage_Website.jpg
       title: Perkongsian Profesional 2025
