@@ -24,7 +24,7 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/cab22-pendaftaran"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QRcode_Website_Arif_Budiman22.jpg"></a>
+<p></p>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
