@@ -26,7 +26,7 @@ sastera, sejarah dan adat Melayu.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cab22__1_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/cab22__1_.jpg">
 </div>
 <h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
