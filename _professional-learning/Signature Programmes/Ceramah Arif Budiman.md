@@ -24,12 +24,47 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="CAB22" src="/images/cab22.jpg">
+</div>
+<p></p>
+<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Ceramah Arif Budiman 21 (2025, 20 Februari 2025)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAB21__Public_or_Website.png">
 </div>
+<p></p>
 <p><strong>Kertas dan Slaid Peyampaian Ucaptama Tuan Roslan Madun</strong>
 <br>Klik pautan ini untuk mendapatkan <a href="http://go.gov.sg/bahancab2025" rel="noopener nofollow" target="_blank">bahan penyampaian ucaptama </a>Tuan
-Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAB_Slaid_pic.jpg"></a>
+Roslan Madun
+<br>
+</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2025"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CAB_Slaid_pic.jpg"></a>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -114,29 +149,14 @@ Roslan Madun</p><a class="isomer-image-wrapper" href="http://go.gov.sg/bahancab2
 <p><strong>Gambar</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="350" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv-zu1pYoTkh1Hs_Jvpr5spu8d_0HwxwmW2TLHN2P3HrUsNgbuoTSZyEKaZmw2CMKi-bQDxEQg5VOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5UUQACm1j5wI8PxNzjVzhlt28kXVMuu7R9UexWx5zayTjyRGsBQ3eXA5PJEnNfYQVlHGuhjRroUAl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/ceramaharifbudimanj5" rel="noopener noreferrer nofollow" target="_blank">Siri Ceramah Arif Budiman Jilid 5</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ceramah_Arif_Budiman_Ebook_cover.jpg">
+<p></p>
+<p></p>
+<p></p>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Siri Ceramah Arif Budiman yang lalu</strong></h4>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ceramah Arif Budiman ke 20 (2024, 25 Julai 2024)</summary>
@@ -380,6 +400,8 @@ Depannya
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
