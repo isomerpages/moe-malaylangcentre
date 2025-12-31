@@ -23,7 +23,7 @@ sections:
         Melayu.
       button: Visi dan Misi
       url: https://mlcs.moe.edu.sg/mlcs/about-the-centre/mission-and-vision/
-      image: /images/WITH_DYDGE_Frame_MLCS_family__2026__1_.jpg
+      image: /images/Printed_Frame_MLCS_family__2026.jpg
       alt: Image alt text
   - infopic:
       title: Ceramah Arif Budiman Ke-22
@@ -71,6 +71,6 @@ sections:
       title: Akademi dan Pusat Bahasa
       button: Lihat halaman
       url: /academieslanguagecentres/
-      image: /images/01 ast n other_logo.jpg
+      image: /images/AST_N_other_logo_pptx.jpg
       alt: Academy of Singapore Teachers
 ---
