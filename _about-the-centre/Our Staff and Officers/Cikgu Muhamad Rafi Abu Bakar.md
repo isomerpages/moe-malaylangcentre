@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cikgu_Rafi_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Rafi__2_.jpg">
 </div>
 <h2>Cikgu Muhamad Rafi Abu Bakar</h2>
 <h3>Guru Pakar</h3>
