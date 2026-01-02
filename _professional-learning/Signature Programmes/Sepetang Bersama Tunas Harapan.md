@@ -6,6 +6,14 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 <h4><strong>Sepetang Bersama Tunas Harapan</strong></h4>
+<p></p>
+<h4><strong>19 May 2026, Selasa<br>2.30 ptg - 5.30 ptg<br>Pusat Bahasa Melayu Singapura</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Arshid___Tunas_Harapan_2026.jpg">
+</div>
+<hr>
+<p></p>
+<h4><strong>Tahun 2025</strong></h4>
 <h4>Program Induksi Untuk Guru Permulaan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Poster_Invite_sepetang_bersama_tunas_harapan.jpg">
