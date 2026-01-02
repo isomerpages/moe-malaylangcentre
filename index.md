@@ -7,7 +7,7 @@ permalink: /
 notification: Selamat Datang Ke Pusat Bahasa Melayu Singapura
 sections:
   - hero:
-      background: /images/welcomeCg_Harris_1340x380px.gif
+      background: /images/new_year_Homepage_banner_1340x380px.gif
       variant: image
       key_highlights:
         - title: Training Calendar & Registration 2026
