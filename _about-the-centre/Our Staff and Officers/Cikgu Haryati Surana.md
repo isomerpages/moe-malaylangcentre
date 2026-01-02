@@ -6,7 +6,7 @@ third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cikgu_Haryati_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Haryati_2__2_.jpg">
 </div>
 <h2>Cikgu Haryati Surana</h2>
 <h3>Guru Pakar</h3>
