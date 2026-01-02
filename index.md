@@ -31,7 +31,7 @@ sections:
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
       button: Sila lihat selanjutnya...
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
-      image: /images/cab22__1_.jpg
+      image: /images/cab22.png
       alt: Ceramah Arif Budiman
   - infopic:
       title: Bestari Berbicara
