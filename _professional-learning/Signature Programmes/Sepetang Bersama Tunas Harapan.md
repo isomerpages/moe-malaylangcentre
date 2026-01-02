@@ -9,7 +9,7 @@ third_nav_title: Signature Programmes
 <p></p>
 <h4><strong>19 May 2026, Selasa<br>2.30 ptg - 5.30 ptg<br>Pusat Bahasa Melayu Singapura</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Arshid___Tunas_Harapan_2026.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cg_Arshid___Tunas_Harapan_2026.jpg">
 </div>
 <hr>
 <p></p>
