@@ -6,9 +6,10 @@ third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cikgu_Arshid_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Arshid.jpg">
 </div>
 <h2>Cikgu Arshid Abdullah</h2>
+<p></p>
 <h3>Guru Pakar</h3>
 <p>Cikgu Arshid Bin Abdullah memulakan kerjaya sebagai guru sejak tahun 1991.
 Beliau memperoleh Ijazah Sarjana Muda Pengajian Melayu (Kepujian Tinggi)

@@ -6,7 +6,7 @@ third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cikgu_Rahmat_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Rahmat.jpg">
 </div>
 <h2>Cikgu Rahmat Subadah</h2>
 <h3>Guru Pakar</h3>
