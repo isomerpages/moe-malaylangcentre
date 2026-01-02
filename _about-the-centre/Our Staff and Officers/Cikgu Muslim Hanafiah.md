@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our Staff and Officers
 variant: tiptap
 ---
-<h2></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cg_Muslim__3_.jpg">
 </div>
