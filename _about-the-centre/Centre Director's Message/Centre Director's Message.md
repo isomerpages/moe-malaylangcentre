@@ -5,53 +5,54 @@ description: ""
 third_nav_title: Centre Director's Message
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mdm_Norhayati_2025__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Encik_Harris__2_.jpg">
 </div>
-<p>Banyak perubahan telah berlaku semenjak kita dilanda pandemik yang menggegar
-dunia. Perubahan-perubahan yang terjadi memerlukan kita untuk membuat penyesuaian
-yang sering kali menimbulkan rasa tidak selesa. Namun, satu perkara yang
-pasti ialah perubahan dalam bidang pendidikan perlu dilihat dari sudut
-yang lebih positif. Sekiranya pendidikan dianggap sebagai kunci penakatan
-dan kelangsungan hidup dalam dunia yang penuh dengan ketidaktentuan, kita
-tidak boleh terus berada di takuk lama. Sebaliknya, kita perlu lebih fleksibel,
-berinovasi, dan memastikan akses kepada pendidikan bermutu sentiasa terjamin.</p>
-<p>Tahun ini, MLCS akan menginjak usia 15 tahun sejak penubuhannya. Selama
-ini, MLCS telah melaksanakan pelbagai program dan aktiviti dalam pelbagai
-mod untuk memacu kecemerlangan profesional dalam kalangan guru-guru Bahasa
-Melayu (BM). Usaha ini bertujuan memastikan BM sentiasa relevan dan menarik
-bagi pelajar-pelajar dengan profil yang berbeza-beza. Sebagai satu-satunya
-pusat latihan guru BM di Singapura, MLCS bertekad untuk terus memastikan
-mutu pembelajaran dan pengajaran (PdP) BM berada pada tahap yang tinggi.</p>
-<p>Oleh itu, MLCS akan terus memainkan peranan penting dalam membina keupayaan
-dan keyakinan guru-guru melalui pelbagai program pembelajaran profesional
-yang relevan dan terkini. Antara tumpuan utama ialah kursus-kursus dan
-bengkel yang memfokuskan kepada e-Pedagogi, Kecerdasan Buatan (AI), dan
-kemahiran abad ke-21. Pemerkasaan guru dengan kemahiran-kemahiran ini bukan
-sahaja menjadikan guru-guru kita lebih seronok mengajar tetapi juga lebih
-berwibawa sebagai pendidik. Matlamat akhirnya adalah untuk melahirkan pelajar-pelajar
-yang memiliki minat mendalam dan rasa pemilikan terhadap BM di samping
-membekalkan mereka dengan keupayaan untuk mengharungi cabaran dan menyelesaikan
-permasalahan dalam dunia digital ini.</p>
-<p>Sehubungan itu, MLCS juga komited untuk mengukuhkan jaringan kerjasama
-dengan guru-guru BM melalui sokongan yang lebih padu di bilik darjah. Di
-samping itu, MLCS akan bekerjasama erat dengan Guru Kanan dan Guru Peneraju
-dan menubuhkan Komuniti Pembelajaran Profesional (NLC). NLC ini bertujuan
-memupuk kerjasama profesional, perkongsian pengetahuan, dan pembelajaran
-berterusan dalam kalangan guru-guru kita selain dari menyediakan ruang
-untuk bertukar-tukar idea, amalan terbaik, dan strategi bagi meningkatkan
-hasil PdP.</p>
-<p>Akhir kalam, dalam kita mengharungi satu lagi tahun akademik yang baharu,
-MLCS berharap para guru BM kita akan terus memanfaatkan perubahan-perubahan
-yang berlaku dalam pendidikan untuk meneroka dan mereka bentuk pengalaman
-pembelajaran yang pelbagai dan menyeronokkan untuk para pelajar. Para guru
-juga digalakkan untuk sentiasa berfikiran kritis dan reflektif dalam menggalas
-tugas menjadi pendidik yang cemerlang dan profesional. Marilah kita bersama-sama
-melangkah ke hadapan dengan keyakinan dan semangat untuk terus memajukan
-bahasa Melayu kita!</p>
+<p>Salam sejahtera para guru yang dihormati.</p>
+<p></p>
+<p>Tahun ini merupakan tahun pertama saya menyandang tugas sebagai Pengarah
+Pusat Bahasa Melayu Singapura (MLCS), menggantikan Puan Norhayati Awang
+yang kini bertugas sebagai Naib Pengetua di Sekolah Menengah Hougang. Saya
+ingin merakamkan ucapan terima kasih kepada Puan Norhayati Awang atas khidmat
+beliau yang cemerlang dalam menerajui MLCS sejak lima tahun yang lalu.</p>
+<p></p>
+<p>Sejak penubuhannya pada tahun 2010, MLCS telah melaksanakan pelbagai program
+untuk memacu kecemerlangan profesional guru Bahasa Melayu (BM). Usaha ini
+bertujuan memperkasakan guru agar mampu mereka bentuk pengalaman pembelajaran
+yang bermakna, relevan dan menarik bagi pelajar dengan profil &nbsp;dan
+keupayaan berbahasa yang berbeza-beza. Sebagai satu-satunya pusat latihan
+guru BM di Singapura, MLCS bertekad memastikan mutu pembelajaran dan pengajaran
+(PdP) BM berada pada tahap tinggi dengan menawarkan pelbagai program pembelajaran
+profesional bagi memenuhi keperluan pembelajaran guru BM. MLCS akan terus
+memainkan peranan penting dalam membina keupayaan dan keyakinan guru melalui
+program pembelajaran profesional yang relevan dan terkini.</p>
+<p></p>
+<p>Selain menawarkan kursus yang menyokong pelaksanaan kurikulum BM bagi
+pelbagai peringkat, MLCS juga memberi tumpuan kepada penerapan e-Pedagogi,
+Kecerdasan Buatan (AI) dan kemahiran abad ke-21 dalam PdP BM. Ini dilakukan
+secara terancang bagi menyokong usaha Kementerian Pendidikan untuk melahirkan
+pelajar yang memiliki minat mendalam dan rasa pemilikan terhadap BM serta
+berupaya mengharungi cabaran dunia digital. MLCS akan terus memainkan peranan
+penting dalam membina keupayaan dan keyakinan guru melalui program pembelajaran
+profesional yang relevan dan terkini.</p>
+<p></p>
+<p>MLCS juga komited untuk mengukuhkan jaringan kerjasama profesional melalui
+sokongan yang lebih padu di bilik darjah. Selain bekerjasama erat dengan
+Guru Kanan dan Guru Peneraju melalui Komuniti Pembelajaran Profesional
+(NLC), MLCS turut menyediakan ruang untuk guru bertukar-tukar idea tentang
+amalan terbaik dan strategi meningkatkan PdP. Para guru digalakkan berfikiran
+kritis dan reflektif dalam menggalas tugas dan tanggungjawab sebagai pendidik
+yang cemerlang dan profesional. Dalam dunia yang penuh ketidaktentuan,
+kita tidak boleh terus berada di takuk lama. Kita harus maju ke hadapan
+dengan lebih fleksibel, adaptif dan berinovasi.</p>
+<p></p>
+<p>Semoga tahun ini kita terus meningkatkan kecekapan untuk menjadi guru
+BM yang cemerlang. Marilah kita bergerak ke hadapan bersama-sama dengan
+yakin untuk terus memajukan bahasa Melayu yang kita cintai!</p>
 <p>Sekian, terima kasih.
 <br>#MLCS Milik Kita Bersama</p>
-<p><strong>Puan Norhayati Awang</strong>
+<p><strong>Encik Abdul Harris Sumardi&nbsp; </strong>
 <br><strong>Pengarah Pusat</strong>
 <br><strong>Pusat Bahasa Melayu Singapura (MLCS)</strong>
 </p>
