@@ -32,7 +32,7 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </table>
 <hr>
 <h3><strong>Kursus 2026:</strong></h3>
-<p>Maklumat berkaitan kursus-kursus yang diwarkan oleh MLCS untuk MLCS.</p>
+<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
