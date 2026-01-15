@@ -147,20 +147,19 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Persembahan</strong>
+<p><strong>Soalan 4</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RzHCTUx_AXI?si=TGGKyVw6V-nMX0y8"></iframe>
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55N0dbxF2LI?si=LYKeQB2oQKx8OtgJ"></iframe>
 </div>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Persembahan yang berjudul <strong>Bangsawan Amanat Paduka Raja</strong> yang
-dipersembahkan oleh <strong>Cikgu Siti Aidah Mohamad Amin</strong> dari sekolah
-SJI Junior dan <strong>Cikgu Muhammad Hafiz Yusof</strong> dari Sekolah Menengah
-Bukit Batok</p>
+<p><strong>Apakah yang boleh dilakukan guru pada masa kini agar dapat memainkan peranan guru yang sebenar?</strong>
+</p>
+<p></p>
 </td>
 </tr>
 </tbody>
