@@ -82,7 +82,6 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUsMX5zMQuZgaj7xq8-dkji2O3-N8pUH-iqNl0UGEv8f2gyPGCCCh4EI_lZ8CU3FDtJkec1vCDin4U/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Video Temuduga Bersama Prof Farish</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
