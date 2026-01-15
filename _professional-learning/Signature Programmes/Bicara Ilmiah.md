@@ -91,12 +91,8 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p><strong>Soalan 1</strong>
 </p>
-</li>
-</ol>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3ObbIfxTxvs?si=BIzzu9KWey8q2avN"></iframe>
 </div>
@@ -109,15 +105,11 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p><strong>Soalan 2</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JFe7i8Da5t4?si=Dj0w596-1t0Y-UTY"></iframe>
 </div>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,15 +119,11 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
 <p><strong>Soalan 3</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JLXY71Vlg98?si=CfSylfo2wUrSOZhb"></iframe>
 </div>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,15 +133,11 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
 <p><strong>Soalan 4</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55N0dbxF2LI?si=LYKeQB2oQKx8OtgJ"></iframe>
 </div>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
