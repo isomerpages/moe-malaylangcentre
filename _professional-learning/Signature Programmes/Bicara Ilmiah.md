@@ -81,7 +81,90 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUsMX5zMQuZgaj7xq8-dkji2O3-N8pUH-iqNl0UGEv8f2gyPGCCCh4EI_lZ8CU3FDtJkec1vCDin4U/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<h4><strong>Video Temuduga Bersama Prof Farish</strong></h4>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Soalan 1</strong>
+</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3ObbIfxTxvs?si=BIzzu9KWey8q2avN"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Siapakah itu guru?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Soalan 2</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NlSYmFYWoBM?si=Ca-HgT_9iamO7m6X"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Apakah peranan seorang guru yang sebenar?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Sesi Tanya Jawab</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BRv9MBHehKY?si=zKa-cEi3PVnLlRcZ"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p>Sesi Tanya Jawab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Persembahan</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RzHCTUx_AXI?si=TGGKyVw6V-nMX0y8"></iframe>
+</div>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Persembahan yang berjudul <strong>Bangsawan Amanat Paduka Raja</strong> yang
+dipersembahkan oleh <strong>Cikgu Siti Aidah Mohamad Amin</strong> dari sekolah
+SJI Junior dan <strong>Cikgu Muhammad Hafiz Yusof</strong> dari Sekolah Menengah
+Bukit Batok</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Bicara Ilmiah I</summary>
