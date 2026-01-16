@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Resources.md
-      - Teaching Resources/Malay Comic in Proverbs.md
       - Teaching Resources/.keep
       - Teaching Resources/Animated Stories.md
       - Teaching Resources/Basic Reading Package.md
+      - Teaching Resources/Malay Comic in Proverbs.md
       - Teaching Resources/Oral Interaction Package for Pri 1 & 2.md
       - Teaching Resources/Short Stories Anthologies.md
       - Teaching Resources/Traditional Poetry Recital.md
