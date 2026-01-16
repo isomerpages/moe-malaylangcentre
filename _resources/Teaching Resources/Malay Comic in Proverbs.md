@@ -21,22 +21,20 @@ third_nav_title: Teaching Resources
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Pusat Bahasa Melayu Singapura (MLCS) menerbitkan bahan pengajaran dan
-pembelajaran (PdP) dalam bentuk komik. Usaha ini merupakan satu inisiatif
-yang kreatif dan inovatif untuk menjadikan pengajaran peribahasa lebih
-menyeronokkan, mudah difahami, serta mampu menarik minat para pelajar.
-Melalui pendekatan visual dan naratif yang menarik, bahan ini diharap dapat
-membantu pelajar menghayati serta memahami maksud peribahasa dengan lebih
-mendalam dan berkesan.</p>
+<p>MLCS menerbitkan bahan pengajaran dan pembelajaran (PdP) dalam bentuk
+komik. Usaha ini merupakan satu inisiatif yang kreatif dan inovatif untuk
+menjadikan pengajaran peribahasa lebih menyeronokkan, mudah difahami, serta
+mampu menarik minat para pelajar. Melalui pendekatan visual dan naratif
+yang menarik, bahan ini diharap dapat membantu pelajar menghayati serta
+memahami maksud peribahasa dengan lebih mendalam dan berkesan.</p>
 <p></p>
 <p></p>
-<p>Komik Peribahasa ini dihasilkan susulan daripada Program Penyerapan yang
-telah dijalankan secara dalam talian untuk Guru Kanan dan Guru Peneraju
-pada tahun 2023. Para guru yang mengikuti program tersebut telah berkongsi
-pengalaman dan pengetahuan yang diperoleh bersama rakan-rakan guru di sekolah
-masing-masing.</p>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
+<h4><strong>Bahan Digital - Komik Peribahasa</strong><br>Peringkat Sekolah Rendah, Sekolah Menengah dan Maktab Rendah</h4>
+<p>Kilk pautan berikut untuk mendapatkan bahan digital bagi <a href="https://heyzine.com/flip-book/komik_peribahasa_mlcs.html" rel="noopener nofollow" target="_blank">Komik Peribahasa</a>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/komik_peribahasa_mlcs.html"><img style="width: 80%;" height="auto" width="100%" alt="Komik peribahasa MLCS" src="/images/Komik_Peribahasa_collage.jpg"></a>
 <p></p>
