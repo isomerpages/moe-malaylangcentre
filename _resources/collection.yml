@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - Teaching Resources/Malay Comic in Proverbs.md
       - Teaching Resources/.keep
       - Teaching Resources/Animated Stories.md
       - Teaching Resources/Basic Reading Package.md
