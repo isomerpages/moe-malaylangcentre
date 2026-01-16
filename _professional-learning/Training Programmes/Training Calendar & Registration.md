@@ -32,23 +32,8 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 </table>
 <hr>
 <h3><strong>Kursus 2026:</strong></h3>
-<p>Maklumat berkaitan kursus-kursus yang diwarkan oleh MLCS untuk MLCS.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Program_MLCS_2026.jpg"></a>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/program_mlcs_2026___penggal_1.jpg"></a>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS.</p>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Program_MLCS_2026.jpg"></a>
 <p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

@@ -81,7 +81,72 @@ dan mengaitkan pengetahuan yang diraih dengan PdP bahasa Melayu.</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUsMX5zMQuZgaj7xq8-dkji2O3-N8pUH-iqNl0UGEv8f2gyPGCCCh4EI_lZ8CU3FDtJkec1vCDin4U/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<h4><strong>Video Temuduga Bersama Prof Farish</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Soalan 1</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3ObbIfxTxvs?si=BIzzu9KWey8q2avN"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<p><strong>Siapakah itu guru?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Soalan 2</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JFe7i8Da5t4?si=Dj0w596-1t0Y-UTY"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Apakah peranan seorang guru yang sebenar?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Soalan 3</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JLXY71Vlg98?si=CfSylfo2wUrSOZhb"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Mengapakah penting bagi guru untuk melaksanakan peranan dan fungsi mereka yang sebenarnya?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Soalan 4</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55N0dbxF2LI?si=LYKeQB2oQKx8OtgJ"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Apakah yang boleh dilakukan guru pada masa kini agar dapat memainkan peranan guru yang sebenar?</strong>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Bicara Ilmiah I</summary>
