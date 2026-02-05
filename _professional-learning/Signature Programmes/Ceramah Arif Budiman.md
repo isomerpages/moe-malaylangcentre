@@ -29,9 +29,21 @@ sastera, sejarah dan adat Melayu.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aturcara_majlis_1.jpg">
 </div>
 <h4><strong>Sinopsis Sembang Budiman </strong><br></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CAB22___Husin_Saaban_Sinopsis_Sembang_Budiman____Gerob.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/cab22-sinopsissembangbudiman"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CAB22___Husin_Saaban_Sinopsis_Sembang_Budiman____Gerob.jpg"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/cab22-sinopsissembangbudiman"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sinopsis_sembang_budiman.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <h4><strong>Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
