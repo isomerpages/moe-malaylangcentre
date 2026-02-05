@@ -28,8 +28,8 @@ sastera, sejarah dan adat Melayu.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aturcara_majlis_1.jpg">
 </div>
-<h4><strong>Sinopsis Sembang Budiman </strong></h4>
-<p><strong>Klik pautan ini untuk mendapatkan <a href="https://go.gov.sg/cab22-sinopsissembangbudiman" rel="noopener nofollow" target="_blank">Sinopsis Sembang Budiman</a>  ini.  </strong>
+<h4><strong>Sinopsis Sembang Budiman</strong></h4>
+<p><strong>Klik pautan ini untuk mendapatkan <a href="https://go.gov.sg/cab22-sinopsissembangbudiman" rel="noopener nofollow" target="_blank">Sinopsis Sembang Budiman</a> ini.</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
