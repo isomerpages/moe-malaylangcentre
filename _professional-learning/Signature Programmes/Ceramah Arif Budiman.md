@@ -24,7 +24,7 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
-<h4><strong>Atur Cara Cermah Arif Budiman</strong></h4>
+<h4><strong>Atur Cara Ceramah Arif Budiman</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aturcara_majlis_1.jpg">
 </div>
