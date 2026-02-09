@@ -24,11 +24,29 @@ pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
 sastera, sejarah dan adat Melayu.</p>
 </li>
 </ul>
-<p></p>
+<h4><strong>Atur Cara Ceramah Arif Budiman</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/cab22.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aturcara_majlis_1.jpg">
 </div>
-<h4><strong>Buku Siri Ceramah Arif Budiman</strong></h4>
+<h4><strong>Sinopsis Sembang Budiman</strong></h4>
+<p><strong>Klik pautan ini untuk mendapatkan <a href="https://go.gov.sg/cab22-sinopsissembangbudiman" rel="noopener nofollow" target="_blank">Sinopsis Sembang Budiman</a>.</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/cab22-sinopsissembangbudiman"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CAB22___Husin_Saaban_Sinopsis_Sembang_Budiman____Gerob.jpg"></a>
+</th>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/cab22-sinopsissembangbudiman"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sinopsis_sembang_budiman.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><strong>Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,7 +103,7 @@ Roslan Madun
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jby4ALIPYLE?si=XANTI4gg2qsdAmN8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jby4ALIPYLE?si=XANTI4gg2qsdAmN8"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +118,7 @@ Roslan Madun
 <p><strong>Lagu Rakyat yang dipersembahkan oleh Tuan Roslan Madun</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AT2J5Tm3EZM?si=NSh4hot-EcEHcgI0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AT2J5Tm3EZM?si=NSh4hot-EcEHcgI0"></iframe>
 </div>
 </li>
 </ol>
@@ -117,7 +135,7 @@ Roslan Madun
 <p><strong>Syair oleh Tuan Roslan Madun</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LXLPWq-vyuc?si=WfUPx-LJGOfy5h0N"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LXLPWq-vyuc?si=WfUPx-LJGOfy5h0N"></iframe>
 </div>
 </li>
 </ol>
@@ -133,7 +151,7 @@ Roslan Madun
 <p><strong>Syair oleh Nur Nabihah Shukeri</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eCc1yps_gSs?si=_Iu_4hRtgov-ZqAN"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eCc1yps_gSs?si=_Iu_4hRtgov-ZqAN"></iframe>
 </div>
 </li>
 </ol>
@@ -148,7 +166,7 @@ Roslan Madun
 <p><strong>Gambar</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5UUQACm1j5wI8PxNzjVzhlt28kXVMuu7R9UexWx5zayTjyRGsBQ3eXA5PJEnNfYQVlHGuhjRroUAl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5UUQACm1j5wI8PxNzjVzhlt28kXVMuu7R9UexWx5zayTjyRGsBQ3eXA5PJEnNfYQVlHGuhjRroUAl/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
@@ -193,7 +211,7 @@ Yatiman Yusof</p><a class="isomer-image-wrapper" href="https://drive.google.com/
 <p><strong>Gambar Ceramah Arif Budiman 2024</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YE5awK0F8qpiQWWzq_ObcaUcO7gpvUnLFNIEpOKgdMY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
