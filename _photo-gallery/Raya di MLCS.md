@@ -4,11 +4,11 @@ permalink: /raya-di-mlcs/
 variant: tiptap
 description: ""
 ---
-<h4>Selamat Hari Raya Aidilfitri 2024</h4>
+<h4>Selamat Hari Raya Aidilfitri 2025</h4>
 <p><strong>Video Raya - Suasana Hari Raya di MLCS</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c4fMB6gi1dk?si=W9LQbZgBiPhixI3c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c4fMB6gi1dk?si=W9LQbZgBiPhixI3c"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -31,64 +31,64 @@ description: ""
 <p><strong>Pusat Bahasa Melayu Singapura (CDMLCS &amp; P/MTTs)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yitA1TQLkwY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yitA1TQLkwY"></iframe>
 </div>
 <p><strong>Pusat Bahasa Melayu Singapura (AES Staff &amp; Support Staff)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e6M6ydQY9j4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e6M6ydQY9j4"></iframe>
 </div>
 <p><strong>Sekolah Rendah Jurong</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ERSSCWvSWz0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ERSSCWvSWz0"></iframe>
 </div>
 <p><strong>Hai Sing Catholic School</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i_ExNKbXu7A"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i_ExNKbXu7A"></iframe>
 </div>
 <p><strong>Sekolah Menengah Speingfield</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L_BCga1VEWY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L_BCga1VEWY"></iframe>
 </div>
 <p><strong>Sekolah Rendah First Toa Payoh</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LgHTO1r3sEM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LgHTO1r3sEM"></iframe>
 </div>
 <p><strong>Sekolah Rendah New Town</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JC4B5jpVs84"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JC4B5jpVs84"></iframe>
 </div>
 <p><strong>Sekolah Rendah Riverside</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_m3r7iqd9vk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_m3r7iqd9vk"></iframe>
 </div>
 <p><strong>Sekolah Rendah Rivervale</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vQ6ud-AkhQY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vQ6ud-AkhQY"></iframe>
 </div>
 <p><strong>Sekolah Rendah Westwood</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T3x1Lqlpe4g"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T3x1Lqlpe4g"></iframe>
 </div>
 <p><strong>KAD DIGITAL</strong>
 </p>
 <p><strong>Unit Bahasa Melayu Bahagian Perancangan dan Pembangunan Kurikulum</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ol-O6rJiudI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ol-O6rJiudI"></iframe>
 </div>
 <p><strong>Sekolah Menengah Springfield</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G8M5GBb3-tE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G8M5GBb3-tE"></iframe>
 </div>
 <p></p>
 </div>
@@ -107,159 +107,159 @@ description: ""
 <p><strong>Pusat Bahasa Melayu Singapura</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6NGsYtcewak"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6NGsYtcewak"></iframe>
 </div>
 <p><strong>Sekolah Rendah Fuhua</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4kiTFvOaWug"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4kiTFvOaWug"></iframe>
 </div>
 <p><strong>Sekolah Menengah Meridian</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CTrQgGxZIJQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CTrQgGxZIJQ"></iframe>
 </div>
 <p><strong>Sekolah Rendah South View</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d1TrQ5rzeeQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/d1TrQ5rzeeQ"></iframe>
 </div>
 <p><strong>Sekolah Rendah Yew Tee</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QNSNh1p9P04"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QNSNh1p9P04"></iframe>
 </div>
 <p><strong>Sekolah Rendah Eunos</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7iNN9mOs1iI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7iNN9mOs1iI"></iframe>
 </div>
 <p><strong>CHIJ Our Lady of the Nativity</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5rZrL2_gc-8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5rZrL2_gc-8"></iframe>
 </div>
 <p><strong>Sekolah Rendah Zhangde</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wpu012Fjzo8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wpu012Fjzo8"></iframe>
 </div>
 <p><strong>Sekolah Rendah First Toa Payoh</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dPV6sfrvEYU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dPV6sfrvEYU"></iframe>
 </div>
 <p><strong>Sekolah Rendah Tampines North</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Erp14eO5Tsc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Erp14eO5Tsc"></iframe>
 </div>
 <p><strong>Sekolah Rendah Gongshang</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yglEZ7pJYlo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yglEZ7pJYlo"></iframe>
 </div>
 <p><strong>Sekolah Rendah Rulang</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ti2MvfLxr20"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ti2MvfLxr20"></iframe>
 </div>
 <p><strong>Sekolah Menengah Commonwealth</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3e39bLfAOZI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3e39bLfAOZI"></iframe>
 </div>
 <p><strong>Sekolah Menengah St Margaret's</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B4asagGGtls"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B4asagGGtls"></iframe>
 </div>
 <p><strong>Sekolah Rendah Frontier</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYVYbgQCzX8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XYVYbgQCzX8"></iframe>
 </div>
 <p><strong>Sekolah Menengah Queenstown</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8e1bVskR4wc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8e1bVskR4wc"></iframe>
 </div>
 <p><strong>Sekolah Menengah Ang Mo Kio</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZB1f45ohjwI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZB1f45ohjwI"></iframe>
 </div>
 <p><strong>KAD DIGITAL</strong>
 </p>
 <p><strong>Maktab Rendah Anderson Serangoon</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wAi48oftplo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wAi48oftplo"></iframe>
 </div>
 <p><strong>Sekolah Rendah Junyuan</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cXba-QDI88E"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cXba-QDI88E"></iframe>
 </div>
 <p><strong>Sekolah Menengah Jurongville</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhignkX6y4c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhignkX6y4c"></iframe>
 </div>
 <p><strong>Sekolah Menengah Commonwealth</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-X9bowfYAE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-X9bowfYAE"></iframe>
 </div>
 <p><strong>Sekolah Perempuan Paya Lebar Methodist (Rendah)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iBk0IqKAlY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iBk0IqKAlY"></iframe>
 </div>
 <p><strong>Sekolah Rendah White Sands</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pxWraVrBRuQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pxWraVrBRuQ"></iframe>
 </div>
 <p><strong>Sekolah Rendah Blangah Rise</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1L8L7ylGrUM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1L8L7ylGrUM"></iframe>
 </div>
 <p><strong>Sekolah Gan Eng Seng (Menengah)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HImJtS9IT4w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HImJtS9IT4w"></iframe>
 </div>
 <p><strong>Sekolah Rendah Fengshan</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ySWKw1PO1V0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ySWKw1PO1V0"></iframe>
 </div>
 <p><strong>Sekolah Rendah Ahmad Ibrahim</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sj0K9etbogA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sj0K9etbogA"></iframe>
 </div>
 <p><strong>Sekolah Rendah West Spring</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fLvSdXPi5FQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fLvSdXPi5FQ"></iframe>
 </div>
 <p><strong>Sekolah Menengah Dunearn</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/60cQW-531Ns"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/60cQW-531Ns"></iframe>
 </div>
 <p><strong>Sekolah Rendah Eunos</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eXR6Jh0D4Ow"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eXR6Jh0D4Ow"></iframe>
 </div>
 <p><strong>Sekolah Rendah Ang Mo Kio</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AwRVQtLt-dI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AwRVQtLt-dI"></iframe>
 </div>
 <p></p>
 </div>
@@ -274,7 +274,7 @@ description: ""
 <img style="width: 80%;" height="auto" width="100%" alt="Selamat Hari Raya 2023" src="/images/green%20modern%20happy%20eid%20al-fitr%20instagram%20post.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xHqV7MbKhIY?si=Sq729rc6Q570QVuh"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xHqV7MbKhIY?si=Sq729rc6Q570QVuh"></iframe>
 </div>
 <p></p>
 </div>
@@ -284,7 +284,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WsNg8ZHkHXQ?si=6505lhWXR6LHKLHN"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WsNg8ZHkHXQ?si=6505lhWXR6LHKLHN"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="Malay Language Centre of Singapore" src="/images/Raya_2024__Selected.jpg">
