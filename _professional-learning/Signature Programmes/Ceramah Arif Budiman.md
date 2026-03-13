@@ -21,12 +21,18 @@ Bahasa dan budaya Melayu;</p>
 <li>
 <p>dan menyediakan ruang dan peluang bagi masyarakat Melayu untuk mendapatkan
 pengetahuan daripada pakar tentang perkembangan Bahasa, budaya, nilai,
-sastera, sejarah dan adat Melayu.</p>
+sastera, sejarah dan adat Melayu.
+<br>
+</p>
 </li>
 </ul>
-<h4><strong>Atur Cara Ceramah Arif Budiman</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Aturcara_majlis_1.jpg">
+<h4><strong>Video Ceramah Arif Budiman</strong><br><strong>Penyampaian Ucaptama Encik Husin Saaban</strong><br><em>Tajuk:  Yang tersurat dan tersirat. Melestarikan kecintaan terhadap bahasa dan budaya melalui pemikiran dan humor</em></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/57fdJSKL75A?si=FjY7boGXypOuxnNn"></iframe>
+</div>
+<h4><strong>Gambar</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwYx8dMkO4S-w6S_Z4Gkd3txE7TsGINLs8ImYE5Oyu7uqOumUsy8Ut4b3EjJY5pDkQYxwnjz85JYnA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Sinopsis Sembang Budiman</strong></h4>
 <p><strong>Klik pautan ini untuk mendapatkan <a href="https://go.gov.sg/cab22-sinopsissembangbudiman" rel="noopener nofollow" target="_blank">Sinopsis Sembang Budiman</a>.</strong>
@@ -45,7 +51,6 @@ sastera, sejarah dan adat Melayu.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4><strong>Siri Ceramah Arif Budiman</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
