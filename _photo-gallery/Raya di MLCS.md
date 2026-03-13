@@ -6,7 +6,7 @@ description: ""
 ---
 <h1><strong>Selamat Hari Raya Aidilfitri 2026</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2026.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Raya_2026.jpg">
 </div>
 <p>Sempena lebaran ini, keluarga MLCS ingin mengucapkan Selamat Hari Raya,
 Maaf Zahir dan Batin kepada semua guru Bahasa Melayu di Singapura.</p>
