@@ -15,12 +15,13 @@ berjudul “MLCS Berhari Raya”.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wh89uwiGbGQ?si=uivhD6FF1kc9LP66"></iframe>
 </div>
-<p></p>
 <h4><strong>Video: Medley Raya MLCS 2026</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wD6wBMHUuu4?si=vDl3LiXpsqx_-COd"></iframe>
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2026.jpg">
+</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -317,4 +318,6 @@ berjudul “MLCS Berhari Raya”.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
