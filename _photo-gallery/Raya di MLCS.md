@@ -4,15 +4,21 @@ permalink: /raya-di-mlcs/
 variant: tiptap
 description: ""
 ---
-<h4>Selamat Hari Raya Aidilfitri 2025</h4>
-<p><strong>Video Raya - Suasana Hari Raya di MLCS</strong>
-</p>
+<h1><strong>Selamat Hari Raya Aidilfitri 2026</strong></h1>
+<p>Sempena lebaran ini, keluarga MLCS ingin mengucapkan Selamat Hari Raya,
+Maaf Zahir dan Batin kepada semua guru Bahasa Melayu di Singapura.</p>
+<p>Semoga Hari Raya Aidilfitri tahun ini membawa keberkahan dalam kita melaksanakan
+amanah dan tanggungjawab untuk mendidik anak-anak bangsa.</p>
+<p>Sebagai penghargaan kepada semua guru BM, terimalah dendangan kami yang
+berjudul “MLCS Berhari Raya”.</p>
+<h4><strong>Video: MLCS Berhari Raya 2026</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c4fMB6gi1dk?si=W9LQbZgBiPhixI3c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wh89uwiGbGQ?si=uivhD6FF1kc9LP66"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Raya2025FINALedit.jpg">
+<h4><strong>Video: Medley Raya MLCS 2026</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wD6wBMHUuu4?si=vDl3LiXpsqx_-COd"></iframe>
 </div>
 <p></p>
 <p></p>
@@ -288,6 +294,23 @@ description: ""
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="Malay Language Centre of Singapore" src="/images/Raya_2024__Selected.jpg">
+</div>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Raya 2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Video Raya - Suasana Hari Raya di MLCS</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c4fMB6gi1dk?si=W9LQbZgBiPhixI3c"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Raya2025FINALedit.jpg">
 </div>
 <p></p>
 <p></p>
