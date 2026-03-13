@@ -26,7 +26,7 @@ sastera, sejarah dan adat Melayu.
 </p>
 </li>
 </ul>
-<h4><strong>Video Ceramah Arif Budiman</strong><br><strong>Penyampaian Ucaptama Encik Husin Saaban</strong><br><em>Tajuk:  Yang tersurat dan tersirat. Melestarikan kecintaan terhadap bahasa dan budaya melalui pemikiran dan humor</em></h4>
+<h4><strong>Video Ceramah Arif Budiman</strong><br><strong>Penyampaian Ucaptama Encik Husin Saaban</strong><br><em>Tajuk: Yang tersurat dan tersirat. Melestarikan kecintaan terhadap bahasa dan budaya melalui pemikiran dan humor</em></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/57fdJSKL75A?si=FjY7boGXypOuxnNn"></iframe>
 </div>
