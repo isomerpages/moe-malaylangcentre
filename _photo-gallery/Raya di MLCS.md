@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Selamat Hari Raya Aidilfitri 2026</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2026.jpg">
+</div>
 <p>Sempena lebaran ini, keluarga MLCS ingin mengucapkan Selamat Hari Raya,
 Maaf Zahir dan Batin kepada semua guru Bahasa Melayu di Singapura.</p>
 <p>Semoga Hari Raya Aidilfitri tahun ini membawa keberkahan dalam kita melaksanakan
@@ -18,9 +21,6 @@ berjudul “MLCS Berhari Raya”.</p>
 <h4><strong>Video: Medley Raya MLCS 2026</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wD6wBMHUuu4?si=vDl3LiXpsqx_-COd"></iframe>
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2026.jpg">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
