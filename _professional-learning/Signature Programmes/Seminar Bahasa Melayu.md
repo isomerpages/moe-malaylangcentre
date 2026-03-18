@@ -40,10 +40,10 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ" rel="noopener noreferrer nofollow" target="_blank">Buku e-Prosiding Seminar Bahasa Melayu 2024</a>
+<p><a href="https://heyzine.com/flip-book/sbm2024.html" rel="noopener noreferrer nofollow" target="_blank">Buku e-Prosiding Seminar Bahasa Melayu 2024</a>
 </p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs_sbm_2024-v6?fr=xKAE9_zU1NQ"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2024resize.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/sbm2024.html"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sbm2024resize.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -71,7 +71,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aH3fWKIRPKY?si=JYhDFZQLdMUoPM5i"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aH3fWKIRPKY?si=JYhDFZQLdMUoPM5i"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <p><strong>Penyampaian Ucaptama</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NlSYmFYWoBM?si=Ca-HgT_9iamO7m6X"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NlSYmFYWoBM?si=Ca-HgT_9iamO7m6X"></iframe>
 </div>
 </li>
 </ol>
@@ -104,7 +104,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <p><strong>Sesi Tanya Jawab</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BRv9MBHehKY?si=zKa-cEi3PVnLlRcZ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BRv9MBHehKY?si=zKa-cEi3PVnLlRcZ"></iframe>
 </div>
 </li>
 </ol>
@@ -122,7 +122,7 @@ berkesan dalam kalangan para guru bahasa Melayu.</p>
 <p><strong>Persembahan</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RzHCTUx_AXI?si=TGGKyVw6V-nMX0y8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RzHCTUx_AXI?si=TGGKyVw6V-nMX0y8"></iframe>
 </div>
 </li>
 </ol>
@@ -144,7 +144,7 @@ Bukit Batok</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fpApdE6BpOk?si=8ZnNldNnFYe6iyny"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="200" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fpApdE6BpOk?si=8ZnNldNnFYe6iyny"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +164,7 @@ Bukit Batok</p>
 </table>
 <h4><strong>Gambar Seminar Bahasa Melayu 2024</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="350" width="580" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="580" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <hr>
 <h4><strong>Kertas-kertas kajian yang dihasilkan oleh guru disenaraikan mengikut tahun penerbitannya</strong>.</h4>
