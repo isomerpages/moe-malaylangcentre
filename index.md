@@ -26,6 +26,15 @@ sections:
       image: /images/Printed_Frame_MLCS_family__2026.jpg
       alt: Image alt text
   - infopic:
+      title: Selamat Hari Raya Aidilfitri
+      id: infopic
+      description: Sempena lebaran ini, keluarga MLCS ingin mengucapkan Selamat Hari
+        Raya, Maaf Zahir dan Batin kepada semua guru Bahasa Melayu di Singapura.
+      button: Saksikan Video & Ucapan Guru-Guru
+      url: https://mlcs.moe.edu.sg/raya-di-mlcs/
+      image: /images/web_Group_Photo_Candid_MLCS_Raya_2026_IMG_6862_small.jpg
+      alt: Image alt text
+  - infopic:
       title: Ceramah Arif Budiman Ke-22
       description: Ceramah Arif Budiman (CAB) merupakan satu inisiatif yang memberi
         peluang kepada guru, pelajar, ibu bapa dan penggiat bahasa untuk....
