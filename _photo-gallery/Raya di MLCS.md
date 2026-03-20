@@ -22,6 +22,14 @@ berjudul “Boria MLCS Berhari Raya”.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wD6wBMHUuu4?si=vDl3LiXpsqx_-COd"></iframe>
 </div>
+<hr>
+<h4><strong>Guru-Guru BM Berhari Raya</strong></h4>
+<p><strong>Sekolah Menengah Yuhua</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PHECgPeY4vA?si=FjPfLU_gH-bX-RmM"></iframe>
+</div>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
