@@ -62,7 +62,7 @@ Sumber MLCS.
 <h4><strong>Paparan Khazanah Pilihan</strong><br><strong>Tahun 2026</strong></h4>
 <p></p>
 <p></p>
-<h4><strong> Januari 2026</strong></h4>
+<h4><strong>Januari 2026</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYNS_1.png">
 </div>
