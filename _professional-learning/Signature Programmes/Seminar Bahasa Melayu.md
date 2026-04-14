@@ -14,11 +14,18 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 </p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/seminar_bahasa_melayu.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbmheyzine.jpg"></a>
 <hr>
 <h4><strong><u>2026</u></strong><br><strong><em>Tema: Mencorak Pedagogi Masa Hadapan<br>Rabu, 3 Jun 2026</em></strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sbm2026_web.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/with_QR_SBM2026____F2F_Guests.jpg">
 </div>
+<p></p>
 <hr>
-<h4><strong>2024</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Seminar Bahasa Melayu  2024 - Memarak Inovasi, Memekar Pedagogi</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sbm2024a.jpg">
 </div>
@@ -166,9 +173,16 @@ Bukit Batok</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="580" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY7BQuT5TM1EMJ1SP6B6-Ash1Cf8ZyIti7XMqnk6oLc8tLp5sbehoY6jskfVSx2tQpZscXOZDj5Zib/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<hr>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong>Kertas-kertas kajian yang dihasilkan oleh guru disenaraikan mengikut tahun penerbitannya</strong>.</h4>
 <ul>
+<li>
+<p><a href="https://heyzine.com/flip-book/sbm2024.html" rel="noopener noreferrer nofollow" target="_blank">Seminar Bahasa Melayu 2024 (e-Penerbitan)</a>
+</p>
+</li>
 <li>
 <p><a href="/mlcs/resources/malay-language-seminar-seminar-bahasa-melayu-publications/seminar-bahasa-melayu-2022" rel="noopener noreferrer nofollow" target="_blank">Seminar Bahasa Melayu 2022 (e-Penerbitan)</a>
 </p>
