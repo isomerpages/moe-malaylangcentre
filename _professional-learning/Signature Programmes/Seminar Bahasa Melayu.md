@@ -13,16 +13,15 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <br>
 </p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/seminar_bahasa_melayu.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbmheyzine.jpg"></a>
 <hr>
-<h4><strong><u>2026</u></strong><br><strong><em>Tema: Mencorak Pedagogi Masa Hadapan<br>Rabu, 3 Jun 2026</em></strong></h4>
-<p></p>
+<h4><strong><u>Seminar Bahasa Melayu 2026</u></strong><br><strong>Rabu, 3 Jun 2026<br>8.30 pagi - 1 petang</strong><br><br><strong><u>Penyampai Ucaptama: Dr Intan Azura Mokhtar</u></strong><br><strong><em>Tema: Mencorak Pedagogi Masa Hadapan</em></strong><br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/with_QR_SBM2026____F2F_Guests.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/with_QR_SBM2026____F2F_Guests.jpg">
 </div>
 <p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Seminar Bahasa Melayu  2024 - Memarak Inovasi, Memekar Pedagogi</strong>
+<summary><strong>Seminar Bahasa Melayu 2024 - Memarak Inovasi, Memekar Pedagogi</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
