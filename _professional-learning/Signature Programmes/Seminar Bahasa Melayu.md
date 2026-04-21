@@ -18,7 +18,7 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/with_QR_SBM2026____F2F_Guests__1_.jpg">
 </div>
 <p></p>
-<h4><strong>Sinopsis Perkongsian boleh didapati di sini <a href="https://sites.google.com/view/sbm2026/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/sbm2026/home</a></strong></h4>
+<h4><strong>Sinopsis Perkongsian boleh didapati di sini </strong><br><strong><a href="https://sites.google.com/view/sbm2026" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/sbm2026</a></strong></h4>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
