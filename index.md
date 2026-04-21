@@ -40,7 +40,7 @@ sections:
         darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
       button: Sila lihat selanjutnya
       url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/SBM_2026___MOTD_800X580__1_.jpg
+      image: /images/SBM_2026___MOTD_800X580__3_.jpg
       alt: Resources
   - infopic:
       title: Selamat Hari Raya Aidilfitri
