@@ -19,7 +19,6 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.
 </div>
 <p></p>
 <h4><strong>Sinopsis Perkongsian boleh didapati di sini <a href="https://sites.google.com/view/sbm2026/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/view/sbm2026/home</a></strong></h4>
-<p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
