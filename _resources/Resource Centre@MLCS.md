@@ -59,24 +59,40 @@ Sumber MLCS.
 <h4><strong>Artifak Pusat Sumber</strong></h4>
 <p>Berikut adalah gambar bahan-bahan MLCS di pusat sumber</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/MLCS_artifak_pusat_sumber.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/artifactshelf.png"></a>
 <p></p>
-<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>Oct 2025</strong></h4>
+<h4><strong>Paparan Khazanah Pilihan</strong><br><strong>Tahun 2026</strong></h4>
+<h4><strong>April 2026</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_Displayedit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_5.png">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAM_6.png">
+</div>
+<h4><strong>January 2026</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYNS_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYNS_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYNS_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NYNS_4.png">
+</div>
+<h4><strong>Tahun 2025</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Januari 2025 - Cadangan Buku-Buku</summary>
@@ -151,7 +167,7 @@ Sumber MLCS.
 </div>
 </details>
 <details class="isomer-details">
-<summary>June 2025 - Adat dan Budaya</summary>
+<summary>Jun 2025 - Adat dan Budaya</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Sila klik imej di bawah untuk melayari paparan.</p>
 <table style="minWidth: 50px">
@@ -174,7 +190,7 @@ Sumber MLCS.
 </div>
 </details>
 <details class="isomer-details">
-<summary>July 2025 - Female Malay Authors</summary>
+<summary>Julai 2025 - Female Malay Authors</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
 <div class="isomer-image-wrapper">
@@ -205,7 +221,7 @@ Sumber MLCS.
 </div>
 </details>
 <details class="isomer-details">
-<summary>Aug 2025 - Majulah Singapura</summary>
+<summary>Ogos 2025 - Majulah Singapura</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
 <div class="isomer-image-wrapper">
@@ -239,6 +255,28 @@ Sumber MLCS.
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTD_3.png">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Oktober 2025 - Ariff Ahmad</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_MAS_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ariff_Ahmad_Displayedit.jpg">
 </div>
 <p></p>
 </div>

@@ -26,6 +26,23 @@ sections:
       image: /images/Printed_Frame_MLCS_family__2026.jpg
       alt: Image alt text
   - infopic:
+      title: Bestari Berbicara
+      id: infopic
+      description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
+        untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
+      button: Sila lihat selanjutnya
+      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
+      image: /images/Bestari_Berbicara_2026_website.jpg
+      alt: Image alt text
+  - infopic:
+      title: Seminar Bahasa Melayu
+      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
+        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
+      button: Sila lihat selanjutnya
+      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
+      image: /images/SBM_2026___MOTD_800X580__3_.jpg
+      alt: Resources
+  - infopic:
       title: Selamat Hari Raya Aidilfitri
       id: infopic
       description: Sempena lebaran ini, keluarga MLCS ingin mengucapkan Selamat Hari
@@ -42,23 +59,6 @@ sections:
       url: /mlcs/professional-development-programmes/signature-programme-program-teras/ceramah-arif-budiman/
       image: /images/cab22.png
       alt: Ceramah Arif Budiman
-  - infopic:
-      title: Bestari Berbicara
-      id: infopic
-      description: Program Bestari Berbicara merupakan program tukikan yang disasarkan
-        untuk para ketua pedagogi khususnya para Guru Kanan dan Guru Peneraju.
-      button: Sila lihat selanjutnya
-      url: /mlcs/professional-development-programmes/signature-programme-program-teras/bestari-berbicara/
-      image: /images/Bestari_Berbicara_2026_website.jpg
-      alt: Image alt text
-  - infopic:
-      title: Seminar Bahasa Melayu
-      description: Seminar Bahasa Melayu merupakan wadah perkongsian kajian di bilik
-        darjah. MLCS menganjurkan seminar ini sekali dalam setiap 2 tahun.
-      button: Sila lihat selanjutnya
-      url: https://mlcs.moe.edu.sg/mlcs/professional-development-programmes/signature-programme-program-teras/malay-language-seminar/
-      image: /images/sbm2026_web.jpg
-      alt: Resources
   - infopic:
       title: Jejak Budaya 2026
       id: infopic
