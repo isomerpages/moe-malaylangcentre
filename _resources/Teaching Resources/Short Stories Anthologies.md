@@ -94,7 +94,7 @@ memanfaatkan antologi ini sebagai bahan bacaan dan pengajaran dan pembelajaran.
 <br>
 <br><strong>Ebook</strong>
 </p><a class="isomer-image-wrapper" href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sbm-2022-antologi-janji-poster.jpeg"></a>
-<p>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://issuu.com/oxfordgraphic/docs/mlcs-janji-v4-fa" rel="noopener nofollow" target="_blank">Antologi Janji</a> dalam
+<p>Klik pautan berikut untuk mendapatkan&nbsp;<a href="https://heyzine.com/flip-book/6234c415ae.html" rel="noopener nofollow" target="_blank">Antologi Janji</a> dalam
 bentuk digital.</p>
 <hr>
 <p><strong>Antologi Janji: Panduan Pengajaran dan Pembelajaran</strong>
