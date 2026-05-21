@@ -23,6 +23,15 @@ yang mereka lakukan di sekolah dalam menyokong pembelajaran profesional
 guru-guru BM di sekolah masing-masing.
 <br>
 </p>
+<h4><strong>Bahan Rujukan Bestari Berbicara </strong></h4>
+<p>E-Penerbitan Bestari Berbicara 2026</p>
+<p>Klik pautan berikut untuk mendapatkan bahan digital <u>Bestari Berbicara 2026</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/001_BB2026_Ebook_Cover_Book_Front.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -46,13 +55,13 @@ dan pengalaman mereka dengan rakan-rakan ketua pedagogi yang lain.</p>
 <p>Pada tahun 2023, Program Bestari Berbicara telah dianjurkan pada <strong>26 Oktober 2023</strong> secara
 bersemuka di bangunan Pusat Bahasa Melayu Singapura.</p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxMzPcYpAyJauBBJ4XBKaEabtkahDSi0LAXYx0FRg_B83YRXuk1vHsfGfQgBSv_mHjwQqjUD2IK-T/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxMzPcYpAyJauBBJ4XBKaEabtkahDSi0LAXYx0FRg_B83YRXuk1vHsfGfQgBSv_mHjwQqjUD2IK-T/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Deklamasi Sajak oleh Cikgu Roslie Buang Sidik</strong>
 </p>
 <hr>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XcfvnJmeH7o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XcfvnJmeH7o"></iframe>
 </div>
 <p></p>
 <p>Klik pautan berikut untuk mendapatkan bahan digital bagi</p>
@@ -72,7 +81,7 @@ bersemuka di bangunan Pusat Bahasa Melayu Singapura.</p>
 <p><strong>Gambar Bestari Berbicara 2024</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoIrCJh0duHX9vjWp_dqDMHYNWrrkUC_sMB-eBjxwv63Vi0BuqfNNSFe2hGrkmxHzrokFxkRUGdMFt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSoIrCJh0duHX9vjWp_dqDMHYNWrrkUC_sMB-eBjxwv63Vi0BuqfNNSFe2hGrkmxHzrokFxkRUGdMFt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </div>
 </details>
@@ -90,12 +99,12 @@ bersemuka di bangunan Pusat Bahasa Melayu Singapura.</p>
 <p></p>
 <h4><strong>Video Bestari Berbicara 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eh2X5yi-gkA?si=AdespFTmCsSs9PWB"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eh2X5yi-gkA?si=AdespFTmCsSs9PWB"></iframe>
 </div>
 <p></p>
 <h4><strong>Gambar Bestari Berbicara 2025</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9PQPJOsN1KeAwnwTlSjmnSaI80b77-ApIO9hB9B_e502b5TYZpLrIT3SORAsi2J-77R5emVuDAOek/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9PQPJOsN1KeAwnwTlSjmnSaI80b77-ApIO9hB9B_e502b5TYZpLrIT3SORAsi2J-77R5emVuDAOek/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 </div>
