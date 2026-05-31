@@ -24,7 +24,8 @@ guru-guru BM di sekolah masing-masing.
 <br>
 </p>
 <h4><strong>Bahan Rujukan Bestari Berbicara</strong></h4>
-<p>E-Penerbitan Bestari Berbicara 2026</p>
+<p><a href="https://go.gov.sg/bestariberbicara2026" rel="noopener nofollow" target="_blank">E-Penerbitan Bestari Berbicara 2026</a>
+</p>
 <p>Klik pautan berikut untuk mendapatkan bahan digital <u>Bestari Berbicara 2026</u>
 </p>
 <div class="isomer-image-wrapper">
