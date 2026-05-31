@@ -13,12 +13,13 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.</p>
 <a class="isomer-image-wrapper" href="https://heyzine.com/shelf/seminar_bahasa_melayu.html">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sbm2026_book.jpg">
 </a>
+<p><a href="https://heyzine.com/shelf/seminar_bahasa_melayu.html" rel="noopener nofollow" target="_blank">Koleksi e-penerbitan Seminar Bahasa Melayu</a>
+</p>
 <hr>
 <h4><strong><u>Seminar Bahasa Melayu 2026</u></strong><br><strong>Rabu, 3 Jun 2026<br>8.30 Pagi - 1 Petang</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SBM_Atur_Cara.jpg">
 </div>
-<p></p>
 <p>Sinopsis Perkongsian boleh didapati di sini
 <br><a href="https://sites.google.com/view/sbm2026" rel="noopener nofollow" target="_blank">https://sites.google.com/view/sbm2026</a>
 </p>
@@ -30,7 +31,6 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.</p>
 </p>
 <p>3) <a href="https://go.gov.sg/bestariberbicara2026" rel="noopener nofollow" target="_blank">Bestari Berbicara 2026</a>
 </p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/mlcs_epenerbitan2026.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPENRBITAN_HEYZINE1.jpg"></a>
-<p></p>
 <p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
