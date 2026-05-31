@@ -23,10 +23,13 @@ untuk menganjurkan Seminar Bahasa Melayu sekali dalam setiap 2 tahun.</p>
 <br><a href="https://sites.google.com/view/sbm2026" rel="noopener nofollow" target="_blank">https://sites.google.com/view/sbm2026</a>
 </p>
 <p></p>
-<p><strong>E-Penerbitan 2026</strong>
+<h4><strong>E-Penerbitan 2026</strong><br><strong>Berikut adalah e-penerbitan MLCS 2026</strong></h4>
+<p>1) <a href="https://go.gov.sg/sbmpublication2026" rel="noopener nofollow" target="_blank">e-Prosiding Seminar Bahasa Melayu 2026</a>
 </p>
-<p></p>
-<p></p>
+<p>2) <a href="https://go.gov.sg/dianbahasa3" rel="noopener nofollow" target="_blank">Dian Bahasa Jilid 3</a>
+</p>
+<p>3) <a href="https://go.gov.sg/bestariberbicara2026" rel="noopener nofollow" target="_blank">Bestari Berbicara 2026</a> 
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/shelf/mlcs_epenerbitan2026.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EPENRBITAN_HEYZINE1.jpg"></a>
 <p></p>
 <p></p>
 <hr>
