@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Training Programmes
 variant: tiptap
 ---
-<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2025 &amp; PENDAFTARAN</strong></h3>
+<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2026 &amp; PENDAFTARAN</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -19,7 +19,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru
-bagi 2025.</p>
+bagi 2026.</p>
 <p>Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus
 yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p>Klik pautan di bawah untuk log masuk ke OPAL 2.0</p>
