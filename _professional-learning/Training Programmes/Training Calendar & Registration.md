@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Training Programmes
 variant: tiptap
 ---
-<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2025 &amp; PENDAFTARAN</strong></h3>
+<h3><strong>PROGRAM PEMBELAJARAN PROFESIONAL GURU 2026 &amp; PENDAFTARAN</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -19,7 +19,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MLCS telah menyediakan kursus-kursus untuk pembangunan profesional guru
-bagi 2025.</p>
+bagi 2026.</p>
 <p>Guru boleh mendaftar untuk mengikuti program pembangunan atau kursus-kursus
 yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <p>Klik pautan di bawah untuk log masuk ke OPAL 2.0</p>
@@ -33,8 +33,11 @@ yang dianjurkan MLCS melalui sistem OPAL 2.0.</p>
 <hr>
 <h3><strong>Kursus 2026:</strong></h3>
 <p>Maklumat berkaitan kursus-kursus yang ditawarkan oleh MLCS.</p>
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/a20cd392bd.html"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Program_MLCS_2026.jpg"></a>
+<p><a href="https://heyzine.com/flip-book/0b954418d3.html#page/1" rel="noopener nofollow" target="_blank">Semester 2 (2026)</a>
+</p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/0b954418d3.html#page/1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Program_MLCS_2026.jpg"></a>
 <p></p>
+<p><a href="https://heyzine.com/flip-book/a20cd392bd.html" rel="noopener nofollow" target="_blank">Semester 1 (2026)</a>
+</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
