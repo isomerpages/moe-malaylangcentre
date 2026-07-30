@@ -2,8 +2,6 @@ collections:
   archives-folder:
     output: true
     order:
-      - Centre Director's Message in English.md
-      - Sesi Sidang Selari.md
       - Photo Archives Jejak Budaya/Jejak Budaya.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Rivervale.md
       - Photo Archives Jejak Budaya/Sekolah Rendah Marsiling.md
@@ -298,19 +296,5 @@ collections:
       - Video/.keep
       - Arif Budiman Lecture Series Publications.md
       - Regional Conferences Papers.md
-      - MLCS Publications/2021.md
-      - MLCS Publications/2020.md
-      - MLCS Publications/2019.md
-      - MLCS Publications/2018.md
-      - MLCS Publications/2017.md
-      - MLCS Publications/2016.md
-      - MLCS Publications/2015.md
-      - MLCS Publications/2014.md
-      - MLCS Publications/2013.md
-      - MLCS Publications/2012.md
-      - MLCS Publications/2011.md
-      - MLCS Publications/2010.md
-      - MLCS Publications/MLCS Publications.md
-      - MLCS Publications/.keep
       - SBM Archives/Malay Language Seminar Publications.md
       - SBM Archives/.keep
