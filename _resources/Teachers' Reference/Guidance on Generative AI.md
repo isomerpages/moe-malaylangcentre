@@ -33,7 +33,7 @@ akses ke MOE Intranet)</p>
 <p><a href="https://drive.google.com/file/d/1_pQ_4naVeN5lMa-keVtV-Y72UmPuUHny/view" rel="noopener nofollow" target="_blank">Bab 2: Panduan untuk Menggunakan Alat Gen AI untuk Produktiviti</a>
 <br><em>(Chapter 2: Guidance for Use of Generative AI Tool for Productivity)</em>
 </p>
-<p><a href="https://drive.google.com/file/d/11tl_R8k690jYW3YY94-stGm-MDDSGNsr/view" rel="noopener nofollow" target="_blank">Bab 3: Panduan tentang Penggunaan Alat Gen AI dalam Penilaian </a><em>(Chapter 3: Guidance on Use of AI in Assessment) </em>
+<p><a href="https://drive.google.com/file/d/11tl_R8k690jYW3YY94-stGm-MDDSGNsr/view" rel="noopener nofollow" target="_blank">Bab 3: Panduan tentang Penggunaan Alat Gen AI dalam Penilaian </a><em>(Chapter 3: Guidance on Use of AI in Assessment)</em>
 </p>
 <p><a href="https://drive.google.com/file/d/1znaAy-KHOXCOgHW5xyArUAk6LW5IO3OG/view" rel="noopener nofollow" target="_blank">Bab 4: Panduan untuk Menggunakan Imej Gen AI untuk Meningkatkan PdP </a>
 <br><em>(Chapter 4: Guidance on the use of AI image tools to enhance T&amp;L)</em>
