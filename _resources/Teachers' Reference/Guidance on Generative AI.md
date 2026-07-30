@@ -30,13 +30,12 @@ akses ke MOE Intranet)</p>
 <p><a href="https://drive.google.com/file/d/17rywswyjQLp0cgraOxHt2hRBDaOJPWcG/view" rel="noopener nofollow" target="_blank">Bab 1: Panduan untuk Menggunakan Alat Gen AI bagi Pengajaran dan Pembelajaran, dan Keterbatasannya </a>
 <br><em>(Chapter 1: Guidance for Use of Generative AI tool for Teaching &amp; Learning, and Limitations)</em>
 </p>
-<p><a href="https://drive.google.com/file/d/1NGxWtZuuuCpSqEo7b-Hekal0cpiRXfay/view" rel="noopener nofollow" target="_blank">Bab 2: Panduan untuk Menggunakan Alat Gen AI bagi Penulisanb Testimonial dan Catatan </a>
-<br><em>(Chapter 2: Guidance for Use of Generative AI Tool for Testimonial &amp; Remarks Writing)</em>
+<p><a href="https://drive.google.com/file/d/1_pQ_4naVeN5lMa-keVtV-Y72UmPuUHny/view" rel="noopener nofollow" target="_blank">Bab 2: Panduan untuk Menggunakan Alat Gen AI untuk Produktiviti</a>
+<br><em>(Chapter 2: Guidance for Use of Generative AI Tool for Productivity)</em>
 </p>
-<p><a href="https://drive.google.com/file/d/137ueJb84n5vc4Ay6BNPrS7AtEQySUaOB/view?usp=sharing" rel="noopener nofollow" target="_blank">Bab 3: Chapter 3: Panduan tentang Penggunaan Alat Gen AI yang Selamat dan Bertanggungjawab bagi PdP dan Melibatkan Ibu Bapa dalam Penggunaan AI </a>
-<br><em>(</em><a href="https://drive.google.com/file/d/1lGmPEokms3q07q8S4PPcuxhwlwVQk2Mj/view?usp=sharing" rel="noopener nofollow" target="_blank">Guidance on Safe and Responsible Use of AI for Teaching &amp; Learning and Engaging Parents on the Use of AI</a><em>)</em>
+<p><a href="https://drive.google.com/file/d/11tl_R8k690jYW3YY94-stGm-MDDSGNsr/view" rel="noopener nofollow" target="_blank">Bab 3: Panduan tentang Penggunaan Alat Gen AI dalam Penilaian </a><em>(Chapter 3: Guidance on Use of AI in Assessment) </em>
 </p>
-<p><a href="https://drive.google.com/file/d/1mxDzrBukYabHirCWXQ2joxBdABi8iQdr/view" rel="noopener nofollow" target="_blank">Bab 4: Panduan untuk Menggunakan Imej Gen AI untuk Meningkatkan PdP </a>
+<p><a href="https://drive.google.com/file/d/1znaAy-KHOXCOgHW5xyArUAk6LW5IO3OG/view" rel="noopener nofollow" target="_blank">Bab 4: Panduan untuk Menggunakan Imej Gen AI untuk Meningkatkan PdP </a>
 <br><em>(Chapter 4: Guidance on the use of AI image tools to enhance T&amp;L)</em>
 </p>
 <p><a href="https://drive.google.com/file/d/1AaHLk45MQSj5WUIXnHIw6csLrggH9kiX/view?usp=sharing" rel="noopener nofollow" target="_blank">Bab 5: Panduan untuk Menggunakan Gen AI Mengikut Peringkat Umur yang Sesuai</a>
